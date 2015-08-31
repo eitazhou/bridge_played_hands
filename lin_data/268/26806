@@ -1,7 +1,7 @@
 vg|NTU Cup Semifinals,Segment 1_2,I,1,12,BTU §N¥ú,0,BTU µæ,2|
 rs|4HS-1,4HS=,6DEx=,5DEx+1,PASS,PASS,4SEx-1,4SE-1,2SN=,4SN-2,1NW+1,1NW-2,3NN+2,4SN+3,3NE-3,4HW-1,4SN-1,4HN=,3NN+1,3NN=,2CS-1,2CS=,4SW+1,4SW=|
 pn|chengwu2,JHikaru,shuan,inchou239,xpin,natsuki,lyra_c,tienchie|pg||
-qx|o1|st||md|3S96HKQJT5DKT4CQJ2,S84H6DQJ9652CA973,SKT752HA942DA3C86|sv|o|mb|1S|mb|p|mb|2H|an|   |mb|p|mb|4H|an|MIN,4+H|mb|p|mb|p|mb|p|pc|dQ|pc|dA|pc|d7|pc|d4|pg||
+qx|o1|st||md|3S96HKQJT5DKT4CQJ2,S84H6DQJ9652CA973,SKT752HA942DA3C86|sv|o|mb|1S|mb|p|mb|2H|an|	|mb|p|mb|4H|an|MIN,4+H|mb|p|mb|p|mb|p|pc|dQ|pc|dA|pc|d7|pc|d4|pg||
 pc|c6|pc|c4|pc|cQ|pc|cA|pg||
 pc|d6|pc|d3|pc|d8|pc|dT|pg||
 pc|dK|pc|d5|pc|c8|pc|h3|pg||
@@ -14,7 +14,7 @@ qx|c1|st||md|3S96HKQJT5DKT4CQJ2,S84H6DQJ9652CA973,SKT752HA942DA3C86|sv|o|mb|1S|m
 mb|p|nt|wkc:  hi all welcome back|pg||
 nt|wkc:  this is the semifinal of NTU cup|pg||
 nt|wkc:  the semifinal consists of two segments, 12 boards per segment|pg||
-pc|dQ|nt|wkc:  and this is the match between BTUers, which stands for Bridge in national Taiwan University|pg||
+pc|dQ|nt|wkc:  and this isthe match between BTUers, which stands for Bridge in national Taiwan University|pg||
 pc|dA|pc|d7|pc|d4|pg||
 pc|h2|pc|h3|pc|hT|pc|h6|pg||
 pc|hK|pc|d5|pc|h4|pc|h7|pg||
@@ -37,13 +37,13 @@ pc|s5|pc|s3|pc|d3|pc|s2|pg||
 pc|h2|pc|hQ|pc|hA|pc|h4|pg||
 pc|s4|pc|s8|pc|d4|pc|s6|pg||
 pc|hK|pc|h3|pc|h7|pc|h6|pg||
-pc|h5|pc|hJ|nt|wkc:  declarer is looking for a 4-4@S split for another overtrick|pg||
+pc|h5|pc|hJ|nt|wkc: declarer is looking for a 4-4@S split for another overtrick|pg||
 pc|d8|pc|h8|pg||
 pc|s7|pc|sK|pc|d5|pc|s9|pg||
 pc|hT|pc|cT|pc|d9|pc|h9|pg||
 pc|sT|pc|c3|pc|d6|mc|12|pg||
 qx|o3|st||md|1SK65HA8543D92CQ64,SJT43HKT2DAQ643CJ,SAQ97HJ97DT7CKT97|sv|e|mb|p|mb|p|mb|p|mb|p|pg||
-qx|c3|st||md|1SK65HA8543D92CQ64,SJT43HKT2DAQ643CJ,SAQ97HJ97DT7CKT97|sv|e|nt|wkc:  a partial war here|pg||
+qx|c3|st||md|1SK65HA8543D92CQ64,SJT43HKT2DAQ643CJ,SAQ97HJ97DT7CKT97|sv|e|nt|wkc: a partial war here|pg||
 mb|p|mb|p|mb|p|mb|p|pg||
 qx|o4|st||md|2S5HK9863DAK3CJ754,SQJT3HJT4DQT8CA82,S42HAQ52DJ9652CKT|sv|b|mb|p|mb|p|mb|2S|mb|p|mb|p|mb|d|mb|p|mb|4H|mb|4S|mb|d|mb|p|mb|p|mb|p|pc|dA|nt|vugraphzad: W said he shd bid 3S rightly|pg||
 pc|d8|pc|d9|pc|d4|pg||
@@ -51,7 +51,7 @@ pc|c7|pc|c2|pc|cK|pc|c3|pg||
 pc|hA|pc|h7|pc|h9|pc|h4|pg||
 pc|d2|pc|d7|pc|dK|pc|dT|pg||
 pc|hK|mc|9|pg||
-qx|c4|st||md|2S5HK9863DAK3CJ754,SQJT3HJT4DQT8CA82,S42HAQ52DJ9652CKT|sv|b|nt|wkc:  NS did get 10 IMPs on the first boards|pg||
+qx|c4|st||md|2S5HK9863DAK3CJ754,SQJT3HJT4DQT8CA82,S42HAQ52DJ9652CKT|sv|b|nt|wkc: NS did get 10 IMPs on the first boards|pg||
 mb|p|nt|wkc:  well, I would open 1@D with W hand on last board|pg||
 mb|p|nt|wkc:  but some people don't like this bid because of second seat|pg||
 mb|1S!|an|tight possible|mb|d|nt|wkc:  I like 2@S much more for E hand|pg||
@@ -87,7 +87,7 @@ nt|wkc:  so maybe not a bad result|pg||
 mb|1S|mb|p|nt|Kyosuke326:  with 3NT is playable, they get -1100 at 3@C X|pg||
 mb|2S|mb|p|mb|4S|mb|p|mb|p|mb|p|pc|d2|nt|wkc:  a quick 2 off?|pg||
 pc|d4|pc|dQ|pc|d6|pg||
-nt|wkc:  with S hand, I would bid F1N then 2@S to show 7 10 2@S or 5 7 3@S: QQJJJ is not enough for 8 HCP|pg||
+nt|wkc:  with S hand, I would bid F1N then 2@S to show 7 10 2@S or 5 7 3@S: QQJJJis not enough for 8 HCP|pg||
 nt|vugraphzaq: n is complaining south's hand|pg||
 pc|dK|pc|dJ|pc|d5|pc|d9|pg||
 pc|h4|pc|h5|pc|hA|pc|h8|pg||
@@ -99,7 +99,7 @@ pc|d4|pc|d6|pc|dK|pc|d3|pg||
 nt|eric wan: if not lead @c hard to beat|pg||
 pc|d2|pc|d7|pc|dT|pc|dA|pg||
 pc|c5|pc|c4|pc|cA|pc|c2|pg||
-nt|kyosuke326:  too conservative first lead against 1nt|pg||
+nt|kyosuke326:	too conservative first lead against 1nt|pg||
 pc|c6|pc|c8|pc|c9|pc|cK|pg||
 mc|8|pg||
 qx|c6|st||md|4SK84HT76DA6CQT975,SJ963HAK2DKJ92CK4,SAQ72H9854D73CA63|sv|e|mb|p|mb|p|nt|wkc:  NS in the other room doubled 4@S for 3IMPs on board 4|pg||
@@ -170,7 +170,7 @@ qx|c9|st||md|3SK43HK984DAKJCKQ4,SAQ7H532DQ864CJ75,SJ9865HAQT6D3C932|sv|e|nt|wkc:
 mb|p|mb|p|mb|1C|mb|p|mb|1S|nt|wkc:  a normal 4M|pg||
 mb|p|mb|2N|mb|p|mb|3H|mb|p|nt|vugraphzaq: west explain she is hard to find a suitable bid to inv.|pg||
 nt|vugraphzaq: last board|pg||
-mb|4H|mb|p|mb|p|mb|p|nt|wkc:  maybe 2@S if it's not short|pg||
+mb|4H|mb|p|mb|p|mb|p|nt|wkc: maybe 2@S if it's not short|pg||
 pc|d2|nt|wkc:  if she really doesn't know what to bid, then 4@H is good, hope p has 2 minor Kings|pg||
 nt|wkc:  @SA and a minor K is too good for 2@H imo|pg||
 nt|wkc:  4@H could go down if E leads a @S|pg||
@@ -228,7 +228,7 @@ nt|vugraphzaq: claim 6 tricks|pg||
 nt|wkc:  ok|pg||
 mb|1S|mb|p|mb|1N|mb|p|mb|2C|mb|p|mb|p|mb|p|nt|wkc:  on board 9 in the open room, declarer misguess @S and so 4@S-1, so another 10 IMPs to NS|pg||
 pc|dJ|pc|dQ|pc|d8|pc|d7|pg||
-nt|wkc:  hi all, welcome back|pg||
+nt|wkc: hi all, welcome back|pg||
 nt|wkc:  with this lead, declarer could ruff some @D and 2@D is going to make|pg||
 nt|wkc:  2@C*|pg||
 pc|d3|pc|d2|pc|dA|pc|d4|pg||
