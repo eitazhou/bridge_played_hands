@@ -62,7 +62,7 @@ mb|4H|mb|p|nt|iceblue: ËäÈ»£¬Ã²ËÆÔÚ µÍ½× ¾Í½¨Á¢µÄ fg ½�
 mb|p|mb|p|nt|iceblue: ÀîÐÀ²»¸ÒÔÚµ¥ÓÐ¾Ö½Ð 2@H £¬µ«ÊÇÓÖ²»¸ÊÐÄPASS£¬ËùÒÔÑ¡Ôñ shape offµÄ¼Ó±¶|pg||
 pc|d9|nt|iceblue: ËäÈ»Õâ²»ÊÇÒ»¸öºÃµÄÂú¹á£¬µ«ÊÇ lead @D ºó|pg||
 nt|iceblue: ´ò¶Ô£¬ÊÇÌúÅÆ¡£|pg||
-nt|iceblue: Ò²Ðí£¬Õâ¾ÍÊÇÇÅÅÆµÄ÷ÈÁ¦  ½ÐÅÆ¿¿³å£¬´òÅÆ¿¿ÃÉ  £º£©£©|pg||
+nt|iceblue: Ò²Ðí£¬Õâ¾ÍÊÇÇÅÅÆµÄ÷ÈÁ¦  ½ÐÅÆ¿¿³å£¬´òÅÆ¿¿ÃÉ	£º£©£©|pg||
 nt|iceblue: ²»¹ý£¬ÎÒ»¹ÊÇ²»ÔÞÍ¬Õâ¸öÑ¡Ôñ£¬ÎÒÄþÔ¸PASS|pg||
 nt|iceblue: 2@C ÊÇ xyzÔ¼¶¨£¬¹À¼Æ£¬×ªÒÆµ½ 2@D , to play»òÕßrebid±íÊ¾Ä³ÖÖÑûÇë|pg||
 pc|dA|nt|iceblue: ÒòÎª¶ÏÍø£¬Ã»¿´µ½´òÅÆÐòÁÐ|pg||
@@ -142,48 +142,48 @@ pc|c6|pc|c9|pc|s4|pc|c4|pg||
 pc|d7|pc|dT|pc|dK|pc|s5|pg||
 pc|sQ|pc|sA|pc|d9|pc|sT|pg||
 mc|7|pg||
-qx|c20|st||md|2SA753HQJ543DCA863,SJHA8DA97543CQ975,SKT4HKTDQJT862CJ2,SQ9862H9762DKCKT4|sv|b|nt|kakasi: ±ñÉ¿ÍB|pg||
-nt|npcjpn: ±ñÉ¿íB|pg||
-nt|timty: ±ñÉ¿Í|pg||
-nt|kakasi: kaz08833³ñAtimty³ñAnpcjpn³ñARgæëµ­¨è¢µÜ·B|pg||
-nt|npcjpn: NPáÌ C [VeBÌ\IEhAæ5EhÅ·ËB|pg||
-nt|kakasi: ¨Ôª êÎB|pg||
-mb|1D|mb|p|nt|npcjpn: 40 [ª4ÂÌO[vÉª©êA10 [A9Eh¸ÂÌ\IÌæ¤Å·B|pg||
-nt|kaz08833: ±ñÉ¿Í|pg||
-nt|npcjpn: ¡ä³ñAãÊ2 [¸ÂªEhÉioÅ·©B|pg||
-nt|kaz08833: ¼OÌ3Ô [hAàµ©µ½çXCOÅ·ª|pg||
+qx|c20|st||md|2SA753HQJ543DCA863,SJHA8DA97543CQ975,SKT4HKTDQJT862CJ2,SQ9862H9762DKCKT4|sv|b|nt|kakasi: ±ñÉ¿ÍB|pg||
+nt|npcjpn: ±ñÉ¿íB|pg||
+nt|timty: ±ñÉ¿Í|pg||
+nt|kakasi: kaz08833³ñAtimty³ñAnpcjpn³ñARgæëµ­¨è¢µÜ·B|pg||
+nt|npcjpn: NPáÌ C [VeBÌ\IEhAæ5EhÅ·ËB|pg||
+nt|kakasi: ¨Ôª êÎB|pg||
+mb|1D|mb|p|nt|npcjpn: 40 [ª4ÂÌO[vÉª©êA10 [A9Eh¸ÂÌ\IÌæ¤Å·B|pg||
+nt|kaz08833: ±ñÉ¿Í|pg||
+nt|npcjpn: ¡ä³ñAãÊ2 [¸ÂªEhÉioÅ·©B|pg||
+nt|kaz08833: ¼OÌ3Ô [hAàµ©µ½çXCOÅ·ª|pg||
 mb|1S|mb|2H|nt|iceblue: ¼Ó±¶ÊÇ 4+@S  1@S= ÓÐµã£¬0-3@S|pg||
 mb|p|mb|2N|nt|iceblue: 1@S = ÓÐµã£¬ 0-3ÕÅ @S|pg||
-mb|p|mb|p|nt|npcjpn: @D[hA@CVtgÆÈÁ½êÉÍAÇ¿çªm¦Ì¢vCÈÌÅµå¤©B3Ô [hÅ·ªB|pg||
-nt|kaz08833: NÌ@C[hÍWÌ1NTI[vðl¦éÆA©Èè âBÃc³ñªNÈç¨»ç­[hµÈ¢Åµå¤|pg||
-mb|p|pc|s6|pc|s7|pc|sJ|nt|kaz08833: «íßÄïµ¢QXÅ·ËB»êÍ|pg||
-nt|npcjpn: @CÌtBlXª50ÅA|pg||
-nt|kaz08833: ±ÌV[NGXÌ2@HÍKokish[ÅÈ­AåÎ³ñ½¿Íi ¾Æv¢Ü·|pg||
+mb|p|mb|p|nt|npcjpn: @D[hA@CVtgÆÈÁ½êÉÍAÇ¿çªm¦Ì¢vCÈÌÅµå¤©B3Ô [hÅ·ªB|pg||
+nt|kaz08833: NÌ@C[hÍWÌ1NTI[vðl¦éÆA©Èè âBÃc³ñªNÈç¨»ç­[hµÈ¢Åµå¤|pg||
+mb|p|pc|s6|pc|s7|pc|sJ|nt|kaz08833: «íßÄïµ¢QXÅ·ËB»êÍ|pg||
+nt|npcjpn: @CÌtBlXª50ÅA|pg||
+nt|kaz08833: ±ÌV[NGXÌ2@HÍKokish[ÅÈ­AåÎ³ñ½¿Íi ¾Æv¢Ü·|pg||
 pc|sK|pg||
 nt|iceblue: Òª´³»ö|pg||
-pc|hK|nt|npcjpn: @CAÅãªèA@SAKÌãA@Hª4ÂæêévCÌm¦ÈÌÅ·ªB|pg||
+pc|hK|nt|npcjpn: @CAÅãªèA@SAKÌãA@Hª4ÂæêévCÌm¦ÈÌÅ·ªB|pg||
 pc|h6|nt|iceblue: NS¶à°ë¸ã´íÁËÔ¼¶¨½Ð|pg||
 nt|iceblue: ZÈÏÎª´ò¾«È·£¬SÈÏÎª´ò×ÔÈ»|pg||
-nt|kaz08833: ½¾A@CAÅãªéêÍ@SÌ3-2àKvÆÈèÜ·ÌÅAe[uÅvZ·éÌÍ½¢ÖñÅµå¤|pg||
+nt|kaz08833: ½¾A@CAÅãªéêÍ@SÌ3-2àKvÆÈèÜ·ÌÅAe[uÅvZ·éÌÍ½¢ÖñÅµå¤|pg||
 pc|h3|pc|h8|pg||
 pc|hT|nt|iceblue: ¿Ï¶¨´³»öÁË|pg||
 nt|iceblue: µ«ÊÇNÊÇPASS·½|pg||
 nt|iceblue: 3HÈç¹ûÊÇSµÄÂú¹áÐËÈ¤¼Ó½Ð£¬¾Í±È½Ï¹ÖÒìÁË¡£|pg||
-nt|npcjpn: @Dð2Âæçê½ãÍAî IÉÍ@CÌtBlXðµÄàA@SÌ3-2ÍKvÅÍH|pg||
-nt|npcjpn: ïêÌÊMóÔª«¢æ¤Å·ËB|pg||
-nt|kakasi: mFµÜ½çAPO [Q [ª\I²¯¾»¤Å·B|pg||
-nt|kaz08833: _ [Éu@S:AT8xxvÅ·©çA@CKÌtBlXªø¢Ä¢éÈçAZ[teBvCª èÜ·BNÌ@S4ÍâèÈ³»¤|pg||
-nt|npcjpn: ãÊ2 [ÉÍ¢éÌÍÈPÅÍÈ¢Åµå¤ËB|pg||
-nt|npcjpn: Æ¢¤±ÆÍA@CÌtBlXÉX«Ü·©B|pg||
-nt|timty: 4@CÍÇñÈÓ¡ª Á½ÌÅµå¤H@StBbgÌL[rbhÌÂàè©ÆvÁ½ÌÅ·¯ÇB|pg||
-nt|npcjpn: ±Ì_ [ð©êÎA@cKª ÁÄàÈ­Äà@CÉVtgµ»¤ÈÌÅB|pg||
-nt|kaz08833: ÈçÎA@CKÌtBlXµ»¤Å·BIbYã³µ¢©Ç¤©í©èÜ¹ñª|pg||
-nt|kaz08833: åÎ³ñÌ4@CÍ3NTàrbhµ¸ç¢µA@SÉÎ·éRg[¾Æv¢Ü·|pg||
-nt|npcjpn: Æ±ëÅA2@CI[vÉÍ ¬Å·©HDÝÌâè¾ÆÍv¢Ü·ªB|pg||
-nt|kaz08833: ½¾AEÌ4@HÅCªÏíÁ½ÌÅµå¤B4@HÍæ¢Q[Å·Ë|pg||
-nt|npcjpn: 6ÌX[cª Ci[ÈçQmsI[vðIÔlà½¢Åµå¤B|pg||
-nt|kaz08833: 7Rg[ÅA@DÉRg[ªÈ¢ÌÅ2@CI[vÍ÷­B½¾A1@HI[v¾Ærbhª¿åÁÆÊ||pg||
-nt|timty: Í1@HI[vÅµå¤ËB|pg||
+nt|npcjpn: @Dð2Âæçê½ãÍAî IÉÍ@CÌtBlXðµÄàA@SÌ3-2ÍKvÅÍH|pg||
+nt|npcjpn: ïêÌÊMóÔª«¢æ¤Å·ËB|pg||
+nt|kakasi: mFµÜ½çAPO [Q [ª\I²¯¾»¤Å·B|pg||
+nt|kaz08833: _ [Éu@S:AT8xxvÅ·©çA@CKÌtBlXªø¢Ä¢éÈçAZ[teBvCª èÜ·BNÌ@S4ÍâèÈ³»¤|pg||
+nt|npcjpn: ãÊ2 [ÉÍ¢éÌÍÈPÅÍÈ¢Åµå¤ËB|pg||
+nt|npcjpn: Æ¢¤±ÆÍA@CÌtBlXÉX«Ü·©B|pg||
+nt|timty: 4@CÍÇñÈÓ¡ª Á½ÌÅµå¤H@StBbgÌL[rbhÌÂàè©ÆvÁ½ÌÅ·¯ÇB|pg||
+nt|npcjpn: ±Ì_ [ð©êÎA@cKª ÁÄàÈ­Äà@CÉVtgµ»¤ÈÌÅB|pg||
+nt|kaz08833: ÈçÎA@CKÌtBlXµ»¤Å·BIbYã³µ¢©Ç¤©í©èÜ¹ñª|pg||
+nt|kaz08833: åÎ³ñÌ4@CÍ3NTàrbhµ¸ç¢µA@SÉÎ·éRg[¾Æv¢Ü·|pg||
+nt|npcjpn: Æ±ëÅA2@CI[vÉÍ ¬Å·©HDÝÌâè¾ÆÍv¢Ü·ªB|pg||
+nt|kaz08833: ½¾AEÌ4@HÅCªÏíÁ½ÌÅµå¤B4@HÍæ¢Q[Å·Ë|pg||
+nt|npcjpn: 6ÌX[cª Ci[ÈçQmsI[vðIÔlà½¢Åµå¤B|pg||
+nt|kaz08833: 7Rg[ÅA@DÉRg[ªÈ¢ÌÅ2@CI[vÍ÷­B½¾A1@HI[v¾Ærbhª¿åÁÆÊ||pg||
+nt|timty: Í1@HI[vÅµå¤ËB|pg||
 pc|h2|pc|h4|pc|hA|pg||
 nt|iceblue: ´ò¶Ô´ÎÐò£¬ÊÇÌúÅÆÁË|pg||
 pc|d7|pc|dJ|pc|dK|pc|c3|pg||
@@ -216,24 +216,24 @@ pc|dJ|pc|dT|pc|c3|pc|h8|pg||
 pc|c7|pc|c8|pc|c9|pc|hT|pg||
 pg||
 qx|c21|st||md|3SK52HAQDAJ982CQ74,SAT86H52DT65CA865,SQJ74HK963D7CK932,S93HJT874DKQ43CJT|sv|n|mb|p|mb|p|mb|1N|mb|p|mb|2C|mb|p|mb|2D|mb|p|nt|ccba: Gabrial MGTHÊÇÀ´×ÔÓ¡ÄáÑÅ¼Ó´ïµÄ¶ÓÎé|pg||
-mb|3N|nt|kakasi: eXg|pg||
+mb|3N|nt|kakasi: eXg|pg||
 mb|p|mb|p|nt|iceblue: Èç¹ûÎÒ×øN£¬ÎÞÂÛÊÇ  13-15 »¹ÊÇ  14-16 µÄ1NT£¬ÎÒ¶¼ÇãÏò¿ª 1NT|pg||
 mb|p|pc|s6|pc|s4|pc|s9|pc|sK|pg||
 pc|s5|pc|s8|pc|sQ|nt|iceblue: Kx Qx,Ø½ÐèÇÀNTµÄ×¯Î»|pg||
 nt|ccba: ¾ÝËµÓ¡ÄáÖøÃûÅÆÊÖsakuÒòÑÓÎóÁË±¨ÃûÊ±¼äÃ»ÄÜ²Î¼ÓÕâ´Î±ÈÈü|pg||
 pc|s3|pg||
-pc|c2|pc|cT|nt|kaz08833: @HQÌ[hÈç_EÅµ½ªAµ©½È¢Æ±ëÅ·|pg||
+pc|c2|pc|cT|nt|kaz08833: @HQÌ[hÈç_EÅµ½ªAµ©½È¢Æ±ëÅ·|pg||
 pc|cQ|pc|cA|pg||
-nt|timty: Ç¤ÈÁ½©ª©çÈ¢Å·ªA4@HÍCNµ½æ¤Å·ËB|pg||
-pc|h5|pc|h3|nt|kaz08833: N©çgv[hàÅ«¸A@DAàNÅ·©çACNÅµå¤|pg||
-nt|npcjpn: !QÌ[hÅàA!J10_ugðÄêÎìêéÌÅÍH|pg||
-nt|kakasi:  ÜÁÄ¢éÌÅA¿ÈÝÉÅ·ªA|pg||
-nt|kaz08833: @Sª½Æ¦3gbNÉÈÁÄàAÜ¾8gbNÅ·æËH|pg||
-nt|npcjpn: ¢¦A@S2,@H2,@D2,@C3ÅB|pg||
-nt|kakasi: NÍHK[X [ÌNPCðNâÁÄ¢éROãã¼HÊÌlÅ·B|pg||
-nt|kaz08833: @CKÌtBlXµ½çA»ÌuÔ_EÅÍH|pg||
-nt|timty: »êÍEª Ci[ÌXNCYÉÈé©çCNµÜ·ËB|pg||
-nt|kakasi:  [CgÍ±±NÅ[Xð²Æµ½lBÅ·B|pg||
+nt|timty: Ç¤ÈÁ½©ª©çÈ¢Å·ªA4@HÍCNµ½æ¤Å·ËB|pg||
+pc|h5|pc|h3|nt|kaz08833: N©çgv[hàÅ«¸A@DAàNÅ·©çACNÅµå¤|pg||
+nt|npcjpn: !QÌ[hÅàA!J10_ugðÄêÎìêéÌÅÍH|pg||
+nt|kakasi:  ÜÁÄ¢éÌÅA¿ÈÝÉÅ·ªA|pg||
+nt|kaz08833: @Sª½Æ¦3gbNÉÈÁÄàAÜ¾8gbNÅ·æËH|pg||
+nt|npcjpn: ¢¦A@S2,@H2,@D2,@C3ÅB|pg||
+nt|kakasi: NÍHK[X [ÌNPCðNâÁÄ¢éROãã¼HÊÌlÅ·B|pg||
+nt|kaz08833: @CKÌtBlXµ½çA»ÌuÔ_EÅÍH|pg||
+nt|timty: »êÍEª Ci[ÌXNCYÉÈé©çCNµÜ·ËB|pg||
+nt|kakasi:  [CgÍ±±NÅ[Xð²Æµ½lBÅ·B|pg||
 pc|h7|pc|hA|pg||
 nt|iceblue: 19¸±£¬ÆäÊµÈç¹ûS×ã¹»Àä¾²£¬Ó¦¸Ã²»¿¼ÂÇ 3NT¡£!3S ºó£¬S Ã÷È·Ö¸µ¼PD ÊÇ @S µ¥È±£¬µÍÌ×ÉÏÓÐ²»ÉÙÕÅÊý¡£|pg||
 pc|s2|pc|sA|pc|s7|pc|d4|pg||
@@ -255,7 +255,7 @@ pc|s8|pc|h4|pc|h6|pc|hQ|pg||
 pc|s6|pc|d8|pc|h8|pc|hA|pg||
 mc|10|pg||
 qx|c22|st||md|4SAT9HAQJ73DQJ72C3,SK8643H2DKT54CKJ9,SQ72H94D9863CT865,SJ5HKT865DACAQ742|sv|e|nt|iceblue: ×î¹Ø¼üµÄÊÇ£¬ÎÒ²»ÊÇÒ»°ãµÄÌÖÑá ¾«È· 2@C ¿ª½Ð ÓÈÆä×Ô¼ºÓÐ¾Ö·½¡£|pg||
-nt|npcjpn: æÙÇÍ¨á¢Åµ½B@hª4-4¾Æ¨á¢BÀÛÉXNC[YÉÍÈéæ¤Å·ªB|pg||
+nt|npcjpn: æÙÇÍ¨á¢Åµ½B@hª4-4¾Æ¨á¢BÀÛÉXNC[YÉÍÈéæ¤Å·ªB|pg||
 mb|1H|mb|p|mb|1S|mb|p|mb|2C|nt|iceblue: ¸üÖ±½ÓµÄÃ÷È·µÄ£¬Ó¦¸ÃÊÇ @C ¶¨Ô¼¡£|pg||
 mb|p|mb|2N|mb|p|mb|3N|mb|p|mb|p|mb|p|nt|iceblue: ¼Ó±¶ ÕæÊÇÆæ¹ÖµÄÑ¡Ôñ£¬ Í¨³£Õâ¸ö¼Ó±¶ÊÇ bal£¬ÓÐÒâÔ¸·ÀÊØ 3@H¡£|pg||
 pc|d9|nt|ccba: ¼¸ÀÏÊ¦£¬ ÕâÑùµÄ3H¼Ó±¶ÈÝÒ×³öÎÊÌâ°É£¿|pg||
@@ -283,11 +283,11 @@ pc|cA|nt|iceblue: Òª·ÀÊØ 5@C, PD ±ØÐëÓÐ @DA ºÍ @SK, ²»È» ×Ü�
 pc|d7|pg||
 pc|cQ|pc|sT|mc|8|pg||
 qx|c23|st||md|1SKJT7HA7DQT93CA52,S985H32D5CKJT9643,SQ64HJ86DKJ742CQ8,SA32HKQT954DA86C7|sv|b|mb|1D|mb|p|nt|iceblue: ËùÒÔ£¬»» @S£¬»òÕß @D PDÔÙÀ´Ò»¸ö @D ,ÏûÃðÓ®¶Ö£¬ÊÇ±È½ÏºÏÀíµÄÑ¡Ôñ¡£|pg||
-mb|1N|mb|2H|mb|p|mb|p|mb|3D|mb|p|nt|kaz08833: ðúà»¤Åµ½ªA Ìñüîª«¢ÌÅµå¤©BpÉÉ¿Ü·|pg||
+mb|1N|mb|2H|mb|p|mb|p|mb|3D|mb|p|nt|kaz08833: ðúà»¤Åµ½ªA Ìñüîª«¢ÌÅµå¤©BpÉÉ¿Ü·|pg||
 mb|p|mb|p|pc|h3|pc|h6|nt|iceblue: Ö±½Ó»» @Cx !!|pg||
 nt|ccba: Ç¿ÐÐ3NTÁË£¬¶ÄÍ¬°éÓÐDA|pg||
 pc|h9|pc|hA|pg||
-pc|d9|pc|d5|nt|timty: UÔAÊIÉ4@SÍ1_EÌæ¤Å·ªArbhµÄµÜ¢»¤Å·¯ÇB|pg||
+pc|d9|pc|d5|nt|timty: UÔAÊIÉ4@SÍ1_EÌæ¤Å·ªArbhµÄµÜ¢»¤Å·¯ÇB|pg||
 pc|d2|pc|dA|pg||
 pc|hQ|nt|iceblue: ÏÔÈ»Ã»ÌÖÂÛ¹ý 3@D µÄÁ¿|pg||
 nt|iceblue: ´ó¼ÒºÃ£¬|pg||
@@ -297,13 +297,13 @@ pc|cK|pc|c8|pg||
 pc|c3|pc|cQ|pc|d6|pc|c2|pg||
 pc|hK|pc|dT|pc|c4|pc|hJ|pg||
 pc|dQ|mc|8|pg||
-qx|c24|st||md|2SJT972H72DT73CQJ2,S65HAT83DAK95C943,SA4HQ964DQJ86CAK8,SKQ83HKJ5D42CT765|sv|o|mb|1D|nt|npcjpn:  ÌAÅÍÈ­AïêÌzeÌâè¾Æv¢Ü·ªB|pg||
+qx|c24|st||md|2SJT972H72DT73CQJ2,S65HAT83DAK95C943,SA4HQ964DQJ86CAK8,SKQ83HKJ5D42CT765|sv|o|mb|1D|nt|npcjpn:  ÌAÅÍÈ­AïêÌzeÌâè¾Æv¢Ü·ªB|pg||
 mb|1N|mb|p|mb|2H|mb|p|mb|2S|mb|p|mb|p|mb|p|pc|c6|pc|cQ|pc|c3|pc|c8|pg||
 pc|sJ|pc|s5|pc|s4|pc|sQ|pg||
 nt|iceblue: ·´¶Ô NµÄ @H  lead|pg||
 nt|iceblue: ÌìÏÉÅäµÄ 6@H|pg||
-pc|d4|nt|kaz08833: ÙÚvbVÌ [hÅ·|pg||
-nt|npcjpn: ñüª¿é½ÑÉ®ÔÌNàØêÄAXRAàª©èÜ¹ñËB|pg||
+pc|d4|nt|kaz08833: ÙÚvbVÌ [hÅ·|pg||
+nt|npcjpn: ñüª¿é½ÑÉ®ÔÌNàØêÄAXRAàª©èÜ¹ñËB|pg||
 pc|d3|nt|ccba: Ð¡ÀîÐÀÏÖÔÚ´òÊ²Ã´ÌåÏµ£¿|pg||
 nt|iceblue: ¾«È·|pg||
 pc|dK|nt|ccba: 1S£¿|pg||
@@ -337,9 +337,9 @@ nt|ccba: µ±È»ÊÇÍøÏÂ±ÈÈü :)|pg||
 pc|c4|pc|cK|pg||
 pc|sA|pc|s8|pc|s2|pc|s6|pg||
 mc|6|pg||
-qx|c25|st||md|3SKJ82H96DA85CK964,SQ64HAKJ54DJT4CQ2,SA95H3DQ97CJT8753,ST73HQT872DK632CA|sv|e|nt|npcjpn: Æ¢Ä½çAXRAªµ½æ¤Å·B|pg||
-nt|kakasi:  4@@XCOÅ·ËB|pg||
-mb|p|mb|p|mb|1C|nt|kaz08833: 4Ô [hA1@HÅI[v·éÆAâÍè´êª éæ¤Å·ËBåÎ³ñÌVvÈWbWÅ12IMPÌQC|pg||
+qx|c25|st||md|3SKJ82H96DA85CK964,SQ64HAKJ54DJT4CQ2,SA95H3DQ97CJT8753,ST73HQT872DK632CA|sv|e|nt|npcjpn: Æ¢Ä½çAXRAªµ½æ¤Å·B|pg||
+nt|kakasi:  4@@XCOÅ·ËB|pg||
+mb|p|mb|p|mb|1C|nt|kaz08833: 4Ô [hA1@HÅI[v·éÆAâÍè´êª éæ¤Å·ËBåÎ³ñÌVvÈWbWÅ12IMPÌQC|pg||
 mb|1H|mb|3C|nt|iceblue: S ¿ª½Ð 1@D ,¿É¼ûËûÃÇÊÇÈçºÎÊµÏÖ ½ÐÅÆ¿¿³å Õâ¸ö×ÚÖ¼µÄ|pg||
 nt|iceblue: 2@C ¹À¼ÆÊÇ Majors|pg||
 nt|ccba: £¡£¡¿ª½Ð1D£¿ À÷º¦°¡|pg||
@@ -349,13 +349,13 @@ nt|ccba: ¶÷|pg||
 nt|iceblue: Î¨Ò»µÄºÃ´¦ÊÇ ¶Â×¡¹í×ÓµÄ @D ÅäºÏ£¬|pg||
 nt|ccba: 2CÊÇË«¸ß|pg||
 mb|4H|mb|p|nt|iceblue: Ö»ÊÇÕýºÃ±»ËûÓöµ½ÁË|pg||
-mb|p|nt|kaz08833: CN XÍÙÆñÇÈ³»¤È4@SBEª½ð[h·é©Å·ª|pg||
+mb|p|nt|kaz08833: CN XÍÙÆñÇÈ³»¤È4@SBEª½ð[h·é©Å·ª|pg||
 mb|p|pc|cJ|nt|iceblue: ²Ù×÷Ô±£¬ÇëÊäÈë Ñ¡ÊÖµÄÃû×Ö|pg||
 nt|ccba: ÒÕ¸ßÈËµ¨´ó :)|pg||
 pc|cA|pc|c4|nt|iceblue: EW ´ò¾«È·ÌåÏµ£¬ 2@C ÊÇË«¸ßÌ×|pg||
 pc|c2|pg||
 pc|h2|nt|iceblue: N Liujing, S Lijie, E zhangyu, W  wangping|pg||
-pc|h6|pc|hA|nt|kaz08833: ±±ÍåÎ³ñA·Îçµ¢fBtFX|pg||
+pc|h6|pc|hA|nt|kaz08833: ±±ÍåÎ³ñA·Îçµ¢fBtFX|pg||
 pc|h3|pg||
 nt|iceblue: ÍÛ¡£¡£¡£²»ÒÀ²»ÈÄ£¬¼ÌÐøÇÀ|pg||
 pc|h4|pc|c7|nt|iceblue: 1@D ºó£¬Ô½À´Ô½¶àÅÆÊÖ£¬²ÉÓÃ 1@D-2@H ÊÇ 5413»òÕßHS55µÄ 6-9HCP|pg||
@@ -365,10 +365,10 @@ pc|h9|pg||
 pc|s3|nt|ccba: ÊÇµÄ,¾ÆµêµÄ¾ÖÓòÍøÓÐÂ©¶´±»¹¥»÷|pg||
 pc|s2|pc|sQ|nt|ccba: ÎÒÒÑ¾­¸æËß±ÈÈüµÄÍø¹ÜÁË|pg||
 pc|sA|pg||
-pc|c5|pc|h7|pc|c6|nt|kaz08833: @DðÔ·ÆAEÌ3gbNÚªïµ¢|pg||
+pc|c5|pc|h7|pc|c6|nt|kaz08833: @DðÔ·ÆAEÌ3gbNÚªïµ¢|pg||
 pc|cQ|pg||
 pc|s7|pc|sJ|pc|s4|pc|s5|pg||
-nt|npcjpn: ±±Å@dðÁÄ2_EÅ·©B|pg||
+nt|npcjpn: ±±Å@dðÁÄ2_EÅ·©B|pg||
 mc|9|pg||
 qx|c26|st||md|4S74HAKQ32D9653CQT,SAQJ6HT94DAKJT4C6,S985H865D7CA98543,SKT32HJ7DQ82CKJ72|sv|b|mb|p|mb|1H|nt|iceblue: Èç¹ûS ÒÔ 1NT²ÎÓë½ÐÅÆ|pg||
 mb|d|mb|2H|nt|iceblue: NS¿ÉÄÜ½Ðµ½ ¾ø¼ÑµÄ 4@H ¶¨Ô¼¡£|pg||
@@ -377,14 +377,14 @@ nt|iceblue: E ¶à°ë»á¿¼ÂÇPASS 4@H|pg||
 mb|p|nt|iceblue: S 3@H ×¼±¸É±³ö£¿|pg||
 nt|iceblue: ¹ûÈ»¡£¡£¡£|pg||
 nt|iceblue: ÏÖÔÚÐèÒªS¶Ô 3@H ÓÐ×¼È·µÄÀí½â|pg||
-nt|npcjpn: QmsÍ3@CÖÌgXt@@[ÅTCItÅµå¤B|pg||
-mb|p|nt|kaz08833: 3@CÉÈè»¤Å·ªAa¢RgNg|pg||
-pc|hA|pc|h4|nt|timty: Xy[hØçêÄ1_EÅµå¤|pg||
-nt|kaz08833: @StªüçÈ¯êÎCNÅ·ªEEE|pg||
+nt|npcjpn: QmsÍ3@CÖÌgXt@@[ÅTCItÅµå¤B|pg||
+mb|p|nt|kaz08833: 3@CÉÈè»¤Å·ªAa¢RgNg|pg||
+pc|hA|pc|h4|nt|timty: Xy[hØçêÄ1_EÅµå¤|pg||
+nt|kaz08833: @StªüçÈ¯êÎCNÅ·ªEEE|pg||
 pc|h5|pc|h7|pg||
 pc|hK|pc|hT|pc|h6|pc|hJ|pg||
-pc|hQ|nt|npcjpn: vªpX¾ÆAmª1@sArª1msÆÈè»¤ÅAÅãÉEª2@c©Ç¤©ÆvÁÄ¢½ÌÅ·ªB|pg||
-nt|kaz08833: ±±Å@HVtgðAÅãªÁÄA@dAÅ@SQðfBXJ[h·êÎCNÅ·|pg||
+pc|hQ|nt|npcjpn: vªpX¾ÆAmª1@sArª1msÆÈè»¤ÅAÅãÉEª2@c©Ç¤©ÆvÁÄ¢½ÌÅ·ªB|pg||
+nt|kaz08833: ±±Å@HVtgðAÅãªÁÄA@dAÅ@SQðfBXJ[h·êÎCNÅ·|pg||
 pc|h9|pc|h8|pc|s2|pg||
 mc|10|pg||
 qx|c27|st||md|1SAKQT83HK83D5CA62,S97542HDA8764CKQJ,S6HAQT972DKQJ9C98,SJHJ654DT32CT7543|sv|o|nt|iceblue: HJ·ÉÊÇ²»¶ÔµÄ£¬ÎÒÈÏÎª|pg||
@@ -400,14 +400,14 @@ mb|4N|mb|p|mb|5C|nt|iceblue: Èç¹û×¼±¸½ÐÒ»´Î£¬ÎÒ¹À¼ÆËû»�
 nt|iceblue: µ¼¹¥¸üÊÊºÏ|pg||
 nt|iceblue: ×¯¼ÒÃ»Ïëµ½ S»á ±§ @DA underlead|pg||
 nt|iceblue: Ã»·Å @D10 ,Ï£Íû NÉÏ @DA|pg||
-nt|npcjpn: TÔÍ@S[hÅÃcªQXðOµÄ_Eµ½æ¤Å·B|pg||
-mb|p|mb|5D|mb|p|nt|kaz08833: 5Ô [hÍA¼èEÃc³ñª XQXÅµ½©|pg||
-mb|6D|mb|p|nt|kaz08833: ±êÍ¨»ç­4CNÉÈè»¤|pg||
-mb|6H|mb|p|mb|p|nt|kaz08833: EÍ@HVtgÍµÈ¢©ÈH@@¾Æ·êÎAàÁÆCN|pg||
+nt|npcjpn: TÔÍ@S[hÅÃcªQXðOµÄ_Eµ½æ¤Å·B|pg||
+mb|p|mb|5D|mb|p|nt|kaz08833: 5Ô [hÍA¼èEÃc³ñª XQXÅµ½©|pg||
+mb|6D|mb|p|nt|kaz08833: ±êÍ¨»ç­4CNÉÈè»¤|pg||
+mb|6H|mb|p|mb|p|nt|kaz08833: EÍ@HVtgÍµÈ¢©ÈH@@¾Æ·êÎAàÁÆCN|pg||
 mb|p|pc|c3|pc|cA|pc|cK|pc|c9|pg||
 pc|h3|pc|d8|pc|hA|pc|h4|pg||
 pc|h2|pc|h5|pc|h8|pc|cJ|pg||
-pc|sA|pc|s2|nt|kaz08833: æ1gbNA¡ä³ñÍA@CJðvCµÈ©Á½ñÅ·ËBæ¢QXÅµ½|pg||
+pc|sA|pc|s2|nt|kaz08833: æ1gbNA¡ä³ñÍA@CJðvCµÈ©Á½ñÅ·ËBæ¢QXÅµ½|pg||
 pc|s6|pc|sJ|pg||
 pc|hK|pc|d4|pc|h7|pc|h6|pg||
 pc|sK|pc|s4|pc|c8|pc|hJ|pg||

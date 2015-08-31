@@ -104,7 +104,7 @@ pc|hQ|pc|hA|pg||
 nt|iceblue: ÀîÐÀ²»¸ÒÔÚµ¥ÓÐ¾Ö½Ð 2@H £¬µ«ÊÇÓÖ²»¸ÊÐÄPASS£¬ËùÒÔÑ¡Ôñ shape offµÄ¼Ó±¶|pg||
 pc|sJ|nt|iceblue: ËäÈ»Õâ²»ÊÇÒ»¸öºÃµÄÂú¹á£¬µ«ÊÇ lead @D ºó|pg||
 nt|iceblue: ´ò¶Ô£¬ÊÇÌúÅÆ¡£|pg||
-nt|iceblue: Ò²Ðí£¬Õâ¾ÍÊÇÇÅÅÆµÄ÷ÈÁ¦  ½ÐÅÆ¿¿³å£¬´òÅÆ¿¿ÃÉ  £º£©£©|pg||
+nt|iceblue: Ò²Ðí£¬Õâ¾ÍÊÇÇÅÅÆµÄ÷ÈÁ¦  ½ÐÅÆ¿¿³å£¬´òÅÆ¿¿ÃÉ	£º£©£©|pg||
 nt|iceblue: ²»¹ý£¬ÎÒ»¹ÊÇ²»ÔÞÍ¬Õâ¸öÑ¡Ôñ£¬ÎÒÄþÔ¸PASS|pg||
 nt|iceblue: 2@C ÊÇ xyzÔ¼¶¨£¬¹À¼Æ£¬×ªÒÆµ½ 2@D , to play»òÕßrebid±íÊ¾Ä³ÖÖÑûÇë|pg||
 nt|iceblue: µæ @C|pg||
@@ -186,50 +186,50 @@ pc|s2|pc|d8|pc|d6|pc|c5|pg||
 pc|cT|pc|cA|pc|c4|pc|c6|pg||
 pc|hQ|pc|d7|pc|h9|pc|h8|pg||
 mc|5|pg||
-qx|c4|st||md|2SAJ9HJ96DT5CJ8653,SKQ842HT875DJ2CQT,S73HKQ42DK983CA92,ST65HA3DAQ764CK74|sv|b|nt|kakasi: ±ñÉ¿ÍB|pg||
-nt|npcjpn: ±ñÉ¿íB|pg||
-nt|timty: ±ñÉ¿Í|pg||
-nt|kakasi: kaz08833³ñAtimty³ñAnpcjpn³ñARgæëµ­¨è¢µÜ·B|pg||
-nt|npcjpn: NPáÌ C [VeBÌ\IEhAæ5EhÅ·ËB|pg||
-nt|kakasi: ¨Ôª êÎB|pg||
-mb|p|mb|1D|nt|npcjpn: 40 [ª4ÂÌO[vÉª©êA10 [A9Eh¸ÂÌ\IÌæ¤Å·B|pg||
-nt|kaz08833: ±ñÉ¿Í|pg||
-nt|npcjpn: ¡ä³ñAãÊ2 [¸ÂªEhÉioÅ·©B|pg||
-nt|kaz08833: ¼OÌ3Ô [hAàµ©µ½çXCOÅ·ª|pg||
+qx|c4|st||md|2SAJ9HJ96DT5CJ8653,SKQ842HT875DJ2CQT,S73HKQ42DK983CA92,ST65HA3DAQ764CK74|sv|b|nt|kakasi: ±ñÉ¿ÍB|pg||
+nt|npcjpn: ±ñÉ¿íB|pg||
+nt|timty: ±ñÉ¿Í|pg||
+nt|kakasi: kaz08833³ñAtimty³ñAnpcjpn³ñARgæëµ­¨è¢µÜ·B|pg||
+nt|npcjpn: NPáÌ C [VeBÌ\IEhAæ5EhÅ·ËB|pg||
+nt|kakasi: ¨Ôª êÎB|pg||
+mb|p|mb|1D|nt|npcjpn: 40 [ª4ÂÌO[vÉª©êA10 [A9Eh¸ÂÌ\IÌæ¤Å·B|pg||
+nt|kaz08833: ±ñÉ¿Í|pg||
+nt|npcjpn: ¡ä³ñAãÊ2 [¸ÂªEhÉioÅ·©B|pg||
+nt|kaz08833: ¼OÌ3Ô [hAàµ©µ½çXCOÅ·ª|pg||
 mb|p|mb|1N|nt|iceblue: ¼Ó±¶ÊÇ 4+@S  1@S= ÓÐµã£¬0-3@S|pg||
 mb|p|mb|p|nt|iceblue: 1@S = ÓÐµã£¬ 0-3ÕÅ @S|pg||
-mb|p|pc|s4|nt|npcjpn: @D[hA@CVtgÆÈÁ½êÉÍAÇ¿çªm¦Ì¢vCÈÌÅµå¤©B3Ô [hÅ·ªB|pg||
-nt|kaz08833: NÌ@C[hÍWÌ1NTI[vðl¦éÆA©Èè âBÃc³ñªNÈç¨»ç­[hµÈ¢Åµå¤|pg||
+mb|p|pc|s4|nt|npcjpn: @D[hA@CVtgÆÈÁ½êÉÍAÇ¿çªm¦Ì¢vCÈÌÅµå¤©B3Ô [hÅ·ªB|pg||
+nt|kaz08833: NÌ@C[hÍWÌ1NTI[vðl¦éÆA©Èè âBÃc³ñªNÈç¨»ç­[hµÈ¢Åµå¤|pg||
 pc|s3|pc|sT|pc|sJ|pg||
-pc|h6|nt|kaz08833: «íßÄïµ¢QXÅ·ËB»êÍ|pg||
-nt|npcjpn: @CÌtBlXª50ÅA|pg||
-nt|kaz08833: ±ÌV[NGXÌ2@HÍKokish[ÅÈ­AåÎ³ñ½¿Íi ¾Æv¢Ü·|pg||
+pc|h6|nt|kaz08833: «íßÄïµ¢QXÅ·ËB»êÍ|pg||
+nt|npcjpn: @CÌtBlXª50ÅA|pg||
+nt|kaz08833: ±ÌV[NGXÌ2@HÍKokish[ÅÈ­AåÎ³ñ½¿Íi ¾Æv¢Ü·|pg||
 nt|ccba: ¿´½ÐÅÆ¹ý³Ì£¬2@d Ó¦¸ÃÈõ¶þ¸ß»¨|pg||
 pc|h5|nt|iceblue: Òª´³»ö|pg||
-pc|hQ|nt|npcjpn: @CAÅãªèA@SAKÌãA@Hª4ÂæêévCÌm¦ÈÌÅ·ªB|pg||
+pc|hQ|nt|npcjpn: @CAÅãªèA@SAKÌãA@Hª4ÂæêévCÌm¦ÈÌÅ·ªB|pg||
 pc|hA|pg||
 nt|iceblue: NS¶à°ë¸ã´íÁËÔ¼¶¨½Ð|pg||
 nt|iceblue: ZÈÏÎª´ò¾«È·£¬SÈÏÎª´ò×ÔÈ»|pg||
-nt|kaz08833: ½¾A@CAÅãªéêÍ@SÌ3-2àKvÆÈèÜ·ÌÅAe[uÅvZ·éÌÍ½¢ÖñÅµå¤|pg||
+nt|kaz08833: ½¾A@CAÅãªéêÍ@SÌ3-2àKvÆÈèÜ·ÌÅAe[uÅvZ·éÌÍ½¢ÖñÅµå¤|pg||
 nt|ccba: 2nt ÎÊ½Ð£¬  3@d Ó¦¸ÃÊÇ¸ßÏÞºÚÌÒÌ×|pg||
 pc|s6|pc|s9|pc|sQ|nt|iceblue: ¿Ï¶¨´³»öÁË|pg||
 nt|iceblue: µ«ÊÇNÊÇPASS·½|pg||
 nt|iceblue: 3HÈç¹ûÊÇSµÄÂú¹áÐËÈ¤¼Ó½Ð£¬¾Í±È½Ï¹ÖÒìÁË¡£|pg||
-nt|npcjpn: @Dð2Âæçê½ãÍAî IÉÍ@CÌtBlXðµÄàA@SÌ3-2ÍKvÅÍH|pg||
-nt|npcjpn: ïêÌÊMóÔª«¢æ¤Å·ËB|pg||
-nt|kakasi: mFµÜ½çAPO [Q [ª\I²¯¾»¤Å·B|pg||
-nt|kaz08833: _ [Éu@S:AT8xxvÅ·©çA@CKÌtBlXªø¢Ä¢éÈçAZ[teBvCª èÜ·BNÌ@S4ÍâèÈ³»¤|pg||
-nt|npcjpn: ãÊ2 [ÉÍ¢éÌÍÈPÅÍÈ¢Åµå¤ËB|pg||
-nt|npcjpn: Æ¢¤±ÆÍA@CÌtBlXÉX«Ü·©B|pg||
-nt|timty: 4@CÍÇñÈÓ¡ª Á½ÌÅµå¤H@StBbgÌL[rbhÌÂàè©ÆvÁ½ÌÅ·¯ÇB|pg||
-nt|npcjpn: ±Ì_ [ð©êÎA@cKª ÁÄàÈ­Äà@CÉVtgµ»¤ÈÌÅB|pg||
-nt|kaz08833: ÈçÎA@CKÌtBlXµ»¤Å·BIbYã³µ¢©Ç¤©í©èÜ¹ñª|pg||
-nt|kaz08833: åÎ³ñÌ4@CÍ3NTàrbhµ¸ç¢µA@SÉÎ·éRg[¾Æv¢Ü·|pg||
-nt|npcjpn: Æ±ëÅA2@CI[vÉÍ ¬Å·©HDÝÌâè¾ÆÍv¢Ü·ªB|pg||
-nt|kaz08833: ½¾AEÌ4@HÅCªÏíÁ½ÌÅµå¤B4@HÍæ¢Q[Å·Ë|pg||
-nt|npcjpn: 6ÌX[cª Ci[ÈçQmsI[vðIÔlà½¢Åµå¤B|pg||
-nt|kaz08833: 7Rg[ÅA@DÉRg[ªÈ¢ÌÅ2@CI[vÍ÷­B½¾A1@HI[v¾Ærbhª¿åÁÆÊ||pg||
-nt|timty: Í1@HI[vÅµå¤ËB|pg||
+nt|npcjpn: @Dð2Âæçê½ãÍAî IÉÍ@CÌtBlXðµÄàA@SÌ3-2ÍKvÅÍH|pg||
+nt|npcjpn: ïêÌÊMóÔª«¢æ¤Å·ËB|pg||
+nt|kakasi: mFµÜ½çAPO [Q [ª\I²¯¾»¤Å·B|pg||
+nt|kaz08833: _ [Éu@S:AT8xxvÅ·©çA@CKÌtBlXªø¢Ä¢éÈçAZ[teBvCª èÜ·BNÌ@S4ÍâèÈ³»¤|pg||
+nt|npcjpn: ãÊ2 [ÉÍ¢éÌÍÈPÅÍÈ¢Åµå¤ËB|pg||
+nt|npcjpn: Æ¢¤±ÆÍA@CÌtBlXÉX«Ü·©B|pg||
+nt|timty: 4@CÍÇñÈÓ¡ª Á½ÌÅµå¤H@StBbgÌL[rbhÌÂàè©ÆvÁ½ÌÅ·¯ÇB|pg||
+nt|npcjpn: ±Ì_ [ð©êÎA@cKª ÁÄàÈ­Äà@CÉVtgµ»¤ÈÌÅB|pg||
+nt|kaz08833: ÈçÎA@CKÌtBlXµ»¤Å·BIbYã³µ¢©Ç¤©í©èÜ¹ñª|pg||
+nt|kaz08833: åÎ³ñÌ4@CÍ3NTàrbhµ¸ç¢µA@SÉÎ·éRg[¾Æv¢Ü·|pg||
+nt|npcjpn: Æ±ëÅA2@CI[vÉÍ ¬Å·©HDÝÌâè¾ÆÍv¢Ü·ªB|pg||
+nt|kaz08833: ½¾AEÌ4@HÅCªÏíÁ½ÌÅµå¤B4@HÍæ¢Q[Å·Ë|pg||
+nt|npcjpn: 6ÌX[cª Ci[ÈçQmsI[vðIÔlà½¢Åµå¤B|pg||
+nt|kaz08833: 7Rg[ÅA@DÉRg[ªÈ¢ÌÅ2@CI[vÍ÷­B½¾A1@HI[v¾Ærbhª¿åÁÆÊ||pg||
+nt|timty: Í1@HI[vÅµå¤ËB|pg||
 nt|iceblue: ´ò3NT£¬»¹²»Èç 6@C À´µÃË¬Æø|pg||
 pc|s7|pg||
 pc|sK|pc|d3|nt|iceblue: ´ò¶Ô´ÎÐò£¬ÊÇÌúÅÆÁË|pg||
@@ -277,7 +277,7 @@ pg||
 qx|c5|st||md|3SAJ8HT9872DA93CQ7,ST973HDK872CJT864,SQ52HAKQ43DQ54CK5,SK64HJ65DJT6CA932|sv|n|nt|ccba: ÊÇ°¡£¬ÏÖÔÚ3NTÈç¹û´ò³ÉÁË£¬6C»ù±¾Ò²Ã»ÎÊÌâ|pg||
 mb|1N|mb|p|mb|2C|nt|vugraphzpe: sorry , should be 4@S down 1|pg||
 mb|p|mb|2H|mb|p|mb|4H|mb|p|nt|ccba: Gabrial MGTHÊÇÀ´×ÔÓ¡ÄáÑÅ¼Ó´ïµÄ¶ÓÎé|pg||
-mb|p|nt|kakasi: eXg|pg||
+mb|p|nt|kakasi: eXg|pg||
 nt|ccba: ÊÇµÄ£¬ÄÏ¼ÒÃ»ÓÐ½øÊÖ¶ÒÏÖºìÐÄÓ®¶Õ£¬¶¨Ô¼»¹ÊÇ-1|pg||
 mb|p|pc|dJ|nt|iceblue: Èç¹ûÎÒ×øN£¬ÎÞÂÛÊÇ  13-15 »¹ÊÇ  14-16 µÄ1NT£¬ÎÒ¶¼ÇãÏò¿ª 1NT|pg||
 nt|iceblue: S ÃèÊö³É @C ÅäºÏ£¬ÉÌÁ¿ 3NT»òÕß @C ¶¨Ô¼±È½ÏºÏÊÊ¡£ ÍòÒ» PD @H µ¥È±£¬ 3NTÒ»¶¨ÊÇ¸öÔã¸âµÄ¶¨Ô¼|pg||
@@ -286,18 +286,18 @@ pc|c4|pc|c5|pc|cA|pc|c7|pg||
 pc|c2|nt|iceblue: Kx Qx,Ø½ÐèÇÀNTµÄ×¯Î»|pg||
 nt|ccba: ¾ÝËµÓ¡ÄáÖøÃûÅÆÊÖsakuÒòÑÓÎóÁË±¨ÃûÊ±¼äÃ»ÄÜ²Î¼ÓÕâ´Î±ÈÈü|pg||
 pc|cQ|pc|c6|pc|cK|pg||
-nt|kaz08833: @HQÌ[hÈç_EÅµ½ªAµ©½È¢Æ±ëÅ·|pg||
-pc|hA|pc|h5|nt|timty: Ç¤ÈÁ½©ª©çÈ¢Å·ªA4@HÍCNµ½æ¤Å·ËB|pg||
+nt|kaz08833: @HQÌ[hÈç_EÅµ½ªAµ©½È¢Æ±ëÅ·|pg||
+pc|hA|pc|h5|nt|timty: Ç¤ÈÁ½©ª©çÈ¢Å·ªA4@HÍCNµ½æ¤Å·ËB|pg||
 pc|h2|pc|s3|pg||
-nt|kaz08833: N©çgv[hàÅ«¸A@DAàNÅ·©çACNÅµå¤|pg||
-nt|npcjpn: !QÌ[hÅàA!J10_ugðÄêÎìêéÌÅÍH|pg||
-nt|kakasi:  ÜÁÄ¢éÌÅA¿ÈÝÉÅ·ªA|pg||
-nt|kaz08833: @Sª½Æ¦3gbNÉÈÁÄàAÜ¾8gbNÅ·æËH|pg||
-nt|npcjpn: ¢¦A@S2,@H2,@D2,@C3ÅB|pg||
-nt|kakasi: NÍHK[X [ÌNPCðNâÁÄ¢éROãã¼HÊÌlÅ·B|pg||
-nt|kaz08833: @CKÌtBlXµ½çA»ÌuÔ_EÅÍH|pg||
-nt|timty: »êÍEª Ci[ÌXNCYÉÈé©çCNµÜ·ËB|pg||
-nt|kakasi:  [CgÍ±±NÅ[Xð²Æµ½lBÅ·B|pg||
+nt|kaz08833: N©çgv[hàÅ«¸A@DAàNÅ·©çACNÅµå¤|pg||
+nt|npcjpn: !QÌ[hÅàA!J10_ugðÄêÎìêéÌÅÍH|pg||
+nt|kakasi:  ÜÁÄ¢éÌÅA¿ÈÝÉÅ·ªA|pg||
+nt|kaz08833: @Sª½Æ¦3gbNÉÈÁÄàAÜ¾8gbNÅ·æËH|pg||
+nt|npcjpn: ¢¦A@S2,@H2,@D2,@C3ÅB|pg||
+nt|kakasi: NÍHK[X [ÌNPCðNâÁÄ¢éROãã¼HÊÌlÅ·B|pg||
+nt|kaz08833: @CKÌtBlXµ½çA»ÌuÔ_EÅÍH|pg||
+nt|timty: »êÍEª Ci[ÌXNCYÉÈé©çCNµÜ·ËB|pg||
+nt|kakasi:  [CgÍ±±NÅ[Xð²Æµ½lBÅ·B|pg||
 pc|hK|pc|h6|nt|iceblue: 19¸±£¬ÆäÊµÈç¹ûS×ã¹»Àä¾²£¬Ó¦¸Ã²»¿¼ÂÇ 3NT¡£!3S ºó£¬S Ã÷È·Ö¸µ¼PD ÊÇ @S µ¥È±£¬µÍÌ×ÉÏÓÐ²»ÉÙÕÅÊý¡£|pg||
 pc|h7|pc|c8|pg||
 pc|hQ|pc|hJ|pc|h8|pc|s7|pg||
@@ -324,7 +324,7 @@ pc|dQ|pc|h3|pc|sT|pc|s7|pg||
 pc|c9|pc|cQ|pc|c6|pc|s4|pg||
 mc|10|pg||
 qx|c6|st||md|4S76542HT982D43CT3,S983HADAKQT9CJ972,SKQJHKJ53D875CQ54,SATHQ764DJ62CAK86|sv|e|nt|iceblue: ×î¹Ø¼üµÄÊÇ£¬ÎÒ²»ÊÇÒ»°ãµÄÌÖÑá ¾«È· 2@C ¿ª½Ð ÓÈÆä×Ô¼ºÓÐ¾Ö·½¡£|pg||
-nt|npcjpn: æÙÇÍ¨á¢Åµ½B@hª4-4¾Æ¨á¢BÀÛÉXNC[YÉÍÈéæ¤Å·ªB|pg||
+nt|npcjpn: æÙÇÍ¨á¢Åµ½B@hª4-4¾Æ¨á¢BÀÛÉXNC[YÉÍÈéæ¤Å·ªB|pg||
 nt|iceblue: S ÕæÊÇÌ°ÐÄ£¬»»¹¥ @S ,down¶¼¿ÉÄÜ|pg||
 mb|1N|mb|p|mb|3N|mb|p|mb|p|nt|iceblue: ¸üÖ±½ÓµÄÃ÷È·µÄ£¬Ó¦¸ÃÊÇ @C ¶¨Ô¼¡£|pg||
 mb|p|pc|s4|pc|s3|pc|sJ|pc|sT|pg||
@@ -338,7 +338,7 @@ nt|iceblue: ÊÇµÄ£¬ÎÒ±È½Ï·´¶Ô£¬ÈÝÒ×´³»ö|pg||
 nt|iceblue: ºÃÁË£¬ÏÖÔÚ W ÓÐ×ã¹»µÄÏëÈë·Ç·ÇµÄ¿Õ¼äÁË|pg||
 nt|iceblue: @CK duck|pg||
 pc|dJ|pc|d4|pc|dT|pc|d5|pg||
-nt|iceblue: PD µ¥H£¬SK£¬DA£¬CK  6C¾ÍÍÙÊÖ¿ÉµÃ|pg||
+nt|iceblue: PD µ¥H£¬SK£¬DA£¬CK	6C¾ÍÍÙÊÖ¿ÉµÃ|pg||
 nt|iceblue: ºÜÃ÷È·µÄ·ÀÊØ£¬ @CK ÉÏÊÖ£¬»»¹¥ @D, ´òµô WµÄÁªÍ¨|pg||
 pc|d2|nt|iceblue: Ç°ºóÃ¬¶Ü£¬²»¹ý¸Ð¾õ²»´í£¬ËäÈ»»¹ÊÇÒª-1|pg||
 pc|d3|pc|d9|pc|d7|pg||
@@ -379,10 +379,10 @@ pc|h4|pc|h5|pc|hA|pc|hQ|pg||
 nt|h_karluk: but say you did not open 1N then what would be yr suitable rebid|pg||
 mc|10|pg||
 qx|c7|st||md|1S62HQ3DQJ72CAT942,SKT875HJ874DT5CJ8,S93HT965DA63CKQ53,SAQJ4HAK2DK984C76|sv|b|mb|p|mb|p|nt|iceblue: ËùÒÔ£¬»» @S£¬»òÕß @D PDÔÙÀ´Ò»¸ö @D ,ÏûÃðÓ®¶Ö£¬ÊÇ±È½ÏºÏÀíµÄÑ¡Ôñ¡£|pg||
-mb|p|mb|1C|an|16+|mb|p|mb|1D!|mb|p|mb|1N|nt|kaz08833: ðúà»¤Åµ½ªA Ìñüîª«¢ÌÅµå¤©BpÉÉ¿Ü·|pg||
+mb|p|mb|1C|an|16+|mb|p|mb|1D!|mb|p|mb|1N|nt|kaz08833: ðúà»¤Åµ½ªA Ìñüîª«¢ÌÅµå¤©BpÉÉ¿Ü·|pg||
 mb|p|mb|2C!|mb|p|mb|2S|nt|iceblue: Ö±½Ó»» @Cx !!|pg||
 nt|ccba: Ç¿ÐÐ3NTÁË£¬¶ÄÍ¬°éÓÐDA|pg||
-mb|p|mb|4S|mb|p|mb|p|nt|timty: UÔAÊIÉ4@SÍ1_EÌæ¤Å·ªArbhµÄµÜ¢»¤Å·¯ÇB|pg||
+mb|p|mb|4S|mb|p|mb|p|nt|timty: UÔAÊIÉ4@SÍ1_EÌæ¤Å·ªArbhµÄµÜ¢»¤Å·¯ÇB|pg||
 mb|p|pc|dQ|pc|d5|nt|iceblue: ÏÔÈ»Ã»ÌÖÂÛ¹ý 3@D µÄÁ¿|pg||
 nt|iceblue: ´ó¼ÒºÃ£¬|pg||
 pc|d3|pc|dK|pg||
@@ -404,15 +404,15 @@ pc|hT|pc|h5|pc|h4|pc|hK|pg||
 pc|d3|pc|d2|pc|dJ|pc|dA|pg||
 pc|hJ|pc|h7|mc|9|nt|jcwla: Have to better than I am to get rich threading the needle, when they offer those 500 points I tend to bite if it's within the realm of reason.|pg||
 pg||
-qx|c8|st||md|2SJ9742HK76DQ3CAQ5,SAQ5HT9DK542C8732,S83HAQ5DJT987CKJ6,SKT6HJ8432DA6CT94|sv|o|mb|p|nt|npcjpn:  ÌAÅÍÈ­AïêÌzeÌâè¾Æv¢Ü·ªB|pg||
+qx|c8|st||md|2SJ9742HK76DQ3CAQ5,SAQ5HT9DK542C8732,S83HAQ5DJT987CKJ6,SKT6HJ8432DA6CT94|sv|o|mb|p|nt|npcjpn:  ÌAÅÍÈ­AïêÌzeÌâè¾Æv¢Ü·ªB|pg||
 mb|1N|mb|p|mb|2C|mb|p|mb|2D|mb|p|nt|ccba: µ½Ä¿Ç°ÎªÖ¹£¬ÅÆ×ÀÉÏÄÏ¸Û¶¯Á¦³öÏÖµÄÎÊÌâ½Ï¶à|pg||
 nt|iceblue: 2@S|pg||
 mb|2S|mb|p|mb|p|mb|p|pc|c3|pc|cJ|pc|c4|pc|c5|pg||
 nt|iceblue: 3NTÃ£È»£¬»¹ÊÇ¸Ã 3@C|pg||
 pc|s8|pc|s6|nt|iceblue: ·´¶Ô NµÄ @H  lead|pg||
 nt|iceblue: ÌìÏÉÅäµÄ 6@H|pg||
-pc|s2|nt|kaz08833: ÙÚvbVÌ [hÅ·|pg||
-nt|npcjpn: ñüª¿é½ÑÉ®ÔÌNàØêÄAXRAàª©èÜ¹ñËB|pg||
+pc|s2|nt|kaz08833: ÙÚvbVÌ [hÅ·|pg||
+nt|npcjpn: ñüª¿é½ÑÉ®ÔÌNàØêÄAXRAàª©èÜ¹ñËB|pg||
 pc|sQ|pg||
 nt|ccba: Ð¡ÀîÐÀÏÖÔÚ´òÊ²Ã´ÌåÏµ£¿|pg||
 nt|iceblue: ¾«È·|pg||
@@ -472,9 +472,9 @@ pc|hK|pc|hA|pg||
 pc|h4|pc|hJ|pc|hQ|pc|h3|pg||
 nt|othered1: an overtrick, too|pg||
 mc|10|pg||
-qx|c9|st||md|3STHJ5DJ7654CAQ643,SAHQT987DKT3CJT82,SQ8643HK63D82CK97,SKJ9752HA42DAQ9C5|sv|e|nt|npcjpn: Æ¢Ä½çAXRAªµ½æ¤Å·B|pg||
-nt|kakasi:  4@@XCOÅ·ËB|pg||
-mb|p|mb|1S|mb|2N!|nt|kaz08833: 4Ô [hA1@HÅI[v·éÆAâÍè´êª éæ¤Å·ËBåÎ³ñÌVvÈWbWÅ12IMPÌQC|pg||
+qx|c9|st||md|3STHJ5DJ7654CAQ643,SAHQT987DKT3CJT82,SQ8643HK63D82CK97,SKJ9752HA42DAQ9C5|sv|e|nt|npcjpn: Æ¢Ä½çAXRAªµ½æ¤Å·B|pg||
+nt|kakasi:  4@@XCOÅ·ËB|pg||
+mb|p|mb|1S|mb|2N!|nt|kaz08833: 4Ô [hA1@HÅI[v·éÆAâÍè´êª éæ¤Å·ËBåÎ³ñÌVvÈWbWÅ12IMPÌQC|pg||
 mb|d|mb|3C|nt|iceblue: S ¿ª½Ð 1@D ,¿É¼ûËûÃÇÊÇÈçºÎÊµÏÖ ½ÐÅÆ¿¿³å Õâ¸ö×ÚÖ¼µÄ|pg||
 nt|iceblue: 2@C ¹À¼ÆÊÇ Majors|pg||
 nt|ccba: £¡£¡¿ª½Ð1D£¿ À÷º¦°¡|pg||
@@ -484,7 +484,7 @@ nt|ccba: ¶÷|pg||
 nt|iceblue: Î¨Ò»µÄºÃ´¦ÊÇ ¶Â×¡¹í×ÓµÄ @D ÅäºÏ£¬|pg||
 nt|ccba: 2CÊÇË«¸ß|pg||
 mb|p|mb|p|nt|iceblue: Ö»ÊÇÕýºÃ±»ËûÓöµ½ÁË|pg||
-mb|p|nt|kaz08833: CN XÍÙÆñÇÈ³»¤È4@SBEª½ð[h·é©Å·ª|pg||
+mb|p|nt|kaz08833: CN XÍÙÆñÇÈ³»¤È4@SBEª½ð[h·é©Å·ª|pg||
 nt|vugraphzpe: the result of board 6 should be 10 tricks |pg||
 pc|c5|pc|c3|nt|iceblue: ²Ù×÷Ô±£¬ÇëÊäÈë Ñ¡ÊÖµÄÃû×Ö|pg||
 nt|ccba: ÒÕ¸ßÈËµ¨´ó :)|pg||
@@ -493,7 +493,7 @@ nt|iceblue: EW ´ò¾«È·ÌåÏµ£¬ 2@C ÊÇË«¸ßÌ×|pg||
 pc|d2|pc|d9|nt|iceblue: N Liujing, S Lijie, E zhangyu, W  wangping|pg||
 pc|d4|nt|vugraphzpe: should be 9 tricks , get a mistick, sorry |pg||
 pc|d3|pg||
-nt|kaz08833: ±±ÍåÎ³ñA·Îçµ¢fBtFX|pg||
+nt|kaz08833: ±±ÍåÎ³ñA·Îçµ¢fBtFX|pg||
 pc|hA|nt|iceblue: ÍÛ¡£¡£¡£²»ÒÀ²»ÈÄ£¬¼ÌÐøÇÀ|pg||
 pc|h5|pc|h7|nt|iceblue: 1@D ºó£¬Ô½À´Ô½¶àÅÆÊÖ£¬²ÉÓÃ 1@D-2@H ÊÇ 5413»òÕßHS55µÄ 6-9HCP|pg||
 pc|h3|pg||
@@ -503,9 +503,9 @@ pc|h4|pc|hJ|nt|ccba: ÊÇµÄ,¾ÆµêµÄ¾ÖÓòÍøÓÐÂ©¶´±»¹¥»÷|p
 pc|hQ|pc|hK|pg||
 nt|ccba: ÎÒÒÑ¾­¸æËß±ÈÈüµÄÍø¹ÜÁË|pg||
 pc|d8|pc|dQ|pc|d5|pc|dK|pg||
-nt|kaz08833: @DðÔ·ÆAEÌ3gbNÚªïµ¢|pg||
+nt|kaz08833: @DðÔ·ÆAEÌ3gbNÚªïµ¢|pg||
 pc|sA|pc|s3|pc|s2|pc|sT|pg||
-pc|hT|nt|npcjpn: ±±Å@dðÁÄ2_EÅ·©B|pg||
+pc|hT|nt|npcjpn: ±±Å@dðÁÄ2_EÅ·©B|pg||
 pc|h6|pc|h2|pc|c4|pg||
 pc|d6|nt|iceblue: àÅ£¬Í¨³£ÊÇÔâÊÜ ARP»òÕßDoS ¹¥»÷|pg||
 nt|iceblue: ÓÐÒ»ÄêÈýÑÇµÄÑûÇëÈü£¬¾ÍÓöµ½¹ýÍêÈ«ÀàËÆµÄÇéÐÎ|pg||
@@ -538,16 +538,16 @@ nt|iceblue: E ¶à°ë»á¿¼ÂÇPASS 4@H|pg||
 mb|p|nt|iceblue: S 3@H ×¼±¸É±³ö£¿|pg||
 nt|iceblue: ¹ûÈ»¡£¡£¡£|pg||
 nt|iceblue: ÏÖÔÚÐèÒªS¶Ô 3@H ÓÐ×¼È·µÄÀí½â|pg||
-nt|npcjpn: QmsÍ3@CÖÌgXt@@[ÅTCItÅµå¤B|pg||
-mb|4H|nt|kaz08833: 3@CÉÈè»¤Å·ªAa¢RgNg|pg||
-mb|p|mb|p|nt|timty: Xy[hØçêÄ1_EÅµå¤|pg||
-nt|kaz08833: @StªüçÈ¯êÎCNÅ·ªEEE|pg||
+nt|npcjpn: QmsÍ3@CÖÌgXt@@[ÅTCItÅµå¤B|pg||
+mb|4H|nt|kaz08833: 3@CÉÈè»¤Å·ªAa¢RgNg|pg||
+mb|p|mb|p|nt|timty: Xy[hØçêÄ1_EÅµå¤|pg||
+nt|kaz08833: @StªüçÈ¯êÎCNÅ·ªEEE|pg||
 mb|p|pc|d9|pc|dQ|pc|d3|pc|d6|pg||
-pc|c7|pc|cA|nt|npcjpn: vªpX¾ÆAmª1@sArª1msÆÈè»¤ÅAÅãÉEª2@c©Ç¤©ÆvÁÄ¢½ÌÅ·ªB|pg||
-nt|kaz08833: ±±Å@HVtgðAÅãªÁÄA@dAÅ@SQðfBXJ[h·êÎCNÅ·|pg||
+pc|c7|pc|cA|nt|npcjpn: vªpX¾ÆAmª1@sArª1msÆÈè»¤ÅAÅãÉEª2@c©Ç¤©ÆvÁÄ¢½ÌÅ·ªB|pg||
+nt|kaz08833: ±±Å@HVtgðAÅãªÁÄA@dAÅ@SQðfBXJ[h·êÎCNÅ·|pg||
 pc|c5|pc|c2|pg||
 pc|d7|pc|dA|pc|d2|pc|d4|pg||
-pc|c6|pc|c4|pc|h5|nt|kaz08833: åÎ³ñA±±àÝ²ÆÈvC|pg||
+pc|c6|pc|c4|pc|h5|nt|kaz08833: åÎ³ñA±±àÝ²ÆÈvC|pg||
 pc|c3|pg||
 pc|s9|pc|s3|pc|sA|pc|s5|pg||
 pc|cJ|pc|cQ|pc|h8|pc|c8|pg||
@@ -595,19 +595,19 @@ mb|2S|nt|ccba: ¶«¼ÒÁ½ºìÌÒÏë¶¯×÷?|pg||
 mb|p|mb|p|nt|ccba: Á½ºìÌ×|pg||
 mb|d|nt|iceblue: ÊÇ£¬Ëû²»µ«Òª½Ð£¬¹À¼Æ×¼±¸½Ð 2´Î£¬²»È»²»»áÖ»½Ð 2@H|pg||
 mb|p|nt|ccba: µ«Ò²Ã»ÓÐÊÖ¶ÎÖ±½ÓÏÔÊ¾2Ì×|pg||
-mb|3D|mb|p|mb|p|nt|iceblue: Èç¹û×¼±¸½ÐÒ»´Î£¬ÎÒ¹À¼ÆËû»á  2@D|pg||
+mb|3D|mb|p|mb|p|nt|iceblue: Èç¹û×¼±¸½ÐÒ»´Î£¬ÎÒ¹À¼ÆËû»á	2@D|pg||
 nt|iceblue: µ¼¹¥¸üÊÊºÏ|pg||
 nt|iceblue: ×¯¼ÒÃ»Ïëµ½ S»á ±§ @DA underlead|pg||
 nt|iceblue: Ã»·Å @D10 ,Ï£Íû NÉÏ @DA|pg||
-nt|npcjpn: TÔÍ@S[hÅÃcªQXðOµÄ_Eµ½æ¤Å·B|pg||
-mb|3S|mb|p|mb|p|nt|kaz08833: 5Ô [hÍA¼èEÃc³ñª XQXÅµ½©|pg||
-mb|p|pc|sT|nt|kaz08833: ±êÍ¨»ç­4CNÉÈè»¤|pg||
+nt|npcjpn: TÔÍ@S[hÅÃcªQXðOµÄ_Eµ½æ¤Å·B|pg||
+mb|3S|mb|p|mb|p|nt|kaz08833: 5Ô [hÍA¼èEÃc³ñª XQXÅµ½©|pg||
+mb|p|pc|sT|nt|kaz08833: ±êÍ¨»ç­4CNÉÈè»¤|pg||
 pc|sQ|pc|s5|pc|s3|pg||
-nt|kaz08833: EÍ@HVtgÍµÈ¢©ÈH@@¾Æ·êÎAàÁÆCN|pg||
+nt|kaz08833: EÍ@HVtgÍµÈ¢©ÈH@@¾Æ·êÎAàÁÆCN|pg||
 pc|h6|pc|h9|pc|hK|pc|h4|pg||
 pc|h7|pc|hA|pc|hT|pc|h3|pg||
 pc|cA|pc|c3|pc|c4|pc|c2|pg||
-pc|c7|pc|c5|pc|c9|nt|kaz08833: æ1gbNA¡ä³ñÍA@CJðvCµÈ©Á½ñÅ·ËBæ¢QXÅµ½|pg||
+pc|c7|pc|c5|pc|c9|nt|kaz08833: æ1gbNA¡ä³ñÍA@CJðvCµÈ©Á½ñÅ·ËBæ¢QXÅµ½|pg||
 pc|cK|pg||
 pc|d3|pc|d2|pc|s2|pc|d5|pg||
 pc|hQ|pc|h2|pc|d4|pc|h5|pg||
@@ -632,19 +632,19 @@ nt|jcwla: 15 a push at 4@HN+1 -- probably the same result over 100 tables.|pg||
 pc|h4|pc|h7|pc|hA|pc|h2|pg||
 pc|h9|pc|hQ|pc|h3|pc|h8|pg||
 mc|10|pg||
-qx|c12|st||md|2SQHQ2DA2CAQ876532,SAJ87HJT643D74CKT,SK96432HK87DKQT5C,ST5HA95DJ9863CJ94|sv|n|mb|p|nt|npcjpn: p[gi[ÉjpªúÒÅ«È¢ÌÅAiÍo³È¢ûªæ¢Å·ËB|pg||
+qx|c12|st||md|2SQHQ2DA2CAQ876532,SAJ87HJT643D74CKT,SK96432HK87DKQT5C,ST5HA95DJ9863CJ94|sv|n|mb|p|nt|npcjpn: p[gi[ÉjpªúÒÅ«È¢ÌÅAiÍo³È¢ûªæ¢Å·ËB|pg||
 mb|1S|nt|iceblue: ÍÛ£¬ÕâÒ²¿ª 2@C °¡|pg||
-mb|p|nt|kaz08833: EWÌ4@SÍCNµÜ·Ë|pg||
-mb|2C|mb|p|mb|2S|mb|p|mb|3C|mb|p|mb|3D|mb|p|nt|npcjpn: SmsÍÇ¢»fÅµ½ªBBB|pg||
-mb|4C|nt|kaz08833: SÌ6@DÍ¾ç©ÉI[o[rbh|pg||
-mb|p|mb|5C|mb|p|nt|npcjpn:  CiX100Í CiX590æèÍæ¢ÌÅ·ªB|pg||
+mb|p|nt|kaz08833: EWÌ4@SÍCNµÜ·Ë|pg||
+mb|2C|mb|p|mb|2S|mb|p|mb|3C|mb|p|mb|3D|mb|p|nt|npcjpn: SmsÍÇ¢»fÅµ½ªBBB|pg||
+mb|4C|nt|kaz08833: SÌ6@DÍ¾ç©ÉI[o[rbh|pg||
+mb|p|mb|5C|mb|p|nt|npcjpn:  CiX100Í CiX590æèÍæ¢ÌÅ·ªB|pg||
 mb|p|mb|p|pc|hJ|pc|h7|pc|h5|pc|hQ|pg||
 pc|cA|pc|cT|pc|s2|pc|c4|pg||
 pc|dA|pc|d4|pc|d5|pc|d3|pg||
-pc|d2|pc|d7|pc|dQ|nt|kaz08833: NSÍ4NTðeCNAEgÌÂàè¾Á½ÌÅµå¤ªA±êÁÄi ÅÍÈ¢©ÆH|pg||
+pc|d2|pc|d7|pc|dQ|nt|kaz08833: NSÍ4NTðeCNAEgÌÂàè¾Á½ÌÅµå¤ªA±êÁÄi ÅÍÈ¢©ÆH|pg||
 pc|d6|pg||
 pc|dK|pc|d8|pc|h2|pc|cK|pg||
-pc|sA|pc|s3|pc|s5|nt|npcjpn: »êÍp[gi[Vbvªv³êÜ·ËB|pg||
+pc|sA|pc|s3|pc|s5|nt|npcjpn: »êÍp[gi[Vbvªv³êÜ·ËB|pg||
 pc|sQ|pg||
 pc|sJ|pc|s4|pc|sT|pc|c2|pg||
 pc|cQ|mc|10|pg||
@@ -671,25 +671,25 @@ pc|c3|pc|c6|pc|h8|nt|h_karluk: i bet already remorseful for that squirrel type j
 pc|s2|pg||
 pc|s4|pc|s7|pc|h3|pc|d2|pg||
 mc|11|pg||
-qx|c13|st||md|3SJ9854HQT86D98C92,SAKQ732HJ9DK754C5,SHAK7532DAQCAQ873,ST6H4DJT632CKJT64|sv|b|nt|npcjpn: rªPmsÅI[vµ»¤Å·ªAvÍ_uð©¯é©Ç¤©B|pg||
-mb|1H|mb|p|mb|3H!|mb|3S|nt|npcjpn: æÙÇÍ jiÌT@DÌ16_Í_uÅµ½ªB|pg||
-mb|4C|mb|p|nt|npcjpn: PmsÅÍ èÜ¹ñÅµ½ËBÇ¤µÄÅµå¤B|pg||
+qx|c13|st||md|3SJ9854HQT86D98C92,SAKQ732HJ9DK754C5,SHAK7532DAQCAQ873,ST6H4DJT632CKJT64|sv|b|nt|npcjpn: rªPmsÅI[vµ»¤Å·ªAvÍ_uð©¯é©Ç¤©B|pg||
+mb|1H|mb|p|mb|3H!|mb|3S|nt|npcjpn: æÙÇÍ jiÌT@DÌ16_Í_uÅµ½ªB|pg||
+mb|4C|mb|p|nt|npcjpn: PmsÅÍ èÜ¹ñÅµ½ËBÇ¤µÄÅµå¤B|pg||
 mb|4H|nt|iceblue: 2@C ºó£¬ EÓÖ·¸ÄÑÁË|pg||
 nt|iceblue: ...|pg||
 nt|iceblue: 3@C ÊÇÅäºÏ½ÐÅÆ|pg||
-mb|p|mb|4S|mb|p|mb|5H|nt|kaz08833: svcÅ·ËB½ÔñHCPð¦Ôá¦Ä¢éÌÅÍÈ¢©Æ|pg||
-nt|npcjpn: rÍ18_®ç¢ÁÄ¢éæ¤ÈrbhoßÅ·ªB|pg||
-nt|timty: PNTªPU|PW¾Á½èµÄB|pg||
-nt|npcjpn: 5ÔÌmÍ15_Åµ½ªB|pg||
+mb|p|mb|4S|mb|p|mb|5H|nt|kaz08833: svcÅ·ËB½ÔñHCPð¦Ôá¦Ä¢éÌÅÍÈ¢©Æ|pg||
+nt|npcjpn: rÍ18_®ç¢ÁÄ¢éæ¤ÈrbhoßÅ·ªB|pg||
+nt|timty: PNTªPU|PW¾Á½èµÄB|pg||
+nt|npcjpn: 5ÔÌmÍ15_Åµ½ªB|pg||
 mb|p|mb|p|mb|p|pc|sT|nt|iceblue: Ð×º·ÎÞ±È|pg||
-nt|kaz08833: ¢¸êÉµëA1NTxÍ©ÈèCN Xª èÜ·BSª@DAðvCµ½ÌÅAà¤CNÅ·©|pg||
+nt|kaz08833: ¢¸êÉµëA1NTxÍ©ÈèCN Xª èÜ·BSª@DAðvCµ½ÌÅAà¤CNÅ·©|pg||
 pc|sJ|pc|sK|pc|h2|pg||
 nt|iceblue: ÄÏ¼Ò ·ßÈ»¾Ùµ¶|pg||
 nt|iceblue: ¶­Àñµ³ ½ÐµÄÎÂÈá°¡  3@H|pg||
 nt|iceblue: E ÄÇÃ´¶àµã£¬ÓÖÓÐ·ÀÊØÊµÁ¦£¬ÊÇ²»¿ÉÄÜ²»½ÐÅÆµÄ£¬Èç¹ûÒªËµÐ×º·£¬Ó¦¸ÃÊÇ W|pg||
-nt|npcjpn: 5ÔÅXCOÉÈÁÄ¢Ü·ªA|pg||
-nt|npcjpn: ñüÌØêÄ¢éÅÅA±Ì®Åvª4@HÅènµ½ÆÍVêÈ¢ÌÅ·ªB|pg||
-nt|timty: [hª»êÄA@CªÆê¸É4@Sðìçê½æ¤Å·ËB|pg||
+nt|npcjpn: 5ÔÅXCOÉÈÁÄ¢Ü·ªA|pg||
+nt|npcjpn: ñüÌØêÄ¢éÅÅA±Ì®Åvª4@HÅènµ½ÆÍVêÈ¢ÌÅ·ªB|pg||
+nt|timty: [hª»êÄA@CªÆê¸É4@Sðìçê½æ¤Å·ËB|pg||
 pc|h3|pc|h4|pc|hQ|pc|h9|pg||
 pc|c2|pc|c5|pc|cQ|pc|cK|pg||
 pc|s6|pc|s9|pc|sQ|pc|h5|pg||
@@ -718,34 +718,34 @@ mc|10|nt|jcwla: Thx again to all - for now, from Philadelphia (for another 30 ho
 nt|othered1: Thanks, operator, for the fine presentation.  Bye everyone.|pg||
 nt|h_karluk: bye for now, please follow bbo vugraph schedule, good night everybody, a new day starts :)|pg||
 pg||
-qx|c14|st||md|4SJ42H965DQT743CJT,SAKQ653HA742DKC82,ST9HJT8DA2CAK9653,S87HKQ3DJ9865CQ74|sv|o|nt|kaz08833: 2_EÅ·©EEE|pg||
-nt|npcjpn: [r[ÉÍWXgChÆüÁÄ¢Ü·ªB|pg||
+qx|c14|st||md|4SJ42H965DQT743CJT,SAKQ653HA742DKC82,ST9HJT8DA2CAK9653,S87HKQ3DJ9865CQ74|sv|o|nt|kaz08833: 2_EÅ·©EEE|pg||
+nt|npcjpn: [r[ÉÍWXgChÆüÁÄ¢Ü·ªB|pg||
 mb|p|nt|rodal f: Looked like 9 for me|pg||
 mb|p|nt|iceblue: NS ÓÐ @S or @D Âú¹á|pg||
-mb|1C!|mb|2S!|an|!c or !h + !d |nt|kaz08833: Í¢A¡mFµÜµ½BCNÅ·|pg||
+mb|1C!|mb|2S!|an|!c or !h + !d |nt|kaz08833: Í¢A¡mFµÜµ½BCNÅ·|pg||
 mb|d|an|alert|nt|iceblue: N ¼Ó±¶ÊÇ majors|pg||
 nt|iceblue: ¿ªÊÒ 5@H Âòµ½×îºó¶¨Ô¼£¬ÊÇ¸ö²»´íµÄ½á¹û¡£|pg||
 nt|iceblue: 5@C ÊÇÅäºÏ½ÐÅÆ|pg||
 nt|rodal f: Some are running hard here|pg||
 nt|rodal f: But what wil X from S mean|pg||
-nt|kaz08833: ¢­ç½Åà2_EÌí¯È¢ÌÅ|pg||
-nt|npcjpn: vÌnhÍ3@HÌvGveBuÉÍ­·¬Ü·©H|pg||
+nt|kaz08833: ¢­ç½Åà2_EÌí¯È¢ÌÅ|pg||
+nt|npcjpn: vÌnhÍ3@HÌvGveBuÉÍ­·¬Ü·©H|pg||
 mb|3C|nt|iceblue: HS44+|pg||
 nt|iceblue: ÓÉÓÚ E µÄ¸ß¶ÈÅäºÏ½ÐÅÆ£¬ N²»ÄÑÍÆ¶Ï³ö PD »ù±¾ÊÇÈ±ÃÅ @H|pg||
 mb|3S|nt|iceblue: led Ï¬Àû£¬¿ÉÏ§Ã»É¶ÓÃ£¬ EW ÓÐ×ã¹»µÄÓ®¶Ö¡£|pg||
 nt|iceblue: ËùÒÔ£¬N ÓÐ×ã¹»µÄÀíÓÉ³å»÷´óÂú¹á¡£|pg||
 nt|vugraphzpe: West take the wrong card|pg||
 nt|rodal f: X  to come?|pg||
-mb|p|mb|3N|nt|kaz08833: p[gi[VbvÌæèßæÅ·ªA¿åÁÆ­·¬éÆv¢Ü·|pg||
+mb|p|mb|3N|nt|kaz08833: p[gi[VbvÌæèßæÅ·ªA¿åÁÆ­·¬éÆv¢Ü·|pg||
 nt|npcjpn: operator, impossible bidding.|pg||
 mb|p|mb|p|nt|iceblue: ÕâÏÂºÃÁË£¬W Íá´òÕý×Å£¬ 6@H -3|pg||
 mb|p|nt|iceblue: ×Ü±È 6@H MKÒªÇ¿|pg||
-pc|cJ|pc|c2|nt|npcjpn: »¤Å·ËBI[o[R[ÉÎµÄÈçA NXgCYÉÒÁ½èÌæ¤È´¶Å·ªB|pg||
-nt|kaz08833: vCÍïµ¢Å·ËB±ÌRgNgBÇ¤âÁÄ10gbNÉ·é©|pg||
-nt|kaz08833: @SðGX ubV·êÎCNÅ·ªEEE|pg||
-nt|npcjpn: Ü¸Í[@CÅ·©H|pg||
-nt|kaz08833: êÔ©ñ½ñÈÌÍAh[EgvÅ_ [©ç@SJÅ·|pg||
-nt|timty: @Cðoµ»¤Å·ªAgvªAÁÄ­éÆEEEE|pg||
+pc|cJ|pc|c2|nt|npcjpn: »¤Å·ËBI[o[R[ÉÎµÄÈçA NXgCYÉÒÁ½èÌæ¤È´¶Å·ªB|pg||
+nt|kaz08833: vCÍïµ¢Å·ËB±ÌRgNgBÇ¤âÁÄ10gbNÉ·é©|pg||
+nt|kaz08833: @SðGX ubV·êÎCNÅ·ªEEE|pg||
+nt|npcjpn: Ü¸Í[@CÅ·©H|pg||
+nt|kaz08833: êÔ©ñ½ñÈÌÍAh[EgvÅ_ [©ç@SJÅ·|pg||
+nt|timty: @Cðoµ»¤Å·ªAgvªAÁÄ­éÆEEEE|pg||
 pc|cK|nt|iceblue: 6@D|pg||
 pc|c4|pg||
 pc|cA|pc|c7|pc|cT|pc|c8|pg||
@@ -769,11 +769,11 @@ pc|h4|pc|h7|pc|hK|pc|h3|pg||
 mc|11|nt|h_karluk: there is only two blackaces for the defenders and both favorably placed for the declarer|pg||
 pg||
 qx|c15|st||md|1SK985HK852DK52CT7,SQT6HT3DJ974CA954,S43HAQ964DAQT8CK3,SAJ72HJ7D63CQJ862|sv|n|nt|iceblue: -4,¿ªÊÒ·ÀÊØ³öÏÖÁËÖØ´óÆ«²î|pg||
-mb|p|nt|kaz08833: 6CNÆ¢¤ÌÍA ÜèM¶çêÜ¹ñªEEE|pg||
-nt|npcjpn: ÊÍ³ÁÏès¾Å·ËB|pg||
-mb|p|mb|1N|mb|p|mb|2C|mb|p|nt|npcjpn: ±ÌoÖW¾¯ÍA3@SàLÍ»¤Å·ªB|pg||
-nt|kaz08833: I[v[ÅÍA6@HÜÅrbhµÄ_EÅ·|pg||
-mb|2H|mb|p|mb|4H|mb|p|mb|p|nt|kaz08833: NÌ5@DÍå¢É â|pg||
+mb|p|nt|kaz08833: 6CNÆ¢¤ÌÍA ÜèM¶çêÜ¹ñªEEE|pg||
+nt|npcjpn: ÊÍ³ÁÏès¾Å·ËB|pg||
+mb|p|mb|1N|mb|p|mb|2C|mb|p|nt|npcjpn: ±ÌoÖW¾¯ÍA3@SàLÍ»¤Å·ªB|pg||
+nt|kaz08833: I[v[ÅÍA6@HÜÅrbhµÄ_EÅ·|pg||
+mb|2H|mb|p|mb|4H|mb|p|mb|p|nt|kaz08833: NÌ5@DÍå¢É â|pg||
 mb|p|nt|iceblue: NSÊÇ Àî½ÜºÍÁõ¾©£¬¾«È·ÌåÏµ|pg||
 pc|cQ|nt|rodal f: A small gain EW?|pg||
 pc|c7|nt|Walddk4: It won't be easy to match the open room result here|pg||
@@ -786,7 +786,7 @@ pc|h2|pc|hT|pc|hA|pc|hJ|pg||
 pc|dA|pc|d3|pc|d2|pc|d4|pg||
 pc|d8|pc|d6|pc|dK|pc|d7|pg||
 pc|d5|pc|d9|pc|dQ|pc|s2|pg||
-pc|dT|pc|c6|nt|kaz08833: vCÆµÄÍA@d10ÌtAEgÆ@DÆ@CÌXNCYÅ·ªA¢Ä¢Ü¹ñ|pg||
+pc|dT|pc|c6|nt|kaz08833: vCÆµÄÍA@d10ÌtAEgÆ@DÆ@CÌXNCYÅ·ªA¢Ä¢Ü¹ñ|pg||
 pc|h5|pc|dJ|pg||
 pc|cT|pc|cA|pc|c3|pc|c2|pg||
 mc|11|pg||
@@ -806,18 +806,18 @@ qx|c16|st||md|2SKQT6HA4DJ65CAKT5,S98543H52DT32C962,SA2HKQ9763DQCQ843,SJ7HJT8DAK9
 mb|1H|mb|p|mb|1S|nt|Walddk4: EW will be very surprised when they score up|pg||
 nt|rodal f: 2@S+3 seems hard here|pg||
 mb|p|mb|2H|mb|p|nt|iceblue: 1@S=8+HCP, BAL|pg||
-mb|3C!|mb|p|nt|kaz08833: 3NTÍÙÚ_E|pg||
+mb|3C!|mb|p|nt|kaz08833: 3NTÍÙÚ_E|pg||
 mb|4C|nt|rodal f: At the road now|pg||
 mb|p|mb|4N|mb|p|nt|iceblue: 5NT=select a slam pls|pg||
-nt|kaz08833: ±êÍ6IMP­ç¢æèÔ¹»¤Å·|pg||
+nt|kaz08833: ±êÍ6IMP­ç¢æèÔ¹»¤Å·|pg||
 mb|5C|nt|iceblue: 6NT´ò¶ÔÊÇÌúÅÆ£¬WÒªÔâÊÜ·ÀÓùÕÅ¼·Ñ¹|pg||
 nt|Walddk4: This can make on a black squeeze on West if declarer plays the hand to perfection|pg||
 nt|rodal f: But...|pg||
 mb|p|mb|p|mb|p|nt|iceblue: S 3H ºó£¬NµÄ 3@S ÏÔµÃÏû¼«|pg||
-pc|d2|pc|dQ|pc|dA|nt|kaz08833: Ü¬êÆµÄÍA_ [©ç@D9ðvC³ê½Æ«ÉAWªK©JðJo[·é±ÆÅ·|pg||
-nt|npcjpn: dª@SðNAµÈ©Á½ÌÅAÜ¸¢±ÆªN±è©ËÜ¹ñªB|pg||
-nt|timty: @SKðãªÁÄA@Sðo³È¢ÆÜ¸¢Å·æ|pg||
-nt|kaz08833: ½¾ANSÉà@Sª4-3©5-2©í©çÈ¢ÌÅ|pg||
+pc|d2|pc|dQ|pc|dA|nt|kaz08833: Ü¬êÆµÄÍA_ [©ç@D9ðvC³ê½Æ«ÉAWªK©JðJo[·é±ÆÅ·|pg||
+nt|npcjpn: dª@SðNAµÈ©Á½ÌÅAÜ¸¢±ÆªN±è©ËÜ¹ñªB|pg||
+nt|timty: @SKðãªÁÄA@Sðo³È¢ÆÜ¸¢Å·æ|pg||
+nt|kaz08833: ½¾ANSÉà@Sª4-3©5-2©í©çÈ¢ÌÅ|pg||
 pc|d5|pg||
 pc|s7|pc|s6|nt|iceblue: ·À»¤ÕÅ¼·Ñ¹|pg||
 pc|s3|pc|sA|pg||
@@ -836,6 +836,6 @@ nt|iceblue: ÊÇµÄ|pg||
 nt|iceblue: 3@S ÏÔÈ»Ïû¼«|pg||
 nt|ccba: ÊÇµÄ£¬»¹Î´±ØÊÇ×îºÃµÄ¶¨Ô¼|pg||
 nt|rodal f: For the specs. Next session will start in 34min|pg||
-pc|cJ|pc|cA|nt|kaz08833: H|pg||
+pc|cJ|pc|cA|nt|kaz08833: H|pg||
 pc|c6|pg||
 pc|cK|pc|c9|mc|12|pg||

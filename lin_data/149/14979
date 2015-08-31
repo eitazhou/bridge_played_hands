@@ -85,7 +85,7 @@ pc|hA|pg||
 pc|s9|nt|iceblue: ÀîÐÀ²»¸ÒÔÚµ¥ÓÐ¾Ö½Ð 2@H £¬µ«ÊÇÓÖ²»¸ÊÐÄPASS£¬ËùÒÔÑ¡Ôñ shape offµÄ¼Ó±¶|pg||
 pc|s4|nt|iceblue: ËäÈ»Õâ²»ÊÇÒ»¸öºÃµÄÂú¹á£¬µ«ÊÇ lead @D ºó|pg||
 nt|iceblue: ´ò¶Ô£¬ÊÇÌúÅÆ¡£|pg||
-nt|iceblue: Ò²Ðí£¬Õâ¾ÍÊÇÇÅÅÆµÄ÷ÈÁ¦  ½ÐÅÆ¿¿³å£¬´òÅÆ¿¿ÃÉ  £º£©£©|pg||
+nt|iceblue: Ò²Ðí£¬Õâ¾ÍÊÇÇÅÅÆµÄ÷ÈÁ¦  ½ÐÅÆ¿¿³å£¬´òÅÆ¿¿ÃÉ	£º£©£©|pg||
 nt|iceblue: ²»¹ý£¬ÎÒ»¹ÊÇ²»ÔÞÍ¬Õâ¸öÑ¡Ôñ£¬ÎÒÄþÔ¸PASS|pg||
 pc|sQ|nt|iceblue: ÒòÎª¶ÏÍø£¬Ã»¿´µ½´òÅÆÐòÁÐ|pg||
 nt|iceblue: ¸Õ²ÅËµµÄ 1@C ºóÊ¾Ç¿ºóµÄÁ¿µÄÇø·ÖÎÊÌâ£¬ÊÇ¾«È·ÌåÏµµÄÒ»´óbug|pg||
@@ -213,7 +213,7 @@ pc|c6|nt|peachy: Wouldn|pg||
 pc|c5|pc|cA|pg||
 pc|d9|pc|dA|pc|dJ|pc|d2|pg||
 pc|c7|pc|cK|pc|c3|pc|c8|pg||
-pc|dK|nt|peachy: 2D be Flannery and 2H something else?  Anyway, I don't know their methods :(|pg||
+pc|dK|nt|peachy: 2D be Flannery and 2H something else?	Anyway, I don't know their methods :(|pg||
 pc|d4|pc|c2|pc|d3|pg||
 pc|hA|pc|h8|pc|h2|nt|marcsmith: 6S better than 6H although both make with the diamond onside|pg||
 pc|h7|pg||
@@ -233,7 +233,7 @@ nt|iceblue: ¹À¼ÆËûÊÇ¿´ÖÐ @D ½«³ÔÓ®¶Ö|pg||
 nt|iceblue: ÊÇµÄ£¬ÎÒ±È½Ï·´¶Ô£¬ÈÝÒ×´³»ö|pg||
 nt|iceblue: ºÃÁË£¬ÏÖÔÚ W ÓÐ×ã¹»µÄÏëÈë·Ç·ÇµÄ¿Õ¼äÁË|pg||
 pc|d9|pc|dA|pc|dJ|pc|d2|pg||
-nt|iceblue: PD µ¥H£¬SK£¬DA£¬CK  6C¾ÍÍÙÊÖ¿ÉµÃ|pg||
+nt|iceblue: PD µ¥H£¬SK£¬DA£¬CK	6C¾ÍÍÙÊÖ¿ÉµÃ|pg||
 pc|c7|nt|iceblue: Ç°ºóÃ¬¶Ü£¬²»¹ý¸Ð¾õ²»´í£¬ËäÈ»»¹ÊÇÒª-1|pg||
 pc|cK|pc|c4|pc|c2|pg||
 pc|dK|pc|d5|pc|c8|pc|d3|pg||
@@ -317,7 +317,7 @@ pc|cJ|pc|cQ|nt|peachy: he is on track for only 2 down|pg||
 nt|marcsmith: shouldn't declarer have ruffed a club when uin dummy with SA?|pg||
 nt|rnmalik: yes-sounds reasonable.|pg||
 nt|peachy: I think it is better line, but as luck would have it , didnt matter|pg||
-pc|h4|nt|marcsmith: yes it did  - only one down then|pg||
+pc|h4|nt|marcsmith: yes it did	- only one down then|pg||
 pc|c7|pg||
 pc|s9|pc|d2|nt|marcsmith: now must ruff with J or may not get another trick|pg||
 nt|peachy: defense should get the rest now|pg||
