@@ -68,10 +68,10 @@ pc|cJ|nt|henryb:  he will still lose 3@h and 2 black tricks|pg||
 nt|blewah: and then what?|pg||
 pc|c6|pc|cA|pc|c5|pg||
 pc|dK|pc|d7|pc|c7|pc|d5|pg||
-pc|s5|pc|s2|nt|henryb:  beg you pardon|pg||
+pc|s5|pc|s2|nt|henryb:	beg you pardon|pg||
 pc|sK|pc|s3|pg||
 pc|sT|nt|blewah: ok that seems more likely|pg||
-pc|sQ|pc|s7|nt|henryb:  still 6 losers|pg||
+pc|sQ|pc|s7|nt|henryb:	still 6 losers|pg||
 nt|blewah: right|pg||
 pc|sA|pg||
 pc|cK|pc|h2|pc|c2|pc|c8|pg||
@@ -162,7 +162,7 @@ pc|h3|nt|westjava: tuan rumah sibuk, ya..?:)|pg||
 pc|c6|pc|s5|pg||
 nt|henryb:  Looks safest to do this: concede the diamond|pg||
 nt|henryb:  now S has to cash or lose the @hA|pg||
-pc|cK|pc|h5|nt|lokaty: witam serdecznie, widzê, ¿e przyszed³em na jaki dziwny kontrakt|pg||
+pc|cK|pc|h5|nt|lokaty: witam serdecznie, widzê, ¿e przyszed³em na jaki dziwny kontrakt|pg||
 pc|cQ|nt|jaapfr: 11 wins|pg||
 nt|blewah: N doesn't know that @cJ is with W|pg||
 pc|c8|pg||
@@ -216,7 +216,7 @@ nt|blewah: 11 is|pg||
 nt|vugraphzpd: He claimed 10|pg||
 nt|blewah: yes. i meant 11 imps|pg||
 nt|jaapfr: re|pg||
-nt|ryskiel_: nie jestem zwolennikiem takiej cienkiej kontry objaniaj¹cej - na m³odszym kolorze to powinien byæ podacol|pg||
+nt|ryskiel_: nie jestem zwolennikiem takiej cienkiej kontry objaniaj¹cej - na m³odszym kolorze to powinien byæ podacol|pg||
 nt|ryskiel_: bo pewnie oni graj¹ WJ 66|pg||
 nt|westjava: this match are 5th rank (Ina 239 VP) vs 6th rank (USA1 234 VP)|pg||
 nt|don_kapu: 2nt opening ?|pg||
@@ -232,7 +232,7 @@ nt|otoj: a multi 2@d|pg||
 nt|vugraphzpd: lekker|pg||
 mb|2H!|nt|3for3: i expect 3@S/P/P/3NT to be very common on this hand|pg||
 nt|3for3: east could double but..|pg||
-nt|ryskiel_: podobno zwolennikiem takiego objaniaka nie jest tak¿e Laska|pg||
+nt|ryskiel_: podobno zwolennikiem takiego objaniaka nie jest tak¿e Laska|pg||
 nt|don_kapu: oh no, 2@D = weak in major or strong balanve hand|pg||
 nt|josj: :)|pg||
 mb|p|nt|roswolf: hmmmmmm another 4@s this time for n/s|pg||
@@ -297,7 +297,7 @@ nt|henryb:  I think 5@s does not make if E-W tap dummy before both their spade w
 nt|henryb:  declarer's best line now is to ruff three clubs in dummy|pg||
 nt|westjava: 4th best without honour|pg||
 pc|c8|nt|jaapfr: 4@S phantom safe|pg||
-pc|cK|nt|lokaty: taka drzemka poniadaniowa widzê:)|pg||
+pc|cK|nt|lokaty: taka drzemka poniadaniowa widzê:)|pg||
 pc|c4|pc|c3|pg||
 pc|hA|nt|ryskiel_: i efektowne mrdum pyrdum|pg||
 pc|h5|pc|h4|pc|h3|pg||
@@ -382,7 +382,7 @@ mb|2C|nt|jaapfr: mb a bit naughty 1nt there:)?|pg||
 nt|blewah: clearly Lasut see his hand differenntly, though 2@c is totally different than 1nt|pg||
 nt|kerasidis: hi henry|pg||
 mb|p|nt|nkgupt: will not be easy to get to a @h game after that nt opening|pg||
-nt|lokaty: jeli kto nie wiedzia³ co to jest "CROSS RUFF", to ta rozgrywka by³a tego najlepsz¹ definicj¹:)|pg||
+nt|lokaty: jeli kto nie wiedzia³ co to jest "CROSS RUFF", to ta rozgrywka by³a tego najlepsz¹ definicj¹:)|pg||
 nt|ryskiel_: w pierwszym to znaczy w poprzednim chcia³em rzec|pg||
 mb|2D|nt|grebrof: the scores are not updated yet http://www.worldbridge.org/tourn/Veldhoven.11/Results.htm|pg||
 nt|roswolf: thinnish 3nt bid and made in the other room|pg||
@@ -410,7 +410,7 @@ mb|p|nt|rnmalik: an ace and J, I would respond.|pg||
 nt|henryb:  not an easy hand to play. but cards lie favorably|pg||
 nt|rnmalik: True. Lose a trick in every suit except spades.|pg||
 nt|don_kapu: Hai, blewah|pg||
-pc|hK|pc|h2|nt|henryb:  i suspect it is too complicated for declarer to get it right|pg||
+pc|hK|pc|h2|nt|henryb:	i suspect it is too complicated for declarer to get it right|pg||
 nt|blewah: For the italians, the sanctity of 5M cannot be disquised with 1NT|pg||
 pc|h6|nt|roswolf: 5@C with NO ruffing value - incroyable|pg||
 nt|3for3: ew will need to kill the spade discard.|pg||
@@ -511,7 +511,7 @@ nt|lokaty: w kara jest szansa na szpica|pg||
 nt|lokaty: witam|pg||
 pc|dK|nt|grebrof: actually +4card@s|pg||
 nt|ahalim: NS can make 11 tricks in @H's|pg||
-nt|lechcold: mam jakie dziwne obawy|pg||
+nt|lechcold: mam jakie dziwne obawy|pg||
 nt|don_kapu: 300|pg||
 nt|henryb:  probably|pg||
 pc|d2|pc|d7|nt|blewah: go Indonesia go :)|pg||
@@ -521,15 +521,15 @@ nt|ryskiel_: witaj NIEZAWODNY Lechu:)|pg||
 nt|lechcold: ach|pg||
 pc|dJ|pg||
 nt|roswolf: now 2@DXX would be interesting|pg||
-nt|lechcold: no ale Schermer musi co wyw¹chaæ..|pg||
-nt|lokaty: doæ ryzykownie graj¹ Ci seniorzy:)|pg||
+nt|lechcold: no ale Schermer musi co wyw¹chaæ..|pg||
+nt|lokaty: doæ ryzykownie graj¹ Ci seniorzy:)|pg||
 nt|lechcold: Laska lubi szlemy|pg||
 nt|lokaty: na pewno ju¿ nie pójdzie w singla|pg||
 nt|lokaty: 50% - 50%:)|pg||
 nt|don_kapu: better than 620|pg||
 nt|alnanda: 4@h make but must play carefully|pg||
 pc|dA|nt|lechcold: górnik|pg||
-nt|ryskiel_: ³agodnie to okreli³e|pg||
+nt|ryskiel_: ³agodnie to okreli³e|pg||
 nt|lokaty: LEGENDA:)|pg||
 pc|d5|pc|d8|nt|3for3: good lead by levin...i dont see how declarer can prevail from here.|pg||
 nt|sybarra: hi all :) |pg||
@@ -545,7 +545,7 @@ nt|ritong: lets watch discards on the @ds|pg||
 pc|sQ|nt|blewah: the downside of multi|pg||
 pc|sK|pg||
 nt|3for3: just has to stay off spade.|pg||
-pc|h3|nt|ryskiel_: ponoæ Napoleon przed awansowaniem oficerów pyta³ czy ma on szczêcie...nasi byliby u niego ju¿ marsza³kami:0|pg||
+pc|h3|nt|ryskiel_: ponoæ Napoleon przed awansowaniem oficerów pyta³ czy ma on szczêcie...nasi byliby u niego ju¿ marsza³kami:0|pg||
 pc|hK|nt|3for3: not sure club was safe, if declarer had AQx would have blown a trick|pg||
 nt|ritong: then decide about @ss|pg||
 nt|jaapfr: system problem|pg||
@@ -574,7 +574,7 @@ mb|3N|mb|p|nt|henryb:  4-3-3-3 16-17|pg||
 mb|4N|nt|dgame: slam interest?|pg||
 mb|p|mb|6D|mb|p|nt|henryb:  Please note Hamilton's old-fashioned failure to open 1N with his off shape 15|pg||
 mb|p|mb|p|pc|hK|nt|blewah: he tried to recover with that quant 4NT?|pg||
-pc|hA|pc|h6|nt|henryb:  which did not keep them out of this bad slam|pg||
+pc|hA|pc|h6|nt|henryb:	which did not keep them out of this bad slam|pg||
 pc|h4|pg||
 nt|dgame: could be a big swing|pg||
 pc|d3|pc|d2|pc|dQ|pc|d6|pg||
@@ -826,7 +826,7 @@ mc|7|pg||
 qx|c8|st||md|2S964HT532DKQ63CT9,SJ7532H74DJT985CA,SAK8HQJ98D4CKJ654,SQTHAK6DA72CQ8732|sv|o|nt|nkgupt: neve and gaviard decided to sell out to 4@s X...not a success|pg||
 nt|roswolf: 10 tricks duly made|pg||
 nt|henryb:  and perhaps South, with his 6-4, has more offensive strength than expected|pg||
-nt|hlortz: /dont know/ that is  sticky n key i have|pg||
+nt|hlortz: /dont know/ that is	sticky n key i have|pg||
 nt|vugraphzpd: they take a small break now, few minutes|pg||
 nt|vugraphzpd: and everybody is back in the room|pg||
 nt|hlortz: we will see if the other n-s can bjd game i doubt wolff-morse play multi |pg||
@@ -851,7 +851,7 @@ nt|vugraphzpd: Selamat soree Jaap|pg||
 mb|p|nt|bobh1: a slam now|pg||
 nt|ritong: then 2@s and?|pg||
 nt|don_kapu: another 5@C vs 4@S|pg||
-nt|garden2005: Laska na jesieñ ¿ycia wróci³ do starej swojej mi³oæi :) ... ca³e swoje ¿ycie uwielbia³ wymawiaæ imiê Jurek (Russyan, Zaremba)|pg||
+nt|garden2005: Laska na jesieñ ¿ycia wróci³ do starej swojej mi³oæi :) ... ca³e swoje ¿ycie uwielbia³ wymawiaæ imiê Jurek (Russyan, Zaremba)|pg||
 mb|2D|nt|alnanda: why selamat pagi uncle J.., are you in America now..?? :)|pg||
 mb|p|nt|roswolf: like that preempt in 3rd|pg||
 nt|roswolf: north might pass|pg||
@@ -922,7 +922,7 @@ nt|don_kapu: @C return|pg||
 nt|jaapfr: hoi joto (too sleepy i am)|pg||
 pc|c6|pg||
 nt|lechcold: agenci donosz¹, ¿e w Open przegrywamy 1:6 po 4 rozdaniach|pg||
-nt|lechcold: a gramy z gron¹ Holandi¹|pg||
+nt|lechcold: a gramy z gron¹ Holandi¹|pg||
 nt|ryskiel_: w otwartym nasi w 5 rozdaniu s¹ w licytacji...powinien byæ zysk jeszcze grubszy ni¿ wygenerowany na tym stole|pg||
 nt|don_kapu: +0|pg||
 pc|s2|pc|s8|nt|roswolf: the roof falls in - i think east earnt this result|pg||
@@ -1102,10 +1102,10 @@ nt|vugraphzpd: don't think so|pg||
 nt|grebrof: http://www.worldbridge.org/tourn/saopaulo.09/Asp/knockoutphasezr.asp?qtournid=787&qphase=QF|pg||
 nt|szalay: a bit lucky slam is coming, doubt they wd bid it|pg||
 nt|jaapfr: ok bets on kibs: 6@H or 5@H or 4@H NS???|pg||
-nt|ryskiel_: niemodelowe otwarcie mo¿e przynieæ zysk|pg||
+nt|ryskiel_: niemodelowe otwarcie mo¿e przynieæ zysk|pg||
 mb|1C|nt|jaapfr: place your bets|pg||
 nt|alunand14: 6 @H|pg||
-nt|lokaty: 4 @H k³ad³ za to pikowy w³anie|pg||
+nt|lokaty: 4 @H k³ad³ za to pikowy w³anie|pg||
 mb|1S|nt|grebrof: Sweden went out vs the later winners China|pg||
 nt|henryb:  4@h is on the @h guess|pg||
 nt|henryb:  what do N-S play over 1N? We will find out!|pg||
@@ -1163,7 +1163,7 @@ nt|3for3: that doesnt really pay on the WBF scale.  You win or lose VP's regardl
 pc|c9|pg||
 pc|h7|nt|grebrof: a more agressive E would have bid the @s-suit|pg||
 pc|c4|pc|hT|nt|3for3: and -41 is not large enough....they would still get 6 vp's for that result.|pg||
-nt|sybarra: I am reminded,  n/s may not think they are behind,  this table has been pretty good |pg||
+nt|sybarra: I am reminded,  n/s may not think they are behind,	this table has been pretty good |pg||
 nt|3for3: well done...|pg||
 nt|vugraphzpd: given explanations|pg||
 nt|sybarra: not an easy lead from E hand |pg||
@@ -1178,12 +1178,12 @@ pc|cQ|pc|cA|pc|d2|nt|bobh1: better to have played @Ds|pg||
 nt|kamyk: witajcie, na chwilê sie przysi¹dê|pg||
 nt|garden2005: witaj Kamyku drogi :)|pg||
 nt|lokaty: dzieñ dobry:)|pg||
-nt|lechcold: mo¿e to bêdzie szczêliwy Kamyk?:)|pg||
-nt|ryskiel_: Ty Karolu nie b¹d taki himilsbach|pg||
+nt|lechcold: mo¿e to bêdzie szczêliwy Kamyk?:)|pg||
+nt|ryskiel_: Ty Karolu nie b¹d taki himilsbach|pg||
 nt|lechcold: niestety w Open ju¿ 17:6 dla Holendrów|pg||
-nt|kamyk: "ciskaj¹c w rêku kamyk zielony"?|pg||
-nt|garden2005: tak, szczêliwy bo Laska wemie nienale¿n¹ nadróbkê |pg||
-nt|lechcold: w  5 przybronili 6@D przy pomocy 5@Sx i zarobili 11 imp (Holendrzy)|pg||
+nt|kamyk: "ciskaj¹c w rêku kamyk zielony"?|pg||
+nt|garden2005: tak, szczêliwy bo Laska wemie nienale¿n¹ nadróbkê |pg||
+nt|lechcold: w	5 przybronili 6@D przy pomocy 5@Sx i zarobili 11 imp (Holendrzy)|pg||
 nt|kamyk: ponoæ pierwotnie by³o "sciskaj¹c w rêku parê zielonych", ale cenzura siê spzeciwi³a|pg||
 nt|ryskiel_: Laska bierze nienale¿ne nadróbki prawie zawsze...jak Laska rozgrywa to ja jestem spokojny...w przeciwieñstwie do licytacji:)|pg||
 pc|c3|pg||
@@ -1308,15 +1308,15 @@ nt|vugraphzpd: Levin asked if Sabine had nothing she is pretended to pass over 2
 nt|vugraphzpd: i dont know what intentions had Sabine when saying 2 clubs seeing her hand|pg||
 pc|h2|pg||
 nt|jaapfr: just claim 3nt+1:)|pg||
-nt|garden2005: Laska na czasy seniorskie sta³ sie mniej nerwowy. Kiedy 30 lat temu tak siê na Jurka Zarembê w dyskusji poturniejowej zdenerwowa³ i pok³óci³, ¿e bêd¹c na campingu chwyci³ kuchenny ...|pg||
-nt|garden2005: hmm .. i pogoni³ za uciekaj¹cym JZ :) ... stare piekne opowieci|pg||
+nt|garden2005: Laska na czasy seniorskie sta³ sie mniej nerwowy. Kiedy 30 lat temu tak siê na Jurka Zarembê w dyskusji poturniejowej zdenerwowa³ i pok³óci³, ¿e bêd¹c na campingu chwyci³ kuchenny ...|pg||
+nt|garden2005: hmm .. i pogoni³ za uciekaj¹cym JZ :) ... stare piekne opowieci|pg||
 pc|s4|nt|alpagavp: well done|pg||
 nt|mikael_w: this board would be REALLY intresting playwise in pairs :)|pg||
 nt|blewah: for a push|pg||
 nt|jaapfr: y|pg||
 nt|don_kapu: try to drop @C|pg||
 nt|vugraphzpd: he is thinking about @C10|pg||
-nt|lechcold: w rozdaniu 7 nasi w Open nie zdo³ali dograæ koñcówki....hmhmhm, co  le siê dzieje|pg||
+nt|lechcold: w rozdaniu 7 nasi w Open nie zdo³ali dograæ koñcówki....hmhmhm, co  le siê dzieje|pg||
 pc|s6|nt|grebrof: 2@s shows the @c suit I am told - thank you|pg||
 nt|sybarra: I think she was going to pass anything Arnim bid|pg||
 nt|sybarra: she has a 5 count opposite 10-12,  so she knows opps have more points|pg||
@@ -1331,7 +1331,7 @@ nt|alpagavp: twelve tricks no finesse|pg||
 nt|roswolf: NOW THE SLAM TRY|pg||
 pc|sJ|pg||
 nt|alpagavp: claim :)|pg||
-pc|h5|nt|ryskiel_: Laska w pocigu...dlaczego wtedy nie by³o kamerek do filmowania:(|pg||
+pc|h5|nt|ryskiel_: Laska w pocigu...dlaczego wtedy nie by³o kamerek do filmowania:(|pg||
 pc|h4|nt|grebrof: with the @c-finesse on, this would make 3nt|pg||
 pc|s5|nt|rnmalik: Bad miss for USA.|pg||
 pc|h8|pg||
@@ -1382,7 +1382,7 @@ nt|alunand14: Jaap : penonton hening sejenak :(|pg||
 nt|jaapfr: boleh Pk:)|pg||
 mb|1D|mb|p|nt|jaapfr: now life?|pg||
 mb|2N|nt|3for3: 2@D showed hearts, I assume..Arnim probably will bid spades at her next chance.|pg||
-nt|ryskiel_: ja za to kiedy widzia³em jak p. Henio kulawik (ok 160 kg ) próbowa³ goniæ partnera...tamten jednak nazywa³ siê odpowiednio - B¹k wiêc zwia³|pg||
+nt|ryskiel_: ja za to kiedy widzia³em jak p. Henio kulawik (ok 160 kg ) próbowa³ goniæ partnera...tamten jednak nazywa³ siê odpowiednio - B¹k wiêc zwia³|pg||
 nt|jaapfr: a razoeblade sharp 6@C C?|pg||
 nt|jaapfr: razorblade|pg||
 mb|p|mb|3H!|nt|nkgupt: think if raising to 3nt sud have a K if done w/ only 4 hcp|pg||
@@ -1415,9 +1415,9 @@ nt|vugraphzpd: quick claim 9 tricks|pg||
 nt|jaapfr: amat baik:)|pg||
 mb|4S|mb|p|nt|bobh1: cant go down|pg||
 nt|nkgupt: as visible ...the 3nt seem to hav no chance even after getting a trick on the opening lead|pg||
-mb|p|nt|garden2005: Kiedy z JZ wracali autostrad¹ przez Alpy... Laska kieruj¹cy traci³ wzrok bo jak twierdzi³ coraz silniejsza mg³a nastawa³a. Jak zwolnil do 10km/h to kaza³ Jurkowi otworzyæ okno od ...|pg||
+mb|p|nt|garden2005: Kiedy z JZ wracali autostrad¹ przez Alpy... Laska kieruj¹cy traci³ wzrok bo jak twierdzi³ coraz silniejsza mg³a nastawa³a. Jak zwolnil do 10km/h to kaza³ Jurkowi otworzyæ okno od ...|pg||
 nt|garden2005: pasa¿era by wychyli³ g³owe i mu pomóg³ prowadziæ ... bo ju¿ nic nie widzi.|pg||
-nt|lechcold: parszywe podzia³y, szlemik w zakryte karty wygl¹da ca³kiem niele|pg||
+nt|lechcold: parszywe podzia³y, szlemik w zakryte karty wygl¹da ca³kiem niele|pg||
 nt|lechcold: ale czujny stop|pg||
 mb|p|nt|blewah: :) bagus :)|pg||
 nt|jaapfr: 4@S does not feel right|pg||
@@ -1454,7 +1454,7 @@ nt|henryb:  weird|pg||
 pc|s9|nt|bobh1: eschewing the finesse|pg||
 pc|c6|pc|d2|pc|sJ|pg||
 nt|jaapfr: can you see how many pairs ended in 3nt?|pg||
-pc|h9|pc|hA|nt|henryb:  so he has 3@s in hand, 2@h, @h ruff, and 3@c and a @d|pg||
+pc|h9|pc|hA|nt|henryb:	so he has 3@s in hand, 2@h, @h ruff, and 3@c and a @d|pg||
 pc|h7|pc|d4|pg||
 nt|bobh1: but hoping to coax a cover|pg||
 nt|westjava: i dont understand why manoppo put the q of @S|pg||
@@ -1517,7 +1517,7 @@ nt|bobh1: a courageous double by N|pg||
 nt|bobh1: 4@H is a decent spot but the distribution is heart-breaking|pg||
 nt|roswolf: i would have preempted as north|pg||
 nt|blewah: 8 tables in Senior so far have played bd 28|pg||
-nt|lokaty: nadzieje na zysk skoñczy³a siê -7, bo przeciwnicy pucili lewê na 5@H z kontr¹|pg||
+nt|lokaty: nadzieje na zysk skoñczy³a siê -7, bo przeciwnicy pucili lewê na 5@H z kontr¹|pg||
 mb|3S|mb|p|nt|nkgupt: @c lead required to beat 6@s...else on due to lucky qj@h falling|pg||
 nt|ryskiel_: od -2 do -3|pg||
 mb|4S|nt|3for3: ok, another big swing in the works|pg||
@@ -1553,8 +1553,8 @@ pc|sK|nt|sybarra: the 3 @D bid,  probably gave some hints |pg||
 nt|grebrof: the swidish girls have been playing very well so far - as a lso the result indicate|pg||
 nt|grebrof: swedish even...|pg||
 nt|jaapfr: +1 can|pg||
-pc|s5|nt|jkotor: pik do sto³u kier do rêki i potem W nie ma odejcia po A@s jeli E zagra trefla na promocje|pg||
-nt|jkotor: ale to w widne, bo nie wiadomo, kto ma jakiego Asa (no i mog¹ ci¹gn¹æ pika i odepchn¹æ siê kierem)|pg||
+pc|s5|nt|jkotor: pik do sto³u kier do rêki i potem W nie ma odejcia po A@s jeli E zagra trefla na promocje|pg||
+nt|jkotor: ale to w widne, bo nie wiadomo, kto ma jakiego Asa (no i mog¹ ci¹gn¹æ pika i odepchn¹æ siê kierem)|pg||
 nt|ryskiel_: piêknie Kuba...|pg||
 nt|lokaty: wa¿ne, ¿e 3 NT da siê wygraæ na przymuso-wpustce|pg||
 pc|s3|nt|roswolf: this might be difficult to make if trums are guessed wrong|pg||
@@ -1568,16 +1568,16 @@ pc|d4|nt|sybarra: re @H's and that hand may not be beaking |pg||
 nt|jaapfr: ty Karen:)|pg||
 pc|d5|pc|dK|nt|roswolf: north may profit from his initial silence|pg||
 pc|dA|pg||
-pc|d8|pc|dQ|nt|henryb:  with @h apparently 5-2, declarer might be tempted to finesse @sJ|pg||
+pc|d8|pc|dQ|nt|henryb:	with @h apparently 5-2, declarer might be tempted to finesse @sJ|pg||
 nt|henryb:  I would be|pg||
 pc|d6|nt|grebrof: Sweden is leading the whole RR while Canada are currently 14 - the best 8 goes into the playoffs|pg||
 nt|grebrof: http://www.worldbridge1.org/tourn/Veldhoven.11/Microsite/RunningScores/ASP/RoundTeamsConditStatClassicMod.asp?redirect=1&qtournid=882|pg||
 nt|grebrof: link to running scores|pg||
 pc|d9|pg||
 nt|ritong: pour trois donnes|pg||
-nt|ryskiel_: i Ty mylisz, ¿e nasi to wykonaj¹? daj im Bo¿ê:)|pg||
+nt|ryskiel_: i Ty mylisz, ¿e nasi to wykonaj¹? daj im Bo¿ê:)|pg||
 pc|hA|pc|h2|nt|bobh1: i like this play|pg||
-nt|hlortz: vivaldi did  nice call on that play|pg||
+nt|hlortz: vivaldi did	nice call on that play|pg||
 nt|jkotor: i nawet punkty na dogranie tych 3nt s¹|pg||
 pc|h3|pc|h6|pg||
 nt|ritong: donc, trois coups de 13 potentiels:)|pg||
@@ -1826,7 +1826,7 @@ nt|jaapfr: 4@H C and 5@D-1 here|pg||
 nt|westjava: ....and this is the last board in the mid night...|pg||
 mb|1D|nt|3for3: Shirley|pg||
 nt|sybarra: thx Danny always a pleasure |pg||
-nt|sybarra: and thx Felipe,  great job   |pg||
+nt|sybarra: and thx Felipe,  great job	 |pg||
 mb|p|nt|3for3: big club|pg||
 nt|sybarra: and thanks to all of the specs for your great comments,   lots of fun |pg||
 mb|1S|nt|bobh1: y thx harold|pg||
@@ -1872,7 +1872,7 @@ nt|jaapfr: perfect pressure bid 5@D|pg||
 mb|p|nt|roswolf: power bidding|pg||
 mb|p|mb|p|nt|grebrof: 4 @s must be better than this|pg||
 nt|3for3: meyers cant be sad defending with 6 trump is always fun|pg||
-nt|sybarra: if Sabine passes,   might have been -2 and tied match?|pg||
+nt|sybarra: if Sabine passes,	might have been -2 and tied match?|pg||
 nt|3for3: i think it would have been better than that for ew.|pg||
 nt|ritong: il va tabler très vite|pg||
 nt|lokaty: dwa ostatnie rozdania nieciekawe|pg||
