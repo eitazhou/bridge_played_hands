@@ -2,7 +2,7 @@ vg|NTU Cup Finals,Segment 1_3,I,1,12,CGU Banana,1,BTU 97,0|
 rs|2DE-1,2DE-1,4HN=,4SWx-5,3DS+1,3NS-2,7CW=,7CW=,3HW=,3HW=,2CN-1,1NW+1,3CS-2,PASS,1NSx=,3HS-1,4SN-1,4SN-1,3NS=,6SN-3,3SN-1,4HW-1,4SW-2,4SW-2|
 pn|Y.D.Dai,L.C.Chen,C.H.Hung,P.H.Hao,Y.Y.Su,Y.H.Chen,C.Y.Ho,H.W.Huang|pg||
 qx|o1|st||md|3S82HKQT3DK6CA8653,SKT973H542DCKJT74,SAQ654H97DQ874C92|sv|o|mb|p|mb|1D|mb|1H|mb|1S|nt|lorderic: south makes a 4-card overcall|pg||
-nt|Kyosuke326:  A last-bid-get-zero hand|pg||
+nt|Kyosuke326:	A last-bid-get-zero hand|pg||
 mb|p|nt|lorderic: we saw he did the same thing last segment|pg||
 mb|2D|mb|p|mb|p|nt|lorderic: although W has no @D, pass is the only bid|pg||
 mb|p|nt|lorderic: when there's no fit, you want the contract to be as low as possible|pg||
@@ -15,7 +15,7 @@ pc|c9|pc|cQ|pc|cA|pc|c7|pg||
 nt|lorderic: looks like -1 and a push|pg||
 pc|hT|pc|s7|pc|dQ|pc|hJ|pg||
 pc|sA|pc|sJ|mc|7|pg||
-qx|c1|st||md|3S82HKQT3DK6CA8653,SKT973H542DCKJT74,SAQ654H97DQ874C92|sv|o|mb|p|mb|1D|mb|p|mb|1S|nt|wkc:  test test|pg||
+qx|c1|st||md|3S82HKQT3DK6CA8653,SKT973H542DCKJT74,SAQ654H97DQ874C92|sv|o|mb|p|mb|1D|mb|p|mb|1S|nt|wkc: test test|pg||
 mb|p|mb|2D|mb|p|nt|wkc:  hi, welcome back to the final of NTU cup|pg||
 mb|p|mb|p|pc|hK|nt|wkc:  it will be a 36 boards match between these two teams|pg||
 pc|h2|pc|h7|pc|hA|pg||
@@ -132,7 +132,7 @@ pc|c7|pc|c3|pg||
 mc|13|pg||
 qx|c4|st||md|2SKT6532HK854DJ9C3,SAH9DAKQ75CAT8542,S9874HJT76DT63CQ6|sv|b|nt|wkc:  the first slam|pg||
 mb|1C|nt|wkc:  7@C is much better than 7@D and 7NT|pg||
-mb|p|mb|1H|mb|1S|mb|2D|nt|wkc:  but with @D 3-2, all contract makes|pg||
+mb|p|mb|1H|mb|1S|mb|2D|nt|wkc:	but with @D 3-2, all contract makes|pg||
 nt|wkc:  but it's hard to reach there|pg||
 mb|2S|an|bcd raise|mb|4C|mb|p|nt|wkc:  and NS makes it even harder|pg||
 nt|wkc:  but W didn't need much to reach a slam|pg||
@@ -318,7 +318,7 @@ pc|c3|pc|c9|pc|s4|pc|c5|pg||
 pc|h3|pc|hQ|pc|hK|pc|hA|pg||
 pc|s7|pc|s5|pc|sK|pc|sA|pg||
 pc|cA|pc|c4|pc|h6|pc|c7|pg||
-nt|Kyosuke326:  !!|pg||
+nt|Kyosuke326:	!!|pg||
 pc|c2|pc|cQ|pc|s6|pc|c8|pg||
 pc|sJ|pc|d2|pc|h8|pc|sT|pg||
 pc|s9|pc|d3|pc|c6|pc|h2|pg||
@@ -355,7 +355,7 @@ mb|p|mb|1N|mb|p|mb|2D!|nt|Kyosuke326:  with @C QJx there is still a chance|pg||
 nt|lorderic: slightly better than 13 IMPs loss|pg||
 mb|p|mb|2N|mb|p|mb|3S|mb|p|mb|3N|mb|p|nt|lorderic: or deep finesse in @D if the lead is not a heart|pg||
 mb|p|mb|p|nt|lorderic: they do even better - choose 3NT!|pg||
-nt|Kyosuke326:  3NT is the best spot there|pg||
+nt|Kyosuke326:	3NT is the best spot there|pg||
 pc|cQ|nt|by: on the dangerous heart lead, take it and duck a spade.|pg||
 pc|c2|pc|c7|nt|by: declarer was not tested|pg||
 pc|cK|pg||
@@ -416,7 +416,7 @@ pc|s4|pc|s8|pc|h2|pc|s9|pg||
 pc|sQ|pc|s6|pc|c3|pc|h6|pg||
 pc|dT|pc|d5|pc|d2|nt|lorderic: i have no idea how the @DT works|pg||
 pc|dJ|pg||
-nt|Kyosuke326:  Netiher I|pg||
+nt|Kyosuke326:	Netiher I|pg||
 mc|8|pg||
 qx|c11|st||md|1ST87HJ3DA632CAK53,SAHAQ9762DQJ4CJ82,SQJ953H85DKT97CT4|sv|o|mb|1N|mb|2C|mb|2S|mb|p|mb|p|mb|3H|mb|p|mb|4H|mb|p|mb|p|mb|p|pc|sQ|pc|s2|pc|s8|pc|sA|pg||
 pc|hA|pc|h5|pc|h4|pc|h3|pg||
