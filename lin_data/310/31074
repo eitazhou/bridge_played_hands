@@ -40,10 +40,10 @@ pc|hJ|pc|d7|pc|dT|pc|h6|pg||
 pc|h3|pc|c4|pc|s3|pc|h9|pg||
 pc|c6|pc|c9|pc|d4|pc|c2|pg||
 pc|d6|pc|dQ|mc|10|pg||
-qx|c2|st||md|4SA65HAKJ73DQ954CA,ST94H4DAJ872C7432,SKQ8732HTDT3CQT65,SJHQ98652DK6CKJ98|sv|n|mb|p|mb|1H|mb|p|nt|mic35:  bonjour Ã  tous|pg||
+qx|c2|st||md|4SA65HAKJ73DQ954CA,ST94H4DAJ872C7432,SKQ8732HTDT3CQT65,SJHQ98652DK6CKJ98|sv|n|mb|p|mb|1H|mb|p|nt|mic35:  bonjour Ã  tous|pg||
 mb|1S|mb|p|mb|3D|mb|p|nt|mic35:  1Ã¨re Ã©dition de l'open de Paris, 26 Ã©qauipes en prÃ©sence|pg||
 mb|3N|mb|p|mb|p|mb|p|pc|c8|pc|cA|pc|c2|pc|c5|pg||
-nt|mic35:  un contrat qui ne passera pas Ã  la postÃ©ritÃ©, 9 levÃ©es de tÃªte|pg||
+nt|mic35:  un contrat qui ne passera pas Ã  la postÃ©ritÃ©, 9 levÃ©es de tÃªte|pg||
 pc|s5|pc|s9|pc|sK|pc|sJ|pg||
 pc|s2|pc|h2|pc|sA|pc|s4|pg||
 pc|s6|pc|sT|nt|mic35:  mais un contrat meilleur que 4@s, qui pourrait Ãªtre battu|pg||
@@ -84,7 +84,7 @@ pc|h3|pc|h6|nt|mic35:  il dispose de plusieurs possibilitÃ©s|pg||
 pc|hT|pg||
 nt|mic35:  mais le manque de communications avec le mort restreint ses choix|pg||
 pc|dJ|pc|d6|pc|d7|nt|mic35:  jouer sur l'impasse @c le priverait immÃ©diatement de son unique remontÃ©e|pg||
-nt|mic35:  il n'y a pas d'urgence, si la Dame de @c est placÃ©e en dÃ©but de coup, elle le sera toujours Ã  la fin|pg||
+nt|mic35:  il n'y a pas d'urgence, si la Dame de @c est placÃ©e en dÃ©but de coup, elle le sera toujours Ã  la fin|pg||
 pc|dK|pg||
 pc|d3|nt|mic35:  le Roi de @c pourrait permettre d'aller rÃ©cupÃ©rer la Dame de @h qui aurait Ã©tÃ© affranchie|pg||
 pc|dA|pc|d4|pc|d8|pg||
@@ -121,7 +121,7 @@ pc|h3|pg||
 nt|Walddk2: If you have any excuse whatsoever, don't let opps play in a fit at the 2-level. West had an excuse: cards and ideal shape.|pg||
 nt|gio 89: declarer should have no problem bringing out 8 or even 9 tricks now|pg||
 nt|gio 89: *bringing home|pg||
-nt|Authau: K@s  10@s ...|pg||
+nt|Authau: K@s	10@s ...|pg||
 pc|hT|nt|Authau: or trump, all to +1|pg||
 pc|h2|pc|hK|pc|h4|pg||
 pc|sQ|pc|s4|pc|sK|pc|s5|pg||
@@ -138,14 +138,14 @@ qx|c4|st||md|2SKT3HT93DAQT93C53,SA975HA2DKJ2CAQJT,SQJHKQ765D864CK87,S8642HJ84D75
 pc|h2|pc|hQ|pc|h4|pg||
 pc|h5|pc|h8|pc|h3|pc|hA|pg||
 pc|s5|pc|sJ|pc|s2|pc|s3|pg||
-nt|mic35:  mais il a dÃ©jÃ  montrÃ© une main forte par son ouverture de 1@c|pg||
+nt|mic35:  mais il a dÃ©jÃ  montrÃ© une main forte par son ouverture de 1@c|pg||
 pc|sQ|pc|s4|pc|sT|pc|sA|pg||
 pc|cA|pc|c7|pc|c2|pc|c5|pg||
 pc|cT|nt|mic35:  nul doute qu'avec un peu de jeu, Est aurait fait une enchÃ¨re un peu plus encourageante|pg||
 pc|cK|pc|c4|pc|c3|pg||
 pc|d4|pc|d5|pc|dA|pc|d2|pg||
 mc|8|pg||
-qx|o5|st||md|3SQT74HQ73DQ76CT98,SKHAK92DKT9CAJ764,SA862HJT64D52CQ32,SJ953H85DAJ843CK5|sv|n|nt|Walddk2: This is not so easy to see, but West is actually Bas van Beijsterveldt. There is no room for all of it. The software only allows 10 characters, so even  v Beijsterveldt would not ...|pg||
+qx|o5|st||md|3SQT74HQ73DQ76CT98,SKHAK92DKT9CAJ764,SA862HJT64D52CQ32,SJ953H85DAJ843CK5|sv|n|nt|Walddk2: This is not so easy to see, but West is actually Bas van Beijsterveldt. There is no room for all of it. The software only allows 10 characters, so even	v Beijsterveldt would not ...|pg||
 nt|Walddk2: fit.|pg||
 mb|p|mb|p|mb|p|mb|1C|mb|p|mb|1D|mb|p|mb|2H|nt|Walddk2: Beijsterve   would be the best our operator can do.|pg||
 mb|p|mb|2S!|mb|p|mb|3C|nt|Walddk2: I am told that West is not Bas, but Niels. They are not related.|pg||
@@ -248,15 +248,15 @@ pc|c9|pc|dT|pc|dJ|pc|hK|pg||
 nt|gio 89: should have played 10@H from dummy, -2 now|pg||
 pc|sT|pc|hQ|pc|dQ|pc|dK|pg||
 pg||
-qx|c6|st||md|4SJ9HAQ9DA86CKJ986,S843H4DQT943CAQ32,SK62HT8763DKJ2C74,SAQT75HKJ52D75CT5|sv|e|mb|1S|nt|mic35:  qui, Ã  mon avis, aurait pu se sÃ©parer d'un @h, une fois qu'il n'y en avait plus que 3 au mort|pg||
+qx|c6|st||md|4SJ9HAQ9DA86CKJ986,S843H4DQT943CAQ32,SK62HT8763DKJ2C74,SAQT75HKJ52D75CT5|sv|e|mb|1S|nt|mic35:  qui, Ã  mon avis, aurait pu se sÃ©parer d'un @h, une fois qu'il n'y en avait plus que 3 au mort|pg||
 mb|2C|mb|2S|mb|p|mb|p|nt|mic35:  ouverture "light"|pg||
 nt|vugraphzcn: presque trop fort pour un junior :p|pg||
 nt|mic35:  hehe:)|pg||
 nt|mic35:  un Contre de rÃ©veil en Sud?|pg||
-mb|3C|mb|p|mb|3N|mb|p|nt|mic35:  avec toutes ces cartes mal placÃ©es, le dÃ©clarant ne va pas Ãªtre Ã  la fÃªte, quel que soit le contrat|pg||
-mb|p|mb|d|nt|mic35:  Ouest contre, au nom de sa forte opposition Ã  @c|pg||
+mb|3C|mb|p|mb|3N|mb|p|nt|mic35:  avec toutes ces cartes mal placÃ©es, le dÃ©clarant ne va pas Ãªtre Ã  la fÃªte, quel que soit le contrat|pg||
+mb|p|mb|d|nt|mic35:  Ouest contre, au nom de sa forte opposition Ã  @c|pg||
 nt|mic35:  si Est entame @c, le flanc prend les 7 premiÃ¨res levÃ©es|pg||
-mb|4C|mb|p|mb|p|mb|d|mb|p|mb|p|mb|p|nt|mic35:  sauveatge Ã  4@c|pg||
+mb|4C|mb|p|mb|p|mb|d|mb|p|mb|p|mb|p|nt|mic35:  sauveatge Ã  4@c|pg||
 nt|mic35:  qui va Ãªtre contrÃ© rapidement|pg||
 pc|h4|nt|vugraphzcn: effectivement|pg||
 nt|mic35:  pour probablement le mÃªme dÃ©gÃ¢t|pg||
@@ -265,7 +265,7 @@ nt|Authau: Bonjour à Toutes et Tous|pg||
 nt|diana_eva:  Bjr. Mci J-L and Michael :)|pg||
 nt|vugraphzcn: Hello|pg||
 nt|mic35:  bonjour Jean-Luc|pg||
-pc|cJ|nt|mic35:  un peu d'aide n'est pas de refus, c'est plus sympa Ã  deux|pg||
+pc|cJ|nt|mic35:  un peu d'aide n'est pas de refus, c'est plus sympa Ã  deux|pg||
 nt|Authau: Bjr Michael:) et Benjamin|pg||
 pc|cQ|pc|c4|pc|c5|pg||
 pc|s3|pc|s2|pc|sQ|pc|s9|pg||
@@ -304,7 +304,7 @@ pc|hQ|pc|hJ|pc|d3|pc|h8|pg||
 pc|dA|mc|10|nt|gio 89: or 3@C looking for 5@S sorry|pg||
 pg||
 qx|c7|st||md|1SJ9H8742DK875C853,SA7HAKQDAJ94CKQ74,ST6542HJ96DQ6CAT9,SKQ83HT53DT32CJ62|sv|b|nt|Authau: c'est possible mais de ce que j'ai vu ds l'autre salle, il y a une différence de niveau énorme|pg||
-nt|mic35:  un coup qui va faire mal Ã  Nord, aprÃ¨s le 3SA livrÃ© sur la donne prÃ©cÃ©dente|pg||
+nt|mic35:  un coup qui va faire mal Ã  Nord, aprÃ¨s le 3SA livrÃ© sur la donne prÃ©cÃ©dente|pg||
 nt|vugraphzcn: oui c 'est possibe mais c'est une belle équipe d'Allemagne que nosu avons là|pg||
 mb|p|mb|2C!|an|SEmiforcing major or any GF|nt|mic35:  oui, les Allemands ont l'air plus costauds|pg||
 mb|p|mb|2D!|mb|p|mb|2N|nt|mic35:  et puis c'est le premier match, ce n'est pas toujours Ã©vident de bien rentrÃ© dans une compÃ©tition|pg||
@@ -317,7 +317,7 @@ nt|Authau: j'ai des "sources" sur place|pg||
 pc|s3|pc|sJ|pc|sA|pg||
 pc|c4|pc|c9|pc|cJ|pc|c3|pg||
 nt|Authau: donc 2@d relais |pg||
-nt|mic35:  ce n'est pas cette donne qui va permettre Ã  NS de combler le retard|pg||
+nt|mic35:  ce n'est pas cette donne qui va permettre Ã	NS de combler le retard|pg||
 nt|Authau: 2SA 23+ bal fg|pg||
 pc|dT|pc|d5|pc|d4|pc|dQ|pg||
 pc|s2|pc|sK|pc|s9|pc|s7|pg||
@@ -410,9 +410,9 @@ pc|hQ|nt|paulg:  hi everyone|pg||
 mc|10|nt|gio 89: Hi paul :)|pg||
 pg||
 qx|c9|st||md|3S875HA9DQ76CKQ982,SKT6HQ65DJ98CAT74,SAQ92HJDAT532CJ65,SJ43HKT87432DK4C3|sv|e|nt|Authau: il doit être soulagé:)|pg||
-mb|1D|mb|2H!|an|weak|nt|mic35:  un peu de baume au coeur :)|pg||
+mb|1D|mb|2H!|an|weak|nt|mic35:	un peu de baume au coeur :)|pg||
 mb|2N|mb|3H!|mb|d|mb|p|nt|Authau: humm, je n'aime pas 2SA|pg||
-nt|mic35:  non, il ne faut pas jouer Ã  SA en NS|pg||
+nt|mic35:  non, il ne faut pas jouer Ã	SA en NS|pg||
 mb|p|mb|p|nt|Authau: mais S a une enchère délicate|pg||
 pc|cK|nt|Authau: passe très engagé...|pg||
 nt|mic35:  rien d'Ã©vident effectivement, Contre peut Ãªtre|pg||
@@ -475,7 +475,7 @@ nt|gio 89: partner showed a strong hand with @Hs west decided to go for game|pg|
 mb|1S|mb|3D|nt|gio 89: sorry didnt see E bid 3nt directly|pg||
 nt|gio 89: even easier :)|pg||
 mb|p|mb|p|nt|vugraphzbd: sry|pg||
-mb|p|nt|paulg:  I expect we'll see a number of mismatches in this tournament given the different experience levels of the teams|pg||
+mb|p|nt|paulg:	I expect we'll see a number of mismatches in this tournament given the different experience levels of the teams|pg||
 pc|c6|nt|gio 89: probably :)|pg||
 pc|cA|pc|c5|pc|c4|pg||
 pc|hJ|nt|paulg:  But I wish I'd had such an opportunity to play international bridge when I was their age|pg||
@@ -536,17 +536,17 @@ pc|h9|pc|hQ|pc|hJ|pc|h6|pg||
 nt|Walddk2: Well done.|pg||
 mc|8|nt|Walddk2: Getting out for 300.|pg||
 pg||
-qx|c12|st||md|2STHA92DQ765CAK874,SA7632HKQT74D2CJ9,SKQ5HJ3DAK843CQT5,SJ984H865DJT9C632|sv|n|mb|1S|mb|1N|mb|p|nt|mic35:  un 3SA tranquille|pg||
+qx|c12|st||md|2STHA92DQ765CAK874,SA7632HKQT74D2CJ9,SKQ5HJ3DAK843CQT5,SJ984H865DJT9C632|sv|n|mb|1S|mb|1N|mb|p|nt|mic35:	un 3SA tranquille|pg||
 nt|mic35:  difficile d'appeler 6@d|pg||
 mb|3N|mb|p|mb|p|mb|p|pc|s8|nt|mic35:  Si Nord Ã©tait intervenu par 2@d, cela restait possible|pg||
 pc|sT|nt|mic35:  mais l'intervention par 1SA est bien meilleure|pg||
 nt|vugraphzcn: alors que l'Allemagne pendant ce temps continue d'engendrer les imps|pg||
-nt|mic35:  du coup, Sud, avec une main un peu juste pour envisager un chelem, est refroidi avec des points Ã  @s a priori perdus en face de son singleton|pg||
+nt|mic35:  du coup, Sud, avec une main un peu juste pour envisager un chelem, est refroidi avec des points Ã  @s a priori perdus en face de son singleton|pg||
 nt|Authau: toujours pas de lien pour les scores Ben ?|pg||
 nt|vugraphzcn: non hélas|pg||
 nt|vugraphzcn: longue réflexion d'O|pg||
-nt|mic35:  il ne sait pas que le dÃ©clarant va faire 12 levÃ©es quelques soit son choix Ã  la premiÃ¨re levÃ©e|pg||
-nt|Authau: http://www.ffbridge.asso.fr/sites/index.php?site=60       lien du site|pg||
+nt|mic35:  il ne sait pas que le dÃ©clarant va faire 12 levÃ©es quelques soit son choix Ã  la premiÃ¨re levÃ©e|pg||
+nt|Authau: http://www.ffbridge.asso.fr/sites/index.php?site=60	     lien du site|pg||
 pc|s7|pc|s5|pg||
 pc|d5|pc|d2|pc|dA|pc|d9|pg||
 nt|Authau: oui @c et @d 3-2|pg||
@@ -649,7 +649,7 @@ pc|h8|pc|h9|pc|h3|nt|Authau: oui le contrat gagne facilement|pg||
 pc|hQ|pg||
 pc|cJ|pc|cQ|pc|cK|nt|Authau: ça se précise|pg||
 pc|c7|pg||
-nt|mic35:  il n'y a plus qu'Ã  donner le Roi de @s et l'As de @c|pg||
+nt|mic35:  il n'y a plus qu'Ã  donner le Roi de @s et l'As de @c|pg||
 pc|cT|pc|c3|pc|c2|pc|c4|pg||
 pc|c6|pc|cA|pc|c5|pc|s4|pg||
 pc|h6|pc|hA|pc|h5|pc|hT|pg||
@@ -681,10 +681,10 @@ pc|sJ|pc|s2|pc|s3|pc|sK|pg||
 mc|11|pg||
 qx|c15|st||md|1SQJT954HAKT3D4C92,S72HQ974DKT876CT7,SA863H62DA95CKQ43,SKHJ85DQJ32CAJ865|sv|n|mb|1S|mb|p|mb|2C|mb|p|nt|mic35:  vont-ils jouer 6@s avec deux clÃ©s manquantes?|pg||
 mb|2S|mb|p|mb|4S|mb|p|nt|Authau: "petite" ouverture en S, mais 6/4 Majeur concentré|pg||
-mb|p|mb|p|nt|mic35:  2@s promet 4 cartes Ã  @h?|pg||
+mb|p|mb|p|nt|mic35:  2@s promet 4 cartes Ã  @h?|pg||
 nt|vugraphzcn: encore une fois, une magnifique ouverture pour les juniors :p|pg||
 nt|vugraphzcn: non 2@s non alerté|pg||
-pc|h4|nt|mic35:  plus jolie que celle de tout Ã  l'heure, rien Ã  voir mÃªme|pg||
+pc|h4|nt|mic35:  plus jolie que celle de tout Ã  l'heure, rien Ã  voir mÃªme|pg||
 nt|vugraphzcn: clairement|pg||
 pc|h6|pc|hJ|pc|hA|pg||
 pc|sQ|pc|s2|pc|s3|pc|sK|pg||
@@ -766,7 +766,7 @@ nt|mic35:  la dÃ©clarante ne se pose pas trop de questions, elle tire ses lev�
 pc|c7|pc|h7|pc|d9|pg||
 pc|s2|pc|s9|pc|sA|pc|s4|pg||
 pc|sK|pc|s6|pc|s5|pc|h2|pg||
-pc|sT|pc|sJ|pc|sQ|nt|mic35:  rendre la main en Sud l'exposerait Ã  chuter|pg||
+pc|sT|pc|sJ|pc|sQ|nt|mic35:  rendre la main en Sud l'exposerait Ã  chuter|pg||
 pc|c6|pg||
 nt|Authau: elle va oeuvrer pour +1 en tirant A@c et rejouant @s:)|pg||
 pc|cA|pc|c9|pc|c3|nt|Authau: qui va livrer la 10è (V@h)|pg||
@@ -822,7 +822,7 @@ pg||
 qx|c18|st||md|4SAJ3HTDAQ8732CAQT,SKQ8HQ96DJ54CK873,S754HAJ753D9C9642,ST962HK842DKT6CJ5|sv|n|nt|mic35:  lol, j'Ã©tais persuadÃ© que c'Ã©tait le contraire|pg||
 mb|p|mb|1D|mb|p|nt|mic35:  une petite fatigue, 18 donnes au VGraph, c'est long :)|pg||
 nt|vugraphzcn: :)|pg||
-mb|1H|mb|p|nt|mic35:  on reprend Ã  quelle heure? j'ai le temps de faire une sieste?|pg||
+mb|1H|mb|p|nt|mic35:  on reprend Ã  quelle heure? j'ai le temps de faire une sieste?|pg||
 mb|3D|mb|p|nt|Authau: 13h45 je crois|pg||
 nt|Authau: après le "plateau repas":)|pg||
 nt|vugraphzcn: 13h45 il me semble egalement|pg||
@@ -830,7 +830,7 @@ mb|p|mb|p|nt|vugraphzcn: apres les nouilles de cez nouï ...|pg||
 pc|sK|pc|s4|nt|vugraphzcn: *chez|pg||
 pc|sT|pc|s3|pg||
 nt|Authau: On retiendra un match sérieux de ces "jeunes" mais ô combien prometteurs joueurs et joueuses, une certaine domination de l'Allemagne 1|pg||
-nt|mic35:  Sud ne doit pas Ãªtre ravi d'avoir Ã  jouer ce contrat, Ã  la derniÃ¨re donne d'un match qui n'a pas bien tournÃ©|pg||
+nt|mic35:  Sud ne doit pas Ãªtre ravi d'avoir Ã  jouer ce contrat, Ã  la derniÃ¨re donne d'un match qui n'a pas bien tournÃ©|pg||
 nt|mic35:  le calvaire jusqu'au bout :(|pg||
 nt|mic35:  oui, belle prestation des Allemands, victoire mÃ©ritÃ©e|pg||
 pc|c3|pc|c2|pc|cJ|pc|cQ|pg||
