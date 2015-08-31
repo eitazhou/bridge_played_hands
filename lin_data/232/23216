@@ -5,7 +5,7 @@ qx|o1|st||md|3SQ54H876DT75CQJ73,SJ876HAQJT3DK2CA4,S3HK94DAQ96CKT862,SAKT92H52DJ8
 nt|vugraphp1: jutro start o 10|pg||
 mb|p|mb|3H|nt|vugraphp1: wyniki http://www.pzbs.pl/wyniki/turnieje/2012/mmm/openf.html|pg||
 nt|vugraphp1: spora przewaga liderow|pg||
-mb|p|mb|3S|nt|trad:  2 kier wyglÄda na spore nidolicytowanie|pg||
+mb|p|mb|3S|nt|trad:  2 kier wyglÄda na spore nidolicytowanie|pg||
 nt|trad:  trudna pozycja licytacyjna i bez ustalactwa jest "cinÅ¼ko"|pg||
 nt|lechcold: +|pg||
 nt|vugraphp1: wyniki http://www.pzbs.pl/wyniki/turnieje/2012/mmm/openf.html|pg||
@@ -37,10 +37,10 @@ mc|8|pg||
 qx|o2|st||md|4SAKJH982DA97CJ965,S763HJ753DQJT32C8,SQT52HQDK4CAQT742,S984HAKT64D865CK3|sv|n|nt|vugraphp1: last 10 boards|pg||
 nt|vugraphp1: pierwszy wist wypuszczal kontrakt|pg||
 nt|lechcold: to koñcówka turnieju, wszyscy maj¹ troszkê dosyæ|pg||
-mb|p|mb|1C|mb|p|nt|trad:  Åadny pas Narkiewicza|pg||
-mb|2C|mb|2H|mb|3C|mb|4D|nt|trad:  Åadna kontra Narkiewicza|pg||
+mb|p|mb|1C|mb|p|nt|trad:  Åadny pas Narkiewicza|pg||
+mb|2C|mb|2H|mb|3C|mb|4D|nt|trad:  Åadna kontra Narkiewicza|pg||
 mb|4H|mb|d|mb|p|nt|vugraphp1: wyniki http://www.pzbs.pl/wyniki/turnieje/2012/mmm/openf.html|pg||
-mb|p|nt|trad:  licytacja podrÄcznikowa|pg||
+mb|p|nt|trad:  licytacja podrÄcznikowa|pg||
 mb|5C|mb|p|mb|6C|mb|p|mb|p|mb|p|pc|h3|pc|hQ|nt|sfoxa:  contract seems to be so called mini-max|pg||
 pc|hK|pc|h8|pg||
 pc|d6|pc|dA|pc|d3|pc|d4|pg||
@@ -100,13 +100,13 @@ qx|o4|st||md|2SJT6HQJ4DT64CKJ64,S87HK97DKQ7CAQ872,SKQ532HA86532D5CT,SA94HTDAJ983
 nt|adsdj: EW moga wygrac 3BA. NS zas wpadaja tylko bez jednej na 4@H|pg||
 nt|wojtekkk: Dzien dobry!|pg||
 nt|adsdj: Dzien dobry.|pg||
-mb|2C!|nt|lechcold: dwie pary zameldowa³y siê pikami w  3|pg||
+mb|2C!|nt|lechcold: dwie pary zameldowa³y siê pikami w	3|pg||
 mb|3D|nt|lechcold: Pilch nawet zosta³ skontrowany i wzi¹³ maksa|pg||
 nt|lechcold: 3@D w tych za³o¿eniach odwa¿ne|pg||
 nt|adsdj: Jakakolwiek licytacja z S wydaje sie bardzo agresywna.|pg||
 nt|wojtekkk: 3BA na WE, ale 4@h na NS wychodz¹|pg||
-mb|d|nt|trad:  agresywny blok MikoÅaja|pg||
-nt|trad:  i juÅ¼ bÄdzie trudno zagraÄ w BA|pg||
+mb|d|nt|trad:  agresywny blok MikoÅaja|pg||
+nt|trad:  i juÅ¼ bÄdzie trudno zagraÄ w BA|pg||
 nt|vugraphp1: z 3ba nici... ale moze szlemik|pg||
 nt|vugraphp1: jak spadac to z wysokiego konia :)|pg||
 nt|adsdj: Moim zdaniem raczej nie|pg||
@@ -123,9 +123,9 @@ nt|vugraphp1: aj :(|pg||
 mb|4D|nt|sfoxa:  even when after @h ruff defence attacks @d, declarer can prevail playing 2 top @s and pitching @d loser on @h |pg||
 mb|p|mb|4H|mb|d|nt|vugraphp1: Pilch mowi ze na maksy 4@c bardzo slabe lepsza bylaby kontra|pg||
 nt|lechcold: zgadzam siê z Pilchem, ale Jaworskiemu trudno by³o liczyæ na to, ¿e partner trzyma kara.|pg||
-mb|p|nt|sfoxa:  but after @c return...|pg||
+mb|p|nt|sfoxa:	but after @c return...|pg||
 mb|p|nt|vugraphp1: 2@c moze byc bez starszych 4|pg||
-mb|p|nt|sfoxa:  no chance to explore this line|pg||
+mb|p|nt|sfoxa:	no chance to explore this line|pg||
 nt|sfoxa:  oh, I'm wrong - club return doesn't hurt|pg||
 nt|wojtekkk: jeszcze jedna szansa|pg||
 nt|wojtekkk: wykorzystana!|pg||
@@ -140,7 +140,7 @@ pc|d4|pc|dK|pc|d5|pg||
 pc|d9|nt|sfoxa:  and nobody can blame N for non-@d opening lead |pg||
 pc|dT|pc|dQ|pc|h2|pg||
 pc|s3|pc|s4|pc|sJ|nt|sfoxa:  moment of truth|pg||
-nt|trad:  poza tym majÄc 44 w starszych Pilch powiedziaÅby 4@d - a potem tÅumaczyÅ Markowi, Å¼e z 33 w starszych lepiej 4@c|pg||
+nt|trad:  poza tym majÄc 44 w starszych Pilch powiedziaÅby 4@d - a potem tÅumaczyÅ Markowi, Å¼e z 33 w starszych lepiej 4@c|pg||
 pc|s7|pg||
 pc|hQ|pc|h7|pc|h3|pc|hT|pg||
 pc|h4|pc|h9|pc|hA|nt|lesio: 5@D to chyba sz³o|pg||
@@ -172,11 +172,11 @@ pc|c3|pc|c6|pc|cQ|pc|h8|pg||
 mc|9|pg||
 qx|o5|st||md|3S7H742DAQ8CKQJT82,SAQ63HQ93D7632C97,SJT985HAKJ6DK95C4,SK42HT85DJT4CA653|sv|n|nt|vugraphp1: Narkiewicz poucza partnera ze rezygnowanie z wistu w swoj kolor dobrej jakosci najczesciej nie jest dobrym pomyslem|pg||
 nt|adsdj: Pikowy chyba obklada mimo wszystko?|pg||
-mb|1S|mb|p|nt|lechcold: 4@S niele siê gra³o. 4@H po trafnej rozgrywce atutów - te¿. |pg||
+mb|1S|mb|p|nt|lechcold: 4@S niele siê gra³o. 4@H po trafnej rozgrywce atutów - te¿. |pg||
 nt|lesio: raczej nie|pg||
 mb|2C|nt|vugraphp1: dzis dwie pary zrezygnowaly z uczestnictwa|pg||
 nt|vugraphp1: Grzesiek komentuje ze formula finalu jest bezsensowna. Lepiej byloby zagrac pelne kolko wczoraj i zawezic final do 16 par dzis|pg||
-mb|p|nt|sfoxa:  EW should find their way to 4@s |pg||
+mb|p|nt|sfoxa:	EW should find their way to 4@s |pg||
 nt|lechcold: Miko³aj w ci¹g³ym ataku:)|pg||
 nt|adsdj: A - wszystko cofam, masz racje|pg||
 mb|2H|mb|p|nt|sfoxa:  may issue - not to overboard here|pg||
@@ -186,13 +186,13 @@ mb|p|mb|p|nt|vugraphp1: Zrezygnowali Grzelak z Romanskim z powodow zdrowotnych G
 mb|p|nt|adsdj: I tu sie raczej nie zmieni.|pg||
 nt|wojtekkk: istotnie, przymus kierowo-treflowy sie ustawi|pg||
 nt|adsdj: 3@S = singiel trefl?|pg||
-pc|d6|nt|trad:  Waldek Jaworski podpowiada, Å¼e na drugim stole (w poprzednim rozdaniu), zagrano forsujÄce 4@c|pg||
+pc|d6|nt|trad:	Waldek Jaworski podpowiada, Å¼e na drugim stole (w poprzednim rozdaniu), zagrano forsujÄce 4@c|pg||
 pc|dK|pc|dJ|nt|vugraphp1: oraz Pawlak z Kowalczykiem|pg||
 pc|d8|pg||
 nt|vugraphp1: chyba tak|pg||
 pc|c4|pc|c3|pc|cT|pc|c9|pg||
-nt|trad:  znana para krakowska, Kuba Kowal ze Slynnym BoÅkiem zagraÅa wrÄcz 2@c|pg||
-nt|trad:  bezpieczeÅstwo przede wszystkim|pg||
+nt|trad:  znana para krakowska, Kuba Kowal ze Slynnym BoÅkiem zagraÅa wrÄcz 2@c|pg||
+nt|trad:  bezpieczeÅstwo przede wszystkim|pg||
 pc|cK|pc|c7|pc|s5|pc|cA|pg||
 pc|s4|pc|s7|pc|sQ|pc|s8|pg||
 pc|sA|pc|s9|pc|s2|pc|h4|pg||
@@ -236,18 +236,18 @@ nt|vugraphp1: Grzesiek wie z Krzysiek ma tylko 2 piki bo przeciwnicy graja kontr
 pc|c7|pc|h5|pc|c6|nt|vugraphp1: wyniki http://www.pzbs.pl/wyniki/turnieje/2012/mmm/openf.html|pg||
 pc|s8|pg||
 pc|c5|nt|adsdj: I think Gawrys will play a diamond - he basically knows all the cards now.|pg||
-pc|d2|pc|dT|nt|trad:  Marek nie rozegraÅ najcelniej|pg||
+pc|d2|pc|dT|nt|trad:  Marek nie rozegraÅ najcelniej|pg||
 pc|d4|pg||
-pc|hT|pc|d3|pc|hK|nt|trad:  przepuszczenie kiera w stole byÅo kiepskie|pg||
+pc|hT|pc|d3|pc|hK|nt|trad:  przepuszczenie kiera w stole byÅo kiepskie|pg||
 pc|h9|pg||
 nt|trad:  dwie lewy rÃ³Å¼nicy|pg||
 nt|vugraphp1: w 65 narazie ciekawe zapisy |pg||
 nt|vugraphp1: 4@h xx = i 3pix =  na druga|pg||
-nt|trad:  niestety, 3@s skontrowali i wypuÅcili Kuba z BoÅkiem|pg||
+nt|trad:  niestety, 3@s skontrowali i wypuÅcili Kuba z BoÅkiem|pg||
 nt|vugraphp1: niestety za 100 tez nie byloby duzo|pg||
 nt|vugraphp1: Gierulski wzial 500, przeciwnicy zagrali w kara na poziomie 3|pg||
 nt|vugraphp1: woleli 7 atutow niz 8|pg||
-nt|trad:  mÃ³wiÅaÅ cos zdaje siÄ o kolegach klubowych? ;)|pg||
+nt|trad:  mÃ³wiÅaÅ cos zdaje siÄ o kolegach klubowych? ;)|pg||
 mc|8|pg||
 qx|c6|st||md|4SJT3H75DKJ8732CQJ,SK94HAKJ3DQTCA986,SA862HQ92DA954C32,SQ75HT864D6CKT754|sv|e|mb|p|mb|p|mb|1N|mb|p|mb|p|mb|p|pc|s6|pc|s5|pc|sT|pc|sK|pg||
 pc|hA|pc|h9|pc|h4|pc|h7|pg||
@@ -260,10 +260,10 @@ pc|hT|pc|d3|pc|hK|pc|h2|pg||
 mc|8|pg||
 qx|o7|st||md|1SA984HKQ83DKQ5CQT,SKQ3H62DAT9872C75,ST5HA97D3CAKJ9864,SJ762HJT54DJ64C32|sv|b|nt|adsdj: Especially with 109s in your suits...|pg||
 nt|adsdj: In any case a chance lost means that the time is running out for team Kowalski|pg||
-nt|trad:  Martens Filipowicz wciÄÅ¼ majÄ szansÄ na medalowe miejsce|pg||
+nt|trad:  Martens Filipowicz wciÄÅ¼ majÄ szansÄ na medalowe miejsce|pg||
 nt|vugraphp1: ostatnie 3 rozdania|pg||
 mb|1N|mb|p|nt|adsdj: A choice for N - show clubs or not?|pg||
-nt|trad:  Jassemowie prowadzÄ ze spora przewagÄ|pg||
+nt|trad:  Jassemowie prowadzÄ ze spora przewagÄ|pg||
 mb|2S!|mb|p|nt|lechcold: niecaly procent przewagi J-J|pg||
 mb|3C!|mb|p|nt|adsdj: In fact probably 4@H is the best contract!|pg||
 nt|adsdj: 2@D = any weak NT hand|pg||
@@ -290,7 +290,7 @@ nt|adsdj: Actually a small spade would have made it easier, but I expect Gawrys 
 nt|lechcold: witam|pg||
 nt|vugraphp1: czesc|pg||
 nt|lesio: idzie zawsze ale jak te@H trafic|pg||
-mb|5C|nt|lechcold: mylê, ¿e 2@S Leniczaka by³o ca³kiem normalne|pg||
+mb|5C|nt|lechcold: mylê, ¿e 2@S Leniczaka by³o ca³kiem normalne|pg||
 mb|p|nt|trad:  i nietrafny, podobnie jak zagranie blotki w pierwszej lewie|pg||
 mb|p|mb|p|pc|sK|nt|wojtekkk: teraz jednak pikowy polozy 6@c, bo trzeba by zaimpasowac @hW10!|pg||
 pc|s5|nt|lechcold: 3@H to fragment i tylko trójka pików - tak s¹dzê...|pg||
@@ -303,7 +303,7 @@ nt|lechcold: i bêdzie zapis zbi³ony do zera dla NS|pg||
 nt|lechcold: zbli¿ony|pg||
 pc|cK|nt|lechcold: ...choæ na razie na 3 zapisy w protokole, tylko jeden jest za 3N|pg||
 pc|c3|pg||
-pc|cA|nt|lechcold: jedna czêciówka(?), jedno wygrane 4@S i 3N za 660|pg||
+pc|cA|nt|lechcold: jedna czêciówka(?), jedno wygrane 4@S i 3N za 660|pg||
 nt|adsdj: Czyli obrot - nie sadze, zeby tu sie udalo wygrac|pg||
 nt|adsdj: Oczywiscie tu sie gra 5, wiec to sie wygra|pg||
 mc|11|pg||
@@ -314,7 +314,7 @@ mb|p|mb|5D|an|0-3|mb|p|mb|6C|mb|p|mb|p|mb|p|nt|ryskiel_: Balu w pika|pg||
 pc|c2|pc|cQ|pc|c5|pc|c4|pg||
 pc|cT|pc|c7|pc|cA|pc|c3|pg||
 pc|cK|pc|d6|pc|s4|pc|d2|pg||
-pc|d3|pc|d4|pc|dK|nt|ryskiel_: Bal mia³ za du¿o waletów i nie wiedzial spod którego wyjc:)|pg||
+pc|d3|pc|d4|pc|dK|nt|ryskiel_: Bal mia³ za du¿o waletów i nie wiedzial spod którego wyjc:)|pg||
 pc|dA|pg||
 mc|12|nt|ryskiel_: hej:) jak leci?|pg||
 pg||
@@ -331,12 +331,12 @@ mb|2S!|nt|wojtekkk: ale tylko w widne|pg||
 nt|lesio: kierowy powiscie w @C?|pg||
 mb|p|mb|3D!|nt|lechcold: a wycofania to sprawy zupe³nie incydentalne|pg||
 nt|adsdj: Wist na drugim stole obracal wiec bardzo duzo impow.|pg||
-mb|p|nt|sfoxa:  this looks like @s partscore for EW, let see where they stop|pg||
+mb|p|nt|sfoxa:	this looks like @s partscore for EW, let see where they stop|pg||
 mb|3S|nt|lechcold: wist Dominika okrutny:)|pg||
 nt|lechcold: podoba mi siê jego gra|pg||
-nt|trad:  gdyby Jassem jr graÅ w parze z Martensem - mieliby wysokÄ grÄ|pg||
+nt|trad:  gdyby Jassem jr graÅ w parze z Martensem - mieliby wysokÄ grÄ|pg||
 mb|p|mb|p|nt|11jaszczak: po nastepnym Jassem juz mo¿e nie prowadziæ|pg||
-nt|trad:  szesnaÅcie lew na palcÃ³wce pikowej|pg||
+nt|trad:  szesnaÅcie lew na palcÃ³wce pikowej|pg||
 mb|p|pc|h4|nt|adsdj: In fact 2@S may not be that easy to win.|pg||
 nt|psyck: he will likely cash @d's & try to xruff the hand in 2@s|pg||
 nt|psyck: if opps play trumps, he can still make with 3@s, 3@c, 2@c tricks|pg||
@@ -344,10 +344,10 @@ nt|lechcold: gra³em w prawie wszystkich fina³ach w ostatnich latach i nie pami
 pc|h5|nt|psyck: 3@d not @c|pg||
 nt|adsdj: This is the likely outcome, indeed.|pg||
 nt|adsdj: 3@D pewnie inwit z pikami?|pg||
-pc|hA|nt|trad:  3@s wyglÄda na mierzony kontrakt|pg||
-nt|trad:  PaweÅ rozwaÅ¼a kontrÄ|pg||
+pc|hA|nt|trad:	3@s wyglÄda na mierzony kontrakt|pg||
+nt|trad:  PaweÅ rozwaÅ¼a kontrÄ|pg||
 pc|hQ|pg||
-nt|trad:  kolejny tryumf rozsÄdku|pg||
+nt|trad:  kolejny tryumf rozsÄdku|pg||
 pc|d7|nt|11jaszczak: 4@H-1 niedobrze dla Jassemów|pg||
 nt|lechcold: 4@Hx -1 to minimax|pg||
 pc|d8|pc|dK|nt|latwy: mi siê te¿ podoba szczególnie jesli chodzi o ceny za grê zawsze mog³oby byc dro¿ej|pg||
@@ -358,12 +358,12 @@ nt|lechcold: cze:)|pg||
 nt|latwy: na kilku sto³ach pad³o otwarcie 1nt z karta Jacka|pg||
 pc|d2|pg||
 pc|dT|pc|d4|pc|dA|pc|dJ|pg||
-nt|11jaszczak: wiekszoc bêdzie w 4@H pytanie tylko czy z kontra:)|pg||
+nt|11jaszczak: wiekszoc bêdzie w 4@H pytanie tylko czy z kontra:)|pg||
 nt|wojtekkk: tez mozna wygrac, Lesiu|pg||
 pc|d3|pc|s7|nt|lechcold: musi karo teraz|pg||
-pc|d5|nt|lechcold: Leniczak|pg||
+pc|d5|nt|lechcold: Leniczak|pg||
 pc|d6|pg||
-pc|sJ|pc|s4|nt|lechcold: trefl wypuci³ grê|pg||
+pc|sJ|pc|s4|nt|lechcold: trefl wypuci³ grê|pg||
 pc|s8|nt|adsdj: Nie ma jak obkladac - skonczy sie 3@S = |pg||
 pc|sQ|pg||
 nt|lechcold: na @CK wyleci kier |pg||
@@ -405,7 +405,7 @@ mb|2S|nt|vugraphp1: zarowno 5@c jak 3nt idzie w tym rozdaniu|pg||
 nt|adsdj: A moze raczej 2@S|pg||
 mb|3H|mb|p|mb|p|nt|sfoxa:  that may be costly already|pg||
 nt|trad:  5@d bardzo niecelne|pg||
-mb|p|nt|lechcold: czarna tu wygrywa³a na wicie|pg||
+mb|p|nt|lechcold: czarna tu wygrywa³a na wicie|pg||
 nt|lechcold: ju¿ wysz³o|pg||
 nt|adsdj: Czy Jacek myslal nad 4@C?|pg||
 pc|s3|pc|s2|nt|adsdj: costly?|pg||
@@ -413,7 +413,7 @@ nt|adsdj: It seems that 5@C easily makes.|pg||
 nt|psyck: it would only be costly if a phantom sac, but this may make|pg||
 nt|vugraphp1: zapewne 1@h bylo transferem na piki, ale nie widzialam alertu...|pg||
 nt|vugraphp1: szczesliwie dla rozgrywajacego piki 4-4|pg||
-pc|sT|nt|trad:  @s siÄ narzucaÅ, czy nie bardzo?|pg||
+pc|sT|nt|trad:	@s siÄ narzucaÅ, czy nie bardzo?|pg||
 nt|vugraphp1: pikowy nie kladl|pg||
 nt|vugraphp1: tylko treflowy a ten sie nie narzucal |pg||
 pc|sJ|pg||
@@ -429,12 +429,12 @@ nt|sfoxa:  W can expect partner having 2-suiter (or even 3-suiter, how it was in
 nt|adsdj: Why lucky? I think only 1-3-6-3 hand of E would make W unhappy.|pg||
 nt|adsdj: We might be in for quite a wait.|pg||
 nt|adsdj: Duzo alternatywnych rozgrywek.|pg||
-pc|cA|pc|cK|nt|trad:  a czy ja gdzieÅ napisaÅewm, Å¼e pikowy kÅadÅ? :P|pg||
+pc|cA|pc|cK|nt|trad:  a czy ja gdzieÅ napisaÅewm, Å¼e pikowy kÅadÅ? :P|pg||
 nt|vugraphp1: dziekujê|pg||
-nt|trad:  Przed ostatnim rozdaniem zmiana lidera - Tusio z Nowosadem idÄ po drugi tytuÅ|pg||
+nt|trad:  Przed ostatnim rozdaniem zmiana lidera - Tusio z Nowosadem idÄ po drugi tytuÅ|pg||
 nt|vugraphp1: ale w ostatnim wzieli slaby zapis ale Jassemy tez...|pg||
 nt|vugraphp1: nic nie jest przesadzone|pg||
-nt|trad:  zawsze pozostajÄ sÄdziowie i ich wyniki rozjemcze :)|pg||
+nt|trad:  zawsze pozostajÄ sÄdziowie i ich wyniki rozjemcze :)|pg||
 nt|vugraphp1: Martens na 3 ale Gierul jeszcze nie dostal wynikow za pauze|pg||
 nt|vugraphp1: wyniki http://www.pzbs.pl/wyniki/turnieje/2012/mmm/openf.html|pg||
 nt|vugraphp1: kilka minut i wszystko bedzie wiadome|pg||
@@ -443,7 +443,7 @@ nt|vugraphp1: co ciekawe para Martens-Filipowicz ma problem sedziowski... o braz
 nt|vugraphp1: Tak drugie zloto dla Nowosada z Tusiem stalo sie faktem|pg||
 nt|trad:  Tusio i Nowosad wygrali z Jassemami bardoz wyraÅºnie - o 2,54 punkta maksowego|pg||
 nt|vugraphp1: Gratulacje dla zwyciescow i medalistow|pg||
-nt|trad:  duÅ¼y sukces Marka Jaworskiego - piÄte miejsce w parze z Tomkiem Pilchem|pg||
+nt|trad:  duÅ¼y sukces Marka Jaworskiego - piÄte miejsce w parze z Tomkiem Pilchem|pg||
 nt|lechcold: tak czy siak, fajny turniej. Gratulacje dla ca³ej czo³ówki. Parê J-J dopad³ niestety syndrom d³ugiego liderowania..ale srebrny medal to te¿ piêkny wynik|pg||
 nt|lechcold: dziêkujê, do zobaczenia|pg||
 nt|vugraphp1: wyniki http://www.pzbs.pl/wyniki/turnieje/2012/mmm/openf.html|pg||
@@ -472,7 +472,7 @@ nt|vugraphp1: rozgrywajacy zapomnial o atucie...|pg||
 nt|lechcold: znam to:(|pg||
 nt|vugraphp1: Lesniczak z Kaczmarkiem wygrali polfinal A, ale w finale wyraznie im nie idzie :(|pg||
 nt|vugraphp1: obecnie juz widac zrezygnowanie|pg||
-nt|lechcold: bryd¿ d³ugodystansowy to jest zupe³nie inna gra ni¿ turniej jednosesyjny...kondycja i odpornoæ maj¹ kluczowe znaczenie|pg||
+nt|lechcold: bryd¿ d³ugodystansowy to jest zupe³nie inna gra ni¿ turniej jednosesyjny...kondycja i odpornoæ maj¹ kluczowe znaczenie|pg||
 nt|vugraphp1: wyniki http://www.pzbs.pl/wyniki/turnieje/2012/mmm/openf.html|pg||
 pc|s5|pg||
 pc|dK|pc|dA|nt|adsdj: Well played, probably for the best chance of making 11 tricks.|pg||
@@ -536,7 +536,7 @@ pc|c2|pc|cA|nt|lechcold: po pikowym by³aby straszliwa makakra|pg||
 nt|lechcold: masakra:)|pg||
 pc|c6|pc|c9|pg||
 nt|wojtekkk: a jak atuty polacza obroncy, wezmie sie 6@h, 2@s i 2@c|pg||
-pc|d6|pc|s6|nt|lechcold: Gu³a zachowuj¹c damê @D pozwoli³ siê wpuciæ |pg||
+pc|d6|pc|s6|nt|lechcold: Gu³a zachowuj¹c damê @D pozwoli³ siê wpuciæ |pg||
 pc|h2|pc|d3|pg||
 pc|sA|pc|s3|pc|c3|pc|s5|pg||
 nt|lechcold: Marcin ma teraz w zasadzie rozliczone rêce przeciwników|pg||
@@ -567,7 +567,7 @@ nt|adsdj: 2@C = kara|pg||
 mb|d|mb|p|nt|vugraphp1: stayman utrudnil tez licytacje NS, gdyby 1ba zbiegalo Lesniczak zapewne zapowiedzialby odzywke sprzedajaca kolory starsze|pg||
 nt|adsdj: Ciekawa pozycja znowu. Czy teraz 2 pik to zatrzymanie karo i obawa o piki, czy odwrotnie?|pg||
 nt|adsdj: Tradycyjna szkola mowi, ze przy dwoch kolorach wroga licytujemy naturalnie - ale tu 3@D wydaje sie byc dosc wysoka odzywka...|pg||
-mb|2S|mb|3D|mb|p|nt|lechcold: 3@D to prawdopodobnie superfit kierowy i kolor dobry do krótkoci|pg||
+mb|2S|mb|3D|mb|p|nt|lechcold: 3@D to prawdopodobnie superfit kierowy i kolor dobry do krótkoci|pg||
 mb|p|nt|vugraphp1: 2@h gra sie prosciej niz 2 @s|pg||
 nt|lechcold: kontrowersyjna konwencja...bardzo u³atwia przeciwnikom wist|pg||
 mb|3N|nt|vugraphp1: ale N majac dubla i trzy karty w kolorach starszych wybral mniejsze zlo|pg||
