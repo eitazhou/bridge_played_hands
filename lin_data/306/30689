@@ -1,7 +1,7 @@
 vg|Irish Camrose Trials 2013,Match 9 2nd half,I,1,24,Phelan,2,Barton,58|
 rs|,,,,,,,,,,,,,,,,,,,,,,,,3HE-2,3HEx-2,4HS+1,4HS+2,4CS+2,5CN+1,4SN-1,5DE=,4SE-1,4SEx-1,1NE-1,1NN+1,2SN+1,2SN+2,4HS=,3HN+1,5DNx=,6DS-1,3NE-2,3NE-2,3NS=,3NS+1,4HN-1,4SN=|
 pn|L PHelan,McGann,Louise M,Hanlon,Carroll,Reddan,Garvey,phelan J|pg||
-qx|o13|st||md|3SAJ64HQJT9DK6CKT7,SQ52H643DQT954CJ4,S93H7DAJ732CQ9653,SKT87HAK852D8CA82|sv|b|mb|p|mb|1H|mb|p|nt|ciaran:  declarer could possibly have made double dumy by playing @CAK, @C ruff, @S K, A, @C ruff, then exit a spade.  the defensive trump trick disappears|pg||
+qx|o13|st||md|3SAJ64HQJT9DK6CKT7,SQ52H643DQT954CJ4,S93H7DAJ732CQ9653,SKT87HAK852D8CA82|sv|b|mb|p|mb|1H|mb|p|nt|ciaran:	declarer could possibly have made double dumy by playing @CAK, @C ruff, @S K, A, @C ruff, then exit a spade.  the defensive trump trick disappears|pg||
 mb|2H|mb|p|mb|3C|mb|p|mb|3H|mb|p|mb|p|mb|p|pc|hQ|pc|h3|pc|h7|pc|hA|pg||
 pc|c2|pc|cK|pc|c4|pc|c3|pg||
 pc|hJ|pc|h4|pc|d3|pc|hK|pg||
@@ -72,7 +72,7 @@ pc|d4|nt|ciaran:  double by mcgann of 4S would show 17+, but also suggest takeou
 pc|d7|pc|s3|pc|dK|pg||
 pc|c4|pc|cA|pc|c3|pc|c6|pg||
 pc|hJ|pc|h4|pc|s9|pc|h5|pg||
-pc|d6|pc|s6|pc|dA|nt|ciaran:  this shows a downside to the 2-way club.  if hanlon expected 17 opposite, he would probably try 5D|pg||
+pc|d6|pc|s6|pc|dA|nt|ciaran:  this shows a downside to the 2-way club.	if hanlon expected 17 opposite, he would probably try 5D|pg||
 pc|d5|pg||
 pc|c5|pc|c2|pc|cK|pc|c7|pg||
 pc|dJ|pc|dQ|pc|sJ|pc|h8|pg||
@@ -126,7 +126,7 @@ pc|s9|pc|d3|pc|d2|pc|d9|pg||
 pc|cQ|pc|cK|pc|cA|pc|c5|pg||
 pc|cJ|pc|c8|pc|c3|pc|c7|pg||
 mc|6|pg||
-qx|c18|st||md|4SAT7HQ652DK98CT85,SJ983HA4DQ75CQ643,SK64HJ87DAJ643CK7,SQ52HKT93DT2CAJ92|sv|n|mb|p|mb|p|mb|p|mb|1C!|mb|p|mb|1H!|mb|p|mb|1N!|mb|p|mb|p|mb|p|nt|vugraphzcv: carrot  @C|pg||
+qx|c18|st||md|4SAT7HQ652DK98CT85,SJ983HA4DQ75CQ643,SK64HJ87DAJ643CK7,SQ52HKT93DT2CAJ92|sv|n|mb|p|mb|p|mb|p|mb|1C!|mb|p|mb|1H!|mb|p|mb|1N!|mb|p|mb|p|mb|p|nt|vugraphzcv: carrot	@C|pg||
 pc|c2|pc|c5|pc|cQ|pc|cK|pg||
 pc|d3|pc|d2|pc|dK|pc|d5|pg||
 pc|d9|pc|d7|pc|dJ|pc|dT|pg||
@@ -141,7 +141,7 @@ pc|dQ|pc|d5|pc|d7|pc|dA|pg||
 pc|s3|pc|s6|pc|s9|pc|sJ|pg||
 pc|h6|pc|hA|pc|h5|pc|h7|pg||
 pc|s7|nt|ciaran:  could have held it to 2S by switchinga club after the diamond held since E can get a club ruff|pg||
-pc|s8|pc|sT|nt|ciaran:  looks like 1 IMP to Barton|pg||
+pc|s8|pc|sT|nt|ciaran:	looks like 1 IMP to Barton|pg||
 pc|sA|pg||
 pc|dK|pc|dT|pc|d9|pc|s2|pg||
 pc|sK|pc|s4|pc|h8|pc|sQ|pg||
@@ -226,7 +226,7 @@ pc|dT|pc|d9|pc|d8|pc|dQ|pg||
 pc|h4|pc|h9|pc|hT|pc|hQ|pg||
 pc|h6|pc|hK|pc|hJ|pc|h2|pg||
 pc|h5|pc|c6|pc|hA|pc|h3|pg||
-pc|s4|pc|s3|nt|ciaran:  this might makeplayed from the other side, as a diamonds lead is not so obvious from W|pg||
+pc|s4|pc|s3|nt|ciaran:	this might makeplayed from the other side, as a diamonds lead is not so obvious from W|pg||
 pc|sA|pc|s2|pg||
 pc|cK|pc|c7|pc|s5|pc|c3|pg||
 mc|9|pg||
