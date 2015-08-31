@@ -94,7 +94,7 @@ mb|3N|an|asking|nt|kthorpe: Well he has that!|pg||
 mb|p|mb|4C|an|club shortness|mb|p|nt|kthorpe: N may expect @D shortness however.|pg||
 nt|kthorpe: Looks like relay to discover|pg||
 mb|4N|mb|p|mb|5C|mb|p|mb|5D|mb|p|nt|kthorpe: One key-card.  If asked for Q, South will presumably show it holding a 7-card suit.|pg||
-mb|6H|mb|p|mb|p|mb|p|nt|kthorpe: Good auction.  Jump to 6@H denies any interest in more.|pg||
+mb|6H|mb|p|mb|p|mb|p|nt|kthorpe: Good auction.	Jump to 6@H denies any interest in more.|pg||
 nt|kthorpe: Faster in other room ... 2@H by S (!!!) 6@H by N.|pg||
 pc|sK|pc|s3|pc|s4|pc|sA|pg||
 pc|hA|pc|hQ|pc|h5|pc|h2|pg||
@@ -145,7 +145,7 @@ pc|sT|pc|s3|pc|s2|pc|sQ|pg||
 pc|h6|pc|h9|pc|hT|pc|h8|pg||
 pc|hK|pc|d8|pc|h3|pc|hA|pg||
 mc|8|pg||
-qx|c10|st||md|4SQ64HJ63DKQ7C8732,ST9HAQ9DAJ543CAQT,SA53HKT754DT62C54,SKJ872H82D98CKJ96|sv|b|mb|p|mb|p|mb|1D|mb|p|mb|1S|mb|p|mb|2N|mb|p|mb|3S|mb|p|mb|3N|mb|p|mb|p|mb|p|nt|kthorpe: So this time W rebids 2NT with balanced 17.  Not sure at all what the earlier auction meant!|pg||
+qx|c10|st||md|4SQ64HJ63DKQ7C8732,ST9HAQ9DAJ543CAQT,SA53HKT754DT62C54,SKJ872H82D98CKJ96|sv|b|mb|p|mb|p|mb|1D|mb|p|mb|1S|mb|p|mb|2N|mb|p|mb|3S|mb|p|mb|3N|mb|p|mb|p|mb|p|nt|kthorpe: So this time W rebids 2NT with balanced 17.	Not sure at all what the earlier auction meant!|pg||
 nt|vugraphzad: Wonder is S will find the duck again with Qxx of spades?|pg||
 pc|h5|pc|h2|nt|kthorpe: Yes pretty similar.|pg||
 pc|hJ|pc|hQ|pg||
@@ -181,7 +181,7 @@ nt|kthorpe: Now a loser in each suit.|pg||
 pc|cK|pc|c2|pc|c3|nt|kthorpe: Having methods to prevent you getting too high on these hands, and still allow pard to make a raise, is ... |pg||
 pc|cA|pg||
 pc|s4|pc|s3|pc|sJ|pc|s9|pg||
-pc|dA|nt|kthorpe: very useful.  The raise can obstruct the opps without putting you too high.|pg||
+pc|dA|nt|kthorpe: very useful.	The raise can obstruct the opps without putting you too high.|pg||
 mc|9|pg||
 qx|o12|st||md|2S954HJ7DAKQTCK952,SQ62HK83D873CQ764,SAKJT87HQ965D2CAJ,S3HAT42DJ9654CT83|sv|n|mb|p|mb|1S|mb|p|mb|2N|mb|p|mb|3H|mb|p|mb|3S|mb|p|mb|4S|mb|p|mb|p|mb|p|pc|c3|pc|c2|pc|cQ|pc|cA|pg||
 pc|sA|pc|s3|pc|s4|pc|s2|pg||
@@ -236,7 +236,7 @@ nt|fluff:  too cute in OR|pg||
 mb|5D|mb|p|nt|kthorpe: Yes it is now or never to show the @C ace.|pg||
 nt|kthorpe: This really should deny it.|pg||
 mb|5H|mb|d|nt|fluff:  x for fun :)|pg||
-nt|vugraphzad: Sorry, everything is blurring together.  It's right now.|pg||
+nt|vugraphzad: Sorry, everything is blurring together.	It's right now.|pg||
 nt|kthorpe: Wow ... now can presumably pass to show 2nd rd control?|pg||
 mb|p|mb|p|nt|fluff:  now 6@C n ?|pg||
 nt|kthorpe: Let pard bid 5@S and then S can bid 6@C after all|pg||
@@ -250,7 +250,7 @@ nt|fluff:  very nice|pg||
 nt|kthorpe: Finally got it right!|pg||
 nt|vugraphzad: Korbel thinking....|pg||
 nt|kthorpe: Eek best not correct to 7NT|pg||
-mb|7N|mb|p|mb|p|mb|p|nt|fluff:  why ?|pg||
+mb|7N|mb|p|mb|p|mb|p|nt|fluff:	why ?|pg||
 pc|cK|pc|cA|pc|c2|pc|c7|pg||
 pc|d5|pc|d2|nt|kthorpe: death wish - but is there a club heart squeeze?  He should know where the @HQ is|pg||
 pc|dQ|pc|c4|pg||
