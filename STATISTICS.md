@@ -1,5 +1,4 @@
-Statistics
-== 
+## Statistics
 
 The following useful statistics can be generated using this data.
 
@@ -8,39 +7,34 @@ Some of the information is useful as an individual, some of it is useful for a p
 Knowing the strengths of each part of your game can help improve your game. It can also be used to detect cheating.
 
 
-Bidding
-==
+## Bidding
 
 1. How often do you bid par?
 
 2. Given a criteria, how often does a partnership fail to bid game, slam? This is a somewhat arbitrary criteria.
 
 
-Notes
-===
+### Notes
 
 1. It is not possible to bid more than par. Par is the best result possible assuming double dummy. Par is difficult to obtain. A common example might be where you are in 4H/4S but 4N also makes but is unlikely to be bid. Par is further complicated where the opponents have a sacrifice that needs to be doubled. If par is, for example, 3S making 140, then bidding 1S, or 2S is also considered bidding par.
 
 2. Creating a criteria for bidding game/slan/grand slam is arbitrary. HCP is the easiest criteria to apply.
 
-Statistics
-===
+### Statistics
 
 1. Compare the bidding of each board played with par. Rank the bidding as either par, or not par. Generate the percentage of boards that you play where you bid par. The higher the percentage, the better.
 
 2. Track the number of HCP for each board. Separate the results into NT, Majors (Spades/Hearts), Minors (Diamonds/Clubs). Analyze the number of times that game/slam was bid based on HCP. HCP is an arbitrary method, perhaps working only best for NT.
 
 
-Cheating Notes
-===
+### Cheating Notes
 
 1. A pair that consistently bids close to par may have information about the strength of each hand. Knowing the strength of each hand lets you avoid over-bidding.
 
 2. A pair that avoids bidding unmakeable games/slams with a typical HCP for bidding games/slams may be transmitting unauthorized information about the hand. For example, knowledge that you are missing honors and length in a suit may be a reason not to bid 3NT even though the partnership has the HCP to bid game.
 
 
-Declarer Play
-==
+## Declarer Play
 
 1. What % of contracts does declarer make (or make with an overtrick)?
 
@@ -52,8 +46,7 @@ Declarer Play
 
 5. How often do you make fewer tricks than double dummy?
 
-Notes
-===
+### Notes
 
 1. I have been keeping this personal statistic since around 2005, tracking both my declarer play, my partner and also the opponents. In theory, there should be a difference between matchpoint (MP) games and team (IMP) games however for purposes of creating the statistics these are currently ignored because it is difficult to automatically know if a LIN file is from a team game, pair game, or BAM event. State of the match also may affect a decision.
 
@@ -67,8 +60,7 @@ Notes
 
 6. Many people do not believe that double dummy comparison works for a game played single dummy. However, over time, a good declarer should consistently do better than a weaker declarer.
 
-Statistics
-===
+### Statistics
 
 1. Track the % of contracts made. 
 
@@ -81,15 +73,13 @@ Statistics
 Statistically tracking this type of information is useful for determining how good a player is at declaring hands.
 
 
-Cheating Notes
-===
+### Cheating Notes
 
 1. A high percentage of contracts made compared to others indicates great declarer play, or underbidding, or being able to avoid bad contracts.
 
 2. If you never make fewer tricks than double dummy, this indicates knowledge of the hand records.
 
-Defensive Play
-==
+## Defensive Play
 
 This is similar to declarer play
 
@@ -105,25 +95,21 @@ This is similar to declarer play
 
 6. A further analysis can be on a trick by trick basis, but this is not implemented yet.
 
-Notes
-===
+### Notes
 
 1. Same notes apply as to declarer play.
 
 
-Statistics
-===
+### Statistics
 
-o. Same statistics as for declarer play, only kept from the defending side.
+1. Same statistics as for declarer play, only kept from the defending side.
 
 
-Cheating Notes
-===
+### Cheating Notes
 
 If a pair is cheating, and exchanging information about their hands, then we would expect to see significant deviation in results for a cheating pair compared to the norm.
 
-Opening Lead
-==
+## Opening Lead
 
 We have all the information about the bidding, the play of the hand, and the hand record. Statistics about the opening lead can be confusing. Sometimes a passive leading is called for, sometimes an aggressive lead.
 
@@ -132,20 +118,17 @@ Analysis of the opening lead is a common way to detect cheating, but it is easie
 
 1. Given double dummy analysis, it is possible to work out the best opening lead. How often does the opening leader find this play?
 
-Notes
-===
+### Notes
 
 1. This would indicate how good a player is at opening lead.
 
 
-Statistics
-===
+### Statistics
 
 1. Track if the opening lead maintains the number of tricks expected under double dummy analysis or gives up a trick. This requires some not insignificant computing power and is currently not implemented.
 
 
-Cheating Notes
-===
+### Cheating Notes
 
 The ability of a pair to consistently find the correct opening lead is warning that the pairs may be cheating.
 
