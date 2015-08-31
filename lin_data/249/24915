@@ -67,7 +67,7 @@ pc|s4|pc|s7|pc|sK|pc|sT|pg||
 pc|s6|pc|h6|pc|s2|pc|sA|pg||
 pc|c4|pc|h2|pc|cT|pc|cA|pg||
 mc|8|pg||
-qx|o4|st||md|2S852H52DA853CQJ96,SAJHA6DQJT72CT543,SQ973HT874DK94CK8,SKT64HKQJ93D6CA72|sv|b|nt|turnip1:  W will open 2D|pg||
+qx|o4|st||md|2S852H52DA853CQJ96,SAJHA6DQJT72CT543,SQ973HT874DK94CK8,SKT64HKQJ93D6CA72|sv|b|nt|turnip1:	W will open 2D|pg||
 nt|turnip1:  11-16 5+D no 4c M|pg||
 mb|2D|mb|p|mb|2N|mb|p|mb|3C|nt|turnip1:  2N = 5+H|pg||
 nt|turnip1:  3C = nat|pg||
@@ -97,11 +97,11 @@ pc|dT|pc|d9|pc|c7|pc|d5|pg||
 mc|10|pg||
 qx|o5|st||md|3ST9653HQ5DQ643CKT,SKJ74HAK432DT82CJ,SAQ82HJT7D975C652,SH986DAKJCAQ98743|sv|n|nt|projekt1:  the first slam problem..|pg||
 nt|turnip1:  Upgrade to 1C 15+ or 2C |pg||
-mb|p|mb|2C|nt|turnip1:  2C= 11-15 5+C no 4c M|pg||
+mb|p|mb|2C|nt|turnip1:	2C= 11-15 5+C no 4c M|pg||
 mb|p|nt|gigapip:  ending up in 3nt now?|pg||
 nt|turnip1:  2D = normally 5c H|pg||
 mb|2D|nt|turnip1:  can also be 6-10 with 6 spades|pg||
-mb|p|mb|2H|nt|turnip1:  so maybe E bids 2S (or 3C)|pg||
+mb|p|mb|2H|nt|turnip1:	so maybe E bids 2S (or 3C)|pg||
 mb|p|nt|turnip1:  Hm, I would not bid 2H :)|pg||
 mb|2N|nt|turnip1:  4H now I guess|pg||
 mb|p|mb|4H|mb|p|mb|p|mb|p|nt|turnip1:  spades are best for the defence|pg||
@@ -126,7 +126,7 @@ pc|c7|pc|d3|pc|sK|pc|hT|pg||
 mc|10|pg||
 qx|o6|st||md|4SAKQ7HKJ7DAT4C752,S52HAQT84D73CAKQT,ST643H65DK865CJ98,SJ98H932DQJ92C643|sv|e|mb|p|mb|1N|mb|2D|nt|turnip1:  2D is 5H + minor, good cards|pg||
 mb|p|mb|2H|mb|p|mb|p|nt|turnip1:  another board for E to practise|pg||
-mb|p|pc|sK|nt|gigapip:  looks makeable, only problems is entries to hand|pg||
+mb|p|pc|sK|nt|gigapip:	looks makeable, only problems is entries to hand|pg||
 nt|turnip1:  THese guys often declare with short trump hand|pg||
 pc|s2|pc|s4|pc|s9|pg||
 pc|sQ|pc|s5|pc|s3|pc|s8|pg||
@@ -145,7 +145,7 @@ pc|hJ|pc|h8|pc|d6|pc|h9|pg||
 pc|c2|pc|cK|pc|c9|pc|c4|pg||
 pc|cQ|pc|cJ|pc|c6|pc|c5|pg||
 mc|7|nt|gigapip:  what was the range of 1nt?|pg||
-nt|projekt1:  we must not forget, the playyers see only the dummy and their own cards.  |pg||
+nt|projekt1:  we must not forget, the playyers see only the dummy and their own cards.	|pg||
 nt|turnip1:  still maybe best play? Anyone good at maths?|pg||
 pg||
 qx|c6|st||md|4SAKQ7HKJ7DAT4C752,S52HAQT84D73CAKQT,ST643H65DK865CJ98,SJ98H932DQJ92C643|sv|e|mb|p|mb|1C|an|strong|mb|1D|an|mixed color / 4-4 minimum|mb|d|mb|1H|mb|p|mb|2H|mb|d|mb|p|mb|2S|mb|p|mb|p|mb|p|pc|cA|pc|c8|pc|c3|pc|c2|pg||
@@ -168,12 +168,12 @@ nt|projekt1:  splinter on 1 @H?|pg||
 mb|1H|mb|p|mb|3S|mb|p|nt|gigapip:  slamtime|pg||
 nt|turnip1:  yes|pg||
 nt|projekt1:  do not forget, this is a seniors championship :)|pg||
-mb|4C|mb|p|nt|gigapip:  but the @h layout could be better|pg||
+mb|4C|mb|p|nt|gigapip:	but the @h layout could be better|pg||
 nt|projekt1:  4@h|pg||
 nt|gigapip:  i dont like the 4@c bid, but thats me:)|pg||
 mb|4H|nt|projekt1:  in other room 2@c-2@h-3@s ...|pg||
 mb|p|mb|5H|mb|p|nt|turnip1:  some play cue in P suit promise honor, the hungarians donÂ´t...|pg||
-mb|6H|mb|p|nt|turnip1:  needs some careful play|pg||
+mb|6H|mb|p|nt|turnip1:	needs some careful play|pg||
 nt|projekt1:  lucky @d distribution|pg||
 mb|p|mb|p|nt|gigapip:  D!'s 3-3 is fortunate for declarer though|pg||
 pc|d6|nt|projekt1:  Dahlberg-Nilsland stopped in 4@h|pg||
@@ -279,12 +279,12 @@ nt|gigapip:  upgraded 1@c, ending up in 4@s ?|pg||
 mb|p|nt|turnip1:  1H= 12-14 all hands|pg||
 mb|1S|mb|p|mb|1N|nt|turnip1:  1S = 4 or 5 card M (not 6)|pg||
 mb|p|nt|turnip1:  1NT= promise a 4 card M (exactly 4)|pg||
-mb|2H|mb|p|nt|turnip1:  2H = 5|pg||
+mb|2H|mb|p|nt|turnip1:	2H = 5|pg||
 mb|3D|mb|p|mb|3S|mb|p|nt|turnip1:  3D = 5D + 4S|pg||
 nt|turnip1:  3S = settle trump|pg||
 mb|4C|nt|turnip1:  they will discover 2 key cards are missing|pg||
 nt|turnip1:  playing some kind of turbo|pg||
-mb|p|mb|4D|nt|turnip1:  4H then 4S|pg||
+mb|p|mb|4D|nt|turnip1:	4H then 4S|pg||
 mb|p|mb|4S|mb|p|mb|p|nt|turnip1:  did not want to show singelton H...|pg||
 mb|p|nt|turnip1:  Good staying there, coz 5 is risky|pg||
 pc|h2|pc|h9|pc|h3|pc|h7|pg||
@@ -296,8 +296,8 @@ mc|11|pg||
 qx|c10|st||md|4SK7HT8652DQ5CAT54,SQ432H9DAJ832CKQJ,SJ5H43DK9764C9863,SAT986HAKQJ7DTC72|sv|b|nt|ady: good day all|pg||
 mb|1S|mb|p|mb|2N|mb|p|mb|4H|nt|ady: easy 4@S e/w|pg||
 mb|p|nt|ady: should take care not togoany higher|pg||
-nt|ady: 5 ok    |pg||
-mb|4N|mb|p|mb|5H|nt|ady: leap in 2nd suit  usually as here shows good 2nd suit  scource of tricks|pg||
+nt|ady: 5 ok	|pg||
+mb|4N|mb|p|mb|5H|nt|ady: leap in 2nd suit  usually as here shows good 2nd suit	scource of tricks|pg||
 mb|p|mb|5S|mb|p|mb|p|mb|p|nt|ady: rkc revealed wither K@S  or an ace missing   so slam could at best be on a finesse if east had J@S|pg||
 pc|h6|pc|h9|pc|h4|pc|h7|pg||
 pc|s2|pc|s5|pc|sA|pc|s7|pg||
@@ -308,7 +308,7 @@ qx|o11|st||md|1S8HKQT73DATCQT953,SKQ7543HA95DK62C8,S96HJ84DQ9873C762,SAJT2H62DJ5
 nt|turnip1:  ok 8 ;)|pg||
 mb|p|mb|4S|mb|p|mb|p|mb|p|pc|hQ|pc|hA|pc|h8|pc|h2|pg||
 pc|s3|pc|s6|pc|sJ|pc|s8|pg||
-pc|sA|nt|projekt1:  the same contract in closed room ,  but without transfer|pg||
+pc|sA|nt|projekt1:  the same contract in closed room ,	but without transfer|pg||
 pc|h3|pc|s4|pc|s9|pg||
 nt|turnip1:  easy one, go get a cup of coffe or tea...|pg||
 nt|projekt1:  agree|pg||
@@ -375,7 +375,7 @@ pc|cA|pc|c2|pc|c8|pc|c5|pg||
 pc|cK|pc|d4|pc|c4|pc|c9|pg||
 pc|dJ|pc|d7|pc|d2|pc|dK|pg||
 mc|9|pg||
-qx|c13|st||md|3SJ63HQTDAQ952CQ84,ST9854HJ963DK6C95,SQ7H4DJT3CAKJT763,SAK2HAK8752D874C2|sv|b|mb|2C|mb|2H|mb|d|nt|ady: e/w game in either major    but 5@C  a 500 save for n/s|pg||
+qx|c13|st||md|3SJ63HQTDAQ952CQ84,ST9854HJ963DK6C95,SQ7H4DJT3CAKJT763,SAK2HAK8752D874C2|sv|b|mb|2C|mb|2H|mb|d|nt|ady: e/w game in either major	 but 5@C  a 500 save for n/s|pg||
 mb|3H|mb|4C|mb|4H|mb|5C|mb|p|nt|ady: 5 too high for e/w|pg||
 mb|p|mb|d|mb|p|mb|p|mb|p|pc|hA|nt|ady: par result |pg||
 pc|hT|nt|ady: Sweden drew level on hand 12  with the 2 overtricks in 3NT  +2 imps|pg||
@@ -391,7 +391,7 @@ mc|9|nt|ady: declarer wants diamond finesse wrong  as if right e/w game fails|pg
 pg||
 qx|o14|st||md|4ST7HAQ93DT86CKJ94,SKJ9853H4DJ5CA875,S64HJ87652DK74CQ6,SAQ2HKTDAQ932CT32|sv|o|nt|turnip1:  expensive mistake by E not doubling|pg||
 nt|projekt1:  I can imagine, what Dumbovich thinks about the 6@c bid :) he can not imagine, that 5 IMPs have won|pg||
-mb|1N|mb|p|nt|turnip1:  13-16|pg||
+mb|1N|mb|p|nt|turnip1:	13-16|pg||
 nt|turnip1:  4D maybe?|pg||
 mb|2H|nt|turnip1:  Taking the slow path|pg||
 mb|p|mb|2S|mb|p|mb|3S|nt|turnip1:  invite|pg||
@@ -408,7 +408,7 @@ qx|c14|st||md|4ST7HAQ93DT86CKJ94,SKJ9853H4DJ5CA875,S64HJ87652DK74CQ6,SAQ2HKTDAQ9
 pc|s2|pc|s7|pc|s9|pc|s6|pg||
 pc|dJ|pc|dK|pc|dA|pc|d6|pg||
 pc|dQ|pc|d8|pc|d5|pc|d4|pg||
-pc|d2|pc|dT|nt|ady: should be able so set up diamond for an overtrick   |pg||
+pc|d2|pc|dT|nt|ady: should be able so set up diamond for an overtrick	|pg||
 pc|s5|pc|d7|pg||
 pc|h4|pc|h2|pc|hT|pc|hQ|pg||
 pc|c4|pc|cA|pc|c6|pc|c3|pg||
@@ -446,7 +446,7 @@ mc|9|pg||
 qx|o16|st||md|2SK943H843DJ62CK65,S87HAKQ972DACT874,ST65HJT5DQ973CAJ3,SAQJ2H6DKT854CQ92|sv|e|mb|1D|nt|turnip1:  1D 8-15 5M remember?|pg||
 nt|projekt1:  the operator in other room corrected his mistake|pg||
 nt|turnip1:  1NT now from E|pg||
-mb|p|mb|1N|mb|p|mb|2H|an|6!h 12-14|mb|p|mb|2S|mb|p|nt|turnip1:  A. 10-15 3+S no 3H OR B. 16+ 3+H|pg||
+mb|p|mb|1N|mb|p|mb|2H|an|6!h 12-14|mb|p|mb|2S|mb|p|nt|turnip1:	A. 10-15 3+S no 3H OR B. 16+ 3+H|pg||
 nt|turnip1:  2H = maximum with 6H|pg||
 nt|turnip1:  2S relay, hope Axne remembers|pg||
 nt|turnip1:  Asks for singleton and strenght|pg||
@@ -482,5 +482,5 @@ pc|h9|pc|d3|pc|c2|nt|ady: on the lay   10 tricks  at least|pg||
 pc|c5|pg||
 pc|h7|pc|c3|pc|s2|pc|dJ|pg||
 pc|h2|pc|cJ|pc|c9|pc|d2|pg||
-pc|dA|mc|10|nt|ady: thx Ivan    specks    by all|pg||
+pc|dA|mc|10|nt|ady: thx Ivan	specks	  by all|pg||
 pg||

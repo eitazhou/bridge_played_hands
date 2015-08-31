@@ -187,7 +187,7 @@ nt|ady: Geoffrey|pg||
 pc|c3|pc|c2|pc|c7|pg||
 pc|cA|pc|cT|pc|c4|pc|c8|pg||
 pc|cQ|pc|cJ|pc|c9|pc|h7|pg||
-pc|hA|pc|h3|nt|ady: 3NT   bestchance    but A@S may be reoved before the bad heart split known|pg||
+pc|hA|pc|h3|nt|ady: 3NT   bestchance	but A@S may be reoved before the bad heart split known|pg||
 pc|h2|pc|h4|pg||
 pc|hK|pc|c6|pc|h8|pc|h5|pg||
 pc|s5|pc|s7|pc|sA|pc|s6|pg||
@@ -262,7 +262,7 @@ pc|d7|pc|d8|pc|dQ|pc|dA|pg||
 pc|d3|pc|dT|pc|d9|pc|d6|pg||
 mc|10|pg||
 qx|c28|st||md|2SAT87HKQ5DAJ3CA43,S92HJT862DKT7CKQ7,SQJ65HA93D982CJT9,SK43H74DQ654C8652|sv|n|mb|p|mb|p|mb|p|mb|1C|mb|1H|mb|d|mb|p|mb|2C|mb|p|mb|2D|mb|p|nt|roswolf:  this is a trappy hand too|pg||
-mb|2S|mb|p|mb|2N|mb|p|mb|4S|mb|p|mb|p|mb|p|nt|roswolf:  n/s here seem to be floundering a bit|pg||
+mb|2S|mb|p|mb|2N|mb|p|mb|4S|mb|p|mb|p|mb|p|nt|roswolf:	n/s here seem to be floundering a bit|pg||
 pc|hJ|pc|hA|pc|h4|pc|h5|pg||
 pc|sQ|pc|s3|pc|s7|pc|s2|pg||
 pc|s5|pc|s4|pc|sT|pc|s9|pg||
@@ -295,7 +295,7 @@ pc|h5|pc|h7|pc|hA|pc|hT|pg||
 pc|sA|pc|s3|pc|s9|pc|s6|pg||
 mc|11|pg||
 qx|c30|st||md|4SAK742HA92DKQ3CT5,SJT53HQT8D76CAK93,S9HKJ654DAJT94CQJ,SQ86H73D852C87642|sv|o|nt|roswolf:  these bds are academic now|pg||
-mb|p|mb|1S|mb|p|mb|2H|mb|p|nt|roswolf:  a red suit game but which one?|pg||
+mb|p|mb|1S|mb|p|mb|2H|mb|p|nt|roswolf:	a red suit game but which one?|pg||
 mb|2N|mb|p|mb|3D|mb|p|mb|3H|mb|p|nt|roswolf:  @h|pg||
 mb|4D|mb|p|mb|4H|mb|p|mb|p|mb|p|nt|roswolf:  club weakness is now advertised|pg||
 pc|c7|pc|c5|pc|cK|pc|cQ|pg||
