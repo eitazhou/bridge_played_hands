@@ -1,0 +1,149 @@
+# List of Practice Matches on BBO.
+# Lines with a '#' are ignored
+# Blank lines are ignored
+
+# Format
+# LIN_NUMBER:optional text
+# The optional text will replace the text in the lin_data file.
+03232:Neth - France Ladies Practice Match at Onstein,Session 7,I,1,16,Netherlands,413,France,429
+03233:Neth - France Ladies Practice Match at Onstein,Session 4,I,1,14,Netherlands,174,France,231
+03234:Netherlands-France Ladies Practice Match,3-8,I,1,14,Netherlands,124,France,155
+03235:Neth - France Ladies Practice Match at Onstein,Session 5,I,1,14,Netherlands,240,France,330
+03236:Neth - France Ladies Practice Match at Onstein,Session 8,I,1,16,Netherlands,431,France,517
+03237:Netherlands-France Ladies Practice Match,1-8,I,1,14,Netherlands,0,France,0
+03238:Netherlands-France Ladies Practice Match,2-8,I,1,14,Netherlands,88,France,46
+03239:Neth - France Ladies Practice Match at Onstein,Session 6,I,1,14,Netherlands,340,France,372
+04079:Taiwan Yoth Team Practice,Seg #4,I,17,32,junior,0,school,0
+04080:Taiwanese Youth Team Practice,Seg #3,I,1,32,Youth,0,School,0
+04081:Taiwan Youth Team Practice,Seg #6,I,17,32,Junior,0,School,0
+09105:Camrose Practice,Segment 1,I,1,16,Blue,0,Gold,0
+09107:Camrose Practice,Segment 2,I,1,16,Dark Blues,0,Light Blues,0
+10158:Practice Session,CNTC Semi 1 Seg 3_4,I,1,36,Carruthers,42,Rayner,51
+10159:Practice Session,CNTC Semi 1 Seg 3_4,I,1,36,Carruthers,42,Rayner,51
+12879:practice,Untitled segment,I,17,28,Scotland,26,Northern Ireland,22
+13298:ABF BBO practice,Final,I,1,16,Australia,0,Italy,0
+13655:Practice Session,Segement 01,I,1,12,Data Steel,0,Giants,0
+13979:Netherlands practice matches at 't Onstein,1_8,I,1,16,Netherlands 1,0,Angelini,0
+13980:Netherlands practice match at 't Onstein,2_8,I,1,16,Netherlands 2,0,Angelini,0
+13985:Netherlands Practice Match at 't Onstein,3_8,I,1,16,Netherlands 1,95,Angelini,51
+13991:Netherlands Practice match at 't Onstein,4_8,I,1,16,Netherlands 1,117,Iceland,52
+13993:Netherlands practice match at 't Onstein,5_8,I,1,16,Netherlands 1,106,Angelini,65
+14011:Practice match at 't Onstein,6_8,I,1,20,Netherlands,112,Iceland,84
+14013:Netherlands practice match at 't Onstein,6_8,I,1,20,Netherlands,112,Iceland,84
+14014:Netherlands practice match at 't Onstein,7_8,I,1,20,Netherlands,127,Angelini,94
+14017:Netherlands practice match at 't Onstein,7_8,I,1,20,Netherlands,127,Angelini,94
+14024:Netherlands practice match at 't Onstein,8_8,I,1,20,Netherlands,76,Angelini,123
+14028:Netherlands practice match at 't Onstein,8_8,I,1,20,Netherlands,76,Angelini,123
+14120:practice,1,I,1,30,ht,0,opps,0
+14330:ABF BBO practice,Final,I,1,16,Australia,0,Italy,0
+14346:ABF BBO practice,Final,I,1,16,Australia,0,Italy,0
+14371:ABF BBO practice,Final,I,1,16,Australia,0,Italy,0
+14703:DBC Practice,Wed am,I,1,36,North South,0,East West,0
+16548:practice,1,I,1,16,blah 1,0,blah 2,0
+17692:Practise Teams1,Segment 1 of 2,I,1,16,Anderson,-25,Sunshine,25
+17693:Practise Teams1_,Segment 1 of 2,I,5,20,Anderson,25,Sunshine,25
+17694:Practise Teams1,Segment 1,I,1,16,Anderson,20,Sunshine,0
+17696:Practise 4,1,I,1,16,Dulmage,0,Rosie,0
+17697:Practise Teams A,Segment 1,I,1,16,Gaucher,0,Jones,0
+17699:Practise Teams A,segment 1,I,1,16,Gaucher,0,Macleod,0
+17701:Thursday practise,Segment 1,I,1,36,Team 1,0,Louder,0
+17704:Practise match 2,1,I,6,41,Anderson,0,Sabier,0
+17705:Practise Teams C,Segment 1,I,11,46,Team 1,0,Team 2,0
+17706:last practise match on Thursday,1,I,1,36,Anderson,0,To be determined,0
+17707:last practise match on Thursday,1,I,1,36,Anderson,0,To be determined,0
+17784:Practise Teams C,Segment 1,I,11,46,Team 1,0,Team 2,0
+17787:Practise 9 is enough,Segment2,I,1,36,Team 1,0,Team 2,0
+17805:Practice 3 ,1,I,1,36,Team 1,0,Team 2,0
+17950:Practice 3 ,1,I,1,36,Team 1,0,Team 2,0
+17951:Practice 3 ,1,I,1,36,Team 1,0,Team 2,0
+17979:Practise 9 is enough,Segment2,I,1,36,Team 1,0,Team 2,0
+17980:Fri Eve Practise,1,I,1,64,Team 1,0,Team 2,0
+17982:fri 13 eve practice,1,I,1,64,Team 1,0,Team 2,0
+17984:fri 13 eve practice,1,I,1,64,Team 1,0,Team 2,0
+18008:fri practice,2,I,1,64,Team 1,0,Team 2,0
+18070:fri practice,2,I,1,64,Team 1,0,Team 2,0
+18186:Practice Match Norwegian Clubteams Championship,Round 1_1,I,1,32,Sortland 1,0,Sortland 2,0
+18188:Practice Match Norwegian Clubteams Championship,Round 1_1,I,1,32,Sortland 1,0,Sortland 2,0
+18191:Practice Match Norwegian Clubteams Championship,Round 1_1,I,1,32,Sortland 1,0,Sortland 2,0
+18192:Practice Match Norwegian Clubteams Championship,Round 1_2,I,1,32,Sortland 1,34,Sortland 2,39
+18195:Practice 3 ,1,I,1,36,Team 1,0,Team 2,0
+18277:Practice 3 ,1,I,1,36,Team 1,0,Team 2,0
+18336:Practise Match Norwegian Teams Champinship,Round 1_1,I,1,16,Sortland 2,0,Sortland 1,0
+18337:Practise Match Norwegian Teams Champinship,Round 1_1,I,1,16,Sortland 2,0,Sortland 1,0
+18339:Practise Match Norwegian Teams Championship,Round 1_2,I,17,32,Sortland 2,40,Sortland 1,34
+18363:Practice Match Norwegian Clubteams Championship,Round 1_2,I,1,32,Sortland 1,34,Sortland 2,39
+19645:Hungary - practice match,1_2,I,1,32,Feszek,0,Elastron,0
+19780:Practice Match Netherlands-Germany Seniors,1_4,I,1,14,Germany 2 ,0,Netherlands 2,0
+19781:Practice match Netherlands-Germany Seniors,1_4,I,1,14,Netherlands 1,0,Germany 1,0
+19782:Practice match Netherlands Germany Seniors,2_4,I,1,14,Germany 2,0,Netherlands 2,0
+19784:Practice match Netherlands Germany Seniors,2_4,I,1,14,Netherlands 1,0,Germany 1,0
+19790:Practice match Netherlands Germany Seniors,3_4,I,1,16,Netherlands 1,0,Germany 1,0
+19791:Practice match Netherlands Germany Seniiors,3_4,I,1,16,Germany 2,0,Netherlands 2,0
+19797:Practice match Netherlands Germany Seniors,4_4,I,1,16,Netherlands 1,0,Germany 1,0
+19799:Practice matche Netherlands Germany Seniors,4_4,I,1,16,Germany 2,0,Netherlands 2,0
+20249:Practice Match Dutch Women - Dutch Seniors,1 of 3,I,1,14,Dutch Women,0,Dutch Seniors,0
+20250:Practice match Dutch Woman-Dutch Seniors,1 of 3,I,1,14,Dutch Seniors,0,Dutch Woman,0
+20258:Practice Match Ducth Woman - Dutch Seniors,2 of 3,I,17,30,Dutch Seniors,0,Dutch Woman,0
+20260:Practice Match Dutch Women - Dutch Seniors,2 of 3,I,17,30,Dutch Women,0,Dutch Seniors,0
+20263:Practice Match Dutch Women - Dutch Seniors,3 of 3,I,17,30,Dutch Women,0,Dutch Seniors,0
+20264:Practice Match Dutch Women - Dutch Seniors,3 of 3,I,17,30,Dutch Seniors,0,Dutch Women,0
+20406:Practice Match Dutch Women - Dutch Seniors,3 of 3,I,31,44,Team 1,0,Team 2,0
+21278:Practice1,1,I,1,24,Garbage1,0,Garbage2,0
+21279:Practice1,1,I,1,24,Garbage1,0,Garbage2,0
+21280:Practice3,1,I,1,24,McGrath,0,Fahrer,0
+21360:practice,1st set,I,1,32,Team 1,0,Team 2,0
+22139:campractic,seg 1,I,17,32,Home,0, away,0
+22849:Practice Match Netherlands - Israel at 't Onstein,1_9,I,1,16,Netherlands,0,Israel,0
+22853:Practice Match Netherlands - Israel at 't Onstein,2_9,I,1,16,Netherlands,68,Israel,54
+22854:Practice Match Netherlands - Israel at 't Onstein,3_9,I,1,16,Netherlands,137,Israel,118
+22859:Practice Match Netherlands - Israel at 't Onstein,3_9,I,1,16,Netherlands,137,Israel,118
+22870:Practice Match Netherlands - Israel at 't Onstein,4_9,I,1,16,Netherlands,195,Israel,176
+22880:Practice Match Netherlands - Israel at 't Onstein,5_9,I,1,16,Netherlands,261,Israel,352
+22893:Practice Match Netherlands - Israel at 't Onstein,7_9,I,1,14,Netherlands,305,Israel,400
+22897:Practice Match Netherlands - Israel at 't Onstein,8_9,I,1,14,Netherlands,379,Israel,481
+22899:Practice Match Netherlands - Israel at 't Onstein,9_9,I,1,14,Netherlands,428,Israel,520
+23668:Euro practice,round 1,I,1,12,Ireland,0,France,0
+25084:Netherlands practice match at 't Onstein,8_8,I,1,20,Netherlands,76,Angelini,123
+27941:practice set up,only segment,P,1,36,Team 1,0,Team 2,0
+27942:practice,only 1,P,1,36,Team 1,0,Team 2,0
+28330:cbfpractice,Untitled segment,I,1,16,Team 1,0,Team 2,0
+29225:junior practice,Untitled segment,I,1,36,Team 1,0,Team 2,0
+29238:junior practice - invisible,Untitled segment,I,1,36,Team 1,0,Team 2,0
+29240:junior practice,Untitled segment,I,1,36,Team 1,0,Team 2,0
+33535:Practice match Netherlands-Israel,1_9,I,1,16,Netherlands,0,Israel,0
+33536:Practice match Netherlands-Israel,2_9,I,1,16,Netherlands,53,Israel,37
+33540:Practice match Netherlands-Israel,3_9,I,1,16,Netherlands,87,Israel,50
+33591:Netherlands - Israel Practice Match,4_9,I,1,16,Netherlands,139,Israel,82
+33603:Netherlands - Israel Practice Match,5_9,I,1,16,Netherlands,159,Israel,116
+33614:Netherlands - Israel Practice Match,6_9,I,1,16,Netherlands,194,Israel,172
+33672:Netherlands - Israel practice match,7 of 9,I,1,16,Netherlands,245,Israel,204
+33700:Netherlands-Israel practice match,9 of 9,I,1,16,Netherlands,330,Israel,279
+36464:Chennai Practice,swiss 1 of 1,I,1,32,x,0,y,0
+37728:Lederer Practice,Match 1,I,1,36,England,0,Norway,0
+37827:Netherlands-Israel practice match,9 of 9,I,1,16,Netherlands,330,Israel,279
+38947:Practice Match Women Netherlands -  Denmark,2_9,I,13,36,Netherlands,0,Denmark,0
+38948:Practice Match Women Netherlands-Denmark,1_9,I,1,24,Netherlands,0,Denmark,0
+38954:Practice Match Women Netherlands - Denmark,3_9,I,1,12,Netherlands,0,Denmark,0
+38955:Practice Match Women Netherlands - Denmark,2_9,I,13,24,Netherlands,0,Denmark,0
+38958:Practice Match Women Netherlands - Denmark,3_9,I,1,12,Netherlands,0,Denmark,0
+38966:Practice Match Women Netherlands - Denmark,4_9,I,13,24,Netherlands,100,Denmark,149
+38978:Practice Match Women Netherlands - Denmark,5_9,I,1,12,Netherlands,171,Denmark,209
+38995:Practice Match Women Netherlands - Denmark,6_9,I,1,12,Netherlands,244,Denmark,216
+38998:Practice Match Women Netherlands - Denmark,7_9,I,13,24,Netherlands,330,Denmark,245
+39005:Practice Match Women Netherlands - Denmark,7_9,I,13,24,Netherlands,330,Denmark,245
+39011:Practice Match Women Netherlands - Denmark,8_9,I,1,12,Netherlands,402,Denmark,175
+39015:Practice Match Women Netherlands - Denmark,9_9,I,13,24,Netherlands,412,Denmark,323
+39017:Practice Match Women Netherlands - Denmark,9_9,I,13,24,Netherlands,412,Denmark,323
+39379:Practice match Netherlands-Israel 2015a,1_8,I,1,16,Netherlands,0,Israel,0
+39382:Practice Match Netherlands - Israel 2015b,1_8,I,1,16,Israel,0,Netherlands,0
+39385:Practise match Netherlands - Isreal 2015b,2_8,I,1,16,Isreal,63,Netherlands,53
+39387:Practice match Netherlands-Israel 2015a,2_8,I,1,16,Netherlands,53,Israel,63
+39391:Practice match Netherlands-Israel 2015a,3_8,I,1,16,Netherlands,128,Israel,135
+39393:Practise match Netherlands - Israel 2015b,3_8,I,1,16,Israel,135,Netherlands,128
+39402:Practise match Netherlands - Israel 2015b,3_8,I,1,16,Israel,135,Netherlands,128
+39404:Netherlands - Israel practice match,session 4_8,I,11,26,Israel,187,Netherlands,194
+39405:Netherlands - Israel practice match,Session 4_8,I,11,26,Netherlands,194,Israel,187
+39427:Practice match Netherlands - Israel 2015b,7_8,I,1,20,Israel,432,Netherlands,425
+39428:Practice match Netherlands-Israel 2015a,7_8,I,1,20,Netherlands,425,Israel,432
+39430:Practice match Netherlands - Israel 2015a,8_8,I,1,20,Netherlands,473,Israel,527
+39431:Practice match Netherlands - Israel 2015b,8_8,I,1,20,Israel,527,Netherlands,473

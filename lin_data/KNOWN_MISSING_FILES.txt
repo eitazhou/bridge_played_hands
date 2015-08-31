@@ -1,0 +1,33 @@
+# List of known missing LIN files on BBO.
+#
+# These are files that do not have a LIN file on BBO. 
+# Unknown reason why.
+# Lines with a '#' are ignored
+# Blank lines are ignored
+
+# Format
+# LIN_NUMBER
+
+17679
+25997
+26053
+26196
+26296
+26415
+26441
+26464
+26466
+26573
+26596
+26609
+26617
+26635
+26636
+26637
+26638
+26639
+26646
+26647
+30698
+30705
+38248
