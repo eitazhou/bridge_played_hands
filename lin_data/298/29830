@@ -9,7 +9,7 @@ pc|s8|pc|sT|pc|s3|pc|s5|pg||
 pc|d4|pc|d3|pc|dT|pc|dK|pg||
 pc|dA|pc|d6|pc|dQ|pc|d5|pg||
 pc|d2|pc|d7|pc|s4|pc|d9|pg||
-nt|P dalvi: lead is automatic with some much strength,  Trump |pg||
+nt|P dalvi: lead is automatic with some much strength,	Trump |pg||
 pc|h2|pc|h3|pc|hK|pc|h9|pg||
 pc|cA|pc|c8|pc|cT|pc|c9|pg||
 mc|6|nt|P dalvi: lose 5 imps then |pg||
@@ -171,7 +171,7 @@ mb|p|mb|1D|mb|p|mb|1N|nt|sandipdang:  strange line - probably didnt count tricks
 mb|p|mb|2D|nt|granguru:  4@D or 2N NS...|pg||
 mb|p|mb|3D|nt|P dalvi: i wd say at trick 2  C|pg||
 mb|p|nt|granguru:  yup|pg||
-mb|p|mb|p|nt|granguru:  solid contract|pg||
+mb|p|mb|p|nt|granguru:	solid contract|pg||
 pc|hQ|pc|hA|pc|h6|pc|h5|pg||
 pc|d2|pc|dQ|pc|dA|pc|d6|pg||
 pc|dK|pc|d9|pc|d4|pc|s4|pg||
@@ -192,8 +192,8 @@ mc|9|pg||
 qx|o23|st||md|1SAKHAKDJT932CAJ92,S842HT8543D86CT65,SQ65H97DKQ74CQ874,SJT973HQJ62DA5CK3|sv|b|nt|sandipdang:  nice that its gotten just that little closer now|pg||
 nt|granguru:  6@D NS|pg||
 nt|granguru:  guessing @c right|pg||
-nt|sandipdang:  yes but 3nt is the right spot|pg||
-nt|sandipdang:  6@c is a lucky make|pg||
+nt|sandipdang:	yes but 3nt is the right spot|pg||
+nt|sandipdang:	6@c is a lucky make|pg||
 nt|P dalvi: Y N has to raise @D |pg||
 mb|2N|mb|p|mb|3C|mb|p|mb|3N|nt|granguru:  6@c or 6@D|pg||
 mb|p|mb|p|mb|p|nt|sandipdang:  or 6nt for that matter|pg||
@@ -233,7 +233,7 @@ pc|sK|pc|sT|pc|s8|pc|sA|pg||
 nt|P dalvi: C pd marked wit some strngth|pg||
 pc|c5|pc|c4|pc|c9|pc|c3|pg||
 pc|cK|pc|c7|pc|cT|pc|s4|pg||
-pc|cJ|pc|c8|pc|s2|nt|granguru:  lets say f.i. E has @Ck653 or @CK10653 declarer might make 3 @c tricks 3@S 2@h and 4@D|pg||
+pc|cJ|pc|c8|pc|s2|nt|granguru:	lets say f.i. E has @Ck653 or @CK10653 declarer might make 3 @c tricks 3@S 2@h and 4@D|pg||
 pc|s7|pg||
 pc|h3|pc|h4|pc|hK|pc|h5|pg||
 pc|h2|pc|h8|pc|hJ|pc|h7|pg||
@@ -261,20 +261,20 @@ nt|granguru:  seems so|pg||
 mb|2D!|nt|sandipdang:  2c must be advance transfer style but i wld prefer 3d at this vulnerability|pg||
 mb|p|mb|2H|nt|P dalvi: yes |pg||
 mb|p|mb|3D|mb|p|mb|3S|nt|granguru:  3NT also makes|pg||
-mb|p|mb|4S|mb|p|mb|p|mb|p|nt|granguru:  11 tricks probably|pg||
+mb|p|mb|4S|mb|p|mb|p|mb|p|nt|granguru:	11 tricks probably|pg||
 pc|c6|pc|cA|pc|cJ|pc|c5|pg||
 pc|sK|pc|sA|pc|s2|pc|s4|pg||
 pc|c2|pc|c9|pc|c4|pc|cK|pg||
 pc|sT|pc|s5|nt|granguru:  now 12|pg||
 pc|s3|pc|s7|pg||
-mc|12|nt|P dalvi: i did not follow 2@h  |pg||
+mc|12|nt|P dalvi: i did not follow 2@h	|pg||
 pg||
 qx|c25|st||md|3S74HQT43DT9532C64,SKTHK52DJ6CAKQ873,SA95HJ87DAQ87CJT2,SQJ8632HA96DK4C95|sv|e|mb|1D|mb|1S|mb|1N|mb|d|mb|p|mb|2S|mb|p|mb|4S|mb|p|mb|p|mb|p|pc|dT|pc|dJ|pc|dA|pc|d4|pg||
 pc|h7|pc|h9|pc|hT|pc|hK|pg||
 pc|sK|pc|sA|pc|s2|pc|s4|pg||
 mc|11|pg||
 qx|o26|st||md|4S6HKJ85D865CAQT32,S852HQ9432DK94CKJ,SAK73HAT6DAJ2C954,SQJT94H7DQT73C876|sv|b|nt|granguru:  correct play by N|pg||
-nt|sandipdang:  2@D in turn may have been trf|pg||
+nt|sandipdang:	2@D in turn may have been trf|pg||
 nt|P dalvi: Y it appears so |pg||
 mb|p|mb|p|mb|1H|nt|granguru:  if S ruffs @C N has an entry to give a second ruff, beating 4@S|pg||
 nt|granguru:  if S has enough trumps for it|pg||
@@ -284,7 +284,7 @@ nt|granguru:  3N by S has better expectations |pg||
 nt|granguru:  still W made the best lead|pg||
 pc|sA|pc|s4|pc|s6|pg||
 pc|c4|pc|c6|pc|cT|pc|cJ|pg||
-pc|s5|pc|sK|pc|s9|nt|granguru:  In fact 1@H with such a hand is not really atractive|pg||
+pc|s5|pc|sK|pc|s9|nt|granguru:	In fact 1@H with such a hand is not really atractive|pg||
 pc|d5|pg||
 pc|c9|pc|c7|pc|c2|pc|cK|pg||
 pc|s8|pc|s3|pc|sQ|pc|d6|pg||
@@ -303,7 +303,7 @@ pc|c3|pc|d9|pc|dJ|pc|d7|pg||
 pc|h5|mc|9|pg||
 qx|o27|st||md|1SK87642H9DAQ942CQ,STHAT2DT53CAJT862,S93HQ874DKJ86CK94,SAQJ5HKJ653D7C753|sv|o|mb|1S|mb|2C|nt|P dalvi: both sides cue bidding :)|pg||
 mb|d|mb|3H|mb|4D|mb|4H|mb|p|mb|p|mb|p|pc|s4|pc|sT|pc|s9|pc|s5|pg||
-pc|hT|nt|P dalvi: 3@h just suit or with  C ? some protection has to be  there in C fit |pg||
+pc|hT|nt|P dalvi: 3@h just suit or with  C ? some protection has to be	there in C fit |pg||
 pc|h4|pc|h3|pc|h9|pg||
 pc|h2|pc|h7|pc|hJ|pc|d2|pg||
 pc|c5|pc|cQ|pc|cA|pc|c4|pg||
