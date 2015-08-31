@@ -1,10 +1,10 @@
 vg|Polish Premier League RR,RND 12_15 SEG 2_2,I,13,24,KURT-ROYCE Poznan,36,CONSUS Kalisz,44|
 rs|2HW-1,2HW-1,2SSx-2,2HE=,4SNx-3,4SSx-2,4HN+1,4HS+1,4HS=,2HN+2,3NS-3,3NS-2,4HE-1,3HE=,4SW-2,4SW-1,1NW+3,1NW+1,3NS+3,5HN+1,5DWx-2,6DEx-1,3CE-1,2SE-1|
 pn|Lutostansk,Buras,Krupowicz,Narkiewicz,Filipowicz,Kowalski,Martens,Russyan|pg||
-qx|o13|st||md|3SK52HAJ7DAJCA9652,S4HQ65432DK987CQT,SJT93HK8DT6543C43,SAQ876HT9DQ2CKJ87|sv|b|mb|p|mb|1S|nt|Jsitarz:  Welcome to 2nd session of the match between Kurt-Royce PoznaÅ (6th place) and Consus Kalisz (5th place).|pg||
+qx|o13|st||md|3SK52HAJ7DAJCA9652,S4HQ65432DK987CQT,SJT93HK8DT6543C43,SAQ876HT9DQ2CKJ87|sv|b|mb|p|mb|1S|nt|Jsitarz:  Welcome to 2nd session of the match between Kurt-Royce PoznaÅ (6th place) and Consus Kalisz (5th place).|pg||
 mb|1N|mb|2H|mb|p|mb|p|mb|p|pc|d6|nt|Jsitarz:  Actual crosstable: http://www.pzbs.pl/wyniki/liga/liga2012-13/ekstraklasa/eks1213tabela.html|pg||
 pc|d2|pc|dJ|pc|dK|pg||
-nt|Jsitarz:  3 teams excel: 1. WrocÅaw (247 VP), 2. MrÄgowo (229 VP) . 3. Leszno (215 VP),|pg||
+nt|Jsitarz:  3 teams excel: 1. WrocÅaw (247 VP), 2. MrÄgowo (229 VP) . 3. Leszno (215 VP),|pg||
 pc|cT|pc|c3|pc|c7|nt|Jsitarz:  Next 3 teams: 4. Consus Carbon (200 VP), 5. Consus (1199 VP), 6. Kurt-Royce (194 VP).|pg||
 pc|c5|pg||
 nt|Jsitarz:  3 teams fight to remain in the top eight: 7. Connector (182 VP), 8. Gliwice (180 VP) 9. Kielce (177 VP).|pg||
@@ -47,7 +47,7 @@ pc|cA|pc|c2|pc|c3|pc|c5|pg||
 pc|cK|pc|c6|pc|c4|pc|c9|pg||
 pc|c7|pc|c8|pc|cT|pc|cJ|pg||
 mc|8|pg||
-qx|o15|st||md|1SK96532HAJDQ73CT7,SAJT874H9874D9C62,SQHKQT62DAJ64CAJ3,SH53DKT852CKQ9854|sv|n|mb|2H|mb|p|mb|2N|mb|3C|nt|Jsitarz:  3NT: 5@H + 1@S + 2@D + 1@C |pg||
+qx|o15|st||md|1SK96532HAJDQ73CT7,SAJT874H9874D9C62,SQHKQT62DAJ64CAJ3,SH53DKT852CKQ9854|sv|n|mb|2H|mb|p|mb|2N|mb|3C|nt|Jsitarz:	3NT: 5@H + 1@S + 2@D + 1@C |pg||
 mb|3H|mb|p|mb|4S|mb|p|mb|p|mb|d|mb|p|mb|p|mb|p|pc|cK|pc|c7|pc|c2|pc|cA|pg||
 pc|sQ|pc|c4|pc|s2|pc|sA|pg||
 pc|c6|pc|c3|pc|cQ|pc|cT|pg||
@@ -150,7 +150,7 @@ pc|cT|pc|s4|pc|h9|pc|cQ|pg||
 pc|hJ|pc|h4|pc|hQ|pc|sJ|pg||
 nt|ryskiel_: wyniki: http://www.pzbs.pl/wyniki/liga/liga2012-13/ekstraklasa/eks1213runda12.html|pg||
 mc|9|pg||
-qx|o20|st||md|2SQ6HQT54DJ95CQT75,SK9432HJ96DAK76CJ,SAT5HK3DT43CK9842,SJ87HA872DQ82CA63|sv|b|mb|1S|mb|p|mb|2N|mb|p|mb|3H|mb|p|mb|4H|mb|p|mb|4S|mb|p|mb|p|mb|p|pc|hK|nt|Jsitarz:  Very nice - for Grzegorz - lead. But is from KD or just from Kx?|pg||
+qx|o20|st||md|2SQ6HQT54DJ95CQT75,SK9432HJ96DAK76CJ,SAT5HK3DT43CK9842,SJ87HA872DQ82CA63|sv|b|mb|1S|mb|p|mb|2N|mb|p|mb|3H|mb|p|mb|4H|mb|p|mb|4S|mb|p|mb|p|mb|p|pc|hK|nt|Jsitarz:	Very nice - for Grzegorz - lead. But is from KD or just from Kx?|pg||
 pc|h2|pc|h4|pc|h6|pg||
 pc|h3|pc|h7|pc|hQ|pc|h9|pg||
 pc|h5|pc|hJ|pc|s5|pc|h8|pg||

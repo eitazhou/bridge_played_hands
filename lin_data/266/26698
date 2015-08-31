@@ -34,7 +34,7 @@ pc|c5|nt|ahollan1: it was trick question -- partnership needs to decide when han
 nt|Walddk2: It's a good hand because thereis a singleton and a decent side suit|pg||
 nt|vugraphzbc: drijver asking questions about signalling and leads|pg||
 nt|vugraphzbc: but i can't hear exactly|pg||
-nt|Walddk2: with KJxx  xxx  xx  Qxxx  I bid 2@H|pg||
+nt|Walddk2: with KJxx  xxx  xx	Qxxx  I bid 2@H|pg||
 pc|c3|pc|c4|pc|cA|pg||
 nt|ahollan1: good exercise for partnership is to take Brink's hand then change 1 thing to see if it changes your response|pg||
 pc|sT|pc|s4|pc|s2|pc|sA|pg||
@@ -120,7 +120,7 @@ mb|2D!|an|good raise|mb|d!|mb|2H|an|.|nt|andyv:  bidding is same so far|pg||
 mb|d!|mb|p|mb|2S|nt|ahollan1: hmmm i thought Drijver DBL = specifically 4/5@S  [bid 2@H w/6]|pg||
 mb|p|mb|4S|mb|p|mb|p|mb|p|nt|vugraphzbc: you could be right Al|pg||
 nt|andyv:  E forgot something|pg||
-nt|ahollan1: Brink DBL  showing 3@S??   good spot for Support DBL|pg||
+nt|ahollan1: Brink DBL	showing 3@S??	good spot for Support DBL|pg||
 pc|hK|nt|vugraphzbc: yes Brinks DBL = 3@s|pg||
 pc|h2|nt|vugraphzbc: @hK lead can be AK or KQ|pg||
 nt|vugraphzbc: @hK asks count|pg||
@@ -129,7 +129,7 @@ pc|h3|pc|h5|pg||
 nt|vugraphzbc: Brink also saying he promised 5+@d on this bidding|pg||
 nt|vugraphzbc: with 4@d and balanced hand they would open 1@c|pg||
 nt|bobholl: no double no trouble vP afraid of run to @D ?|pg||
-nt|ahollan1: right   since only time he can hold 4@D is 4(441)  which is impossible after showing 3@S|pg||
+nt|ahollan1: right   since only time he can hold 4@D is 4(441)	which is impossible after showing 3@S|pg||
 nt|vugraphzbc: the play is rather slow here, even slower in the other room|pg||
 pc|h8|pc|h6|pc|hA|pc|hT|pg||
 pc|hJ|pc|s5|pc|h7|pc|h9|pg||
@@ -163,7 +163,7 @@ mc|6|pg||
 qx|o19|st||md|1ST5H8752DAK6CQ652,SQ9764HKQ4D9843C9,SAK3HAJ63DT2CAJ43,SJ82HT9DQJ75CKT87|sv|e|mb|1N!|an|9-12|mb|p|nt|ahollan1: 1st seat favorable  1N=9-12|pg||
 nt|ahollan1: favorable = not-vul vs vul  [aka green]|pg||
 mb|2D!|an|GF asking|mb|p|nt|ahollan1: 2@D = artificial game force|pg||
-mb|2H|an|4/5!h, no 4!s|mb|p|mb|4H|nt|ahollan1: i used to play 1N=10-12  with 2-way stayman   that could be what NS playing too|pg||
+mb|2H|an|4/5!h, no 4!s|mb|p|mb|4H|nt|ahollan1: i used to play 1N=10-12	with 2-way stayman   that could be what NS playing too|pg||
 mb|p|mb|p|mb|p|pc|c9|nt|vugraphzbc: yes, 2-way stayman|pg||
 nt|vugraphzbc: 9 lead not from HT9+, then they lead the 10|pg||
 pc|c3|pc|c7|pc|cQ|pg||
@@ -206,7 +206,7 @@ pc|h3|pc|c3|pc|hK|pc|hA|pg||
 pc|dK|pc|dT|pc|d4|pc|d3|pg||
 pc|dQ|pc|d2|pc|d6|pc|d5|pg||
 pc|hT|pc|hJ|pc|s2|pc|h6|pg||
-nt|ahollan1: very quiet set except for  14  [which was overly quiet in this room]|pg||
+nt|ahollan1: very quiet set except for	14  [which was overly quiet in this room]|pg||
 mc|10|nt|vugraphzbc: drijver claiming for van Prooijen, 10 looked right|pg||
 pg||
 qx|c20|st||md|2SJT654HQJ832DT2C2,SK72H7DA9764CJ843,SQ3HK65DJ53CAQT96,SA98HAT94DKQ8CK75|sv|b|mb|p|mb|1C!|an|2+!C|nt|KingCur: even when trumps out did help declarer|pg||
@@ -232,7 +232,7 @@ pc|c6|pc|cQ|pc|cA|pg||
 nt|ahollan1: well there's a non-double-dummy play from Drijver|pg||
 pc|h3|pc|hA|pc|h6|pc|h4|pg||
 pc|cT|pc|cJ|pc|cK|pc|c5|pg||
-pc|c9|pc|c7|nt|ahollan1: that will do it -- very nice    if i played @C10 here  declarer would hold @CA9x|pg||
+pc|c9|pc|c7|nt|ahollan1: that will do it -- very nice	 if i played @C10 here	declarer would hold @CA9x|pg||
 pc|c2|pc|c8|pg||
 pc|d4|pc|d3|pc|d8|pc|dJ|pg||
 pc|s9|pc|s4|pc|s3|pc|s2|pg||
@@ -256,8 +256,8 @@ qx|o22|st||md|4S6HQ93DQT9875CT92,SJ54HAKT54DCKJ843,SKT92HJ72DJ62CA65,SAQ873H86DA
 nt|ahollan1: specs asking what happens if vP ducks trick 1|pg||
 nt|vugraphzbc: verhees: could have ducked the 1st trick|pg||
 nt|ahollan1: i don't know -- but tough to do expecting lead from KTxx|pg||
-mb|1D!|mb|p|mb|1H|an|.|nt|ahollan1: 1@D=10-15   again the canape variety|pg||
-mb|p|mb|1S!|mb|p|mb|2C!|mb|p|nt|ahollan1: 1@S = 4/5@S   could be  weak NT, 4144|pg||
+mb|1D!|mb|p|mb|1H|an|.|nt|ahollan1: 1@D=10-15	again the canape variety|pg||
+mb|p|mb|1S!|mb|p|mb|2C!|mb|p|nt|ahollan1: 1@S = 4/5@S	could be  weak NT, 4144|pg||
 nt|ahollan1: or minimum 4@D 5@S|pg||
 nt|vugraphzbc: Verhees rarely GF since he started with 1@h|pg||
 mb|2N|an|max 5!s-4!d|nt|ahollan1: hey Dennis -- that's my line|pg||
@@ -310,7 +310,7 @@ nt|ahollan1: maybe not|pg||
 nt|vugraphzbc: Verhees playing|pg||
 pc|h8|pg||
 nt|bobholl: 4@S 2@H 2@C 1@D no overtricks|pg||
-pc|s3|nt|ahollan1: top @C and when Q doesn't drop then @H finesse -- and sorry  Verhees|pg||
+pc|s3|nt|ahollan1: top @C and when Q doesn't drop then @H finesse -- and sorry	Verhees|pg||
 pc|s8|pc|sT|pc|h7|pg||
 pc|sA|pc|hT|pc|d7|pc|s7|pg||
 nt|ahollan1: will try @CJ but Drijver smooth duck|pg||
@@ -355,7 +355,7 @@ pc|d8|pc|h4|pc|dK|pc|dJ|pg||
 mc|11|pg||
 qx|c24|st||md|2SAKQ63HKDAK765C94,SJHAQT3DJT2CAKQ86,ST852H82DQ84CJ532,S974HJ97654D93CT7|sv|o|mb|1C!|an|2+!C|mb|p|mb|2H|an|weak|nt|KingCur: big hand here for S, and N has good support for both his suits|pg||
 mb|d|nt|KingCur: but EW will be in 4@H before S will have a 2nd bid|pg||
-mb|p|mb|2S|mb|p|mb|4S|mb|5H|nt|Vugraphzbd: my guess is that Simon wanted to see if NS would reach game, if he bids 4@H he was about sure tht they will  bid 4@S|pg||
+mb|p|mb|2S|mb|p|mb|4S|mb|5H|nt|Vugraphzbd: my guess is that Simon wanted to see if NS would reach game, if he bids 4@H he was about sure tht they will	bid 4@S|pg||
 mb|d|mb|p|nt|KingCur: interesting bidding here by W: seems he is first sniffing out if NS are bidding 4@S by themselves|pg||
 mb|p|mb|p|pc|dK|nt|KingCur: now that he knows, he takes the save: this way he avoids pushing NS into the @S game, after which he has a more awkward choice over 4@S|pg||
 pc|d2|pc|d8|pc|d3|pg||
@@ -473,7 +473,7 @@ nt|vugraphzbc: not count|pg||
 pc|hA|pc|h8|pc|h2|nt|Walddk2: Still a losing option for declarer|pg||
 pc|h4|pg||
 nt|Walddk2: When he sees @C10|pg||
-nt|ahollan1: Roland  do you find it strange that they've had same table lineup for all 4 sets?  i.e. always verhees-van prooijen vs brink-drijver|pg||
+nt|ahollan1: Roland  do you find it strange that they've had same table lineup for all 4 sets?	i.e. always verhees-van prooijen vs brink-drijver|pg||
 pc|sT|pc|s7|pc|sQ|pc|s8|pg||
 nt|Walddk2: Although Verhees might have led a club if he has a singleton|pg||
 nt|vugraphzbc: brink thinking now|pg||
