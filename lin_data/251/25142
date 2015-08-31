@@ -44,7 +44,7 @@ mb|3S|mb|5C|nt|koksoy: 4@S  üzerine  5@C  barajý  basarýlý..|pg||
 nt|tez: 5@c üzerine de 5@s|pg||
 mb|d|nt|tez: biþeyler karýþtý|pg||
 nt|yusufb: yanlýþmýþ:)|pg||
-mb|p|mb|p|nt|koksoy: o  zor...|pg||
+mb|p|mb|p|nt|koksoy: o	zor...|pg||
 mb|p|nt|koksoy: evet..|pg||
 nt|yusufb: enver hoþgeldin|pg||
 pc|c8|nt|yusufb: xx yanlýþ heralde|pg||
@@ -56,7 +56,7 @@ nt|tez: 2 batacak|pg||
 nt|tez: 8 imp lik baraj|pg||
 nt|koksoy: bu  board  ya  egale  olur  ...  yada   8  tac a..|pg||
 pc|h5|nt|tez: eðer 4/5 @s e býrakýlýrsa|pg||
-pc|h6|nt|koksoy: egale  olma  sansý  bence  daha  fazla..|pg||
+pc|h6|nt|koksoy: egale	olma  sansý  bence  daha  fazla..|pg||
 pc|h7|pc|hA|pg||
 mc|9|nt|tabak: slm|pg||
 pg||
@@ -69,11 +69,11 @@ pc|sJ|pc|sQ|pc|s9|pc|s4|pg||
 pc|d3|pc|d6|pc|dK|pc|d7|pg||
 pc|dQ|pc|d8|pc|h4|pc|dA|pg||
 pc|c2|pc|d9|mc|8|pg||
-qx|c3|st||md|1S764HJDKQJ9542C76,SAKJHQ62D87CQJ843,SQ852HAKT954D3CT9,ST93H873DAT6CAK52|sv|e|nt|koksoy: 4  e  5  demek   uygun  zon  durumunda  kolay... ama  5-5   kýrmýzýda   o  kadar  kolay  degil..  alacagýnýz  sayýyý  rakibe  5  e  batarak  verebilirsiniz|pg||
+qx|c3|st||md|1S764HJDKQJ9542C76,SAKJHQ62D87CQJ843,SQ852HAKT954D3CT9,ST93H873DAT6CAK52|sv|e|nt|koksoy: 4  e  5  demek   uygun  zon  durumunda  kolay... ama  5-5   kýrmýzýda   o  kadar	kolay  degil..	alacagýnýz  sayýyý  rakibe  5  e  batarak  verebilirsiniz|pg||
 mb|3D|mb|p|nt|tez: ideal 3@d açýþý|pg||
 mb|p|mb|p|pc|sK|pc|s2|pc|s3|pc|s7|pg||
 pc|cQ|pc|c9|pc|c5|pc|c7|pg||
-pc|sA|pc|s5|pc|s9|nt|koksoy: acýlmasa  3nt  ya  gelecek  ve  oyun  tarzýna  göre   belki  de  yapacaklardý... simdi  ikisi de  müdahale  edemedi...|pg||
+pc|sA|pc|s5|pc|s9|nt|koksoy: acýlmasa  3nt  ya	gelecek  ve  oyun  tarzýna  göre   belki  de  yapacaklardý... simdi  ikisi de  müdahale  edemedi...|pg||
 pc|s6|pg||
 pc|c4|pc|cT|pc|cK|pc|c6|pg||
 pc|dA|pc|d4|pc|d7|pc|d3|pg||
@@ -93,7 +93,7 @@ nt|trinityy: nevzat seems solved all problems for this board by opening 1nt|pg||
 pc|d2|pc|d6|pc|dQ|pc|dK|pg||
 mc|12|pg||
 qx|c4|st||md|2S2HAJT964D52CKQT8,SKT864H32DT76C653,SA9753HK75DAQ8CA4,SQJHQ8DKJ943CJ972|sv|b|nt|tez: ikisinde de konuþabilecek el yoktu gerçekten|pg||
-nt|koksoy: 4@H  veya  6@H  oynanacak|pg||
+nt|koksoy: 4@H	veya  6@H  oynanacak|pg||
 mb|p|nt|koksoy: yoktu..|pg||
 mb|1S|mb|p|mb|2H|mb|p|nt|yusufb: slmm hakan hoþgeldin|pg||
 mb|2N|mb|p|nt|koksoy: 6@H  favorim  ...  körler  esit  dagýlýnca  hemen  oluyor...  cok  iyi  kontrat..|pg||
@@ -113,7 +113,7 @@ pc|s5|pc|hQ|nt|koksoy: evet..  7  oldu..|pg||
 pc|hA|pc|s6|pg||
 pc|hT|pc|h2|pc|h5|pc|d3|pg||
 nt|tez: 1@s 2@h 2nt=nt açacak el oynuyorlar sanýyorum|pg||
-mc|13|nt|koksoy: deminki  elde  ümit  5 e 5  diyerek  8  kazandýrdý...|pg||
+mc|13|nt|koksoy: deminki  elde	ümit  5 e 5  diyerek  8  kazandýrdý...|pg||
 pg||
 qx|o5|st||md|3SJ92HQ832D8754CA4,SAQ6HA9654DJ32C87,S43HKJTDKQ9CKT653,SKT875H7DAT6CQJ92|sv|n|nt|vugraphzch: that 2nt was forcing|pg||
 mb|1C|mb|1S|mb|p|mb|2C!|mb|p|mb|2D|mb|p|mb|2S|mb|p|mb|p|mb|p|pc|cA|pc|c7|pc|c3|pc|c2|pg||
@@ -164,7 +164,7 @@ pc|h2|pc|h8|pc|hA|nt|tez: uyandýrsamýydým acaba kuþkusu|pg||
 pc|h6|pg||
 pc|d5|pc|dK|pc|d3|pc|d9|pg||
 pc|d8|pc|s7|pc|dT|pc|d2|pg||
-mc|6|nt|koksoy: partscore  kör  yaparlardý ...  simdi  de  onu  alýyorlar...  bu  elde  ew  daha  büyük  sayýlar  kazanabilir..|pg||
+mc|6|nt|koksoy: partscore  kör	yaparlardý ...	simdi  de  onu	alýyorlar...  bu  elde	ew  daha  büyük  sayýlar  kazanabilir..|pg||
 pg||
 qx|o7|st||md|1S5HAQ954DJ864C742,SAQ92HKT863DK75CA,SK643HJ2DQT2CT865,SJT87H7DA93CKQJ93|sv|b|mb|p|mb|1H|mb|p|mb|1S|mb|p|mb|3S|mb|p|mb|4S|mb|p|mb|p|mb|p|pc|s5|pc|s2|pc|sK|pc|s7|pg||
 pc|s4|nt|trinityy: aslan can make +1 by putting small to spades|pg||
@@ -250,9 +250,9 @@ mc|6|pg||
 qx|c9|st||md|3S742HA87543DJ8CT8,SQJ5HQT9DQT42CAQ6,SA986HKJDK7653CJ7,SKT3H62DA9CK95432|sv|e|mb|1D|mb|p|mb|1H|mb|p|mb|1S|nt|yusufb: 2@h|pg||
 mb|p|mb|2H|mb|p|nt|f_aydogdu: tac 3nt diyebilse yapar|pg||
 mb|p|mb|p|nt|yusufb: evet goksu eline antre yok|pg||
-nt|koksoy: ew    batý  tarafýndan   3nt  yapabilir..  ancak  konusmaya  dahi  giremediler|pg||
+nt|koksoy: ew	 batý  tarafýndan   3nt  yapabilir..  ancak  konusmaya	dahi  giremediler|pg||
 pc|sQ|pc|sA|pc|sT|pc|s4|pg||
-pc|c7|pc|c4|nt|koksoy: kýrmýzýyýz  ya  ..  ya  800  olursak...  :)|pg||
+pc|c7|pc|c4|nt|koksoy: kýrmýzýyýz  ya  ..  ya  800  olursak...	:)|pg||
 nt|f_aydogdu: zonda serhan korktu 2tref demeye bende diyemezdim|pg||
 pc|cT|pc|cQ|pg||
 nt|tez: @s ataðýna 8 yok mu?|pg||
@@ -266,7 +266,7 @@ pc|hK|pc|h2|pc|h3|pc|hT|pg||
 pc|s6|pc|sK|pc|s2|pc|s5|pg||
 pc|c9|pc|h7|nt|yusufb: @s atagýna bizde @h oyanrýz 9 olur|pg||
 pc|hQ|pc|d3|pg||
-nt|koksoy: bu  da 800  olmanýn  baska  yolu...  cok  pasif  kalmak...|pg||
+nt|koksoy: bu  da 800  olmanýn	baska  yolu...	cok  pasif  kalmak...|pg||
 pc|sJ|pc|s8|pc|s3|pc|h4|pg||
 pc|hA|pc|h9|pc|d5|nt|yusufb: yada @d oynarýz yine 9 olur|pg||
 pc|h6|pg||
@@ -279,7 +279,7 @@ nt|trinityy: aslan gave chance north to show one of his majors.|pg||
 nt|trinityy: hi toros wellcome|pg||
 nt|trinityy: other table opened 3nt solid minor opening from easts hand|pg||
 nt|trinityy: if bulent passes 8 imp will go to tac.|pg||
-nt|torosyukse:  i agree with your last comment. it could have been 40-40 by now:)|pg||
+nt|torosyukse:	i agree with your last comment. it could have been 40-40 by now:)|pg||
 mb|4N|nt|trinityy: i think baskan and antalyali was happy with 4cl+1 score on the closed table.|pg||
 mb|p|mb|5C|nt|trinityy: :)|pg||
 nt|trinityy: 4nt???|pg||
@@ -287,7 +287,7 @@ mb|p|mb|p|nt|torosyukse:  somewhat strange is going on here|pg||
 mb|p|nt|trinityy: bulent bidded 4nt to make west to pick a minor game.|pg||
 pc|sK|nt|trinityy: saved  more imps. gave 6 other than 8 :)|pg||
 pc|s4|pc|sJ|pc|s7|pg||
-nt|torosyukse:  umit must cash out correctly|pg||
+nt|torosyukse:	umit must cash out correctly|pg||
 pc|hK|nt|trinityy: jack of spades is very informative card.|pg||
 pc|h4|pc|h9|nt|trinityy: welldone nevzat|pg||
 pc|h3|pg||
@@ -305,7 +305,7 @@ mc|11|pg||
 qx|c10|st||md|4SAKQT3HKQ65DQ3C53,S654HT74DAKJ9CJ82,SJ982HAJ98D7652C9,S7H32DT84CAKQT764|sv|b|nt|tez: yok yusuf..@s çýktýk..verdik @s i|pg||
 nt|tez: onunla 8 þu anda|pg||
 mb|3N|mb|d|nt|yusufb: @c 6 tane bizde:)|pg||
-mb|4C|nt|koksoy: güzel  actý...   simdi  4  major  üzerine  5@C  diyebilirler|pg||
+mb|4C|nt|koksoy: güzel	actý...   simdi  4  major  üzerine  5@C  diyebilirler|pg||
 nt|tez: izleyiciye yanýt...9 nolu elde EW ellerinden hiçbiri araya girmezdi bence|pg||
 mb|p|mb|p|nt|yusufb: zaten 9 muþ tez hocam ugraþtýrýyon beni:)|pg||
 mb|p|pc|c9|pc|cA|pc|c5|pc|c2|pg||
@@ -332,8 +332,8 @@ nt|trinityy: one more game swing gained by izmir in non vul position|pg||
 pc|cA|pc|c6|pc|cJ|pc|cT|pg||
 pc|s2|pc|d8|pc|d9|mc|7|pg||
 qx|c11|st||md|1SQJHA62DKQT853C63,S964H973DA942CJ95,S753HKQT8DCKQT872,SAKT82HJ54DJ76CA4|sv|o|mb|1D|mb|p|nt|yusufb: cok hýzlý oynanýyor|pg||
-mb|1H|mb|1S|mb|p|mb|p|mb|3C|mb|p|mb|3H|mb|p|nt|koksoy: ünaydýn   pasammmmmmmmmmmmmmmmmmmmmm|pg||
-nt|koksoy: bu  molvaya  özel  gidecekti  :)|pg||
+mb|1H|mb|1S|mb|p|mb|p|mb|3C|mb|p|mb|3H|mb|p|nt|koksoy: ünaydýn	 pasammmmmmmmmmmmmmmmmmmmmm|pg||
+nt|koksoy: bu  molvaya	özel  gidecekti  :)|pg||
 nt|MolvaM: günaydýn  herkese :)|pg||
 nt|f_aydogdu: 4h olur mu?|pg||
 nt|yusufb: günaydýnn paþam hoþgeldinn|pg||
@@ -344,7 +344,7 @@ pc|s5|pg||
 nt|tez: sayý alýþveriþi olur bu elden|pg||
 pc|cA|pc|c3|pc|c5|pc|c2|pg||
 pc|d6|pc|dK|pc|dA|pc|h8|pg||
-pc|s7|nt|koksoy: 8  ve  10  nolu  ellerde  alýsveris  bekliyorum...  belki  9  dada..|pg||
+pc|s7|nt|koksoy: 8  ve	10  nolu  ellerde  alýsveris  bekliyorum...  belki  9  dada..|pg||
 pc|s2|pc|h2|pc|s6|pg||
 pc|hA|pc|h3|pc|hT|pc|h4|pg||
 pc|h6|pc|h7|pc|hK|pc|h5|pg||
@@ -352,7 +352,7 @@ pc|hQ|pc|hJ|pc|c6|pc|h9|pg||
 pc|cK|pc|c4|pc|d3|pc|c9|pg||
 mc|10|pg||
 qx|o12|st||md|2SQ42HAQ853DA9C753,SKJT5HT72DK76C984,SA976HK4DQ53CAT62,S83HJ96DJT842CKQJ|sv|n|mb|p|mb|1C|mb|p|mb|1H|mb|p|mb|1S|mb|p|mb|2D!|mb|p|mb|2N|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|dJ|pc|d9|pc|d6|pc|dQ|pg||
-nt|torosyukse:  at the last board serhan tried to take the first 4 tricks and gave away the contract, in the other room...|pg||
+nt|torosyukse:	at the last board serhan tried to take the first 4 tricks and gave away the contract, in the other room...|pg||
 pc|hK|pc|h6|pc|h3|pc|h7|pg||
 pc|h4|pc|h9|pc|hA|pc|hT|pg||
 pc|hQ|pc|h2|pc|d3|pc|hJ|pg||
@@ -379,7 +379,7 @@ pc|h3|pc|h2|pc|hK|pc|h9|pg||
 pc|h4|pc|h6|pc|hA|pc|h7|pg||
 pc|hQ|pc|hT|pc|c2|pc|hJ|pg||
 pc|h8|pc|c8|pc|c6|pc|s3|pg||
-pc|h5|pc|s5|pc|cT|nt|koksoy: körlerden  sonra  fazla  yapmak  icin  pikleri  deneyecek|pg||
+pc|h5|pc|s5|pc|cT|nt|koksoy: körlerden	sonra  fazla  yapmak  icin  pikleri  deneyecek|pg||
 pc|s8|pg||
 pc|sQ|pc|sK|pc|sA|pc|d4|pg||
 pc|s7|pc|cJ|pc|s2|pc|sJ|pg||
@@ -401,7 +401,7 @@ pc|hK|pc|h3|pc|h5|pc|c7|pg||
 pc|h4|nt|torosyukse:  if you don't raise your partner with four card support|pg||
 pc|hJ|pc|h8|nt|trinityy: last board can maybe shift one imp with the play of the trump suit.|pg||
 pc|c9|pg||
-nt|torosyukse:  and here 1 imp|pg||
+nt|torosyukse:	and here 1 imp|pg||
 nt|trinityy: yes ns couldnt win the spade trick|pg||
 pc|dK|nt|torosyukse:  or diamonds|pg||
 pc|d2|pc|dJ|pc|dA|pg||
@@ -459,7 +459,7 @@ pg||
 qx|c14|st||md|4SQ76H93DAKJ3CAT54,SA9HK865DQ72CJ876,SJ8542HAQJT7DCKQ2,SKT3H42DT98654C93|sv|o|mb|p|nt|tabak: 10 numaradan alýþ veriþ oldu|pg||
 nt|tez: 4 devre oynanacak 4X14|pg||
 nt|tez: 3 yarý daha var|pg||
-nt|koksoy: tabii  deminki  elde  azýcýk  puan  ve  fitle  NS  da   4@S  yapýyordu    :)|pg||
+nt|koksoy: tabii  deminki  elde  azýcýk  puan  ve  fitle  NS  da   4@S	yapýyordu    :)|pg||
 nt|koksoy: enterasan  board...|pg||
 mb|1N|mb|p|mb|2H|nt|koksoy: 1  batýyordu  ..|pg||
 mb|p|mb|2S|mb|p|mb|3H|mb|p|nt|koksoy: 420  kazanýyordu..|pg||
