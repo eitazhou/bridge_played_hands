@@ -5,7 +5,7 @@ qx|o1|st||md|3SKJ4HA82DT9872CJT,SQ9852HKTDQ53CQ75,SA63HJ9743DJCA983,ST7HQ65DAK64
 qx|o2|st||md|4S64H9863DK84CK542,SKH42DQJ532CAQJ98,SAJ985HAQT75DATC6,SQT732HKJD976CT73|sv|n|mb|p|mb|p|mb|1D|mb|2D|mb|p|mb|2H|mb|p|nt|tias:  Hello everybody!|pg||
 mb|3H|mb|p|mb|4H|mb|p|mb|p|mb|p|nt|tias:  I've had some difficulties finding the right table, but this seems right :)|pg||
 nt|vugraphzbm: this table is completely correct now, we had a problem here, sorry|pg||
-pc|h2|nt|tias:  S will have to guess the trumps to have a chance at this contract|pg||
+pc|h2|nt|tias:	S will have to guess the trumps to have a chance at this contract|pg||
 nt|tias:  the spades will guess themselves when W shows out|pg||
 pc|hQ|pc|hK|pc|h6|pg||
 nt|tias:  Nice for Rimstedt that Flaats trumps are the 42 and not the 92|pg||
@@ -19,10 +19,10 @@ pc|s5|pc|s7|pc|s6|pc|d3|pg||
 pc|c7|pc|c2|pc|c8|nt|tias:  now the lay out is open|pg||
 pc|c6|pg||
 pc|d5|pc|dA|pc|d7|pc|d4|pg||
-pc|s8|nt|tias:  and he will double finesse @s|pg||
-pc|sT|nt|tias:  for 10 tricks|pg||
+pc|s8|nt|tias:	and he will double finesse @s|pg||
+pc|sT|nt|tias:	for 10 tricks|pg||
 pc|h8|pc|c9|pg||
-mc|10|nt|tias:  Good result for Sweden|pg||
+mc|10|nt|tias:	Good result for Sweden|pg||
 pg||
 qx|c2|st||md|4S64H9863DK84CK542,SKH42DQJ532CAQJ98,SAJ985HAQT75DATC6,SQT732HKJD976CT73|sv|n|mb|p|mb|4H|mb|p|mb|p|mb|p|pc|h4|pc|h5|pc|hK|pc|h3|pg||
 pc|d7|pc|dK|pc|d2|pc|dT|pg||
@@ -53,7 +53,7 @@ pc|d4|pc|dA|pc|d2|pg||
 pc|d5|pc|dK|pc|d9|pc|d6|pg||
 pc|h5|pc|hT|pc|hA|pc|h3|pg||
 pc|h2|pc|h4|pc|hJ|pc|s7|pg||
-pc|h9|nt|tias:  Declarer misguessed 4@h for -1 and a 12imp swing for sweden|pg||
+pc|h9|nt|tias:	Declarer misguessed 4@h for -1 and a 12imp swing for sweden|pg||
 pc|c3|pc|s2|nt|tias:  Same lead at both tables, but SÃ¤fsten (E) didnt return at trump|pg||
 pc|hQ|pg||
 nt|tias:  @hJ ended up as setting trick|pg||
@@ -62,7 +62,7 @@ nt|tias:  But they strike right back with setting 1NT-2 for a nice 200 and a 2-3
 pc|s3|pc|s4|pc|sA|nt|tias:  GrÃ¶nkvist will make 7 or 8 tricks i guess|pg||
 pc|sJ|pg||
 pc|hK|pc|c8|pc|c4|pc|h6|pg||
-pc|h8|nt|tias:  She settles for 7|pg||
+pc|h8|nt|tias:	She settles for 7|pg||
 pc|d3|pc|dT|pc|h7|pg||
 pc|c2|pc|d7|pc|c9|pc|cK|pg||
 mc|7|nt|tias:  And Bakke misses the last trick on the @d7|pg||
@@ -84,16 +84,16 @@ mc|5|pg||
 qx|o4|st||md|2SK72HT74DT7CKJT87,S94HA85DAJ963C432,SAQ85HQ962DQ2CA95,SJT63HKJ3DK854CQ6|sv|b|nt|tias:  Not much of a junior spirit there|pg||
 mb|p|mb|1C|mb|p|nt|tias:  1@c Bal or natural|pg||
 mb|1S|mb|p|nt|tias:  if balanced: 12-14 or 18-19|pg||
-mb|1N|nt|tias:  1@s = no 4card majors 5-12|pg||
+mb|1N|nt|tias:	1@s = no 4card majors 5-12|pg||
 nt|tias:  1nt = 12-14 balanced|pg||
 nt|Aurora:  Hello all, :) here you can see player profiles, teams, CCs, and you can find on: http://livebridge.net/bbo/wbf/2014istanbul.php|pg||
 mb|p|mb|2C|mb|p|nt|tias:  2@c = i want to play here|pg||
 mb|p|mb|p|nt|tias:  A nice stop for NS|pg||
-pc|sJ|nt|tias:  Should make at least 8 tricks|pg||
+pc|sJ|nt|tias:	Should make at least 8 tricks|pg||
 nt|tias:  Whereas 1NT has problems losing 5@d and 3@h|pg||
 nt|tias:  If EW find a red lead|pg||
 nt|tias:  In CR EW are playing in 2@d also making (i presume)|pg||
-pc|s2|nt|tias:  so approx 5 imps for Sweden|pg||
+pc|s2|nt|tias:	so approx 5 imps for Sweden|pg||
 pc|s9|pc|sA|pg||
 nt|tias:  If N guesses trumps|pg||
 nt|tias:  Thanks :)|pg||
@@ -109,7 +109,7 @@ qx|c4|st||md|2SK72HT74DT7CKJT87,S94HA85DAJ963C432,SAQ85HQ962DQ2CA95,SJT63HKJ3DK8
 mb|p|nt|ahollan1: otherwise continue @H while still holding @SA for extra undertrick|pg||
 mb|1C|mb|p|nt|ahollan1: 1@C=2+|pg||
 nt|ahollan1: transfer responses|pg||
-mb|1S|mb|1N|an|alerted|nt|ahollan1: 1@S = 6-9(10), not 4@H/@S   or   @D|pg||
+mb|1S|mb|1N|an|alerted|nt|ahollan1: 1@S = 6-9(10), not 4@H/@S	or   @D|pg||
 mb|p|mb|2C|mb|d|mb|2D|mb|p|mb|p|mb|p|nt|ahollan1: i can't make sense of this auction even if  1@S-P-1N|pg||
 nt|ahollan1: just can't figure out who would DBL for EW|pg||
 pc|cA|pc|c6|pc|c7|pc|c4|pg||
@@ -120,7 +120,7 @@ pc|dT|pc|dJ|pc|dQ|pc|dK|pg||
 pc|s3|pc|s2|pc|s9|pc|sQ|pg||
 pc|h6|pc|h3|pc|hT|pc|hA|pg||
 pc|dA|pc|d2|pc|d4|pc|d7|pg||
-nt|ahollan1: unless using original windows bbo   you can also click on player to access much of that info|pg||
+nt|ahollan1: unless using original windows bbo	 you can also click on player to access much of that info|pg||
 pc|s4|pc|s5|pc|sJ|pc|sK|pg||
 pc|s7|pc|d3|pc|s8|pc|s6|pg||
 nt|ahollan1: and i think click on table name to get to home page|pg||
@@ -133,7 +133,7 @@ qx|o5|st||md|3S986HK63D97CAQ982,SJ543H8742D6CKT75,SAKTHQJTDQJT532C6,SQ72HA95DAK8
 nt|tias:  1NT = no major 5-12|pg||
 nt|tias:  and no support|pg||
 nt|tias:  so basically @c|pg||
-mb|2C|nt|tias:  2@c transfer|pg||
+mb|2C|nt|tias:	2@c transfer|pg||
 mb|p|mb|2D|mb|p|nt|tias:  but limited to 10-16 i think|pg||
 mb|p|nt|tias:  2@d shows a minimum hand|pg||
 nt|tias:  with 10-12 S could have bid more aggressively|pg||
@@ -160,7 +160,7 @@ mc|9|nt|tias:  oh she didnt|pg||
 nt|tias:  She played for the finesse|pg||
 nt|tias:  :)|pg||
 pg||
-qx|c5|st||md|3S986HK63D97CAQ982,SJ543H8742D6CKT75,SAKTHQJTDQJT532C6,SQ72HA95DAK84CJ43|sv|n|mb|1D|nt|ahollan1: assuming not all  SemiFinal matches are on vugraph|pg||
+qx|c5|st||md|3S986HK63D97CAQ982,SJ543H8742D6CKT75,SAKTHQJTDQJT532C6,SQ72HA95DAK84CJ43|sv|n|mb|1D|nt|ahollan1: assuming not all	SemiFinal matches are on vugraph|pg||
 nt|ahollan1: 1@D = 4+|pg||
 mb|p|mb|1N|mb|p|mb|2D|mb|p|mb|p|mb|p|pc|s2|nt|ahollan1: EW leads  3rd from even, low from odd|pg||
 pc|s6|pc|sJ|pc|sA|pg||
@@ -189,7 +189,7 @@ nt|tias:  Maybe he wasnt sure 2@h was 4@h 5@c, cause 3@c seems obvious to me|pg|
 nt|vugraphzbm: explaining 2@H to W|pg||
 nt|vugraphzbm: :)|pg||
 nt|tias:  maybe he wanted to preempt 4@c?|pg||
-pc|dK|nt|tias:  oh, thats a good reason :)|pg||
+pc|dK|nt|tias:	oh, thats a good reason :)|pg||
 pc|dA|pc|d7|pc|d6|pg||
 pc|cA|pc|c7|pc|c3|pc|c2|pg||
 pc|cQ|pc|cK|pc|c5|pc|cT|pg||
@@ -197,11 +197,11 @@ pc|sK|pc|s8|pc|s5|pc|s2|pg||
 pc|d3|pc|d9|pc|dT|nt|tias:  relies soley on the @h finesse|pg||
 pc|d5|pg||
 nt|tias:  9 tricks|pg||
-pc|sA|nt|tias:  another nice 6 imps for Sweden|pg||
+pc|sA|nt|tias:	another nice 6 imps for Sweden|pg||
 pc|s9|pc|s3|pc|sT|pg||
 mc|9|pg||
-qx|c6|st||md|4SJT8HQT3D964C9853,SA75HK52DKQJT8CT2,S92HAJ96DA5CAQJ64,SKQ643H874D732CK7|sv|e|mb|p|mb|p|mb|1D|nt|ahollan1: 1@D = 10-16 hcp, 0+@D   [open 2@D would be 6+@D or 5@D 4@C]|pg||
-mb|1N|mb|p|mb|p|mb|p|nt|ahollan1: 1N would be 14-16    looks close but  vul opposite passed hand argues against the mild upgrade|pg||
+qx|c6|st||md|4SJT8HQT3D964C9853,SA75HK52DKQJT8CT2,S92HAJ96DA5CAQJ64,SKQ643H874D732CK7|sv|e|mb|p|mb|p|mb|1D|nt|ahollan1: 1@D = 10-16 hcp, 0+@D	[open 2@D would be 6+@D or 5@D 4@C]|pg||
+mb|1N|mb|p|mb|p|mb|p|nt|ahollan1: 1N would be 14-16    looks close but	vul opposite passed hand argues against the mild upgrade|pg||
 pc|d2|nt|ahollan1: actually  KnR evaluates west hand to 14.20|pg||
 nt|ahollan1: http://www.jeff-goldsmith.org/cgi-bin/knr.cgi?|pg||
 pc|d4|pc|d8|pc|dA|pg||
@@ -222,17 +222,17 @@ pc|cQ|pc|h4|pc|c9|pc|hK|pg||
 pg||
 qx|o7|st||md|1SAK9HK94DAJCKQ643,SQ85HQ853DQ86542C,S762HJ762DKT3C872,SJT43HATD97CAJT95|sv|b|mb|2C|mb|p|mb|2D|mb|p|nt|tias:  If I wasnt cheering for Sweden, then I'd like to see what EW could do if they had some more to work with|pg||
 mb|2H|mb|p|nt|tias:  2@c = 20-21 bal or forcing|pg||
-mb|2S|nt|tias:  2@d transfer or relay|pg||
+mb|2S|nt|tias:	2@d transfer or relay|pg||
 nt|tias:  2@h @h forcing or 20-21bal|pg||
 mb|p|nt|tias:  2@s asking|pg||
-mb|2N|nt|tias:  2NT = 20-21|pg||
+mb|2N|nt|tias:	2NT = 20-21|pg||
 mb|p|mb|p|nt|tias:  Wow|pg||
 mb|p|nt|tias:  I would NOT have passed there, but its working!|pg||
 pc|d4|pc|d3|pc|d9|nt|tias:  Maybe thats part of the reason that im a commentator not a player when world champs are decided :)|pg||
 pc|dJ|pg||
 pc|cK|pc|d2|pc|c2|pc|cA|pg||
-pc|cJ|nt|tias:  Not so nice surprise for declarer with @cs deviding 0-5|pg||
-pc|cQ|nt|tias:  but he will appriciate @c6 now :)|pg||
+pc|cJ|nt|tias:	Not so nice surprise for declarer with @cs deviding 0-5|pg||
+pc|cQ|nt|tias:	but he will appriciate @c6 now :)|pg||
 pc|d5|pc|c7|pg||
 pc|hK|pc|h3|pc|h2|pc|hA|pg||
 pc|cT|pc|c3|pc|d6|pc|c8|pg||
@@ -269,19 +269,19 @@ mb|1C|nt|ahollan1: 1@C = 2+|pg||
 mb|3S|nt|ahollan1: i think they use 2@D as weak with 1 major  |pg||
 nt|ahollan1: or 3@S :)|pg||
 mb|5C|nt|ahollan1: 2@S overcall would show  4@S & 5+@C/@D|pg||
-mb|p|nt|ahollan1: tough call for south     5@C seems reasonable   |pg||
-nt|ahollan1: no good way to show the key to the hand    short @D|pg||
+mb|p|nt|ahollan1: tough call for south	   5@C seems reasonable   |pg||
+nt|ahollan1: no good way to show the key to the hand	short @D|pg||
 mb|p|mb|p|pc|c5|nt|ahollan1: maybe 4@S gives NS a better chance to reach the cold slam|pg||
 pc|c2|pc|cJ|pc|cA|pg||
-nt|ahollan1: but  then again    sometimes preempts work|pg||
+nt|ahollan1: but  then again	sometimes preempts work|pg||
 mc|12|pg||
 qx|o9|st||md|3S74HAQJT9DKJ75CQ3,SAQT6HK53DT6CT876,SK2H7642DQ43CAK52,SJ9853H8DA982CJ94|sv|e|nt|tias:  In CR SÃ¤fsten (east) bid 3@s over 1@c to shut NS up|pg||
 nt|tias:  !!!|pg||
 mb|1C|mb|p|mb|1D|mb|p|mb|2H|mb|p|mb|4H|nt|tias:  Ola Rimstedt opened pass with the W hand (probably thinking he was too strong for a 3@d opening)|pg||
 mb|p|mb|p|mb|p|nt|tias:  1@c bal or @c|pg||
 nt|tias:  1@d TRANSFER|pg||
-pc|s3|nt|tias:  2@h 12-14 4@h|pg||
-pc|s4|nt|tias:  or unbalanced 3@h|pg||
+pc|s3|nt|tias:	2@h 12-14 4@h|pg||
+pc|s4|nt|tias:	or unbalanced 3@h|pg||
 pc|sA|pc|s2|pg||
 pc|sQ|pc|sK|pc|s5|pc|s7|pg||
 nt|tias:  Looks like an imp for Sweden|pg||
@@ -300,7 +300,7 @@ nt|ahollan1: tough to find looking at that dummy -- but if 3@C was natural, then
 pc|hA|pc|h3|pc|h2|pc|h8|pg||
 pc|h9|pc|hK|pc|h4|pc|s5|pg||
 pc|cT|pc|cA|pc|c4|pc|c3|pg||
-nt|ahollan1: oh -- Ola  [Rimstedt]  hoping that defense had 2@S winners|pg||
+nt|ahollan1: oh -- Ola	[Rimstedt]  hoping that defense had 2@S winners|pg||
 pc|h6|pc|d8|pc|hT|pc|h5|pg||
 pc|s7|nt|ahollan1: in other room  Rimstedt = twin brother Mikael|pg||
 pc|sT|pc|sK|pc|s3|pg||
@@ -308,12 +308,12 @@ mc|10|pg||
 qx|o10|st||md|4SKJT86HT43DK3CT98,S42HKJ87DQJT9CKJ2,S9753HQ965DA52CAQ,SAQHA2D8764C76543|sv|b|nt|tias:  they could have beat it double dummy|pg||
 mb|p|nt|tias:  by ducking a @d after the lead|pg||
 mb|p|nt|tias:  preserving entry for a @d ruff|pg||
-mb|p|mb|1C|mb|p|mb|1H|nt|tias:  1@c = 12-14/18-19 bal or 11+ 4+@c|pg||
+mb|p|mb|1C|mb|p|mb|1H|nt|tias:	1@c = 12-14/18-19 bal or 11+ 4+@c|pg||
 nt|tias:  1@h transfer|pg||
 mb|1S|mb|2S|mb|3D|nt|tias:  1@s probably take out|pg||
 nt|tias:  2@s promises 4@s|pg||
 mb|3S|mb|p|mb|p|mb|p|nt|tias:  3@s not invitational|pg||
-pc|d6|nt|tias:  Should lose 4 tricks in the majors for +140|pg||
+pc|d6|nt|tias:	Should lose 4 tricks in the majors for +140|pg||
 pc|d3|pc|dT|pc|dA|pg||
 pc|s7|pc|sA|pc|s6|pc|s2|pg||
 pc|hA|pc|h3|pc|h7|pc|h5|pg||
@@ -327,7 +327,7 @@ mb|p|mb|p|mb|p|mb|1C|mb|p|mb|1H|mb|d|nt|ahollan1: yet another  1@C=2+|pg||
 nt|ahollan1: 1@H = 4+@S|pg||
 nt|ahollan1: i believe EW play DBL = takeout of @S|pg||
 mb|2S|nt|ahollan1: another way to play is that DBL = @H|pg||
-mb|2N|mb|p|mb|3D|nt|ahollan1: they use  "cue" of responder's promised major to show  4 in other major + longer minor|pg||
+mb|2N|mb|p|mb|3D|nt|ahollan1: they use	"cue" of responder's promised major to show  4 in other major + longer minor|pg||
 mb|p|mb|p|mb|3S|mb|p|mb|p|mb|p|nt|ahollan1: 2N was scramble|pg||
 pc|d8|nt|ahollan1: and i think 3@D should show west's exact shape|pg||
 pc|d3|pc|d9|pc|dA|pg||
@@ -341,9 +341,9 @@ pc|c3|pc|c8|pc|cK|pc|cA|pg||
 mc|9|pg||
 qx|o11|st||md|1S742H9DK9754CAJ74,SQJ83HJ63DAQTCQ96,SKT9HKQT5DJ86CK82,SA65HA8742D32CT53|sv|o|mb|p|mb|1C|mb|p|mb|1D|mb|d|nt|tias:  1@c = 3+@c|pg||
 nt|tias:  1@d = transfer|pg||
-mb|1H|nt|tias:  Dbl = @d|pg||
+mb|1H|nt|tias:	Dbl = @d|pg||
 nt|tias:  1@h probably 2-3@h 12-14Bal|pg||
-mb|1N|mb|2H|mb|p|mb|p|nt|tias:  looks more like 1H = 3@h :)|pg||
+mb|1N|mb|2H|mb|p|mb|p|nt|tias:	looks more like 1H = 3@h :)|pg||
 mb|p|pc|d6|pc|d2|pc|dK|pc|dA|pg||
 nt|tias:  a long way to 8 tricks here|pg||
 nt|tias:  but he knows how @hs devide|pg||
@@ -351,25 +351,25 @@ nt|tias:  or at least has some help|pg||
 nt|tias:  Should lose 1@s, 2@h, 2@c and maybe more|pg||
 pc|h3|pc|h5|nt|tias:  with no clue about the 4-1 split SÃ¤fsten played @h to A|pg||
 pc|hA|pc|h9|pg||
-pc|h2|nt|tias:  so did Flaatt|pg||
+pc|h2|nt|tias:	so did Flaatt|pg||
 pc|s7|pc|hJ|pc|hK|pg||
 pc|hQ|pc|h4|pc|s4|pc|h6|pg||
 pc|hT|pc|h7|pc|d7|pc|s3|pg||
 pc|c2|pc|c3|pc|cA|pc|c6|pg||
-pc|c4|nt|tias:  but looks like -1 and 2imps for Norway (if he guesses @c|pg||
+pc|c4|nt|tias:	but looks like -1 and 2imps for Norway (if he guesses @c|pg||
 nt|tias:  )|pg||
 nt|tias:  it is 2:1 in favour of finesse|pg||
 nt|tias:  but thats not 100%|pg||
 pc|cQ|pc|cK|pc|c5|pg||
 pc|c8|pc|cT|pc|cJ|pc|c9|pg||
-pc|d5|nt|tias:  and now hes -2 for a push|pg||
+pc|d5|nt|tias:	and now hes -2 for a push|pg||
 pc|dQ|pc|d8|pc|d3|pg||
 pc|sQ|pc|sK|pc|sA|pc|s2|pg||
 mc|6|pg||
 qx|c11|st||md|1S742H9DK9754CAJ74,SQJ83HJ63DAQTCQ96,SKT9HKQT5DJ86CK82,SA65HA8742D32CT53|sv|o|nt|ahollan1: well judged|pg||
 mb|p|mb|1D|mb|p|mb|1H|nt|ahollan1: 1@D = 10-15(16), 0+@D|pg||
 mb|p|mb|1N|nt|ahollan1: 1@H sometimes 3-suit|pg||
-mb|p|mb|2D|mb|p|mb|2H|mb|p|mb|p|mb|p|nt|ahollan1: 1@S rebid would show unbal hand   so   1N CAN have 4@S|pg||
+mb|p|mb|2D|mb|p|mb|2H|mb|p|mb|p|mb|p|nt|ahollan1: 1@S rebid would show unbal hand   so	 1N CAN have 4@S|pg||
 pc|d4|nt|ahollan1: 2@D = 5+@H|pg||
 nt|ahollan1: and i think denied 4@S|pg||
 pc|dT|pc|dJ|pc|d3|pg||
@@ -391,16 +391,16 @@ pc|d9|pc|cQ|pc|c8|pc|c5|pg||
 nt|ahollan1: looking at the entire hand   maybe declarer was hoping original lead was from @DKJ|pg||
 pg||
 qx|o12|st||md|2SQT743HQ2D52CQ873,SA92HT8543DQ43CJ4,SK6HAK976DAKJ98C2,SJ85HJDT76CAKT965|sv|n|mb|p|mb|1H|nt|tias:  Lets see if NS can stop low here|pg||
-mb|3C|nt|tias:  i dont think so :)|pg||
+mb|3C|nt|tias:	i dont think so :)|pg||
 mb|p|mb|p|mb|4D|mb|p|nt|tias:  but with a nice @s split they might make 4@s?|pg||
 mb|4H|mb|p|mb|p|mb|p|nt|tias:  But 4@d is a practical bid, I like it|pg||
-pc|cA|nt|tias:  if she starts with double partner will bid spades way too often|pg||
+pc|cA|nt|tias:	if she starts with double partner will bid spades way too often|pg||
 nt|tias:  and she doesnt want to play in 3nt|pg||
 nt|tias:  well...|pg||
 nt|tias:  this time she does, but|pg||
 pc|c3|pc|cJ|pc|c2|pg||
 nt|tias:  CR playing in 5NT|pg||
-pc|hJ|nt|tias:  which should go down unless something funny happens|pg||
+pc|hJ|nt|tias:	which should go down unless something funny happens|pg||
 pc|hQ|pc|h3|pc|h6|pg||
 pc|d2|pc|d3|pc|dJ|pc|d6|pg||
 pc|hA|pc|c5|pc|h2|pc|h4|pg||
@@ -411,18 +411,18 @@ pc|s2|pg||
 nt|tias:  would be a nice pick up for Sweden|pg||
 pc|dK|pc|dT|pc|c7|pc|dQ|pg||
 pc|s6|pc|s8|pc|sT|pc|sA|pg||
-pc|c4|nt|tias:  ruff and play @d|pg||
+pc|c4|nt|tias:	ruff and play @d|pg||
 pc|h7|pc|c6|pc|c8|pg||
 pc|d9|pc|c9|pc|s4|pc|h5|pg||
-pc|s9|nt|tias:  WELL DONE!|pg||
+pc|s9|nt|tias:	WELL DONE!|pg||
 pc|d8|pc|sJ|pc|sQ|pg||
 pc|s7|mc|10|pg||
 qx|c12|st||md|2SQT743HQ2D52CQ873,SA92HT8543DQ43CJ4,SK6HAK976DAKJ98C2,SJ85HJDT76CAKT965|sv|n|nt|ahollan1: then double finesse in @D takes care of black suit loser|pg||
 mb|p|mb|1H|mb|2C|mb|d|mb|p|mb|3D|mb|p|mb|3H|mb|p|nt|ahollan1: i wonder how many players in south  choose PASS rather than DBL after the 2@C overcall|pg||
-mb|4C|mb|p|mb|4S|mb|p|nt|ahollan1: 4 other vugraph tables have played 12     1 time the overcall was 3@C   the other 3  all south players PASS |pg||
+mb|4C|mb|p|mb|4S|mb|p|nt|ahollan1: 4 other vugraph tables have played 12     1 time the overcall was 3@C   the other 3	all south players PASS |pg||
 mb|4N|mb|p|mb|5C|mb|p|mb|5D|mb|p|nt|ahollan1: Scheie obviously expecting much better hand from Saether|pg||
 mb|5N|mb|p|nt|ahollan1: i don't think DBL was immediately catastrophic -- but 4@S rather than 4@H  shows a hand that doesn't match south's holding|pg||
-mb|p|nt|ahollan1: maybe Scheie's 4@C was also a bit optimistic  after rebidding 3@D maybe 4@D is enough|pg||
+mb|p|nt|ahollan1: maybe Scheie's 4@C was also a bit optimistic	after rebidding 3@D maybe 4@D is enough|pg||
 mb|p|nt|ahollan1: hopefully i'm not resulting a bit there|pg||
 pc|cA|pc|c3|pc|c4|pc|c2|pg||
 nt|ahollan1: Ace asked for standard attitude|pg||
@@ -454,7 +454,7 @@ mb|2D|mb|p|mb|2H|nt|ahollan1: zz points   A=3 K=2 Q=1  [singleton K/Q  deduct 1 
 mb|p|mb|2S|mb|p|nt|ahollan1: 1@S = RELAY   2@D = 5-7 zz, 5+@C|pg||
 mb|2N|mb|p|nt|ahollan1: 2@S = 5@C(332)|pg||
 mb|3D|mb|p|nt|ahollan1: not sure if 2N asks for doubleton|pg||
-mb|3N|mb|p|mb|p|mb|p|nt|ahollan1: looks like it does   with 2nd step showing  middle 2   so 3=2=3=5|pg||
+mb|3N|mb|p|mb|p|mb|p|nt|ahollan1: looks like it does   with 2nd step showing  middle 2	 so 3=2=3=5|pg||
 pc|s7|pc|s2|pc|sQ|pc|sA|pg||
 pc|cQ|pc|c4|pc|c2|pc|c5|pg||
 pc|cJ|pc|c7|pc|c3|pc|c6|pg||
@@ -467,9 +467,9 @@ qx|o14|st||md|4SKT7HQ975DQ95CKQ7,SQ92HAT632D84CA98,SA8643H84DT73C642,SJ5HKJDAKJ6
 nt|tias:  This is the last of this section at least|pg||
 mb|1D|mb|p|mb|1H|mb|p|mb|2C|nt|tias:  we will be back at noon CET|pg||
 mb|p|nt|tias:  looks like a reasonable 3nt?|pg||
-mb|2D|mb|p|mb|p|mb|p|nt|Aurora:  thank you all :) see you in 1.5 hours :) Running score for this table   - Youngsters  http://www.worldbridge.org/repository/tourn/Istanbul.14/microsite/RunningScores/Asp/knockoutphaseconditstatMultievColours.asp?qtournid=1045&qphase=SF|pg||
+mb|2D|mb|p|mb|p|mb|p|nt|Aurora:  thank you all :) see you in 1.5 hours :) Running score for this table	 - Youngsters  http://www.worldbridge.org/repository/tourn/Istanbul.14/microsite/RunningScores/Asp/knockoutphaseconditstatMultievColours.asp?qtournid=1045&qphase=SF|pg||
 nt|tias:  but they stay low and get a +|pg||
-pc|h7|nt|tias:  3nt would go down i think|pg||
+pc|h7|nt|tias:	3nt would go down i think|pg||
 nt|tias:  CR in 3nt (of course)|pg||
 pc|h2|pc|h4|pc|hJ|pg||
 nt|tias:  Looks like 9 or 10 tricks|pg||
@@ -482,7 +482,7 @@ pc|d2|pc|dQ|pc|h6|pc|dT|pg||
 nt|tias:  he settles for 9 tricks|pg||
 pc|sK|pc|s2|pc|s3|pc|s5|pg||
 nt|tias:  but hard for rimstedt to shift to @s|pg||
-pc|sT|nt|tias:  he did|pg||
+pc|sT|nt|tias:	he did|pg||
 pc|s9|pc|sA|pc|sJ|pg||
 pc|s6|pc|c3|pc|s7|pc|sQ|pg||
 pc|hA|pc|s4|pc|c5|mc|9|nt|tias:  thanks for watching|pg||
@@ -494,7 +494,7 @@ nt|vugraphzbc: this is the last board ty all :)|pg||
 nt|ahollan1: next set begins in about 80 minutes|pg||
 mb|1N|mb|p|mb|2D|mb|p|mb|2H|mb|p|mb|3N|mb|p|nt|ahollan1: 1N = 14-16|pg||
 mb|p|mb|p|nt|ahollan1: 2@D could be 4@H, INV|pg||
-pc|cK|nt|ahollan1: not sure yet which matches will be on vugraph next set :(      daily bulletin only listed lineup for Q1|pg||
+pc|cK|nt|ahollan1: not sure yet which matches will be on vugraph next set :(	  daily bulletin only listed lineup for Q1|pg||
 pc|c8|pc|c6|pc|cT|pg||
 nt|Aurora:  thank you all :) see you in 1.5 hours :) Running score for this table   - Youngsters  http://www.worldbridge.org/repository/tourn/Istanbul.14/microsite/RunningScores/Asp/knockoutphaseconditstatMultievColours.asp?qtournid=1045&qphase=SF|pg||
 pc|cQ|pc|cA|pc|c2|pc|c3|pg||
@@ -504,7 +504,7 @@ nt|ahollan1: Sweden won the Round Robin Qualifier, led throughout QuarterFinal a
 pc|c5|pc|c7|pc|c9|pc|c4|pg||
 pc|hA|pc|s3|pc|s5|pc|h9|pg||
 pc|d4|pc|d3|pc|dJ|pc|dQ|pg||
-nt|ahollan1: 3 brackets are playing 56 board semifinals today   Junior [under 26], Youngster [under 21] and Girls [don't ask age]|pg||
+nt|ahollan1: 3 brackets are playing 56 board semifinals today	Junior [under 26], Youngster [under 21] and Girls [don't ask age]|pg||
 nt|vugraphzbc: thanks ahollan1 :)|pg||
 pc|sK|pc|s2|pc|s4|pc|sJ|pg||
 pc|hQ|pc|h6|pc|dT|pc|d2|pg||
