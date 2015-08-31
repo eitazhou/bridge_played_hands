@@ -51,8 +51,8 @@ nt|theli: EW play 1@D 4+@D|pg||
 mb|2S|mb|p|mb|p|mb|3D|mb|p|mb|p|mb|3S|mb|p|mb|p|mb|p|pc|d6|pc|dJ|pc|dA|pc|d8|pg||
 pc|h6|pc|hK|nt|theli: easy guess in @D after the lead, will make probably now|pg||
 pc|h3|pc|h4|pg||
-nt|vugraphzdw: Bridge Club Brasov 57,75  Loco CFR2 56,68  Loco CFR1 48,67  Logismart Sibiu  39,41  Top Bridge2  35,04  Logos Timisoara 34,79  Atomic1 24,80  Samtronic Constanta 22,68|pg||
-nt|vugraphzdw: Top Bridge1  62,64  Loco CFR4 46,54   Atu 43,89  Pro Consul 39,04  Atomic3 38,51   Club7 34,94  Atomic2  33,41  Loco CR3 21,03|pg||
+nt|vugraphzdw: Bridge Club Brasov 57,75  Loco CFR2 56,68  Loco CFR1 48,67  Logismart Sibiu  39,41  Top Bridge2	35,04  Logos Timisoara 34,79  Atomic1 24,80  Samtronic Constanta 22,68|pg||
+nt|vugraphzdw: Top Bridge1  62,64  Loco CFR4 46,54   Atu 43,89	Pro Consul 39,04  Atomic3 38,51   Club7 34,94  Atomic2	33,41  Loco CR3 21,03|pg||
 pc|c3|pc|cJ|pc|cK|pc|cA|pg||
 pc|d3|pc|d2|pc|d5|pc|dK|pg||
 pc|c2|pc|c5|pc|cQ|pc|c4|pg||
@@ -74,7 +74,7 @@ pc|s2|pc|sT|pc|sJ|pc|s3|pg||
 pc|sA|pc|s5|pc|s9|pc|sK|pg||
 pc|dA|pc|d2|pc|d3|pc|d5|pg||
 pc|dK|pc|d9|pc|d6|pc|d7|pg||
-nt|Rodal F: Would you leaded a thrumh.  |pg||
+nt|Rodal F: Would you leaded a thrumh.	|pg||
 pc|sQ|pc|s7|pc|h3|pc|dJ|pg||
 pc|c5|pc|cQ|pc|h4|pc|cK|pg||
 pc|d8|pc|dQ|pc|d4|pc|h2|pg||
@@ -106,7 +106,7 @@ nt|granguru:  HERMANSTADT|pg||
 pc|c6|pc|cK|pc|c3|pg||
 pc|cA|pc|c5|nt|Rodal F: Da. Mare corect:)|pg||
 pc|cT|pc|c8|pg||
-pc|s7|pc|s3|nt|Aurora:  i love Hermanstadt :) |pg||
+pc|s7|pc|s3|nt|Aurora:	i love Hermanstadt :) |pg||
 pc|sA|pc|s6|pg||
 pc|d5|pc|dA|pc|d2|pc|d9|pg||
 nt|Rodal F: What a lovly place|pg||
@@ -126,7 +126,7 @@ mc|10|pg||
 qx|o5|st||md|3S2HKJ9652DJ8CQJ63,SAKQ983HAT4D43C52,ST76HQ87DK765CT94,SJ54H3DAQT92CAK87|sv|n|nt|Rodal F: Your history. I have no idea.|pg||
 nt|granguru:  7@S|pg||
 mb|p|mb|1D|nt|granguru:  seems rather easy to get to 6@S|pg||
-mb|2H|mb|3S|nt|Aurora:  A German engineer ,  He is considered one of the founding fathers of rocketry and astronautics.|pg||
+mb|2H|mb|3S|nt|Aurora:	A German engineer ,  He is considered one of the founding fathers of rocketry and astronautics.|pg||
 nt|Rodal F: We will see the tehnuick by them.|pg||
 mb|p|mb|4H|mb|d|nt|granguru:  1@D 2@H 2@S 3@S 4@H ...  |pg||
 nt|Rodal F: Aint 1@S a force bid?|pg||
@@ -137,7 +137,7 @@ mb|4S|nt|granguru:  if E shows first round then xx shows second round, but here 
 nt|granguru:  N making things hard for ew|pg||
 mb|p|mb|4N|mb|p|nt|granguru:  or some op gaf|pg||
 mb|5H|mb|p|mb|6S|mb|p|nt|granguru:  2 w/o|pg||
-mb|p|mb|p|nt|granguru:  5NT might be a free consulting |pg||
+mb|p|mb|p|nt|granguru:	5NT might be a free consulting |pg||
 pc|h8|pc|h3|nt|granguru:  W just needed Jxx x AKxxx AKxx for the grand|pg||
 nt|granguru:  why @H8?|pg||
 pc|hJ|pc|hA|pg||
@@ -187,7 +187,7 @@ nt|granguru:  well some combinations might also beat, such as @s lead and @d ret
 mb|6C|mb|d|mb|p|mb|p|mb|p|pc|dT|pc|dA|pc|d7|pc|d9|pg||
 nt|granguru:  @DA @H|pg||
 pc|hQ|pc|hA|pc|h2|pc|h5|pg||
-pc|d5|pc|c9|pc|s8|nt|granguru:  careful play might permit N to win...|pg||
+pc|d5|pc|c9|pc|s8|nt|granguru:	careful play might permit N to win...|pg||
 pc|d4|pg||
 pc|hK|pc|h6|pc|hT|pc|hJ|pg||
 nt|Rodal F: If a @C it could been a bit harderr|pg||
@@ -224,7 +224,7 @@ pc|c4|pc|c8|pc|c6|pg||
 nt|granguru:  against the usual, you must play from the side of  the lone honor...against a 4-1 distribution you cant only get them if they are on W. (you must have that information previously thou)|pg||
 pc|cQ|pc|c7|pc|c3|pc|cT|pg||
 pc|c2|pc|c9|pc|cA|pc|s2|pg||
-pc|sA|pc|s9|pc|s4|nt|granguru:  exception is when E has the stiff @DJ or 10|pg||
+pc|sA|pc|s9|pc|s4|nt|granguru:	exception is when E has the stiff @DJ or 10|pg||
 pc|s3|pg||
 pc|sK|pc|h9|pc|s6|pc|s7|pg||
 pc|sJ|nt|granguru:  and you have the @D9 and 8|pg||
@@ -320,7 +320,7 @@ pc|h8|nt|theli: or just partner lead @H|pg||
 pc|hJ|pc|s4|pc|h2|pg||
 pc|s6|mc|9|nt|theli: but if it's the second case N didn't understand|pg||
 pg||
-qx|o11|st||md|1SJ73HKDKQJ95CAK43,SAKT84HT876D2CT98,S65HAJ52DA743C752,SQ92HQ943DT86CQJ6|sv|o|mb|1D|mb|p|mb|1H|mb|p|nt|granguru:  4@D NS|pg||
+qx|o11|st||md|1SJ73HKDKQJ95CAK43,SAKT84HT876D2CT98,S65HAJ52DA743C752,SQ92HQ943DT86CQJ6|sv|o|mb|1D|mb|p|mb|1H|mb|p|nt|granguru:	4@D NS|pg||
 nt|granguru:  or 4@c|pg||
 mb|2C|mb|p|mb|3D|mb|p|nt|granguru:  no 4@C can be beaten with a @D lead|pg||
 mb|3S|mb|d|mb|4D|mb|p|nt|granguru:  decision time|pg||
@@ -361,7 +361,7 @@ nt|Rodal F: From there it went a bit of.|pg||
 mc|10|nt|theli: hard to stop with N hand vs strong club opening|pg||
 pg||
 qx|o12|st||md|2SK94H54DAK98CK973,ST5HK8DT642CAQJ42,SAJ6HAQT9732DJCT5,SQ8732HJ6DQ753C86|sv|n|mb|p|mb|1H|nt|granguru:  woder only why W plays @H6 from @H10876 in the middle of the game|pg||
-mb|p|mb|1N!|mb|2C|nt|granguru:  wonder*|pg||
+mb|p|mb|1N!|mb|2C|nt|granguru:	wonder*|pg||
 mb|2H|mb|2S|mb|4H|mb|p|mb|p|mb|p|pc|c8|nt|granguru:  A good method, immo, is to play @H8 showing second highest with no interest in the suit and low with interest. or use Slawinski leads, where the @H6 is correct from xx, xxxx, Hxx|pg||
 nt|granguru:  N get his usual 7 cards suit again|pg||
 pc|c3|pc|cJ|pc|c5|pg||
@@ -489,8 +489,8 @@ mc|10|pg||
 qx|c16|st||md|2SA43HJ432DT9CA987,SKT2HQT976D854C65,SQJ87H85DAKQ63CQ3,S965HAKDJ72CKJT42|sv|e|mb|p|mb|1D!|mb|p|mb|1H|mb|p|mb|1S|mb|p|nt|theli: last board; thanks Raluca and Frank; nice win for Timisoara; see you tomorrow:)|pg||
 nt|theli: when does it start tomorrow?|pg||
 nt|vugraphzdw: thank you, bye|pg||
-mb|p|mb|p|pc|hK|nt|vugraphzdw: Top Bridge1  62,64  Loco CFR4 46,54   Atu 43,89  Pro Consul 39,04  Atomic3 38,51   Club7 34,94  Atomic2  33,41  Loco CR3 21,03|pg||
-nt|vugraphzdw: Bridge Club Brasov 57,75  Loco CFR2 56,68  Loco CFR1 48,67  Logismart Sibiu  39,41  Top Bridge2  35,04  Logos Timisoara 34,79  Atomic1 24,80  Samtronic Constanta 22,68|pg||
+mb|p|mb|p|pc|hK|nt|vugraphzdw: Top Bridge1  62,64  Loco CFR4 46,54   Atu 43,89	Pro Consul 39,04  Atomic3 38,51   Club7 34,94  Atomic2	33,41  Loco CR3 21,03|pg||
+nt|vugraphzdw: Bridge Club Brasov 57,75  Loco CFR2 56,68  Loco CFR1 48,67  Logismart Sibiu  39,41  Top Bridge2	35,04  Logos Timisoara 34,79  Atomic1 24,80  Samtronic Constanta 22,68|pg||
 pc|h2|pc|h6|pc|h5|pg||
 pc|hA|pc|h3|pc|h7|pc|h8|pg||
 pc|cJ|pc|c7|pc|c5|pc|cQ|pg||
