@@ -80,7 +80,7 @@ pc|h4|pc|h8|pc|h6|pg||
 pc|d4|pc|d2|pc|dA|pc|d5|pg||
 pc|dK|pc|d9|nt|kit: Note Levin plays AK of diamonds in that order -- suit preference high|pg||
 pc|s7|pc|d6|pg||
-pc|d3|pc|dT|nt|kareno:  south can't see equity at the possible 4 level|pg||
+pc|d3|pc|dT|nt|kareno:	south can't see equity at the possible 4 level|pg||
 nt|kit: Declarer can't keep control well enough even if QJx of clubs -- the 4-1 tump split stops that|pg||
 nt|kit: So he will have to just lead queen of hearts around to king to set up a winner I think|pg||
 pc|h2|nt|kit: South can win, spade to ace, and a fourth round of trumps|pg||
@@ -156,7 +156,7 @@ nt|roghog:  well, he won't want to do anything else|pg||
 pc|d4|nt|kareno:  best could be sluff ruffs|pg||
 nt|vugraphzbf: West is very very young|pg||
 nt|kit: This may cost him his club trick -- depends on what declarer does|pg||
-pc|h2|pc|d6|nt|kareno:  and he seems to agree|pg||
+pc|h2|pc|d6|nt|kareno:	and he seems to agree|pg||
 pc|sQ|pg||
 pc|s2|pc|s7|nt|kit: declarer got it wrong -- thinking heart king offside|pg||
 pc|s8|pc|sT|pg||
@@ -270,7 +270,7 @@ nt|kit: Would be very difficult for West to duck |pg||
 pc|dQ|pc|dK|pc|dA|nt|kit: aha!|pg||
 pc|s2|pg||
 nt|roghog:  Brilliant stuff!|pg||
-nt|kit: he may have been planning on finessing anyway.  We will never know.|pg||
+nt|kit: he may have been planning on finessing anyway.	We will never know.|pg||
 nt|kit: He is looking for safest play -- but after all is said and done I think he has to take double spade finesse and hope he isn't losing to stiff jack|pg||
 nt|roghog:  Defender's reaction often helps when you lead a Q in a position like this|pg||
 nt|kit: He can the take 7 diamond tricks, 3 spade tricks, and 2 aces|pg||
@@ -305,7 +305,7 @@ pc|s5|pc|sK|pc|sA|pc|s3|pg||
 pc|cJ|pc|c6|pc|h7|pc|s8|pg||
 pc|s4|mc|5|pg||
 qx|o24|st||md|2S5HKQJ9654DA63CA6,SQ9HT2DJ975CKQJ72,ST87642HADK84C984,SAKJ3H873DQT2CT53|sv|o|mb|p|mb|p|mb|p|mb|1H|nt|kit: This should be a trivial 4@H|pg||
-mb|2C|mb|2S|nt|roghog:  Great declarer play there. Extracting West's @hs in case he gets in with a @s - will have only @cs left|pg||
+mb|2C|mb|2S|nt|roghog:	Great declarer play there. Extracting West's @hs in case he gets in with a @s - will have only @cs left|pg||
 mb|p|mb|4H|mb|p|mb|p|mb|p|pc|cK|pc|c4|pc|c3|pc|cA|pg||
 pc|h4|pc|h2|pc|hA|pc|h3|pg||
 pc|d4|pc|d2|pc|dA|pc|d5|pg||
@@ -315,7 +315,7 @@ pc|h4|pc|h2|pc|hA|pc|h7|pg||
 pc|d4|pc|d2|pc|dA|pc|d7|pg||
 pc|hK|pc|hT|pc|s2|pc|h3|pg||
 mc|10|pg||
-qx|o25|st||md|3S743HT975DKJ2CJ32,SJ986HKQ42DT8CAQ4,SQT5HA86D9543C986,SAK2HJ3DAQ76CKT75|sv|e|mb|p|mb|1N|mb|p|nt|kareno:  catching up on the time spent last hand|pg||
+qx|o25|st||md|3S743HT975DKJ2CJ32,SJ986HKQ42DT8CAQ4,SQT5HA86D9543C986,SAK2HJ3DAQ76CKT75|sv|e|mb|p|mb|1N|mb|p|nt|kareno:	catching up on the time spent last hand|pg||
 mb|2C|mb|p|nt|roghog:  Another easy one|pg||
 mb|2D|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|h9|pc|h2|pc|h6|pc|hJ|pg||
 nt|kit: Nice thing about long matches timewise is that one very difficult hand can be compensated for by a couple of claimers|pg||
@@ -380,7 +380,7 @@ mc|11|pg||
 qx|c27|st||md|1SQT9HQ87DAKJ7642C,S52HJT2DCAQJT9853,SJ873HAK954D53C64,SAK64H63DQT98CK72|sv|o|mb|1D|mb|4C|mb|p|mb|5C|mb|p|mb|p|mb|p|pc|hA|pc|h3|pc|h7|pc|h2|pg||
 pc|hK|pc|h6|pc|h8|pc|hT|pg||
 pc|d3|mc|11|pg||
-qx|o28|st||md|2SA9642HQDA9CKJ854,SKT853HJ863D74CT2,S7HK9742DKQJ2CQ97,SQJHAT5DT8653CA63|sv|n|nt|roghog:  A long day operating VG is v-e-r-y tiring.|pg||
+qx|o28|st||md|2SA9642HQDA9CKJ854,SKT853HJ863D74CT2,S7HK9742DKQJ2CQ97,SQJHAT5DT8653CA63|sv|n|nt|roghog:	A long day operating VG is v-e-r-y tiring.|pg||
 mb|p|nt|vugraphzbf: ty|pg||
 mb|1H|mb|p|mb|1S|nt|roghog:  We all appreciate your efforts. Many thanks|pg||
 mb|p|nt|kareno:  and thanks to our excellent operator!|pg||
@@ -393,7 +393,7 @@ nt|roghog:  Fourth best lead. And low from a doubleton. So Gawrys works out to p
 nt|sibuea: Hi all|pg||
 nt|sibuea: seems a push board|pg||
 pc|sQ|pc|sA|pc|s5|pc|s7|pg||
-pc|c5|pc|c2|nt|roghog:  Specs are asking about running scores. They are on the event website, but I don't know the URL|pg||
+pc|c5|pc|c2|nt|roghog:	Specs are asking about running scores. They are on the event website, but I don't know the URL|pg||
 pc|cQ|pc|c3|pg||
 pc|c9|pc|c6|pc|cK|pc|cT|pg||
 nt|3for3:  not up for R16 yet, though|pg||

@@ -80,7 +80,7 @@ pc|d8|pc|d5|pc|dA|pc|d4|pg||
 pc|d2|pc|d3|pc|dT|pc|dQ|pg||
 mc|10|pg||
 qx|o3|st||md|1SQJ98HKQ4DA73CQJ4,SAT32HA2DQ92CT985,S76HJ973DT854CA76,SK54HT865DKJ6CK32|sv|e|mb|1N|mb|p|nt|3for3:  wein might have lead a @D from xx with trump ace|pg||
-mb|p|nt|3for3:  less likely from Qx|pg||
+mb|p|nt|3for3:	less likely from Qx|pg||
 mb|p|pc|c9|nt|kit: Normal club lead -- declarer has 2 clubs, 2 hearts, and 1 diamond only for sure|pg||
 nt|kit: Can develop 1 spade trick brute force, but that isn't good enough|pg||
 nt|3for3:  long diamond?|pg||
@@ -107,7 +107,7 @@ pc|dK|pg||
 nt|kit: And his partner won ace of hearts, placing declarer with king|pg||
 pc|hK|pc|h2|pc|h7|pc|h5|pg||
 nt|kit: As expected, he got it right|pg||
-mc|6|nt|3for3:  good play by weinstein giving them the chance to get it wrong...|pg||
+mc|6|nt|3for3:	good play by weinstein giving them the chance to get it wrong...|pg||
 pg||
 qx|c3|st||md|1SQJ98HKQ4DA73CQJ4,SAT32HA2DQ92CT985,S76HJ973DT854CA76,SK54HT865DKJ6CK32|sv|e|nt|ritong: 1NT expected|pg||
 nt|ritong: @c10 lead|pg||
@@ -127,10 +127,10 @@ mb|p|mb|2H|nt|3for3:  might east look for magic?|pg||
 mb|p|mb|3H|nt|3for3:  Or is keeping his shape hidden better?  I|pg||
 mb|p|mb|3S|mb|p|mb|4C|nt|3for3:  2@D was presumably GF checkback|pg||
 nt|kit: Uhoh -- it looks like East is thinking slam.  Very optimistic.|pg||
-nt|3for3:  Now they are doing some cuebidding.  Someone needs to hit the brakes soon|pg||
+nt|3for3:  Now they are doing some cuebidding.	Someone needs to hit the brakes soon|pg||
 nt|kit: And West has a nice hand -- except for the xxx in hearts|pg||
 mb|p|mb|4D|mb|p|mb|4H|mb|p|nt|kit: 4@D probably last train.  And it better be the last train.|pg||
-mb|p|mb|p|nt|kit: I think East is too optimistic even trying for slam.  Off AK of hearts, AK of spades, ace of diamonds.  |pg||
+mb|p|mb|p|nt|kit: I think East is too optimistic even trying for slam.	Off AK of hearts, AK of spades, ace of diamonds.  |pg||
 nt|3for3:  Not sure what East was hoping to hear.  Very unlikely a limited nt hand will take charge and bid slam...All this did was help the opponents|pg||
 pc|d3|nt|kit: Needs partner to have 4 of those cards -- and all partner rebid is 1NT.|pg||
 pc|d4|pc|d5|pc|dQ|pg||
@@ -143,7 +143,7 @@ pc|cK|pc|c8|pc|cT|pc|c5|pg||
 pc|cQ|pc|c9|pc|d9|pc|d6|pg||
 mc|10|nt|kit: 3NT was the safer contract, but that is difficult to organize intelligently.|pg||
 pg||
-qx|c4|st||md|2SJ96HK82DA83CJ983,SAKQH764DKJT94CT4,ST8542HA9D7652C75,S73HQJT53DQCAKQ62|sv|b|mb|1D|mb|p|mb|1H|mb|p|nt|ritong: ok  next|pg||
+qx|c4|st||md|2SJ96HK82DA83CJ983,SAKQH764DKJT94CT4,ST8542HA9D7652C75,S73HQJT53DQCAKQ62|sv|b|mb|1D|mb|p|mb|1H|mb|p|nt|ritong: ok	next|pg||
 mb|1N|mb|p|mb|2D|mb|p|nt|fabsayc: 2d=game force|pg||
 nt|fabsayc: undo|pg||
 mb|2H|mb|p|nt|fabsayc: west bid 2h|pg||
@@ -377,7 +377,7 @@ nt|kit: if 4NT RKC, Weinstein wouldn't be signing off in 5@D|pg||
 nt|kit: 4NT might have been a heart Q, and 4@H would have been RKC|pg||
 nt|kit: That looks consistent with everything|pg||
 nt|kit: So, Levin has to decide if he has enough.  I think he does.|pg||
-mb|p|mb|p|pc|c5|pc|c3|nt|kit: Levin finally decided his weak trump holding is deciding factor.  He might be right.|pg||
+mb|p|mb|p|pc|c5|pc|c3|nt|kit: Levin finally decided his weak trump holding is deciding factor.	He might be right.|pg||
 pc|c2|pc|cT|pg||
 nt|kit: They cleverly right-sided it :)|pg||
 pc|cA|pc|c8|pc|h6|pc|c4|pg||
@@ -477,8 +477,8 @@ mb|3S|mb|p|nt|ritong: does it take a @h lead to set?|pg||
 nt|kit: I'm not sure|pg||
 nt|ritong: i think it s off any lead|pg||
 nt|ritong: except the baby @s|pg||
-mb|3N|mb|p|nt|bjacobs:  the diamond loser remains|pg||
-mb|p|mb|p|nt|ritong: academical anyway  no swing|pg||
+mb|3N|mb|p|nt|bjacobs:	the diamond loser remains|pg||
+mb|p|mb|p|nt|ritong: academical anyway	no swing|pg||
 nt|kit: right -- down on diamond lead also (assuming nothing double-dummy)|pg||
 nt|ritong: no big swing that is|pg||
 nt|bjacobs:  this set was one constructed by Toequemada.  The slam decisions on 10, 13 and 14 are excruciating|pg||
