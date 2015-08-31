@@ -38,7 +38,7 @@ nt|nilsland:  he had the nerve to pass all bidding so I think yes :)|pg||
 pc|hA|pc|h3|pc|h7|pc|hT|pg||
 pc|hK|pc|h6|pc|h8|pc|hQ|pg||
 pc|c9|pc|c4|pc|cQ|pc|c6|pg||
-pc|d9|pc|d3|pc|dK|nt|nilsland:  if he guesses the king he will take the rest|pg||
+pc|d9|pc|d3|pc|dK|nt|nilsland:	if he guesses the king he will take the rest|pg||
 pc|d7|pg||
 pc|hJ|nt|TolleS:  Now, soon moment of truth!|pg||
 pc|s8|pc|c2|pc|s3|pg||
@@ -52,7 +52,7 @@ pc|d4|pc|h9|pc|d2|pc|c2|pg||
 pc|s9|pc|sK|pc|sA|pc|s2|pg||
 pc|dQ|pc|h5|pc|dT|pc|hQ|pg||
 pc|d8|pc|s6|pc|c6|mc|5|pg||
-qx|c3|st||md|1SK3HAQ9D63CAQJT87,SAJ84HJ432DQ8752C,ST762H875DJ9CK432,SQ95HKT6DAKT4C965|sv|e|mb|1C!|mb|p|mb|1D!|mb|p|mb|2C|an|alert|mb|p|mb|3C|mb|p|nt|nilsland:  2@C shows a strong hand with clubs|pg||
+qx|c3|st||md|1SK3HAQ9D63CAQJT87,SAJ84HJ432DQ8752C,ST762H875DJ9CK432,SQ95HKT6DAKT4C965|sv|e|mb|1C!|mb|p|mb|1D!|mb|p|mb|2C|an|alert|mb|p|mb|3C|mb|p|nt|nilsland:	2@C shows a strong hand with clubs|pg||
 nt|nilsland:  but maybe not strong enough to bid again now|pg||
 mb|p|mb|d!|mb|p|mb|3D|nt|nilsland:  East West seems to make a lot of diamonds|pg||
 mb|p|mb|p|mb|p|pc|d3|pc|d2|pc|d9|pc|dT|pg||
@@ -174,8 +174,8 @@ pc|cA|pc|d5|pc|c2|pc|c9|pg||
 pc|dK|pc|dA|pc|d7|pc|d6|pg||
 pc|sA|pc|sT|mc|11|pg||
 qx|c8|st||md|2STHJT8DT7CQ765432,SQ97643H6432DJ6C9,SKJ85HDKQ94CAKJT8,SA2HAKQ975DA8532C|sv|o|mb|p|nt|nilsland:  not many dull bords so far|pg||
-mb|1C!|mb|d|mb|p!|nt|nilsland:  if NS find their club fit they may go to 5@C|pg||
-mb|2S|mb|3C|mb|3H|nt|nilsland:  EW makes 5H, at the other table Norway sacrificed with 6@C|pg||
+mb|1C!|mb|d|mb|p!|nt|nilsland:	if NS find their club fit they may go to 5@C|pg||
+mb|2S|mb|3C|mb|3H|nt|nilsland:	EW makes 5H, at the other table Norway sacrificed with 6@C|pg||
 nt|nilsland:  without EW bidding :)|pg||
 mb|5C|mb|5H|mb|d|nt|nilsland:  kib tell me 5@H may not make|pg||
 nt|TolleS:  Does 5@H make? Hearts 3-0, diamonds 4-2|pg||
@@ -266,7 +266,7 @@ mb|2N|mb|p|nt|nilsland:  Grudes overcall is regarded as weak even in Norway I su
 nt|LarsArthur: standard norwegian :)|pg||
 mb|3S!|nt|nilsland:  In Denmark it is a 2H bid|pg||
 mb|p|nt|nilsland:  and Roy Welland would go for 3@H :)|pg||
-mb|3N|mb|p|mb|p|mb|d|mb|p|mb|p|mb|p|nt|TolleS:  Asking for non-@h lead|pg||
+mb|3N|mb|p|mb|p|mb|d|mb|p|mb|p|mb|p|nt|TolleS:	Asking for non-@h lead|pg||
 pc|h5|nt|nilsland:  I am not sure about this, but I think only 8 available even with a heart lead|pg||
 pc|h9|pc|h2|pc|hT|pg||
 nt|nilsland:  In theory East may be endplayed|pg||
@@ -329,7 +329,7 @@ pg||
 qx|c13|st||md|3SA82HA84DQ52CT542,SKJT9543HQ2DKT84C,SQHK975D63CAKQJ93,S76HJT63DAJ97C876|sv|b|nt|vugraphzbc: Declarer agrees that the dbl was penalty of some sort|pg||
 mb|1C!|mb|p|nt|nilsland:  nine easy tricks here with @D44|pg||
 mb|1N|mb|3S|nt|nilsland:  but EW is close to make 4@S|pg||
-mb|d|mb|p|nt|nilsland:  I know it makes - but they have to play it as well :)|pg||
+mb|d|mb|p|nt|nilsland:	I know it makes - but they have to play it as well :)|pg||
 nt|vugraphzbc: 3NT still easy with @SK lead?|pg||
 nt|vugraphzbc: Aha. Long day. More coffee is needed|pg||
 mb|3N|mb|p|mb|p|mb|p|pc|sK|nt|nilsland:  I am eating now so you have to help me :)|pg||
@@ -403,7 +403,7 @@ pc|sQ|pc|s5|pc|sK|pc|s2|pg||
 pc|sT|pc|s3|pc|d8|pc|s9|pg||
 pc|h6|pc|h9|pc|hJ|mc|10|pg||
 qx|c17|st||md|3SA7632HQ98DT7CJ32,SQJHAKJ742DKQ8C75,S954H5DAJ9532CKQ9,SKT8HT63D64CAT864|sv|o|mb|1D|mb|p|mb|1S|mb|2H|mb|d!|mb|3H|nt|nilsland:  4@H seems to depend on the @H suit with a club lead|pg||
-mb|p|mb|4H|mb|p|mb|p|mb|p|nt|nilsland:  always made with the spade lead|pg||
+mb|p|mb|4H|mb|p|mb|p|mb|p|nt|nilsland:	always made with the spade lead|pg||
 pc|s5|pc|s8|pc|sA|pc|sJ|pg||
 pc|dT|pc|dQ|pc|dA|pc|d4|pg||
 nt|nilsland:  In the other room defense found the right lead - and declarer found the @HQ :) wd|pg||
@@ -448,7 +448,7 @@ pc|cK|pc|c2|pc|sT|pc|c4|pg||
 pc|cQ|pc|cT|pc|sJ|pc|c8|pg||
 mc|10|pg||
 qx|c19|st||md|1SQ973H84DQT9CJT32,SKJT42HKQJT2D43C7,S865HA75DAJ86CA84,SAH963DK752CKQ965|sv|e|nt|nilsland:  GIB does not agree though :(|pg||
-mb|p|mb|1S|mb|p|mb|2C!|mb|p|mb|2H|mb|p|mb|2N|mb|p|nt|nilsland:  South could duck the spade instead after club lead - that is easier|pg||
+mb|p|mb|1S|mb|p|mb|2C!|mb|p|mb|2H|mb|p|mb|2N|mb|p|nt|nilsland:	South could duck the spade instead after club lead - that is easier|pg||
 mb|3H|mb|p|mb|4H|mb|p|mb|p|mb|p|pc|dA|pc|d2|pc|dT|pc|d4|pg||
 nt|vugraphzbc: Klukowski checks his watch before settling down to think|pg||
 nt|nilsland:  After @HA and another declarer plays a club|pg||
