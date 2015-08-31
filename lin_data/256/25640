@@ -2,7 +2,7 @@ vg|Polish Premier League RR,SEGMENT 1_2,I,1,12,CONNECTOR,0,RUCH AZS,0|
 rs|2SW+1,2SW+1,3CE=,4SW-1,4SN+1,4HS=,5DN=,5DN=,4SEx-3,5HN+1,4NE=,4SSx-2,3NE+1,3NE+1,3NE=,3NE=,3NN-3,2SN+1,2HN+2,2HN+3,1NE=,1NW=,4HN-1,4HN-2|
 pn|SEREK,KWIECIEN,DEMBINSKI,PSZCZOLA,Klukowski,Bestrzynsk,Zatorski,Tuczynski|pg||
 qx|o1|st||md|3SAHJ843DA92CK7432,ST87432HQ6DQT83CA,SJ96HAT975D65CQT5,SKQ5HK2DKJ74CJ986|sv|o|mb|p|mb|1C|mb|p|mb|1S|mb|p|mb|1N|mb|p|mb|2S|mb|p|mb|p|mb|p|nt|Henryb:  1@c probably either balanced, clubs, or 18+|pg||
-pc|d5|pc|d4|nt|Henryb:  Notice that N-S were shut out with 4@h essentially cold|pg||
+pc|d5|pc|d4|nt|Henryb:	Notice that N-S were shut out with 4@h essentially cold|pg||
 pc|d9|pc|dT|pg||
 pc|s4|pc|s9|pc|sQ|pc|sA|pg||
 pc|c3|pc|cA|pc|c5|pc|c6|pg||
@@ -15,7 +15,7 @@ pc|s2|pc|s6|pc|sK|nt|ryskiel_: za chwilê poszczególne pozycje powinny zostaæ 
 pc|sA|pg||
 mc|9|nt|ryskiel_: narazie wystêpuje znana para North - South i mniej znana Tuczyñski - East|pg||
 pg||
-qx|o2|st||md|4S93HAT8DAJ82CJ976,SQT8742HKQ93D43CT,SKJ6HJ52DKQ9765C4,SA5H764DTCAKQ8532|sv|n|mb|1C|mb|p|mb|1S|nt|Henryb:  Also note Dembinski's "grosvenor" of the @s9, which clould have let declarer make ten tricks|pg||
+qx|o2|st||md|4S93HAT8DAJ82CJ976,SQT8742HKQ93D43CT,SKJ6HJ52DKQ9765C4,SA5H764DTCAKQ8532|sv|n|mb|1C|mb|p|mb|1S|nt|Henryb:	Also note Dembinski's "grosvenor" of the @s9, which clould have let declarer make ten tricks|pg||
 mb|p|mb|3C|mb|p|mb|p|mb|p|pc|s3|pc|s8|nt|Henryb:  Once again N-S get shut out, thist time of a probably making 3@d|pg||
 pc|sJ|pc|sA|pg||
 pc|cK|pc|c6|pc|cT|pc|c4|pg||
@@ -27,11 +27,11 @@ pc|d7|pc|c2|pc|d8|pc|h3|pg||
 pc|h4|mc|9|pg||
 qx|c2|st||md|4S93HAT8DAJ82CJ976,SQT8742HKQ93D43CT,SKJ6HJ52DKQ9765C4,SA5H764DTCAKQ8532|sv|n|mb|1C|mb|p|mb|1S|mb|2D|nt|ryskiel_: Tuczyñski zmieni³ nazwisko - mo¿e siê o¿eni³ w miêdzyczasie jak pisa³em?|pg||
 mb|3D|mb|p|nt|ryskiel_: Bestrzyñski - sorry|pg||
-mb|3H|nt|ryskiel_: no i teraz wiadomo ¿e seniorem na stole jest Olech Besytrfzyñski - reszta to m³ód ale dobrze opierzona|pg||
-mb|p|mb|3S|mb|p|mb|4C|mb|p|mb|4D|mb|p|mb|4H|mb|p|mb|4S|nt|ryskiel_: jad¹ gocie jad¹... z zielonego sadu..|pg||
+mb|3H|nt|ryskiel_: no i teraz wiadomo ¿e seniorem na stole jest Olech Besytrfzyñski - reszta to m³ód ale dobrze opierzona|pg||
+mb|p|mb|3S|mb|p|mb|4C|mb|p|mb|4D|mb|p|mb|4H|mb|p|mb|4S|nt|ryskiel_: jad¹ gocie jad¹... z zielonego sadu..|pg||
 mb|p|mb|p|mb|p|pc|dK|pc|dT|pc|d2|pc|d3|pg||
 pc|d5|pc|s5|pc|d8|pc|d4|pg||
-nt|ryskiel_: zbieram has³a do tematu "The bend s of modern bridge bidding" i licytowanie koloru przeciwnika jest jego czêci¹|pg||
+nt|ryskiel_: zbieram has³a do tematu "The bend s of modern bridge bidding" i licytowanie koloru przeciwnika jest jego czêci¹|pg||
 pc|h4|pc|h8|pc|hK|pc|h5|pg||
 pc|s2|pc|s6|pc|sA|pc|s3|pg||
 pc|h6|pc|hA|pc|h3|pc|h2|pg||
@@ -39,7 +39,7 @@ pc|dA|pc|s4|pc|d9|pc|c2|pg||
 pc|s7|pc|sJ|pc|c3|pc|s9|pg||
 mc|9|pg||
 qx|o3|st||md|1SQ43HT9762D3CAKQ6,S852HAQ54DKT54C82,SAKJT6HK83DCJT543,S97HJDAQJ98762C97|sv|e|mb|p|mb|p|nt|Henryb:  Many today would open the south hand|pg||
-mb|1S|mb|3D|mb|4S|mb|p|mb|p|nt|Henryb:  Passing is a relic of Roth-Stone's notion of sound openings|pg||
+mb|1S|mb|3D|mb|4S|mb|p|mb|p|nt|Henryb:	Passing is a relic of Roth-Stone's notion of sound openings|pg||
 mb|p|pc|hJ|nt|syl: hello all|pg||
 nt|juror1: welcome Laszlo Szilagyi from Hungary|pg||
 pc|h2|pc|hA|pc|h3|pg||
@@ -165,7 +165,7 @@ pc|cT|pc|h3|pc|h5|pc|h9|pg||
 pc|c6|pc|d8|pc|hQ|nt|Henryb:  If he found one opponent with the @hA and four spades, declarer would have the rest|pg||
 mc|10|pg||
 qx|c7|st||md|1S984HA63DK843CJ87,SKQT3HQ752DJTCK53,SJ762HJT94DQ96C92,SA5HK8DA752CAQT64|sv|b|mb|p|mb|p|mb|p|mb|1C|mb|p|mb|1H|mb|p|nt|kamyk: E s³usznie zakwalifikowa³ swoja reke jako silne BA, ale moze to sie skonczyæ inwitem 4BA, który po karowym trzeba b. celnie rozegraæ|pg||
-nt|ryskiel_: wygl¹da jakby para nie mia³a szczególowych ustaleñ, ale mo¿e namys³ jest nad czym innym|pg||
+nt|ryskiel_: wygl¹da jakby para nie mia³a szczególowych ustaleñ, ale mo¿e namys³ jest nad czym innym|pg||
 mb|2N|nt|ryskiel_: je¿eli graj¹ otwarciem 2@c Precison to normaln¹ akcj¹ E jest 2@c|pg||
 mb|p|nt|ryskiel_: teraz Karol chyba przewidzia³ ostateczny kontrakt 4 BA|pg||
 mb|3S|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|h6|pc|h2|pc|h4|pc|hK|pg||
@@ -191,7 +191,7 @@ pc|c5|pc|h4|pc|h2|pc|s2|pg||
 pc|sK|pc|h5|pc|sA|pc|s4|pg||
 pc|sJ|pc|s7|pc|d2|nt|Henryb:  Now he will overtake the @sK, cash the @sJ and the @hA|pg||
 mc|9|pg||
-qx|c8|st||md|2S9HK954DAQ864C943,SAJ863HT32DK5CJ76,ST7542HQ6DJT9CK82,SKQHAJ87D732CAQT5|sv|o|mb|p|mb|p|mb|1N|nt|ryskiel_: bo Ty Karolu jeste od oceny przesz³oci raczej:)|pg||
+qx|c8|st||md|2S9HK954DAQ864C943,SAJ863HT32DK5CJ76,ST7542HQ6DJT9CK82,SKQHAJ87D732CAQT5|sv|o|mb|p|mb|p|mb|1N|nt|ryskiel_: bo Ty Karolu jeste od oceny przesz³oci raczej:)|pg||
 mb|p|mb|2H|mb|p|mb|2S|mb|p|mb|2N|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|d6|pc|dK|pc|dJ|pc|d2|pg||
 nt|kamyk: bez impasu @C siê nie wygra, wiêc trzeba zacz¹æ od trefli|pg||
 pc|s3|pc|s4|pc|sK|pc|s9|pg||
@@ -223,7 +223,7 @@ nt|Henryb:  Best is for Pepsi to continue clubs|pg||
 pc|c2|pc|c7|pc|cQ|nt|Henryb:  WD|pg||
 pc|c8|pg||
 pc|c5|pc|cA|pc|cJ|pc|s2|pg||
-pc|dQ|pc|d7|nt|Henryb:  so declarer will take 3@s, 2@h, 2@d and a @c for -1|pg||
+pc|dQ|pc|d7|nt|Henryb:	so declarer will take 3@s, 2@h, 2@d and a @c for -1|pg||
 pc|d3|pc|s3|pg||
 nt|Henryb:  nope. just 7 tricks now|pg||
 pc|sQ|pc|dJ|pc|s5|pc|s4|pg||
@@ -232,7 +232,7 @@ pc|c6|mc|6|pg||
 qx|c9|st||md|3SAK652HQJ32D32C73,SJ8743HAK96DCQ654,SQT9HT87DAQ65CA98,SH54DKJT9874CKJT2|sv|e|mb|1D|mb|p|mb|2H|mb|p|mb|2S|mb|p|mb|p|mb|p|pc|cJ|pc|c3|pc|c4|pc|c9|pg||
 pc|d4|pc|d2|pc|s3|pc|d5|pg||
 pc|hK|pc|h7|pc|h4|pc|h2|pg||
-pc|h6|pc|hT|nt|ryskiel_: podobno na stronie PZBS jest wynik 22-9.... dla Connectora... noe ale nie od dzi wiemy, ¿e prasa k³amie:)|pg||
+pc|h6|pc|hT|nt|ryskiel_: podobno na stronie PZBS jest wynik 22-9.... dla Connectora... noe ale nie od dzi wiemy, ¿e prasa k³amie:)|pg||
 pc|h5|mc|9|pg||
 qx|o10|st||md|4S7653HAQJ854DA6CQ,SQJ82HT63DQ95CT93,S94H92DKJ742CA642,SAKTHK7DT83CKJ875|sv|b|mb|1N|nt|Henryb:  Even 6 because declarer couldn't count|pg||
 mb|2D|an|6M|mb|p|mb|2H|nt|Henryb:  S will, I assume, bid 2@d showing one major|pg||
@@ -272,7 +272,7 @@ pc|s8|pc|s2|pc|s6|pc|sQ|pg||
 pc|hJ|pc|h7|pc|c5|pc|d3|pg||
 pc|h4|pc|s9|pc|s5|pc|d2|pg||
 pc|d6|pc|d4|mc|7|pg||
-qx|o12|st||md|2ST98HA74DT843CAQJ,S7HT8DJ975C976542,SKQJHKJ9653DQ2CT3,SA65432HQ2DAK6CK8|sv|n|nt|Henryb:  Last board; thanks all for bearing with my sometimes inane comments|pg||
+qx|o12|st||md|2ST98HA74DT843CAQJ,S7HT8DJ975C976542,SKQJHKJ9653DQ2CT3,SA65432HQ2DAK6CK8|sv|n|nt|Henryb:	Last board; thanks all for bearing with my sometimes inane comments|pg||
 mb|p|mb|1H|mb|1S|nt|Henryb:  thanks also to tomi1 and syl, to our excellent operator, and to the Polish Bridfe Federation for putting this on for us|pg||
 nt|Henryb:  4@h was obviously too much|pg||
 mb|2N|an|inv + fit|mb|p|mb|4H|mb|p|mb|p|mb|p|pc|dA|nt|Henryb:  K should throw the @dJ to get a @s shift|pg||
