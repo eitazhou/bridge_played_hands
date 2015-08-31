@@ -1,4 +1,4 @@
-vg|Camrose Weekend 2,Match 15   1_2,I,1,32,England,0,Scotland,0|
+vg|Camrose Weekend 2,Match 15	1_2,I,1,32,England,0,Scotland,0|
 rs|2HNx-4,5CW=,3NW-2,2DW+2,1NS+1,2NN+2,2HN=,2HN=,2NE=,3NE-1,1NS+1,1NS+1,1NS-1,2SW-2,3CE=,2HS=,4SE-2,3NW=,3NN+1,3NN+1,3NS+3,3NS+2,4HS+1,4HS+1,5HE=,4HE+1,3HW-1,2NE+3,5DN=,5DN-1,2SS+1,2SS=,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,|
 pn|PAGAN,WILKINSON,JAGGER,PIPER,Matheson,Hinden,Sime,Osborne|pg||
 qx|o1|st||md|3SAQT94H3DT732CJ92,SJ753HQDQ8CAKT865,SK62HT76542DA96CQ,S8HAKJ98DKJ54C743|sv|o|mb|2H!|mb|p|mb|p|mb|d|nt|arobson:  Hello all|pg||
@@ -122,8 +122,8 @@ pc|c8|pc|c2|pc|cT|pc|c6|pg||
 pc|c3|pc|c9|pc|c7|pc|c4|pg||
 pc|d7|pc|d6|pc|h3|pc|h6|pg||
 mc|10|pg||
-qx|o4|st||md|2SJ765H9DAQJ543C98,SQ932H63DT8CAJT42,SAK8HJT8754D72CK3,ST4HAKQ2DK96CQ765|sv|b|mb|p|mb|1H|mb|p|nt|arobson:  Jammy 3NT but my guess is 2@H|pg||
-mb|1S|mb|p|nt|arobson:  Zia wd raise to 2@S|pg||
+qx|o4|st||md|2SJ765H9DAQJ543C98,SQ932H63DT8CAJT42,SAK8HJT8754D72CK3,ST4HAKQ2DK96CQ765|sv|b|mb|p|mb|1H|mb|p|nt|arobson:	Jammy 3NT but my guess is 2@H|pg||
+mb|1S|mb|p|nt|arobson:	Zia wd raise to 2@S|pg||
 mb|2H|mb|p|mb|p|mb|p|pc|c5|pc|c8|pc|cA|pc|c3|pg||
 pc|cJ|pc|cK|pc|c6|pc|c9|pg||
 pc|d7|pc|d6|pc|dQ|pc|dT|pg||
@@ -214,7 +214,7 @@ pc|dA|pc|d6|pc|d4|pc|d3|pg||
 pc|dJ|pc|d7|pc|c6|pc|dT|pg||
 nt|steshome: I thought so, too, Georgia. Not sure i'd have found the heart lead|pg||
 pc|h5|mc|8|pg||
-qx|o6|st||md|4SQ94HA84DT75CAQ32,SJ63HJ52DKQ94CT85,SAT52HQT7DJ63CK96,SK87HK963DA82CJ74|sv|e|nt|arobson:  Did anybody shuffle these cards?|pg||
+qx|o6|st||md|4SQ94HA84DT75CAQ32,SJ63HJ52DKQ94CT85,SAT52HQT7DJ63CK96,SK87HK963DA82CJ74|sv|e|nt|arobson:	Did anybody shuffle these cards?|pg||
 mb|p|mb|1N|mb|p|mb|p|mb|p|nt|vugraphzxt: I'm struggling to keep up!|pg||
 nt|arobson:  Not a doubleton in sight|pg||
 pc|dQ|nt|vugraphzxt: rev att on Q|pg||
@@ -305,7 +305,7 @@ nt|bjacobs: So does East, but it's still difficult.  For example, any suggestion
 nt|serhat: 3D= if forcing|pg||
 mb|2C!|mb|2H|nt|bjacobs: 3@D doesn't look forcing to me|pg||
 nt|serhat: well may be 2nt =not|pg||
-nt|bjacobs: One of the problems with this auction is that E/W don't know South's suit.  Hence they have no easy cue-bids|pg||
+nt|bjacobs: One of the problems with this auction is that E/W don't know South's suit.	Hence they have no easy cue-bids|pg||
 mb|2S!|mb|p|nt|bjacobs: I got stuck with exactly this problem in the NEC recently.  I had to guess ... wrongly as usual|pg||
 mb|p|mb|p|nt|serhat: was forcing Bill!:)|pg||
 nt|bjacobs: Here Sveindal has guessed rightly|pg||
@@ -487,11 +487,11 @@ nt|arobson:  I've a feeling E-Ws @H fit will go a begging|pg||
 mb|3C!|nt|benjy:  i suppose you ould kick off with 3@C then try 4@C on the way to 5@D if pd didn't bid 3NT|pg||
 mb|p|nt|arobson:  4@C|pg||
 nt|benjy:  after no @C raise south may suspect that north has 4 or 5 clubs|pg||
-mb|3D|mb|p|nt|arobson:  True. Will N bid 3NT, @C10 speaking to him?|pg||
+mb|3D|mb|p|nt|arobson:	True. Will N bid 3NT, @C10 speaking to him?|pg||
 nt|arobson:  S will bid 5@D I think.|pg||
 nt|benjy:  That may depend on whether 3@C was GF or not|pg||
 nt|arobson:  Doubleton spade opposute and it's cold|pg||
-mb|3S|mb|p|nt|arobson:  Have to pop out sry, will leave it in yr capable hands Ben|pg||
+mb|3S|mb|p|nt|arobson:	Have to pop out sry, will leave it in yr capable hands Ben|pg||
 nt|benjy:  if 3@C was GF then slam might still be on i suppose but how would you find out. if 3@C just F1 then no slam almost for sure|pg||
 nt|benjy:  Ok cheers Andrew|pg||
 nt|Walddk2:  Welcome to Phil Morrison|pg||
@@ -574,7 +574,7 @@ pc|s5|nt|roghog:   http://www.camrosebridge.com/index.php tells you all you'd ev
 pc|s6|pc|sQ|pc|s9|pg||
 nt|georgia19: for all the kind people telling me how to make 12 tricks in @d I know - I said so ages ago - I was talking about the potential black suit squeeze in NT|pg||
 pc|sK|mc|11|pg||
-qx|o12|st||md|2S64HAT643DAKQ764C,SKJ2HKQ5DJ95CQ964,SQT853HJ98D2CAK83,SA97H72DT83CJT752|sv|n|mb|1D|mb|1S|mb|p|nt|benjy:  Tricky hand here, if 2@D shows a good @S raise|pg||
+qx|o12|st||md|2S64HAT643DAKQ764C,SKJ2HKQ5DJ95CQ964,SQT853HJ98D2CAK83,SA97H72DT83CJT752|sv|n|mb|1D|mb|1S|mb|p|nt|benjy:	Tricky hand here, if 2@D shows a good @S raise|pg||
 nt|benjy:  then you have to bid 2@H|pg||
 nt|benjy:  and try the @Ds later perhaps|pg||
 nt|phil352:  definitely an auction to discuss before you play a precision pair|pg||
@@ -659,7 +659,7 @@ pc|dK|nt|vugraphzxt: douglas laughing!|pg||
 pc|dA|pc|d5|pc|d7|pg||
 pc|h8|pc|h3|pc|h2|pc|hA|pg||
 nt|vugraphzxt: "you have two!"|pg||
-pc|cQ|nt|vugraphzxt: claiming!  :)|pg||
+pc|cQ|nt|vugraphzxt: claiming!	:)|pg||
 mc|11|pg||
 qx|c13|st||md|3S32HADKQ42CQJ9643,SJT54H98DAJT3CAT7,SA87H43D9865CK852,SKQ96HKQJT7652D7C|sv|b|nt|steshome: 4@H opener from East?|pg||
 mb|p|mb|1H|mb|2C|mb|d|mb|3C|mb|4H|mb|p|mb|p|mb|p|pc|cQ|nt|steshome: Sensible bid by Osborne. As Hamman says, what do you call an 8 card suit? Trumps|pg||
@@ -696,7 +696,7 @@ pc|cJ|nt|phil352:  trump promotion now|pg||
 pc|h3|nt|benjy:  wow declarer seems to have done here|pg||
 pc|hJ|nt|vugraphzxt: one off|pg||
 nt|benjy:  down i mean|pg||
-mc|8|nt|benjy:  i missed the play, lets have another look...|pg||
+mc|8|nt|benjy:	i missed the play, lets have another look...|pg||
 nt|phil352:  maybe assumed S had 4@H for his initial double?|pg||
 nt|runnerup:  4 tricks was in @h -with @s lead|pg||
 nt|vugraphzxt: no - douglas asked and alex agreed showed 3|pg||
@@ -788,7 +788,7 @@ pc|h2|pc|hA|pc|h6|pc|h4|pg||
 pc|sQ|pc|d2|pc|sT|pc|s7|pg||
 nt|benjy:  A lot of specs telling me that the lead was crazy but I don't mind the low @D lead|pg||
 nt|vugraphzxt: making 9|pg||
-mc|9|nt|benjy:  Ok it didn't work this time but i have some sympathy|pg||
+mc|9|nt|benjy:	Ok it didn't work this time but i have some sympathy|pg||
 nt|benjy:  Thanks all|pg||
 nt|vugraphzxt: East saying he didn't read the lead, but not unhappy with it|pg||
 nt|vugraphzxt: 2nd half of this match starts 5.30pm|pg||

@@ -1,4 +1,4 @@
-vg|Camrose Weekend 2,Match 10    2_2,I,1,32,Wales,44,Scotland,17|
+vg|Camrose Weekend 2,Match 10	 2_2,I,1,32,Wales,44,Scotland,17|
 rs|,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4SE+1,4SE+1,7DS=,7DS=,1NN=,1NN+1,5HSx-1,4HS=,4SE+1,4SE+1,5DE=,5DEx=,3NS+1,3NS+2,3NW-4,4HE=,3NS=,3NS=,2HE+1,2HE=,3NS+1,3NN-1,2NE+1,2SS=,4SS=,4SN+1,1NW-1,2HS+1,4HE+1,4HE+1,5DW=,4SW-2|
 pn|Denning,Wilkinson,Shields,Piper,Walker,Tedd,Short,Salisbury|pg||
 qx|o17|st||md|3S95HA98652DT85C95,SAKQ3HK4DAQJ6CAQJ,SJ86HJ7DK742C8742,ST742HQT3D93CKT63|sv|o|mb|p|mb|p|mb|2H|mb|d|mb|3D!|mb|p|mb|3H|mb|d|mb|p|mb|3S|mb|p|mb|4S|mb|p|mb|p|mb|p|nt|kemperg: Hi all|pg||
@@ -41,7 +41,7 @@ nt|Walddk2:  Welcome back Patrick|pg||
 mb|1D!|nt|kemperg: Hi Patrick|pg||
 mb|p|mb|1H|mb|p|mb|1S|mb|p|nt|kemperg: N will act now|pg||
 mb|3D|mb|p|mb|3H|mb|p|nt|kemperg: 7@D, @H and NT all good|pg||
-nt|pdjourdain:  They must play 3@D forcing|pg||
+nt|pdjourdain:	They must play 3@D forcing|pg||
 nt|kemperg: 7@D is the safest place.|pg||
 nt|phil352:  if they play 2-way checkback this probably shows some strong 2-suiter|pg||
 nt|kemperg: bad @H distribution no problem in @D|pg||
@@ -50,9 +50,9 @@ mb|p|mb|6C!|mb|p|nt|pdjourdain:  anyone who reaches 7@D has done very well|pg||
 nt|kemperg: 5@H not clear for me|pg||
 mb|6D|mb|p|nt|pdjourdain:  Better than 7@H as @Hs might be 4-1|pg||
 nt|kemperg: ty Stuat, 5@H was alerted, not explained|pg||
-mb|7D|mb|p|nt|phil352:  looking at their convention card they play 2-way checkback over 1D 1H 1S, so 3D is surely a strong 2-suiter|pg||
+mb|7D|mb|p|nt|phil352:	looking at their convention card they play 2-way checkback over 1D 1H 1S, so 3D is surely a strong 2-suiter|pg||
 mb|p|mb|p|nt|kemperg: they know what it ment:)|pg||
-nt|pdjourdain:  The spade rebid also promised @Ds I think|pg||
+nt|pdjourdain:	The spade rebid also promised @Ds I think|pg||
 pc|sQ|pc|sA|pc|s8|pc|s2|pg||
 pc|dA|pc|dJ|pc|d3|pc|d5|pg||
 pc|d2|pc|dT|pc|dK|pc|d8|pg||
@@ -63,18 +63,18 @@ mb|p|mb|7D|mb|p|mb|p|mb|p|pc|d5|pc|d2|pc|dT|pc|dK|pg||
 pc|d3|pc|d8|pc|dA|pc|dJ|pg||
 mc|13|pg||
 qx|o19|st||md|1S65HA965DAQ98CT86,SAJ98HKDT752CAQ73,SK742HJT2DK63CKJ4,SQT3HQ8743DJ4C952|sv|e|mb|p|mb|1D|mb|p|mb|1H|mb|p|mb|1S|mb|p|mb|p|mb|d|mb|p|mb|1N|mb|p|mb|p|mb|p|pc|dJ|pc|dQ|pc|d7|pc|d3|pg||
-nt|pdjourdain:  Cards lie well so should make easily|pg||
+nt|pdjourdain:	Cards lie well so should make easily|pg||
 pc|d8|pc|d2|pc|d6|pc|d4|pg||
 pc|d9|pc|d5|pc|dK|pc|c9|pg||
 pc|cK|pc|c5|pc|c6|pc|cA|pg||
 pc|s9|pc|s2|pc|s3|pc|s5|pg||
-nt|pdjourdain:  Again here the 1@S rebid also said @Ds genuine|pg||
+nt|pdjourdain:	Again here the 1@S rebid also said @Ds genuine|pg||
 pc|s8|pc|s4|pc|sT|pc|s6|pg||
 pc|sQ|pc|h5|pc|sA|pc|s7|pg||
 pc|cQ|pc|c4|pc|c2|pc|c8|pg||
 pc|c3|pc|cJ|pc|h3|pc|cT|pg||
 mc|7|pg||
-qx|c19|st||md|1S65HA965DAQ98CT86,SAJ98HKDT752CAQ73,SK742HJT2DK63CKJ4,SQT3HQ8743DJ4C952|sv|e|mb|p|mb|1D|mb|p|mb|1H|mb|p|mb|1S|mb|p|mb|p|mb|d|mb|p|mb|1N|mb|p|mb|p|nt|yorkbeach:  the scores to date are http://www.camrosebridge.com/|pg||
+qx|c19|st||md|1S65HA965DAQ98CT86,SAJ98HKDT752CAQ73,SK742HJT2DK63CKJ4,SQT3HQ8743DJ4C952|sv|e|mb|p|mb|1D|mb|p|mb|1H|mb|p|mb|1S|mb|p|mb|p|mb|d|mb|p|mb|1N|mb|p|mb|p|nt|yorkbeach:	the scores to date are http://www.camrosebridge.com/|pg||
 mb|p|pc|dJ|nt|yorkbeach:  this does not include the running score in the current matches|pg||
 nt|yorkbeach:  Salisbury expects his partner to have 5@d, hence the lead|pg||
 pc|dQ|pc|d2|pc|d3|pg||
@@ -92,11 +92,11 @@ pc|s9|pc|s4|pc|sT|pc|s6|pg||
 pc|sQ|pc|h6|pc|sA|pc|s7|pg||
 nt|yorkbeach:  1 IMP to Scotland|pg||
 mc|8|pg||
-qx|o20|st||md|2SHAK9654DAJTCQJ76,SQT82HQJ73D9652C5,SK964HT82DQ43CAT2,SAJ753HDK87CK9843|sv|b|mb|p|mb|p|mb|1S|mb|2H|mb|2S|nt|pdjourdain:  3@S over 3@H likely|pg||
+qx|o20|st||md|2SHAK9654DAJTCQJ76,SQT82HQJ73D9652C5,SK964HT82DQ43CAT2,SAJ753HDK87CK9843|sv|b|mb|p|mb|p|mb|1S|mb|2H|mb|2S|nt|pdjourdain:	3@S over 3@H likely|pg||
 mb|3H|nt|kemperg: 3 my choice too|pg||
 mb|4S|mb|5H|mb|d|mb|p|mb|p|mb|p|pc|sQ|nt|pdjourdain:  not too bad a contract but for the lie!|pg||
 pc|s4|pc|s3|pc|h4|pg||
-nt|pdjourdain:  But if 5@H making then 4@S more down|pg||
+nt|pdjourdain:	But if 5@H making then 4@S more down|pg||
 pc|hA|pc|h3|pc|h2|pc|c3|pg||
 pc|c6|pc|c5|pc|cT|pc|cK|pg||
 pc|c4|pc|c7|pc|h7|pc|c2|pg||
@@ -107,7 +107,7 @@ nt|yorkbeach:  good result for Scotland in the OR|pg||
 mb|p|mb|p|mb|2S|nt|yorkbeach:  EW play Lucas|pg||
 nt|yorkbeach:  2@s = 5@s + 5 m|pg||
 mb|3H|mb|3S|nt|yorkbeach:  in third seat East can afford to be heavy if he judghes that game is unlikely|pg||
-mb|p|mb|p|mb|d|mb|p|mb|4H|mb|p|mb|p|mb|p|nt|yorkbeach:  EW not going to save after this auction :(|pg||
+mb|p|mb|p|mb|d|mb|p|mb|4H|mb|p|mb|p|mb|p|nt|yorkbeach:	EW not going to save after this auction :(|pg||
 pc|s2|pc|s4|pc|sJ|pc|h4|pg||
 pc|hA|pc|h3|pc|h2|pc|s3|pg||
 pc|cQ|pc|c5|pc|c2|pc|cK|pg||
@@ -123,7 +123,7 @@ pc|sA|pc|sQ|pc|s3|pc|s7|pg||
 pc|hA|pc|h3|pc|h5|pc|h6|pg||
 pc|s9|pc|c6|pc|sJ|pc|s8|pg||
 pc|dJ|pc|dQ|nt|kemperg: take time to think @C J or K :)|pg||
-nt|pdjourdain:  The club goes away on the heart|pg||
+nt|pdjourdain:	The club goes away on the heart|pg||
 pc|d3|nt|kemperg: yes but cant afford to loose 2 trics|pg||
 mc|11|pg||
 qx|c21|st||md|3SQHT93DA9642CAQ96,SJ6543HK852DJCKJ3,S87HQ764DQT87CT84,SAKT92HAJDK53C752|sv|n|mb|p|mb|1S|mb|d|mb|4S|mb|p|mb|p|mb|p|pc|h9|pc|h2|pc|h4|pc|hJ|pg||
@@ -136,7 +136,7 @@ mc|11|pg||
 qx|o22|st||md|4SAJT83HQ3D2CAQJ75,SQHK975DQJ9875C64,SK62HJ8642DCKT983,S9754HATDAKT643C2|sv|e|mb|1D|mb|1S|mb|3D|nt|pdjourdain:  5@D likely|pg||
 mb|3S|nt|pdjourdain:  I and Paul Denning have the best record of Camrose|pg||
 mb|5D|nt|pdjourdain:  We have not updated the files since new format|pg||
-nt|pdjourdain:  But I have the record from 1937 to 2007 on file|pg||
+nt|pdjourdain:	But I have the record from 1937 to 2007 on file|pg||
 mb|p|mb|p|mb|p|nt|pdjourdain:  Paul Denning built the database|pg||
 nt|kemperg: Paul learned alot playing in my club, BC70 in Holland in the 80ties:)|pg||
 pc|d2|nt|pdjourdain:  Two series before the war|pg||
@@ -151,7 +151,7 @@ pc|hT|pc|hQ|pc|hK|pc|h6|pg||
 pc|h7|pc|h8|pc|d4|pc|c7|pg||
 mc|11|pg||
 qx|o23|st||md|1SJ75HK5DAKQ73CAJ6,SAQ4HQT7D8652CT32,SK93HAJ63DJT4C875,ST862H9842D9CKQ94|sv|b|nt|vugraphzxp: claimed from the start|pg||
-nt|pdjourdain:  Yes, Ian, let me know|pg||
+nt|pdjourdain:	Yes, Ian, let me know|pg||
 mb|1C!|nt|phil352:  is it the country or players' names which goes on the trophy? as the junior camrose is engraved with countries except when it was won by scotland in the first edition when the whole team is listed|pg||
 mb|p|nt|kemperg: perhaps Gestem had given a better result for Wales|pg||
 mb|2D!|mb|p|nt|pdjourdain:  Unfortunately I now have Apple and cannot amend Paul's database|pg||
@@ -185,12 +185,12 @@ pc|c6|pc|cT|pc|h6|pc|h8|pg||
 pc|sA|pc|s9|pc|s8|pc|s5|pg||
 mc|11|pg||
 qx|o24|st||md|2SAKT85H943DJTC985,SQ643HQJT2DQ32CT2,S972H75D85CAKJ763,SJHAK86DAK9764CQ4|sv|o|nt|pdjourdain:  England has won trophy v. Rep and Wales so far|pg||
-nt|pdjourdain:  Wales has won trophy v. Rep|pg||
+nt|pdjourdain:	Wales has won trophy v. Rep|pg||
 mb|p|mb|p|nt|kemperg: 4@S rescue best result here|pg||
 mb|1C!|mb|1S|mb|d|nt|pdjourdain:  No trophy for wales v NI (Wales has won)|pg||
 mb|3C!|nt|pdjourdain:  Will check later about England's Camrose wins|pg||
 mb|3D|mb|p|mb|3N|mb|p|mb|p|mb|p|nt|kemperg: wow|pg||
-nt|pdjourdain:  This is 69th series of the Camrose|pg||
+nt|pdjourdain:	This is 69th series of the Camrose|pg||
 nt|kemperg: was dbl not a 4crd @H?|pg||
 nt|kemperg: A to look at the dummy:)|pg||
 pc|cK|pc|c4|pc|c9|pc|c2|pg||
@@ -267,8 +267,8 @@ pc|s3|pc|s2|pc|sK|pc|s4|pg||
 pc|hT|pc|h2|pc|h7|pc|hJ|pg||
 pc|sA|pc|s6|pc|s7|pc|s5|pg||
 nt|kemperg: dbl finesse in @D brings the 9th trick|pg||
-nt|pdjourdain:  I checked my Camrose records, this will England's 50th plus the two draws with Scot|pg||
-nt|pdjourdain:  Scot 11 + the draws, Ire 5, Wal 1 = 69 series|pg||
+nt|pdjourdain:	I checked my Camrose records, this will England's 50th plus the two draws with Scot|pg||
+nt|pdjourdain:	Scot 11 + the draws, Ire 5, Wal 1 = 69 series|pg||
 pc|dK|pc|d3|pc|d6|pc|dA|pg||
 pc|s8|pc|sT|pc|sQ|pc|s9|pg||
 pc|d7|pc|d8|pc|dJ|pc|d5|pg||
@@ -316,8 +316,8 @@ pc|dQ|pc|s2|pc|d4|nt|kemperg: or 1 up?|pg||
 pc|d7|pg||
 pc|d5|pc|s4|pc|dT|pc|dA|pg||
 pc|cA|pc|cK|pc|c7|pc|c4|pg||
-nt|pdjourdain:  But 2@S was making|pg||
-nt|pdjourdain:  So 2N by E-W is better and 3N might make|pg||
+nt|pdjourdain:	But 2@S was making|pg||
+nt|pdjourdain:	So 2N by E-W is better and 3N might make|pg||
 pc|hA|pc|h4|pc|h3|pc|h6|pg||
 pc|h5|pc|hK|pc|h7|pc|h8|pg||
 pc|dJ|pc|cT|pc|c5|pc|d9|pg||
@@ -354,13 +354,13 @@ pg||
 qx|o29|st||md|3SA964HAKJ2DKJ7CK5,SKJ5HT85DQT43C874,ST872H643D92CAQ32,SQ3HQ97DA865CJT96|sv|b|mb|p|mb|p|nt|pdjourdain:  South has strong club and then 1N rebid|pg||
 mb|1C!|mb|p|mb|1D!|mb|p|mb|1N|mb|p|mb|2C!|mb|p|mb|2H|mb|p|mb|3N|mb|p|mb|4S|mb|p|mb|p|mb|p|pc|d3|pc|d2|pc|dA|pc|d7|pg||
 pc|d5|pc|dK|pc|d4|pc|d9|pg||
-nt|pdjourdain:  Ordinary Stayman|pg||
+nt|pdjourdain:	Ordinary Stayman|pg||
 pc|s4|pc|sJ|pc|s2|pc|s3|pg||
 nt|kemperg: no problems left, @HQ has to be on side|pg||
 pc|h5|pc|h3|pc|hQ|pc|hA|pg||
-nt|pdjourdain:  1N opener is 15-17 so 1N rebid showed 18-20|pg||
+nt|pdjourdain:	1N opener is 15-17 so 1N rebid showed 18-20|pg||
 pc|sA|pc|s5|pc|s7|pc|sQ|pg||
-nt|pdjourdain:  opening 2N is 23-24|pg||
+nt|pdjourdain:	opening 2N is 23-24|pg||
 mc|10|pg||
 qx|c29|st||md|3SA964HAKJ2DKJ7CK5,SKJ5HT85DQT43C874,ST872H643D92CAQ32,SQ3HQ97DA865CJT96|sv|b|mb|p|mb|p|mb|1D|mb|p|mb|1S|mb|p|nt|yorkbeach:  from a Wales and Scotland point of view, Northern Ireland need a miracle|pg||
 mb|4S|mb|p|mb|p|mb|p|pc|cJ|pc|cK|pc|c4|pc|c3|pg||
@@ -379,7 +379,7 @@ pc|sJ|pc|s8|pc|d8|pc|s6|pg||
 mc|10|pg||
 qx|o30|st||md|4SK93HAQT97DT97C87,ST752H542DAKJ2CAQ,SAQ6HK86D854CK965,SJ84HJ3DQ63CJT432|sv|o|nt|pdjourdain:  1@C-1@D-2N must be good 20-21|pg||
 mb|p|nt|kemperg: rebid of 3NT instead of 2NT |pg||
-mb|p|mb|1N|mb|p|nt|pdjourdain:  21-22 I mean|pg||
+mb|p|mb|1N|mb|p|nt|pdjourdain:	21-22 I mean|pg||
 mb|p|mb|p|nt|kemperg: 18+6 = 24, I would look for more than a minimum|pg||
 pc|c5|pc|c2|pc|c7|pc|cQ|pg||
 nt|kemperg: but he found 19 and ards well placed:)|pg||
@@ -443,7 +443,7 @@ mb|4C|mb|d|mb|p|nt|yorkbeach:  4@c X is very close to making but East will surel
 mb|4D|mb|p|nt|yorkbeach:  a club contract would be interesting on a trump lead |pg||
 nt|yorkbeach:  West might get in with the @dJ to play a second trump|pg||
 mb|4S|mb|p|mb|p|nt|yorkbeach:  North knows his aces are good defensively and that the spades are breaking badly |pg||
-mb|p|pc|hA|pc|h2|nt|yorkbeach:  if declarer gets out for 2 off, that is a swing of 800|pg||
+mb|p|pc|hA|pc|h2|nt|yorkbeach:	if declarer gets out for 2 off, that is a swing of 800|pg||
 pc|hT|pc|h3|pg||
 pc|cA|pc|c6|pc|c8|nt|yorkbeach:  13 IMPs|pg||
 pc|c2|pg||
