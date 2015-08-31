@@ -19,7 +19,7 @@ nt|bobh1: hello Maximo|pg||
 nt|Vugraphzfj: Both pairs are playing precision|pg||
 mb|p|mb|p|mb|p|mb|2N|mb|p|nt|prospero1:  2N is 19-20 in this position|pg||
 mb|3C|mb|p|mb|3D!|nt|prospero1:  3@c is a form of puppet Stayman|pg||
-mb|p|mb|3S!|mb|p|nt|prospero1:  Their 2N in 3rd seat is 20-21 if they are vulnerable|pg||
+mb|p|mb|3S!|mb|p|nt|prospero1:	Their 2N in 3rd seat is 20-21 if they are vulnerable|pg||
 mb|4H|mb|p|mb|p|mb|p|nt|prospero1:  The lower range from what was historically standard is a result of opening all of their 11 counts|pg||
 nt|bobh1: S may lead a @S|pg||
 nt|prospero1:  3@s said Rodwell had hearts, not spades, so Meckstroth simply bid the game|pg||
@@ -41,7 +41,7 @@ nt|jtmckee: have to lead tr|pg||
 pc|hQ|pc|h6|pc|h2|pc|h4|pg||
 nt|jtmckee: yes  3 hearts gets them a spade trick|pg||
 nt|mikeh:  t|pg||
-nt|jtmckee: we need an NFL replay booth official to step in and call it down 1  next hand|pg||
+nt|jtmckee: we need an NFL replay booth official to step in and call it down 1	next hand|pg||
 nt|Vugraphzfe: we could certainly speed things along with that rule|pg||
 pc|s6|nt|mikeh:  I'm not at all sure I'm on the commentators list but I appear to be ungagged|pg||
 nt|jtmckee: hello mike|pg||
@@ -263,7 +263,7 @@ pc|sK|pc|s2|pc|s3|pc|s5|pg||
 nt|mikeh:  he's not trying to make as many tricks as he can, he's maximizing his chances of 10|pg||
 nt|mikeh:  tho I'm not entirely sure why he didn't win the H in dummy to lead trump|pg||
 nt|jtmckee: steve is afraid to simply pull trump cuz if they break bad the defense can strnd him with a minor suit loser    likewise if trumps 4-1 and he takes a ruff they can force a trick ...|pg||
-nt|jtmckee: for the 4th trump   but not on this layout|pg||
+nt|jtmckee: for the 4th trump	but not on this layout|pg||
 pc|sJ|nt|Vugraphzfe: Kranyak's turn to think|pg||
 pc|s7|pc|s6|pc|sQ|pg||
 mc|11|nt|mikeh:  just 10|pg||
@@ -386,7 +386,7 @@ pc|s3|pc|h5|pc|hA|pc|sJ|pg||
 pc|c7|pc|h6|mc|9|pg||
 qx|c39|st||md|1SQT6HQ53DK764CQ54,S9HA42D852CAKT763,SJ854HJ86DAQT9CJ2,SAK732HKT97DJ3C98|sv|b|mb|p|nt|Walddk2:  http://usbf.org/docs/vugraphs/USBCUSA22013/Bracket.php?stage=Roundof32|pg||
 mb|2C!|nt|prospero1:  2@c = 10-15, six clubs|pg||
-mb|p|mb|2D!|mb|p|nt|prospero1:  2@d artificial with invitational + values|pg||
+mb|p|mb|2D!|mb|p|nt|prospero1:	2@d artificial with invitational + values|pg||
 mb|2H!|mb|p|nt|prospero1:  They have modified this structure recently, but I expect 2@h says "not a bare minimum"|pg||
 nt|prospero1:  Regarding AK A as somewhat better than the bottom of what they open|pg||
 nt|bobh1: that's pretty much what he has|pg||
@@ -462,7 +462,7 @@ pc|s9|pc|h5|pc|c3|pc|hQ|pg||
 pc|s6|pc|d6|pc|h8|nt|scoolik: will play A Q@C for 170|pg||
 pc|h2|pg||
 pc|cA|pc|c6|pc|c5|nt|jtmckee: he can duck for 140|pg||
-mc|9|nt|mikeh:  s can duck the club k|pg||
+mc|9|nt|mikeh:	s can duck the club k|pg||
 pg||
 qx|c41|st||md|3SJ8HKJT75DKT6CKT6,SK7H986DAJCJ87532,ST52HAQ2DQ9752C94,SAQ9643H43D843CAQ|sv|e|nt|bobh1: and he's already won a national|pg||
 nt|prospero1:  No, mid-20's|pg||
@@ -491,7 +491,7 @@ pc|cT|pc|c5|pc|c4|pg||
 mc|9|pg||
 qx|o42|st||md|4SAQT4HAJ9DQT76CT5,SJ83HT3DK92CAQ876,SK965H642DA5CJ943,S72HKQ875DJ843CK2|sv|b|nt|scoolik: 140|pg||
 mb|p|mb|1D|mb|p|mb|1S|mb|p|nt|jtmckee: meckwell got caught speeding|pg||
-mb|2S|mb|p|mb|p|mb|p|nt|mikeh:  sticks and wheels at the two level no less|pg||
+mb|2S|mb|p|mb|p|mb|p|nt|mikeh:	sticks and wheels at the two level no less|pg||
 pc|hQ|nt|jtmckee: the 1100 save vs 2s|pg||
 pc|hA|nt|scoolik: value of the weak NT|pg||
 pc|h3|pc|h6|pg||
