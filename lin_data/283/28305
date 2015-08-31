@@ -25,16 +25,16 @@ pc|h9|pc|c6|pc|d3|pc|h3|pg||
 pc|d7|pc|d9|pc|dJ|pc|dA|pg||
 pc|cK|pc|cA|pc|c2|pc|c5|pg||
 mc|9|pg||
-qx|o14|st||md|4SKJ3HATDKJ9542CK2,S87HJ73DT8CQ87643,ST942HK8642DAQCT5,SAQ65HQ95D763CAJ9|sv|o|nt|0       AZ:  Dicle genÃ§lik in finale kalmak iÃ§in son ÅansÄ±,bu maÃ§Ä± almak zorunda|pg||
-mb|1D|nt|0       AZ:  Dicle genÃ§lik adÄ±ndan da anlaÅÄ±lacaÄÄ± gibi genÃ§ oyunculardan oluÅuyor|pg||
+qx|o14|st||md|4SKJ3HATDKJ9542CK2,S87HJ73DT8CQ87643,ST942HK8642DAQCT5,SAQ65HQ95D763CAJ9|sv|o|nt|0       AZ:  Dicle genÃ§lik in finale kalmak iÃ§in son ÅansÄ±,bu maÃ§Ä± almak zorunda|pg||
+mb|1D|nt|0	 AZ:  Dicle genÃ§lik adÄ±ndan da anlaÅÄ±lacaÄÄ± gibi genÃ§ oyunculardan oluÅuyor|pg||
 mb|1N|mb|2C|nt|AMED_: hg Azad|pg||
-nt|0       AZ:  Tek tecrÃ¼beli oynucularÄ± sÃ¼leyman ami,onu da bu maÃ§ dinlendirmiÅler|pg||
-nt|0       AZ:  mrb yasin hocam,hb|pg||
+nt|0	   AZ:	Tek tecrÃ¼beli oynucularÄ± sÃ¼leyman ami,onu da bu maÃ§ dinlendirmiÅler|pg||
+nt|0	   AZ:	mrb yasin hocam,hb|pg||
 mb|2H|mb|p|nt|AMED_: Süleyman emmi Diyarbakýr'ýn en tecrübeli oyuncularýndandýr.|pg||
-nt|0       AZ:  aynÄ± zamanda diyarbakÄ±r Ä±n maskotudur|pg||
-mb|2N|mb|p|mb|3S|nt|0       AZ:  ns ye 3nt var bu elde|pg||
+nt|0	   AZ:	aynÄ± zamanda diyarbakÄ±r Ä±n maskotudur|pg||
+mb|2N|mb|p|mb|3S|nt|0	    AZ:  ns ye 3nt var bu elde|pg||
 nt|AMED_: Ayný zamanda lise sýralarýnda ayný sýnýftaydýk:) fakat kendisi benden 8 yaþ büyük|pg||
-mb|p|nt|0       AZ:  bayaa  saÄlam okumuÅ o zaman|pg||
+mb|p|nt|0	AZ:  bayaa  saÄlam okumuÅ o zaman|pg||
 mb|4S|mb|p|nt|AMED_: bir bordda kartlar ancak bu kadar güzel oturur  (güney-kuzey e göre)|pg||
 mb|p|mb|p|pc|cA|pc|c2|pc|c3|pc|c5|pg||
 pc|c9|pc|cK|pc|c4|pc|cT|pg||
@@ -45,7 +45,7 @@ pc|s2|pc|sA|pc|sJ|pc|s7|pg||
 pc|h9|pc|hA|pc|h7|pc|h2|pg||
 pc|d4|pc|dT|pc|dA|pc|d3|pg||
 pc|s4|pc|s6|pc|sK|pc|c6|pg||
-pc|dK|pc|d8|pc|dQ|nt|0       AZ:  @s9 yerine kÃ¼Ã§Ã¼k @s oynasa sanki yapmÄ±ÅtÄ±|pg||
+pc|dK|pc|d8|pc|dQ|nt|0	     AZ:  @s9 yerine kÃ¼Ã§Ã¼k @s oynasa sanki yapmÄ±ÅtÄ±|pg||
 pc|d7|pg||
 pc|dJ|pc|c7|pc|h4|pc|d6|pg||
 pc|d9|pc|c8|pc|h6|mc|9|pg||
@@ -62,7 +62,7 @@ pc|d5|pc|c7|pc|s9|pc|s6|pg||
 pc|s3|pc|s7|pc|sT|pc|sA|pg||
 mc|10|pg||
 qx|o15|st||md|1S7HKQJ8DAKJT3CAQJ,SQ9643H3D962C9762,SJTHT97652D875CT4,SAK852HA4DQ4CK853|sv|n|nt|AMED_: 4@h tercih etse yapardý|pg||
-mb|1D|mb|p|mb|p|mb|d|mb|2H|mb|p|mb|4H|mb|p|nt|AMED_: x  ve xx gereðinden fazla kullanýlmaktadýr  bu da sanýrým oyuncularýn turnuva deneyimi eksikliðinden kaynaklanýyor|pg||
+mb|1D|mb|p|mb|p|mb|d|mb|2H|mb|p|mb|4H|mb|p|nt|AMED_: x	ve xx gereðinden fazla kullanýlmaktadýr  bu da sanýrým oyuncularýn turnuva deneyimi eksikliðinden kaynaklanýyor|pg||
 mb|4N|mb|p|mb|5C|mb|p|mb|5H|mb|p|mb|p|mb|p|pc|s3|pc|sT|nt|AMED_: 6 imp gereksiz kayýp|pg||
 pc|sK|pc|s7|pg||
 pc|sA|pc|hJ|pc|s4|pc|sJ|pg||
@@ -81,20 +81,20 @@ pc|sA|pc|s7|pc|s9|pc|sT|pg||
 pc|sK|pc|hQ|pc|s3|pc|sJ|pg||
 pc|hJ|pc|c2|pc|h5|pc|h4|pg||
 mc|11|pg||
-qx|o16|st||md|2S952HQT864DK42CJT,SAK874H32DA973C87,SQT3HA95DQT65C652,SJ6HKJ7DJ8CAKQ943|sv|e|nt|0       AZ:  diÄer odada sistem karmaÅasÄ± olmuÅ ve 2nt de kalmÄ±Ålar|pg||
+qx|o16|st||md|2S952HQT864DK42CJT,SAK874H32DA973C87,SQT3HA95DQT65C652,SJ6HKJ7DJ8CAKQ943|sv|e|nt|0       AZ:  diÄer odada sistem karmaÅasÄ± olmuÅ ve 2nt de kalmÄ±Ålar|pg||
 nt|AMED_: sanýrým 15 sene  kadar önce ben de o zaman  yeni briç oynuyordum DBL çok kullandýðýmdan partnerim usta bir oyuncu idi oyun baþlarken rakiplere "partnerimin DBL veya RDBL sinden ...|pg||
 nt|AMED_: sorumlu deðilim demiþti:) |pg||
-mb|p|mb|p|mb|1N|mb|p|nt|0       AZ:  beÅir 2/1 oynarken ,serhat sayc oynamÄ±Å,ve 2nt ye pass geÃ§miÅ|pg||
-mb|2H|mb|p|mb|2S|mb|p|mb|3D|mb|p|nt|0       AZ:  yasin !5 sene mi ,15 gÃ¼n Ã¶nce olmasÄ±n:)|pg||
+mb|p|mb|p|mb|1N|mb|p|nt|0	AZ:  beÅir 2/1 oynarken ,serhat sayc oynamÄ±Å,ve 2nt ye pass geÃ§miÅ|pg||
+mb|2H|mb|p|mb|2S|mb|p|mb|3D|mb|p|nt|0	    AZ:  yasin !5 sene mi ,15 gÃ¼n Ã¶nce olmasÄ±n:)|pg||
 mb|3N|mb|p|mb|p|mb|p|nt|AMED_: ben az söyledim sene 1994 idi|pg||
 pc|h6|pc|h3|pc|hA|pc|h7|pg||
 nt|AMED_: halen öðrendim denemez tabi|pg||
 pc|h9|pc|hJ|pc|hQ|pc|h2|pg||
 pc|hT|pc|d3|pc|h5|pc|hK|pg||
 pc|sJ|pc|s2|pc|s4|pc|sQ|pg||
-nt|0       AZ:  batÄ± da dr yasin 3 Ã§eker varken pass geÃ§ti,genelde bu eller gÃ¼nÃ¼mÃ¼zde %99 aÃ§Ä±lÄ±yor|pg||
+nt|0	   AZ:	batÄ± da dr yasin 3 Ã§eker varken pass geÃ§ti,genelde bu eller gÃ¼nÃ¼mÃ¼zde %99 aÃ§Ä±lÄ±yor|pg||
 pc|c2|nt|AMED_: kocaman 3 löve ha:)|pg||
-nt|0       AZ:  batÄ± aÃ§mÄ±Å olsa 6@ce gelebilirdi hanifi abi,ve ilginÃ§ bir el olabilirdi o zaman|pg||
+nt|0	   AZ:	batÄ± aÃ§mÄ±Å olsa 6@ce gelebilirdi hanifi abi,ve ilginÃ§ bir el olabilirdi o zaman|pg||
 mc|10|pg||
 qx|c16|st||md|2S952HQT864DK42CJT,SAK874H32DA973C87,SQT3HA95DQT65C652,SJ6HKJ7DJ8CAKQ943|sv|e|mb|1S|mb|p|mb|2C|nt|vugraphzdw: serhat uzun süre düþünde 5 @s demek için ama diyemedi|pg||
 mb|p|mb|2D|nt|arjenix: ters zonda söylemesi gerekirdi|pg||
@@ -114,19 +114,19 @@ pc|dA|pc|d5|pc|d8|pc|d4|pg||
 pc|s8|pc|sQ|pc|dJ|pc|dK|pg||
 pc|dQ|pc|hJ|pc|hQ|pc|d9|pg||
 pg||
-qx|o17|st||md|3SAQT95H762DCKQJ52,S3HAKJ953D753CA93,S876H84DKQT964C64,SKJ42HQTDAJ82CT87|sv|o|nt|0       AZ:  1@d ve 1@h Ã¼ @se atacaÄÄ± iÃ§in,@hÃ¼ doÄru plase ederse 6@ci yapabiliyordu|pg||
+qx|o17|st||md|3SAQT95H762DCKQJ52,S3HAKJ953D753CA93,S876H84DKQT964C64,SKJ42HQTDAJ82CT87|sv|o|nt|0       AZ:  1@d ve 1@h Ã¼ @se atacaÄÄ± iÃ§in,@hÃ¼ doÄru plase ederse 6@ci yapabiliyordu|pg||
 mb|2D|mb|p|nt|AMED_: karo ataðýna ?|pg||
-nt|0       AZ:  tabi @d atack gelmemek koÅulu ile|pg||
+nt|0	   AZ:	tabi @d atack gelmemek koÅulu ile|pg||
 mb|p|mb|2H|mb|p|mb|2N|mb|p|nt|AMED_: 4@h e yol göründü gbi|pg||
 mb|4H|mb|p|nt|AMED_: evt|pg||
-mb|p|mb|p|nt|0       AZ:  gÃ¼ney 2@d pass geÃ§erek d-b ya yol verdi|pg||
+mb|p|mb|p|nt|0	     AZ:  gÃ¼ney 2@d pass geÃ§erek d-b ya yol verdi|pg||
 pc|dK|pc|dA|pc|h2|pc|d5|pg||
-nt|0       AZ:  4@h olmuyormuÅ gerÃ§i|pg||
-pc|cK|nt|0       AZ:  3nt kalsa ii idi|pg||
+nt|0	   AZ:	4@h olmuyormuÅ gerÃ§i|pg||
+pc|cK|nt|0	 AZ:  3nt kalsa ii idi|pg||
 pc|c3|pc|c6|pc|c7|pg||
 pc|cQ|pc|cA|pc|c4|pc|c8|pg||
 pc|h3|pc|h4|pc|hQ|pc|h6|pg||
-pc|hT|nt|0       AZ:  3nt @s ataÄÄ±na yapabiliyordu,@c ataÄa batÄ±yor|pg||
+pc|hT|nt|0	 AZ:  3nt @s ataÄÄ±na yapabiliyordu,@c ataÄa batÄ±yor|pg||
 pc|h7|pc|hA|pc|h8|pg||
 pc|hK|pc|d4|nt|AMED_: tref atak gelir|pg||
 pc|s2|pc|s5|pg||
@@ -149,7 +149,7 @@ pc|c2|pc|c3|pc|s7|pc|cT|pg||
 pc|s8|pc|s2|pc|s9|pc|s3|pg||
 pc|sA|pc|d3|pc|d4|pc|s4|pg||
 mc|8|pg||
-qx|o18|st||md|4SJ9HK83DAJ84CAKQ4,SA53HQJ6DK95C9863,SKQT87642HT5DQTC7,SHA9742D7632CJT52|sv|n|mb|p|mb|1D|mb|p|mb|1S|mb|1N!|an|kor|mb|d|mb|p|mb|4S|mb|p|mb|4N|mb|p|mb|5D|nt|0       AZ:  1nt minÃ¶r uzun oynanÄ±yor genelde ama hanifi abi ters oynuyormuÅ demek ki|pg||
+qx|o18|st||md|4SJ9HK83DAJ84CAKQ4,SA53HQJ6DK95C9863,SKQT87642HT5DQTC7,SHA9742D7632CJT52|sv|n|mb|p|mb|1D|mb|p|mb|1S|mb|1N!|an|kor|mb|d|mb|p|mb|4S|mb|p|mb|4N|mb|p|mb|5D|nt|0	 AZ:  1nt minÃ¶r uzun oynanÄ±yor genelde ama hanifi abi ters oynuyormuÅ demek ki|pg||
 mb|p|mb|5S|mb|p|mb|p|mb|p|pc|hA|pc|h3|pc|hQ|pc|h5|pg||
 pc|d7|pc|dA|pc|d5|pc|dT|pg||
 pc|cA|pc|c3|pc|c7|pc|c2|pg||
@@ -171,12 +171,12 @@ mb|p|mb|p|nt|AMED_: pas mý geçeyim  davet mi edeyim düþündü  |pg||
 pc|dA|pc|d3|pc|d5|pc|d9|pg||
 pc|d4|pc|d7|pc|dK|pc|d2|pg||
 pc|dQ|pc|h9|pc|c6|pc|dJ|pg||
-nt|0       AZ:  emin davet etse,resul daveti muhtemelen kabul edecekti|pg||
+nt|0	   AZ:	emin davet etse,resul daveti muhtemelen kabul edecekti|pg||
 pc|hA|pc|h3|pc|h2|pc|h8|pg||
 pc|h6|pc|h5|nt|AMED_: demin dediðim gibi  DÝCLE GENÇLÝK bu ne zaman ne yapacaðý tahmin edilemiyor|pg||
 pc|hQ|pc|hJ|pg||
 pc|h4|pc|d6|pc|hK|pc|h7|pg||
-mc|9|nt|0       AZ:  bÃ¼tÃ¼n card larÄ± doÄru plase etmek iÃ§in yeterli yer geÃ§eri yok|pg||
+mc|9|nt|0	AZ:  bÃ¼tÃ¼n card larÄ± doÄru plase etmek iÃ§in yeterli yer geÃ§eri yok|pg||
 pg||
 qx|c19|st||md|1SAJ76HQ42DJ73CT95,SQ5HJ8DKQT865CJ32,SKT3HAKT96D92CKQ7,S9842H753DA4CA864|sv|e|mb|p|mb|p|mb|1H|mb|p|mb|1S|mb|2D|mb|d|mb|p|mb|2H|mb|p|mb|p|mb|p|pc|dA|pc|d3|pc|d5|pc|d9|pg||
 pc|d4|pc|d7|pc|dT|pc|d2|pg||
@@ -193,13 +193,13 @@ pc|hT|pc|c6|pc|c9|pc|d8|pg||
 pc|cK|pc|cA|pc|cT|pc|dQ|pg||
 pg||
 qx|o20|st||md|2S4H98753DAKQJ95C6,SQ75HA6DT4CQJ9743,SKT8HKQJ2D76CAKT5,SAJ9632HT4D832C82|sv|b|nt|0       AZ:  gÃ¼ney oynarsa 6@h yapÄ±labiliyor|pg||
-nt|0       AZ:  ya da 6@d|pg||
-mb|p|mb|1C|mb|1S|nt|0       AZ:  bu deklereden sonra 6 olma ihtimali kalmadÄ±|pg||
+nt|0	   AZ:	ya da 6@d|pg||
+mb|p|mb|1C|mb|1S|nt|0	    AZ:  bu deklereden sonra 6 olma ihtimali kalmadÄ±|pg||
 nt|AMED_: evt|pg||
 mb|3H|mb|3S|nt|AMED_: @s dekleresi gelmeseydi büyük olasýlýkla tref atak olacaktý |pg||
 mb|4H|mb|p|mb|p|mb|p|nt|AMED_: egale|pg||
 pc|s5|pc|s8|pc|sA|pc|s4|pg||
-pc|d8|nt|0       AZ:  dicle genÃ§lik bu maÃ§tana sonra dÃ¼ÅÃ¼Åe geÃ§ecektir.3.lÃ¼k iÃ§in zeugma,dsi ve yeniÅehir Ã§ekiÅir die tahmin ediyorum|pg||
+pc|d8|nt|0	 AZ:  dicle genÃ§lik bu maÃ§tana sonra dÃ¼ÅÃ¼Åe geÃ§ecektir.3.lÃ¼k iÃ§in zeugma,dsi ve yeniÅehir Ã§ekiÅir die tahmin ediyorum|pg||
 pc|dA|pc|d4|pc|d6|pg||
 pc|h3|pc|hA|pc|h2|pc|h4|pg||
 nt|AMED_: BUYUKSEHIR final yolunu araladý artýk|pg||
@@ -214,7 +214,7 @@ pg||
 qx|o21|st||md|3S983HK732DJT3CK63,SAKJHA986D4CQJ542,ST75HJ54DKQ762CA8,SQ642HQTDA985CT97|sv|n|nt|0       AZ:  bundan sonra sayÄ± Ã§Ä±kacak board yok,maÃ§ bÃ¶yle biter herhalde|pg||
 nt|AMED_: 2 maç daha olmasýna raðmen sanýrým finallere katýlacak 4 takým bu maç sonunda belli olur|pg||
 nt|AMED_: Diyarbakýr sur, Diyarbakýr büyükþehir, Gaziantep zeugma ve Diyarbakýr D.S.Ý|pg||
-nt|0       AZ:  yeniÅehir zor maÃ§larÄ±nÄ± oynamÄ±Å,yeniÅehir son maÃ§a kadar kovalar|pg||
+nt|0	   AZ:	yeniÅehir zor maÃ§larÄ±nÄ± oynamÄ±Å,yeniÅehir son maÃ§a kadar kovalar|pg||
 mb|p|mb|p|nt|AMED_: özür dilerim bundan sonra 2 maç deðil 3 maç daha var   klavye azizliði 3 yerine 2 yazmýþým|pg||
 mb|p|mb|1C|mb|1D|mb|d|nt|vugraphzdp: yazdý abý|pg||
 mb|2D|mb|2H|mb|p|mb|2S|mb|p|nt|AMED_: ok|pg||
@@ -246,7 +246,7 @@ mc|11|pg||
 qx|o22|st||md|4S87HA98DA8CAJT932,SA9HT62DJT93CKQ85,SKT6543HKQ7DQ75C4,SQJ2HJ543DK642C76|sv|e|nt|vugraphzdp: last bord thnx all|pg||
 nt|vugraphzdp: tesekkurler herkese|pg||
 nt|vugraphzdp: bý daha ký maclar saat 16ç00 da|pg||
-mb|p|mb|1C|mb|p|mb|1S|nt|0       AZ:  bu elde bÃ¼yÃ¼kÅehir farkÄ± aÃ§abilir,zor bir 4@S|pg||
+mb|p|mb|1C|mb|p|mb|1S|nt|0	 AZ:  bu elde bÃ¼yÃ¼kÅehir farkÄ± aÃ§abilir,zor bir 4@S|pg||
 mb|2C|mb|2S|mb|p|mb|p|nt|arjenix: yanlýþ oluyor|pg||
 mb|p|pc|h4|nt|arjenix: 1@c-1@s-2@c-2@s |pg||
 pc|h8|pc|hT|pc|hK|pg||
@@ -255,7 +255,7 @@ pc|d8|pc|d9|pc|dQ|pc|dK|pg||
 pc|h3|pc|h9|pc|h2|pc|hQ|pg||
 pc|d7|pc|d2|pc|s7|pc|dT|pg||
 pc|s8|pc|s9|pc|sT|pc|sQ|pg||
-nt|0       AZ:  @c oynarsa 4@s batÄ±yor:)|pg||
+nt|0	   AZ:	@c oynarsa 4@s batÄ±yor:)|pg||
 mc|10|pg||
 qx|c22|st||md|4S87HA98DA8CAJT932,SA9HT62DJT93CKQ85,SKT6543HKQ7DQ75C4,SQJ2HJ543DK642C76|sv|e|mb|p|mb|1N|mb|p|mb|2C|mb|p|mb|3C|nt|arjenix: 1nt: 11-14|pg||
 nt|vugraphzdw: 2@C davet 9-11|pg||
