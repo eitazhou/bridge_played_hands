@@ -119,7 +119,7 @@ pc|d5|pc|d6|pc|dA|pc|d3|pg||
 mc|10|pg||
 qx|o5|st||md|3SAT3HJ986DQ2CT752,SJ97H7DAKJ93CKJ43,SKQ62HAQ42D84CAQ6,S854HKT53DT765C98|sv|n|nt|blewah:  2 off, so declarer must have ducked the dia return|pg||
 mb|1C|mb|p|mb|1D|nt|blewah:  other table also in 3nt and heart lead|pg||
-mb|2D|mb|2H|nt|blewah:  1@d shows heart|pg||
+mb|2D|mb|2H|nt|blewah:	1@d shows heart|pg||
 nt|iverson200: an interesting decision by W to overcall 1@s and conceal the @h suit for the surprise lead, the strategy is not advised under normal circumstances:)|pg||
 mb|3D|mb|p|mb|p|mb|3H|mb|p|mb|p|mb|p|pc|d6|pc|dQ|pc|dK|pc|d4|pg||
 nt|blewah:  NS play weak NT so that 2H shows 4card support either strong balanced or unbalanced with clubs|pg||
@@ -161,7 +161,7 @@ pc|c8|nt|iverson200: declarer would have to lose 2 more @d and a @h for -1|pg||
 pc|sQ|pg||
 pc|hA|pc|h7|pc|h4|pc|hT|pg||
 pc|s6|pc|d5|pc|dQ|pc|c2|pg||
-pc|s3|pc|d7|nt|blewah:  2 down. next|pg||
+pc|s3|pc|d7|nt|blewah:	2 down. next|pg||
 pc|d2|pc|c4|pg||
 pc|dK|pc|dA|pc|d8|pc|d3|pg||
 pc|hK|pc|h9|pc|d6|pc|h6|pg||
@@ -374,7 +374,7 @@ pc|c7|pc|d3|pc|hT|pc|c6|pg||
 pc|s2|pc|sQ|pc|sA|pc|d2|pg||
 pc|sT|pc|dJ|pc|d6|pc|s5|pg||
 mc|6|pg||
-qx|o13|st||md|3ST5HKDQ852CK96432,SQ94HQ4DKJ976CQ87,SAJ763HA52DTCAJT5,SK82HJT98763DA43C|sv|b|nt|blewah:  wow|pg||
+qx|o13|st||md|3ST5HKDQ852CK96432,SQ94HQ4DKJ976CQ87,SAJ763HA52DTCAJT5,SK82HJT98763DA43C|sv|b|nt|blewah:	wow|pg||
 nt|iverson200: then I think W played @d 9 instead of @d 10|pg||
 mb|1S|nt|iverson200: 1nt-1 requires accurate lead and def, wd to Singapore|pg||
 nt|blewah:  3@h anyone?|pg||
@@ -406,7 +406,7 @@ nt|blewah:  i guess so|pg||
 mb|1N!|mb|p|mb|2D!|mb|p|mb|2H|mb|p|mb|p|mb|p|nt|iverson200: 1nt = weak 12-14 non-vul|pg||
 nt|iverson200: 11-14|pg||
 nt|iverson200: here is 11|pg||
-pc|d8|pc|d6|nt|blewah:  plus 1, i bet|pg||
+pc|d8|pc|d6|nt|blewah:	plus 1, i bet|pg||
 pc|dA|pc|d5|pg||
 pc|c4|pc|c5|pc|cQ|pc|c6|pg||
 pc|dK|pc|dJ|pc|d2|pc|d7|pg||
@@ -478,7 +478,7 @@ pc|hJ|pc|d3|pc|sJ|pc|s3|pg||
 pc|h6|pc|s8|nt|iverson200: yes W is sqzed with @s A and @d Q+T|pg||
 pc|sT|pc|d2|pg||
 pc|d8|pc|d7|pc|dK|pc|d5|pg||
-pc|c9|pc|d6|nt|blewah:  last C not played?|pg||
+pc|c9|pc|d6|nt|blewah:	last C not played?|pg||
 pc|s6|nt|iverson200: well|pg||
 pc|dT|pg||
 nt|iverson200: a 25% chance|pg||
