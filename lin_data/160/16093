@@ -33,7 +33,7 @@ pc|c3|nt|djneill:  North can count 3@c, 2@s, 2@d, 2@h for 9 minimum|pg||
 pc|c4|pc|c9|pc|c2|pg||
 pc|c5|pc|c8|pc|cQ|nt|djneill:  after the deluge of spades, the count will be rectified (lost 3 tricks, have 9) and a squeeze in @h-@d is an option that happens to work, though there is no risk in the @d finesse since West is out of @s at that point|pg||
 pc|cA|pg||
-nt|djneill:  there is a small clue that the @dQ is offsides -if East had @sKJxxx  @hxx  @dQxx @cAxx for example they might have overcalled 1@s|pg||
+nt|djneill:  there is a small clue that the @dQ is offsides -if East had @sKJxxx  @hxx	@dQxx @cAxx for example they might have overcalled 1@s|pg||
 pc|d6|pc|d8|pc|d9|pc|dK|pg||
 nt|djneill:  nifty, East does not cash the @s, wow, there must have been a clue somewhere - otherwise it looks pretty odd|pg||
 nt|djneill:  North delays the moment of truth in @d, also in case East has both the @dT and @d9 (the 8 forces the Queen)|pg||
@@ -94,7 +94,7 @@ pc|sQ|pc|sJ|pc|s8|pc|s7|pg||
 pc|c6|pc|c5|pc|cQ|pc|cK|pg||
 mc|10|pg||
 qx|c15|st||md|1S75HKQT87432DKCK3,SKQT63HAJDQ72C764,SAJH965DT9864CT95,S9842HDAJ53CAQJ82|sv|n|mb|4H|mb|p|mb|p|mb|d|mb|p|mb|4S|mb|p|mb|p|nt|bucheister: I wonder which trick went away; 3S;1H and 2C|pg||
-mb|p|pc|h6|nt|djneill:  true, it's hard to see losing more than that, john|pg||
+mb|p|pc|h6|nt|djneill:	true, it's hard to see losing more than that, john|pg||
 pc|s2|pc|h2|pc|hJ|pg||
 pc|s8|pc|s5|pc|sK|pc|sA|pg||
 nt|djneill:  East had a takeout double available, very handy|pg||
@@ -144,12 +144,12 @@ pc|d2|nt|sybarra: has to not switch |pg||
 pc|c8|pc|dT|pc|dA|pg||
 mc|12|nt|sybarra: ugh|pg||
 pg||
-qx|c17|st||md|3SHT8DQ6432CAKT932,SAQJ8HAKJ6432DC85,ST6432H9DKJT87C74,SK975HQ75DA95CQJ6|sv|o|mb|2S!|nt|djneill:  hmm, North may have a 5-5 preempt gadget available not vulnerable|pg||
+qx|c17|st||md|3SHT8DQ6432CAKT932,SAQJ8HAKJ6432DC85,ST6432H9DKJT87C74,SK975HQ75DA95CQJ6|sv|o|mb|2S!|nt|djneill:	hmm, North may have a 5-5 preempt gadget available not vulnerable|pg||
 mb|p|mb|2N|an|!|nt|djneill:  ok so this is what South envisioned last time, a true heap of trash|pg||
 nt|bucheister: I cannot figure out how he went down one|pg||
 nt|djneill:  2@s likely = @s + minor, and South is interested in the minor, just a bit!|pg||
 mb|4H|mb|p|mb|p|nt|bucheister: Board 15 has not yet been corrected|pg||
-mb|5C|mb|d|mb|5D|mb|d|mb|p|nt|djneill:  now is South's 5@c pass/correct for North's minor, or is it natural, we assume it is pass/correct since North corrected|pg||
+mb|5C|mb|d|mb|5D|mb|d|mb|p|nt|djneill:	now is South's 5@c pass/correct for North's minor, or is it natural, we assume it is pass/correct since North corrected|pg||
 mb|p|mb|p|nt|bucheister: this looks like a maker|pg||
 pc|d5|nt|djneill:  wow, 5@h makes and so does 5@d|pg||
 nt|bucheister: I must admit that I would not pass 4H with the E hand and think that 5H is correct|pg||
@@ -186,8 +186,8 @@ qx|c18|st||md|4SH942DKJ5CKJ96543,SKQ98642HA85D4CT2,SJ3HKJT76DQT873C8,SAT75HQ3DA9
 nt|djneill:  should South overcall over 1NT John|pg||
 mb|1D|nt|rodal f: an|pg||
 mb|3C|nt|djneill:  ok there we go|pg||
-mb|3S|mb|p|nt|djneill:  East-West must be playing weak NT, so the strong NT opens a suit|pg||
-mb|4C|mb|d|nt|djneill:  3@c vulnerable, in order not to be deemed a cry for help, must have a nice hand|pg||
+mb|3S|mb|p|nt|djneill:	East-West must be playing weak NT, so the strong NT opens a suit|pg||
+mb|4C|mb|d|nt|djneill:	3@c vulnerable, in order not to be deemed a cry for help, must have a nice hand|pg||
 mb|4H|mb|p|mb|4S|nt|djneill:  West bites the bullet and bids a game forcing 3@s - there is a small inference that East will have a good hand, playing weak NT|pg||
 mb|p|mb|p|mb|p|pc|c8|pc|cA|pc|c3|pc|c2|pg||
 nt|bucheister: note that the double by S gives W and extra bid; actually the 4H bid should also show second round control of clubs|pg||
@@ -214,8 +214,8 @@ pc|dA|pc|dJ|pc|d4|pc|d9|pg||
 mc|9|pg||
 qx|c19|st||md|1SKT32H93DAQ86C752,S96HT7DKJT32CAQ93,SQ8HAKQJ2D754CKJ6,SAJ754H8654D9CT84|sv|e|mb|p|nt|djneill:  West considered the hand worth cooperating despite the 9 HCP, thanks to the fit upgrading the hand immensely, and the singleton club - a singleton in the opponents' suit is usually worth more than a random singleton|pg||
 nt|bucheister: How many would open the N hand 1 strong NT?|pg||
-mb|p|mb|1H|nt|djneill:  n-1|pg||
-mb|p|mb|1S|mb|d|mb|1N|mb|p|nt|djneill:  it is possible that North wanted to open 1NT, but was constrained by the system, if they play the same as East-West, we now can see that is true|pg||
+mb|p|mb|1H|nt|djneill:	n-1|pg||
+mb|p|mb|1S|mb|d|mb|1N|mb|p|nt|djneill:	it is possible that North wanted to open 1NT, but was constrained by the system, if they play the same as East-West, we now can see that is true|pg||
 mb|3N|nt|djneill:  North would never rebid 1NT with so strong a hand in a strong NT system, since it would show 12-14 HCP|pg||
 mb|p|mb|p|nt|rodal f: How lucky was S?|pg||
 mb|p|pc|cT|pc|c2|pc|cA|pc|c6|pg||
@@ -229,7 +229,7 @@ mc|10|nt|djneill:  great finesse by North there, it might have been necessary ha
 pg||
 qx|o20|st||md|2SK862HQ64DJ8CQT87,SA73HAK73DKT95C43,SQT94HJTDQ432CKJ9,SJ5H9852DA76CA652|sv|b|nt|frankaus: looks like the 1NT rebid was 15-17 acol style |pg||
 mb|1N|mb|p|mb|p|mb|p|nt|sybarra: wk nt?  |pg||
-pc|s9|nt|sybarra: or less than  15-17 anyway|pg||
+pc|s9|nt|sybarra: or less than	15-17 anyway|pg||
 nt|frankaus: in adalaide  most play weak NT 12-14|pg||
 pc|sJ|pc|sK|pc|s3|pg||
 nt|sybarra: ?|pg||
@@ -281,7 +281,7 @@ pc|h9|pc|h3|mc|9|pg||
 qx|c21|st||md|3SA85H986DKT76CK94,SKQJHKQ753D85CQ87,S63HAJDQ42CAJT532,ST9742HT42DAJ93C6|sv|n|nt|djneill:  but East never switched to @d so North had time to set up the 2nd @s trick|pg||
 nt|djneill:  thanks for correcting brd 15 Alex|pg||
 mb|1C|mb|p|mb|1D|mb|1H|mb|2C|nt|djneill:  North can't rebid 1NT now, as that would be 15-17|pg||
-mb|2H|mb|3C|mb|p|mb|p|mb|p|nt|djneill:  the 2@h was great since now South can't show the good 3@c raise here (may be same hand without the @cK)|pg||
+mb|2H|mb|3C|mb|p|mb|p|mb|p|nt|djneill:	the 2@h was great since now South can't show the good 3@c raise here (may be same hand without the @cK)|pg||
 pc|hT|nt|rodal f: Not easy to find but 3nt. Normal still is 4@S|pg||
 nt|djneill:  ouch, setting up a @h for North, but the @dJ is always onside anyways|pg||
 pc|h6|pc|hQ|pc|hA|pg||
@@ -363,7 +363,7 @@ pc|d2|pc|d6|mc|11|pg||
 qx|c24|st||md|2SAJTHAQJT8DJ54CK3,SQ9765H53DAT7CQJ6,SK3HK7642DK982CA7,S842H9DQ63CT98542|sv|o|mb|p|mb|1H|mb|p|nt|djneill:  well, South must have switched, since there are 9 tricks otherwise|pg||
 nt|bucheister: sorry had to leave for a few minutes|pg||
 nt|djneill:  wow board 17 came in John, check it out - slam vs game the other way|pg||
-mb|2C|mb|p|nt|vugraphzuu: this is  last  board  of the match|pg||
+mb|2C|mb|p|nt|vugraphzuu: this is  last  board	of the match|pg||
 nt|vugraphzuu: thank you all for watching|pg||
 nt|vugraphzuu: players look very tired|pg||
 mb|2D|nt|vugraphzuu: let's congratulate them all..|pg||
