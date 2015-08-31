@@ -23,7 +23,7 @@ nt|sverjohn:  Hello!|pg||
 pc|s4|pc|s7|pc|s9|pc|sJ|pg||
 pc|cQ|pc|c5|pc|d8|pc|s6|pg||
 pc|c7|pc|hT|pc|s2|pc|sT|pg||
-pc|sK|pc|s3|pc|s8|nt|sverjohn:  Welcome to the third match of the Norwegian club championships|pg||
+pc|sK|pc|s3|pc|s8|nt|sverjohn:	Welcome to the third match of the Norwegian club championships|pg||
 pc|sA|pg||
 pc|hA|pc|h6|pc|h7|pc|h2|pg||
 pc|hK|pc|h5|pc|h8|pc|h3|pg||
@@ -60,7 +60,7 @@ mb|1N!|an|8-12|mb|p|mb|p|nt|sverjohn:  Both pairs here play natural systems, but
 mb|2D!|mb|p|mb|2S|mb|p|mb|p|mb|p|pc|c4|nt|sverjohn:  2@d was @d + @s|pg||
 pc|cJ|pc|cA|pc|c5|pg||
 pc|h2|pc|h9|pc|hK|pc|h7|pg||
-pc|cT|pc|cK|pc|c3|nt|sverjohn:  Should make 9 tricks now - low from dummy trick one would have yielded 10|pg||
+pc|cT|pc|cK|pc|c3|nt|sverjohn:	Should make 9 tricks now - low from dummy trick one would have yielded 10|pg||
 pc|c2|pg||
 pc|hJ|pc|hA|pc|hQ|pc|h5|pg||
 pc|c8|pc|c7|pc|cQ|pc|c6|pg||
@@ -95,7 +95,7 @@ qx|c3|st||md|1SAJ93H6D5432CKJ87,SQ52HQT3DK876CQT5,SKT4HAKJ74DA9CA96,S876H9852DQJ
 mb|3N|mb|p|mb|p|mb|p|pc|dQ|pc|d2|pc|d6|pc|d9|pg||
 pc|dJ|pc|d3|pc|d7|pc|dA|pg||
 pc|cA|pc|c2|pc|c7|pc|c5|pg||
-pc|c9|pc|c3|pc|cJ|nt|sverjohn:  May have to guess the spade Q|pg||
+pc|c9|pc|c3|pc|cJ|nt|sverjohn:	May have to guess the spade Q|pg||
 pc|cQ|pg||
 pc|dK|pc|h4|pc|dT|pc|d4|pg||
 pc|d8|pc|h7|pc|s8|pc|d5|pg||
@@ -119,7 +119,7 @@ pc|dJ|pc|dK|pc|d4|pc|d6|pg||
 pc|s4|pc|c7|pc|sJ|pc|sA|pg||
 mc|9|nt|vugraphzdu: a imp:)|pg||
 pg||
-qx|c4|st||md|2S3HA643D9754CK974,SKJ985HKQ982D62C2,SA76HT5DAJT3CAJ85,SQT42HJ7DKQ8CQT63|sv|b|mb|p|mb|1C|mb|p|mb|1H|mb|1S|mb|p|mb|2S|nt|sverjohn:  These days many would open the west hand, but now they should stay out of game|pg||
+qx|c4|st||md|2S3HA643D9754CK974,SKJ985HKQ982D62C2,SA76HT5DAJT3CAJ85,SQT42HJ7DKQ8CQT63|sv|b|mb|p|mb|1C|mb|p|mb|1H|mb|1S|mb|p|mb|2S|nt|sverjohn:	These days many would open the west hand, but now they should stay out of game|pg||
 mb|3C|mb|p|mb|p|mb|p|pc|s4|pc|s3|pc|sJ|pc|sA|pg||
 pc|s6|pc|sT|pc|c4|pc|s9|pg||
 pc|d4|pc|d6|pc|dJ|pc|dK|pg||
@@ -234,7 +234,7 @@ pc|cK|pc|cA|pc|cT|pc|c9|pg||
 pc|dA|pc|d5|pc|d4|pc|c5|pg||
 nt|jbgood:  but impossible to get there|pg||
 mc|7|pg||
-qx|c8|st||md|2SA32HKQ9DAKQ93CAJ,SKJ76HAT6DJT52CT6,S4HJ83D8764C97432,SQT985H7542DCKQ85|sv|o|mb|1N!|an|8-12|mb|p|mb|2S|an|2 play|mb|d!|mb|p|nt|sverjohn:  The mini-nt strikes again. Are they able to stop in 3@d?|pg||
+qx|c8|st||md|2SA32HKQ9DAKQ93CAJ,SKJ76HAT6DJT52CT6,S4HJ83D8764C97432,SQT985H7542DCKQ85|sv|o|mb|1N!|an|8-12|mb|p|mb|2S|an|2 play|mb|d!|mb|p|nt|sverjohn:	The mini-nt strikes again. Are they able to stop in 3@d?|pg||
 mb|3C|mb|p|mb|3N|mb|p|nt|sverjohn:  No leb?|pg||
 mb|p|mb|p|pc|s7|pc|s4|pc|sQ|pc|s2|pg||
 pc|sT|pc|s3|pc|sJ|nt|vugraphzdx: no agreements they said|pg||
@@ -281,7 +281,7 @@ pc|cQ|pc|c7|pc|sT|pc|sK|pg||
 pc|s9|pc|dJ|pc|c9|pc|sJ|pg||
 pc|s4|pc|s8|pc|c8|pc|cJ|pg||
 pg||
-qx|o10|st||md|4S5HK432DAQJ7642C6,SJ9HQT87DCAQT9842,SKT432HA65D985CK7,SAQ876HJ9DKT3CJ53|sv|b|nt|jbgood:  welllllll:)|pg||
+qx|o10|st||md|4S5HK432DAQJ7642C6,SJ9HQT87DCAQT9842,SKT432HA65D985CK7,SAQ876HJ9DKT3CJ53|sv|b|nt|jbgood:	welllllll:)|pg||
 nt|naasarn: flat board...|pg||
 mb|1S|nt|jbgood:  count signals are important some times - then you dont have to count:)|pg||
 mb|2D|mb|d|mb|2N|mb|p|nt|jbgood:  standard count - the @h 9 was surely top of nothing, and the @c 6 ....|pg||
