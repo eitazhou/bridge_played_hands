@@ -2,7 +2,7 @@ vg|2009 Vanderbilt A Semi,Segment 1 of 4,I,1,16,Nickell,0,Diamond,0|
 rs|4HW+1,4HE+1,4HS-1,3HS+1,3NE-1,3NW=,4SE=,5DWxx=,1NE+2,1SN=,4DS=,3NS+1,3NN+2,3NN+1,3CE=,3NW-3,3DN+1,3NN+1,3NE=,1HE+2,2SN+1,3NE=,2SE-1,3SE-2,3NN-2,4HS-1,3NE+2,3NE+2,1NW-1,1NW-1,3NS+3,3NS+2|
 pn|Nickell,Greco,Freeman,Hampson,Gitelman,Zia,Moss,Hamman|pg||
 qx|o1|st||md|3ST63HT3DQJ3CKJ872,S8HK872DK864CAT64,SQJ7542HJ95D752CQ,SAK9HAQ64DAT9C953|sv|o|nt|Walddk2: Moss-Gitelman  NS|pg||
-nt|Walddk2: Hamman-Zia  EW|pg||
+nt|Walddk2: Hamman-Zia	EW|pg||
 nt|Vugraphu2: showtime|pg||
 mb|p|mb|1C!|an|precision|mb|p|mb|1H!|an|8-11|nt|Walddk2: So here we have that gadget right away|pg||
 nt|Walddk2: Funny|pg||
@@ -30,11 +30,11 @@ qx|c1|st||md|3ST63HT3DQJ3CKJ872,S8HK872DK864CAT64,SQJ7542HJ95D752CQ,SAK9HAQ64DAT
 nt|stc: Hi everybody|pg||
 nt|stc: 4@s is a very good defense, 5@H is probably -1|pg||
 nt|stc: 3NT also down because of @d 4-1|pg||
-nt|0    green: hello Constantin, wc|pg||
+nt|0	green: hello Constantin, wc|pg||
 nt|stc: Is this the last segment of the finals ?|pg||
 pc|h3|pc|h2|nt|0    green: @s lead would be a good start for defenders|pg||
 pc|hJ|nt|0    green: yes for BBB , i guess|pg||
-nt|0    green: bbo|pg||
+nt|0	green: bbo|pg||
 pc|hA|pg||
 pc|h4|pc|hT|pc|hK|pc|h5|pg||
 pc|h7|pc|h9|pc|hQ|pc|s6|pg||
@@ -86,13 +86,13 @@ mb|1D|mb|p|mb|1N|mb|d|mb|p|mb|3H|mb|p|mb|p|mb|p|pc|h4|pc|h3|pc|hJ|pc|hA|pg||
 pc|cQ|pc|cK|pc|cA|pc|c8|pg||
 pc|c4|nt|stc: everybodies agree with N's action ? I don't....|pg||
 pc|c2|pc|hT|nt|tweety1: hello every1|pg||
-nt|0    green: hi veysel|pg||
+nt|0	green: hi veysel|pg||
 nt|stc: hello|pg||
 pc|c3|pg||
 pc|s8|pc|s2|pc|s3|pc|sK|pg||
 pc|s5|pc|s7|pc|s9|pc|sJ|pg||
 pc|sA|pc|s6|pc|sT|pc|sQ|pg||
-pc|c5|pc|d3|pc|h2|nt|0    green: i wouldnt bid 3@D either , agree|pg||
+pc|c5|pc|d3|pc|h2|nt|0	  green: i wouldnt bid 3@D either , agree|pg||
 nt|vbman: u800|pg||
 pc|c6|pg||
 pc|d8|pc|dQ|nt|stc: probably a push|pg||
@@ -247,7 +247,7 @@ nt|Walddk2: Moss (North) in 1@S in the closed room|pg||
 nt|royhughes: find a spade switch, and duck it to the ace, i mean|pg||
 pc|d6|pc|d5|pc|dT|pc|d2|pg||
 pc|dQ|pc|d3|pc|d4|pc|s4|pg||
-pc|d7|nt|Walddk2: Katz  1-0  up against Cayne after 4 boards|pg||
+pc|d7|nt|Walddk2: Katz	1-0  up against Cayne after 4 boards|pg||
 pc|d9|pc|h6|pc|s5|pg||
 pc|h4|nt|royhughes: Hampson chose to give the defence more chances to switch to spades, and winds up with 10 tricks|pg||
 nt|royhughes: all the matchpoints, for sure|pg||
@@ -267,10 +267,10 @@ pc|d5|pc|dQ|pc|dK|pc|d4|pg||
 pc|dA|pc|d6|pc|h3|pc|d8|pg||
 pc|d2|pc|s8|pc|s9|nt|stc: but may result in a - swing|pg||
 pc|d7|pg||
-pc|c2|pc|cT|pc|c5|nt|0    green: decision making on @s play from dummy a msut for declarer|pg||
+pc|c2|pc|cT|pc|c5|nt|0	  green: decision making on @s play from dummy a msut for declarer|pg||
 pc|cA|pg||
 pc|s3|pc|s4|pc|s6|pc|sA|pg||
-nt|0    green: not easy to do both @s and @h finess, msut make a decision on @h finess and play @sK doubleton|pg||
+nt|0	green: not easy to do both @s and @h finess, msut make a decision on @h finess and play @sK doubleton|pg||
 pc|d9|mc|7|pg||
 qx|o6|st||md|4S54HA54DAQJ972CQ9,SQJTHJT72D4CAKT83,SAK7H98DKT863C764,S98632HKQ63D5CJ52|sv|e|mb|p|mb|1D|mb|d|nt|jallerton: he had a chance of 10, though!|pg||
 nt|royhughes: on to the next|pg||
@@ -287,7 +287,7 @@ nt|jallerton: North would be playing it|pg||
 mc|10|nt|xenya: i mean 3N by S|pg||
 pg||
 qx|c6|st||md|4S54HA54DAQJ972CQ9,SQJTHJT72D4CAKT83,SAK7H98DKT863C764,S98632HKQ63D5CJ52|sv|e|mb|p|nt|stc: and a freaky one :)|pg||
-nt|0    green: what a nice @h s on S s hand|pg||
+nt|0	green: what a nice @h s on S s hand|pg||
 mb|1N|nt|vbman: nafiz and salvo must be sensing to be very close|pg||
 mb|p|mb|3N|mb|p|mb|p|nt|tweety1: seems hard to stop before slam|pg||
 mb|p|nt|tweety1: but gets down|pg||
@@ -296,7 +296,7 @@ pc|c8|pc|c4|pc|cJ|nt|tweety1: no|pg||
 nt|stc: sry, didn't notice the bad @c breaks|pg||
 pc|cQ|pg||
 nt|tweety1: always down|pg||
-nt|0    green: 6@h not easy apperently, @c doubleton on W|pg||
+nt|0	green: 6@h not easy apperently, @c doubleton on W|pg||
 mc|10|pg||
 qx|o7|st||md|1S543HTD632CAQT532,ST96HQ632D987CJ76,SAK872HA95DAQ5CK9,SQJHKJ874DKJT4C84|sv|b|mb|p|mb|p|mb|2N|mb|p|nt|jallerton: It seems that Zia did not find the top club lead|pg||
 mb|3S!|an|relay|nt|royhughes: he led low|pg||
@@ -376,7 +376,7 @@ pc|c2|pc|c9|nt|jallerton: though NS can may 3 of a major|pg||
 pc|cK|pc|cT|pg||
 mc|9|nt|jallerton: should S bid differently?|pg||
 pg||
-qx|c8|st||md|2SQ9763H92D864CJT8,SJ85HKQ8DQT52CA52,SAK2HAJT654DA9C94,ST4H73DKJ73CKQ763|sv|o|mb|p|mb|1H|mb|p|mb|p|mb|1N|mb|2H|mb|2N|mb|p|nt|vbman: istatistics show that  u loose more by missing slams then grand slams|pg||
+qx|c8|st||md|2SQ9763H92D864CJT8,SJ85HKQ8DQT52CA52,SAK2HAJT654DA9C94,ST4H73DKJ73CKQ763|sv|o|mb|p|mb|1H|mb|p|mb|p|mb|1N|mb|2H|mb|2N|mb|p|nt|vbman: istatistics show that	u loose more by missing slams then grand slams|pg||
 mb|3N|mb|p|mb|p|mb|p|nt|0    green: 4@h, 2ace losers, no comment on that more, if no finess of @hQ|pg||
 pc|hA|pc|h3|pc|h9|pc|h8|pg||
 pc|hJ|pc|h7|pc|h2|pc|hK|pg||
@@ -411,13 +411,13 @@ qx|c9|st||md|3SJ5HKT4DAK543C542,S64HJ965DT6CAJ763,SAT872HA83DQJ2CKT,SKQ93HQ72D98
 mb|1N|mb|p|mb|3N|nt|stc: EW may bid to 4@h and NS take the insurance in 5@c/@D|pg||
 mb|p|mb|p|mb|p|pc|sK|pc|s5|pc|s4|pc|s7|pg||
 pc|sQ|pc|sJ|nt|relrikas: slm|pg||
-nt|0    green: hi|pg||
+nt|0	green: hi|pg||
 nt|relrikas: hello all|pg||
 nt|vbman: 19 trumps and 19 tricks|pg||
 pc|s6|pc|sA|pg||
 pc|sT|pc|s3|pc|c2|pc|c3|pg||
 pc|s2|pc|s9|pc|d3|pc|h5|pg||
-nt|0    green: N needs to make a right guess of playing @cQ, |pg||
+nt|0	green: N needs to make a right guess of playing @cQ, |pg||
 mc|10|pg||
 qx|o10|st||md|4S52HKJ65DAQ7CJT76,SAK7HQT9DT6532CK5,SQT98H87DKJ9C9842,SJ643HA432D84CAQ3|sv|b|nt|jallerton: Here S could show a strong raise to 3@d|pg||
 mb|1D|an|2+|mb|p!|nt|royhughes: That would be nice here, but I dislike losing a natural 2@h|pg||
@@ -483,7 +483,7 @@ pc|c5|pc|c2|pc|cA|pc|c6|pg||
 pc|cQ|pc|c7|pc|d2|nt|stc: Yes, but EW may 4@H/@S but can't bid it :(|pg||
 pc|c8|pg||
 pc|s4|pc|s5|pc|sK|pc|s9|pg||
-nt|0    green: very good defending, wd W-S|pg||
+nt|0	green: very good defending, wd W-S|pg||
 pc|s7|nt|0    green: sry, W-E|pg||
 pc|sQ|pc|s6|pc|d7|pg||
 pc|d9|pc|d4|pc|dQ|pc|d3|pg||
@@ -525,7 +525,7 @@ nt|tweety1: hi|pg||
 pc|h5|pg||
 nt|tweety1: Samih wlc|pg||
 pc|cT|pc|dT|pc|d9|pc|h3|pg||
-pc|c5|pc|h7|pc|s5|nt|0    green: excellent defending, wd N-S, after @dace and @dk, switching the point of attack to @s and @C return , WD|pg||
+pc|c5|pc|h7|pc|s5|nt|0	  green: excellent defending, wd N-S, after @dace and @dk, switching the point of attack to @s and @C return , WD|pg||
 pc|s6|pg||
 pc|d2|pc|d6|pc|dK|pc|dA|pg||
 pc|d5|pc|d4|pc|s3|pc|d8|pg||
@@ -587,7 +587,7 @@ pc|dA|pc|d5|pc|d9|pc|d8|pg||
 pc|dQ|mc|7|nt|Walddk2: "Did you not suggest NT, partner?" |pg||
 pg||
 qx|c13|st||md|3SJHKQ8765D754CAKJ,SQT8754H3D92CQ753,SAK92HJT92DJ86CT6,S63HA4DAKQT3C9842|sv|b|nt|relrikas: problem is 3 kc shouldnt be min hand|pg||
-nt|0    green: S has got 20 points right after 1@h openning|pg||
+nt|0	green: S has got 20 points right after 1@h openning|pg||
 mb|p|mb|1D|mb|1H|mb|1S|mb|3H|mb|p|mb|4C|mb|p|mb|4D|mb|d|mb|4H|mb|p|nt|tweety1: 2 @d|pg||
 mb|p|mb|p|pc|d9|nt|stc: N's hand is weak in points but rich in controls|pg||
 nt|tweety1: this wont be good for EW i m afraid|pg||
@@ -600,7 +600,7 @@ mb|1C!|an|strong|nt|xenya: hard to say what went wrong there|pg||
 mb|p|mb|1H!|an|8-11|nt|Walddk2: Now we will see that 1@H response again, as happened on board 1. 8-11, any shape|pg||
 mb|p|nt|xenya: i don't believe they knew about their 6-4 fit|pg||
 mb|1N|nt|jallerton: undo|pg||
-mb|p|mb|2C|mb|p|nt|royhughes: West may want to explore a bit, with his heart shortage.  East has them well under control|pg||
+mb|p|mb|2C|mb|p|nt|royhughes: West may want to explore a bit, with his heart shortage.	East has them well under control|pg||
 mb|2D|mb|p|mb|2H!|an|short !h|mb|p|mb|3N|mb|p|mb|p|mb|p|nt|royhughes: Well done -- 2@h showed shortness|pg||
 nt|jallerton: good hand for the system|pg||
 pc|h7|pc|h3|pc|hT|pc|hK|pg||
@@ -613,13 +613,13 @@ nt|Walddk2: They did not here either|pg||
 pg||
 qx|c14|st||md|4ST43HJ987D652CAK3,SKQ96H3DQJ7CQT865,SAJ52HT6542D93C42,S87HAKQDAKT84CJ97|sv|o|nt|vugraphzkf: last board now, thanks all|pg||
 nt|vbman: irfan better made nafiz ruff|pg||
-nt|0    green: BIR MESAJ GECMEK ISTIYORUM , LUTFEN !!!|pg||
+nt|0	green: BIR MESAJ GECMEK ISTIYORUM , LUTFEN !!!|pg||
 nt|stc: bye all, nice hands|pg||
 mb|1N|mb|p|mb|3H!|nt|tweety1: greatt bridge tho|pg||
-mb|p|mb|3N|mb|p|nt|0    green: BU BENIM ILK DEFA GONULLU CALISMAM BURADA, BAZI ELLERDE ELBETTE ACELEDEN YANLIS YORUM, YANLIS ANALIZ VEDE YANLIS BILGI AKTARMSI OLABILIRM, SIMDIDEN   HERKESTEN ÒZUR|pg||
+mb|p|mb|3N|mb|p|nt|0	green: BU BENIM ILK DEFA GONULLU CALISMAM BURADA, BAZI ELLERDE ELBETTE ACELEDEN YANLIS YORUM, YANLIS ANALIZ VEDE YANLIS BILGI AKTARMSI OLABILIRM, SIMDIDEN   HERKESTEN ÒZUR|pg||
 nt|vbman: no selim u were outstanding|pg||
 nt|tweety1: exactly|pg||
-nt|0    green:  THX ALL|pg||
+nt|0	green:	THX ALL|pg||
 nt|tweety1: very fine and skilfull comments u did..|pg||
 nt|vbman: when does vanderbilt start?|pg||
 nt|stc: almost incredible, but 4@s are -1 on a @c lead, hard to find|pg||
@@ -635,7 +635,7 @@ pc|d2|nt|stc: let's say last flowers :)|pg||
 pc|dQ|pc|d9|pc|d4|pg||
 pc|c6|pc|s2|pc|c9|pc|cA|pg||
 nt|vugraphzkf: closing, thanks everyone again|pg||
-nt|tweety1: bye all     was fun..|pg||
+nt|tweety1: bye all	was fun..|pg||
 pc|s3|pc|sK|pc|s5|mc|11|pg||
 qx|o15|st||md|1SA843HJ962DA3CT95,ST62HAKQ53DQ54CK6,SKJ7H8DKJT96CQJ74,SQ95HT74D872CA832|sv|n|nt|jallerton: curious|pg||
 mb|p|mb|1N!|an|14-16|mb|p|mb|p|mb|p|nt|xenya: well the declarer knew that E had AKQ in @Hs, what he didn't know was that he also had AKxxx in @Ds|pg||
@@ -657,10 +657,10 @@ nt|royhughes: Funny -- NS get a heart but lose the king of spades|pg||
 mc|6|pg||
 qx|c15|st||md|1SA843HJ962DA3CT95,ST62HAKQ53DQ54CK6,SKJ7H8DKJT96CQJ74,SQ95HT74D872CA832|sv|n|nt|vugraphzkf: hello everyone|pg||
 nt|vugraphzkf: this is the last segment of Turkish Winter Teams Finals|pg||
-nt|0    green: hello everybody from Ottawa, Canada|pg||
+nt|0	green: hello everybody from Ottawa, Canada|pg||
 nt|vugraphzkf: We have 16 boards left|pg||
-nt|0    green: good luck to both teams|pg||
-mb|p|mb|1N|mb|p|mb|p|mb|p|nt|0    green: my favorite players here N-S  in turkey, i msut be neutral for sure|pg||
+nt|0	green: good luck to both teams|pg||
+mb|p|mb|1N|mb|p|mb|p|mb|p|nt|0	  green: my favorite players here N-S  in turkey, i msut be neutral for sure|pg||
 pc|dT|pc|d2|pc|dA|pc|d4|pg||
 pc|d3|pc|dQ|pc|dK|pc|d7|pg||
 pc|d9|pc|d8|pc|s3|pc|d5|pg||
@@ -702,10 +702,10 @@ mb|p|mb|1C|mb|p|mb|1H|mb|p|mb|2C|mb|p|mb|2D|mb|p|mb|3D|mb|p|nt|0    green: 6@d s
 mb|3N|mb|p|mb|p|mb|p|nt|0    green: discarding @h loser on @sk|pg||
 pc|d5|pc|dJ|pc|dQ|pc|dK|pg||
 pc|cJ|pc|c4|pc|c2|pc|c5|pg||
-nt|0    green: WD N-S|pg||
+nt|0	green: WD N-S|pg||
 pc|c9|nt|0    green: excellent|pg||
 pc|c6|pc|cK|pc|c8|pg||
 pc|cQ|pc|h3|pc|d3|pc|cA|pg||
 pc|d2|pc|d4|pc|d9|pc|d8|pg||
-nt|0    green: now @c9|pg||
+nt|0	green: now @c9|pg||
 pc|h6|mc|11|pg||
