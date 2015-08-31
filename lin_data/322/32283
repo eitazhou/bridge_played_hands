@@ -62,10 +62,10 @@ mb|2C!|nt|ahollan1: 2@C = minimum|pg||
 mb|p|mb|2D!|mb|p|nt|ahollan1: 2@D = RELAY  and creates game force|pg||
 mb|2S!|mb|p|nt|ahollan1: 2@S = 4@D 5+@C|pg||
 mb|2N!|mb|p|mb|3H!|mb|p|nt|ahollan1: 3@H = exactly 3145|pg||
-mb|3S!|mb|p|mb|4D!|mb|p|nt|ahollan1: 3@S asks controls  aka 21 points|pg||
+mb|3S!|mb|p|mb|4D!|mb|p|nt|ahollan1: 3@S asks controls	aka 21 points|pg||
 nt|ahollan1: i think|pg||
 mb|6C|nt|ahollan1: but 4@D doesn't match what i expected|pg||
-mb|p|mb|p|mb|p|pc|sQ|nt|ahollan1: oh  step 1 = 2 controls  so 4@D=4  AA or AKK    [initially i  thought step 1 = 1]|pg||
+mb|p|mb|p|mb|p|pc|sQ|nt|ahollan1: oh  step 1 = 2 controls  so 4@D=4  AA or AKK	  [initially i	thought step 1 = 1]|pg||
 pc|sA|pc|s2|pc|s4|pg||
 pc|h2|pc|h7|pc|hA|pc|h3|pg||
 pc|d2|pc|d6|pc|c4|pc|d7|pg||
@@ -100,7 +100,7 @@ pc|s8|pc|s2|pc|sA|pc|sT|pg||
 pc|sK|pc|s3|pc|h2|pc|s9|pg||
 pc|sQ|pc|s5|pc|h4|pc|sJ|pg||
 mc|11|pg||
-qx|c6|st||md|4ST53HKT965DJ92C43,S8HAQJ742DA4CQ985,SJ92H83DQ7653CAKT,SAKQ764HDKT8CJ762|sv|e|mb|1H!|mb|p|nt|ahollan1: 1@H = 9-13  unbal, 4+@S, not 4+@H, maybe longer @C/@D|pg||
+qx|c6|st||md|4ST53HKT965DJ92C43,S8HAQJ742DA4CQ985,SJ92H83DQ7653CAKT,SAKQ764HDKT8CJ762|sv|e|mb|1H!|mb|p|nt|ahollan1: 1@H = 9-13	unbal, 4+@S, not 4+@H, maybe longer @C/@D|pg||
 mb|2D!|mb|p|nt|ahollan1: 2@D = 6+@H  [not sure about minimum hcp for this]|pg||
 mb|3S|nt|ahollan1: 3@S = MAX, good 6+@S  0-2@H|pg||
 mb|p|mb|4S|mb|p|mb|p|mb|p|nt|ahollan1: good bidding identifies NS trump being 3-3|pg||
@@ -160,7 +160,7 @@ pc|cK|pc|cQ|pc|c6|pc|c8|pg||
 pc|c2|pc|h2|pc|cA|pc|c4|pg||
 pc|c9|pc|h7|pc|c5|pc|s7|pg||
 pc|c3|pc|h5|pc|cJ|pc|h6|pg||
-pc|c7|pc|s4|pc|d7|nt|ahollan1: thru 5   England Hinden 13   China Women 2  0|pg||
+pc|c7|pc|s4|pc|d7|nt|ahollan1: thru 5	England Hinden 13   China Women 2  0|pg||
 pc|d4|pg||
 pc|cT|nt|ahollan1: playing same boards|pg||
 pc|s5|pc|d9|pc|d2|pg||
@@ -193,7 +193,7 @@ pc|d4|pc|d7|pc|s3|nt|ahollan1: declarer won't mind losing to this singleton king
 pc|dJ|pg||
 pc|c5|pc|d5|pc|cJ|pc|c6|pg||
 nt|ahollan1: was just a question of an overtrick|pg||
-mc|9|nt|ahollan1: QuarterFinal and SemiFinal matches are 2x14    Finals 4x14|pg||
+mc|9|nt|ahollan1: QuarterFinal and SemiFinal matches are 2x14	 Finals 4x14|pg||
 pg||
 qx|o10|st||md|4SAJ4HKT64DQ87CAK3,SKQ96HADJT53CQJ95,ST832HQ87D62CT862,S75HJ9532DAK94C74|sv|b|mb|p|mb|1C!|mb|p|mb|1D!|mb|p|mb|1N|an|17-19|mb|p|mb|p|mb|p|pc|cQ|pc|c2|pc|c7|pc|cK|pg||
 pc|cA|pc|c9|pc|c6|pc|c4|pg||
@@ -205,7 +205,7 @@ pc|s7|pc|sA|pc|s9|pc|s2|pg||
 pc|h6|pc|s6|pc|hQ|pc|h5|pg||
 pc|cT|pc|s5|pc|s4|pc|c5|pg||
 mc|8|pg||
-qx|c10|st||md|4SAJ4HKT64DQ87CAK3,SKQ96HADJT53CQJ95,ST832HQ87D62CT862,S75HJ9532DAK94C74|sv|b|nt|ahollan1: http://www.jcbl.or.jp/home/English/nec/bulletin/tabid/1141/Default.aspx   gets you to daily bulletins and has links to scores  |pg||
+qx|c10|st||md|4SAJ4HKT64DQ87CAK3,SKQ96HADJT53CQJ95,ST832HQ87D62CT862,S75HJ9532DAK94C74|sv|b|nt|ahollan1: http://www.jcbl.or.jp/home/English/nec/bulletin/tabid/1141/Default.aspx   gets you to daily bulletins and has links to scores	|pg||
 mb|p|mb|1N|mb|p|nt|ahollan1: i wasn't sure if Reid would open conventional 2@C or 2@H -- so of course he chooses PASS|pg||
 mb|p|mb|p|pc|cQ|pc|c2|pc|c4|pc|cK|pg||
 pc|h4|pc|hA|pc|h7|nt|ahollan1: 10 boards   6 singleton Aces|pg||
@@ -257,7 +257,7 @@ qx|c12|st||md|2SK94HAKTDJT52C764,ST653H72DKQ98CAT8,SJ8HQ986D7643CQJ9,SAQ72HJ543D
 mb|p|mb|p|mb|1D!|mb|p|mb|1S|mb|p|nt|ahollan1: [3rd/4th]  1@D=9-15 hcp  unbal, 4+@H, maybe longer @C/@D/@S|pg||
 mb|2N|nt|ahollan1: 2N = MAX, 4+@S, some splinter|pg||
 nt|ahollan1: and yes ... i did notice singleton ace  11|pg||
-mb|p|mb|3N|mb|p|mb|4S|mb|p|mb|p|mb|p|pc|cJ|nt|ahollan1: running scores   http://jcbl.willnet.ad.jp/Global/qjzurm6wa27j7kfhfuyn/RoundKO/0/0|pg||
+mb|p|mb|3N|mb|p|mb|4S|mb|p|mb|p|mb|p|pc|cJ|nt|ahollan1: running scores	 http://jcbl.willnet.ad.jp/Global/qjzurm6wa27j7kfhfuyn/RoundKO/0/0|pg||
 nt|ahollan1: Russia has large lead over Bulgaria|pg||
 nt|ahollan1: i thought that would be the closest QF match|pg||
 pc|cK|pc|c4|pc|c8|pg||
@@ -339,10 +339,10 @@ pc|sA|pc|s7|pc|c4|pc|s2|pg||
 pc|s8|pc|sK|pc|c6|pc|sJ|pg||
 pc|hT|pc|c7|pc|cQ|pc|s9|pg||
 pg||
-qx|c16|st||md|2SQ65HJDA976CA7642,SJ2HKQ7DQT32CQJT8,SAT9843HA832DKC53,SK7HT9654DJ854CK9|sv|e|mb|p|nt|ahollan1: final board of 1st half     2nd half begins in about 30 minutes|pg||
+qx|c16|st||md|2SQ65HJDA976CA7642,SJ2HKQ7DQT32CQJT8,SAT9843HA832DKC53,SK7HT9654DJ854CK9|sv|e|mb|p|nt|ahollan1: final board of 1st half	  2nd half begins in about 30 minutes|pg||
 mb|1S|mb|p|mb|3D!|nt|ahollan1: i'm not sure which matches we'll see on vugraph|pg||
 nt|ahollan1: http://jcbl.willnet.ad.jp/Global/qjzurm6wa27j7kfhfuyn/RoundKO/0/0|pg||
-mb|p|mb|4S|mb|p|mb|p|mb|p|nt|ahollan1: shows 2 close matches     England Hinden over China Women 2  by 13     Beijing Trinergy over England/Denmark by 1|pg||
+mb|p|mb|4S|mb|p|mb|p|mb|p|nt|ahollan1: shows 2 close matches	 England Hinden over China Women 2  by 13     Beijing Trinergy over England/Denmark by 1|pg||
 nt|ahollan1: in the 4th match  Russia leads Bulgaria by 43|pg||
 pc|h4|pc|hJ|pc|hQ|pc|hA|pg||
 nt|ahollan1: this 3@D response seems to rule out pure Bergen Raises|pg||
