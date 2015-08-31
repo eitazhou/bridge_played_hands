@@ -69,9 +69,9 @@ mb|2S!|mb|p|mb|3H|mb|p|nt|Henryb:  rather Al? three card support only possible w
 nt|Henryb:  or does he do something else with 3=1=(5-4) and 15-16?|pg||
 mb|4C!|mb|p|mb|4D|mb|p|mb|4H|mb|p|mb|4S|mb|p|nt|Henryb:  Fitzgibbon looking at a possible slam opposite, say, @sx @hQxx @dAQxx @cAQxxx|pg||
 mb|4N|mb|p|mb|5S|mb|p|mb|6H|mb|p|mb|p|mb|p|nt|ahollan1: and there's room for round jacks in your example |pg||
-nt|ahollan1: unlike most big clubbers   NS  1@C=17+  so 1@D goes up to 16|pg||
+nt|ahollan1: unlike most big clubbers	NS  1@C=17+  so 1@D goes up to 16|pg||
 pc|c9|nt|Henryb:  The Irish, who started this last match down only 3.5VP now find themselves 15.5 adrift. So desperate measures are needed along with the hope that England will have a few accidents|pg||
-nt|ahollan1: bad news re: England assistance   1 board scored this set  England picks up 12|pg||
+nt|ahollan1: bad news re: England assistance   1 board scored this set	England picks up 12|pg||
 pc|c4|pc|cJ|pc|cK|pg||
 nt|Henryb:  Declarer can make this: @cK, draw trumps, @dAK and ruff a @d, @cA, two more pitches on the @d and a clut rowards the 10|pg||
 pc|d3|pc|d5|pc|dJ|pc|dQ|pg||
@@ -121,7 +121,7 @@ qx|c21|st||md|3S76HQ32DJT95CJ832,SQJ9542H5D6CKQT95,SATHJ764DAKQ83CA7,SK83HAKT98D
 nt|ahollan1: DBL = @H|pg||
 mb|p|mb|1S|nt|ahollan1: P=0-7 or penalty|pg||
 nt|Henryb:  pass = weak and club tolerance?|pg||
-mb|1N|mb|2S|nt|ahollan1: sorry  P=0-5   1@D would be 6-7    |pg||
+mb|1N|mb|2S|nt|ahollan1: sorry	P=0-5	1@D would be 6-7    |pg||
 nt|ahollan1: i was expecting 1@C-1@H  so did a presumptive copy/paste|pg||
 nt|Henryb:  Deep Finesse makes 4@s in its sleep. A human might not|pg||
 nt|ahollan1: Henry remembering original treatment where responder clarifies weak with/without @C|pg||
@@ -209,7 +209,7 @@ pc|sQ|pc|sK|pc|s4|pc|s2|pg||
 pc|sT|pc|sA|pc|h4|pc|s6|pg||
 mc|9|pg||
 qx|c24|st||md|2SKT98HQ7632DJC763,SAJ74HAK5D752CT94,S32HT84DKT983CAQ5,SQ65HJ9DAQ64CKJ82|sv|o|mb|1C!|mb|p|mb|1S!|nt|Henryb:  I think the answer is not double dummy but maybe in practice|pg||
-mb|p|mb|1N|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|dT|nt|ahollan1: 1@C=2+   1@S=not 4+@H/@S  [not sure if agreement more specific than that]|pg||
+mb|p|mb|1N|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|dT|nt|ahollan1: 1@C=2+	 1@S=not 4+@H/@S  [not sure if agreement more specific than that]|pg||
 pc|d4|pc|dJ|pc|d2|pg||
 nt|ahollan1: another auction that seems to call for major lead -- but dummy's euchre holding is perfect for declarer|pg||
 nt|Henryb:  No "luck of the Irish" at the moment. England has added to her lead.|pg||
@@ -267,7 +267,7 @@ mb|4H|mb|p|mb|p|mb|p|nt|Henryb:  4@h is sort of easy on this hand. really no com
 pc|s7|nt|ahollan1: usually [at least] a couple of months delay before publication   for those unaware that Miles died recently|pg||
 pc|sQ|pc|s8|pc|sJ|pg||
 pc|hT|pc|h7|pc|h3|pc|hQ|pg||
-nt|ahollan1: 4 swings this set   all double digit|pg||
+nt|ahollan1: 4 swings this set	 all double digit|pg||
 pc|d2|pc|dA|pc|d4|pc|d6|pg||
 pc|h6|pc|hA|pc|h2|pc|h4|pg||
 nt|ahollan1: net gain  2 imps to Wales|pg||
@@ -299,7 +299,7 @@ nt|ahollan1: my being obscure & obnoxious  [but not in that order]|pg||
 pc|s3|pc|s6|pc|sQ|pc|s9|pg||
 nt|Henryb:  now I know what noxious means, but what is scure?|pg||
 pc|s2|pc|c4|pc|sA|pc|s7|pg||
-nt|ahollan1: 26  Wales in 1@S    P-1@H-1@S|pg||
+nt|ahollan1: 26  Wales in 1@S	 P-1@H-1@S|pg||
 pc|s4|pc|sK|pc|s5|pc|c9|pg||
 pc|h2|pc|d6|pc|hK|pc|h4|pg||
 pc|hJ|pc|h7|pc|hQ|pc|s8|pg||
@@ -352,7 +352,7 @@ pc|cJ|pc|c4|pc|c5|pc|cA|pg||
 pc|dT|pc|h2|pc|d7|pc|dQ|pg||
 pc|cQ|pc|c9|pc|c7|pc|c8|pg||
 pc|c6|pc|s6|pc|h3|mc|9|pg||
-qx|c29|st||md|3SJ4HAJ4DJ8754C843,SQ732HKTDQ93CQ652,ST965HQ86DT62CAK9,SAK8H97532DAKCJT7|sv|b|mb|p|mb|1N|mb|p|nt|ahollan1:  28 other room  3@S-4N-5@D-6N     lead @C4|pg||
+qx|c29|st||md|3SJ4HAJ4DJ8754C843,SQ732HKTDQ93CQ652,ST965HQ86DT62CAK9,SAK8H97532DAKCJT7|sv|b|mb|p|mb|1N|mb|p|nt|ahollan1:  28 other room  3@S-4N-5@D-6N	   lead @C4|pg||
 mb|2C!|mb|p|mb|2H|nt|ahollan1: down when @S didn't break|pg||
 mb|p|mb|2N|mb|p|mb|p|nt|ahollan1: 2@C asked for 5-card Major   |pg||
 mb|p|pc|d5|pc|d3|pc|dT|pc|dK|pg||
@@ -400,7 +400,7 @@ qx|c31|st||md|1SKJT8HQ762DK4CJ52,S9732HK54DAJTCAK7,S6HAJ98DQ763CT943,SAQ54HT3D98
 pc|c3|pc|c6|nt|ahollan1: had to check O'Briain 2@C opener   10-16 hcp a) 6+@C  b) 5@C & 5-other|pg||
 pc|cJ|pc|cK|pg||
 pc|s2|pc|s6|pc|sQ|pc|sK|pg||
-pc|sJ|pc|s3|nt|ahollan1: 1 to score in England v CBAI   England set  68-3|pg||
+pc|sJ|pc|s3|nt|ahollan1: 1 to score in England v CBAI	England set  68-3|pg||
 pc|d7|pc|sA|pg||
 pc|s5|pc|sT|pc|s7|pc|d3|pg||
 pc|hQ|nt|ahollan1: 1 to score in 3rd match  Northern Ireland +20 over  Scotland   |pg||
@@ -422,7 +422,7 @@ pc|s5|pc|s9|pc|sA|pc|s2|pg||
 pc|h9|pc|hT|pc|c2|mc|9|pg||
 qx|c32|st||md|2ST75HA6DAJ43CA732,SJ9H42D985CKQJT64,SA6HQJ973DKQ76C95,SKQ8432HKT85DT2C8|sv|e|mb|p|mb|1H|mb|1S|nt|ahollan1: Ireland nice set to take lead in this match -- but not enough to win Camrose Trophy|pg||
 nt|ahollan1: 1@H=(9)10-16, 5+suit|pg||
-mb|d|mb|2C|mb|2D|mb|p|nt|ahollan1: will we see  3@C-P-3N|pg||
+mb|d|mb|2C|mb|2D|mb|p|nt|ahollan1: will we see	3@C-P-3N|pg||
 mb|2S|mb|p|mb|2N|mb|p|mb|3N|mb|p|mb|p|mb|p|nt|ahollan1: default treatment when opponents have bid 2 suits    cue = shows stop in bid suit|pg||
 pc|c8|nt|ahollan1: obviously NS different agreement  and both on same page|pg||
 nt|ahollan1: now the only problem -- 9 tricks not available|pg||
