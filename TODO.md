@@ -35,18 +35,19 @@ For a true analysis of all LIN files and to be able to properly detect all playe
 
 ### Consistent names
 
+As an example:
+
 Meckstroth appears as "Meckstroth", " Meckstroth" (note the leading space), "Meckstrot" (typo - twice), "Meckstroth J.", "Meckstroch J", "Meckwell" (entry 647), "Jeff Meckstroth", "Jeff Mecks". Meckstroth also shows up in 6 junior trials (10568, 10570, 10574-7).  The latter is Jeff Meckstroth's son.
 
-In order to clearly identify a player, we need to make sure that there is a unique name or ID for that person. I talked to Uday at BBO, there is no immediate solution to this problem.
+In order to clearly identify a player, we need to make sure that there is a unique name or ID for that person. I talked to Uday at BBO, there is no immediate solution to this problem, therefore we adopt this short term solution.
 
-Levin is another example. Is it "Jill Levin" or "Bobby Levin".
+Levin is another example. Is it "Jill Levin" or "Bobby Levin"?
 
-The only way to fix this problem is to come up with a naming convention for each player that is unique for that player.
+The only way to fix this problem is to come up with a naming convention for each player that is unique for that player. BBO are going to look into this. But it won't happen any time soon.
 
 See file [NAMES.txt](NAMES.txt) for how each case is fixed.
 
-The preferred naming convention is "First Last", e.g. "Jill Levin"
-
+The preferred naming convention is "First Last", e.g. "Jeff Meckstroth". When we get to further uniqueness, we may add the country or state, Ron Smith is waiting for this.
 
 Last updated:
 Mon Aug 31 14:55:21 EDT 2015
