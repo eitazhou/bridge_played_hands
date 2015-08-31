@@ -6,6 +6,8 @@ Some of the information is useful as an individual, some of it is useful for a p
 
 Knowing the strengths of each part of your game can help improve your game. It can also be used to detect cheating.
 
+Statistics can be done on an individual basis, or as a pair.
+
 ***
 
 ## Bidding

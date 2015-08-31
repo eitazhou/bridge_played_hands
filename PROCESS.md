@@ -1,5 +1,4 @@
-Process
-== 
+## Process
 
 The LIN file are stored individually.
 
@@ -25,8 +24,7 @@ The advantage to this approach is that it is modular. It is easy to verify the r
 
 The modular approach means that if corrections are made to a single LIN file, then this can be processed independently of all other files.
 
-Hand Records
-===
+### Hand Records
 
 Each hand record is run through a Double Dummy Analysis (DDA) engine.
 I use a customized version of 
@@ -35,13 +33,18 @@ This generates DDA results for each denomination (NT, S, H, D, C) for each direc
 
 Random checks are made on hands and the double dummy results compared against BBO's DDA engine (GiB).
 
-Players
-===
+### Players
 A list of players for each LIN file is generated listing the LIN file number and the title of the event.
 
-These are concatanted together to produce one bid PLAYERS.txt file.
+These are concatanted together to produce one big PLAYERS.txt file.
 
-Play of Hand
-===
-
+### Play of Hand
 For each LIN file these are converted to JSON then imported to Bridgescore+.
+
+### Data
+I use this Github repository for the files.
+
+Before I merge the repository into my 'master' files, I check to make sure that changes are reasonable.
+For example, cleaning up spelling mistakes is fine, but changes to the contents of the file will be caught.
+
+I keep a master copy of the raw LIN files and have scripts that can check for changes to the files in this repository.
