@@ -1,5 +1,4 @@
-Criticisms
-== 
+## Criticisms
 
 There are potential criticisms to this approach so it is important to address these issues.
 
@@ -15,7 +14,7 @@ This is a broad statement.
 Obviously if there are any known errors in the data, these need to be corrected.
 There are mechanisms in place to make sure that this can happen.
 
-#### Double Dummy Analysis
+### Double Dummy Analysis
 
 Double dummy analysis should not be applied to a single dummy game.
 
