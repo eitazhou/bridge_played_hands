@@ -1,11 +1,11 @@
 vg|NN-CUP-2007,1_4 FINAL_ Seg_ 1_2,I,1,5,Lithuania/Poland,0,Gudkov,0|
 rs|5CS-4,5CSx-4,6CS-2,6SWx-3,4HS-2,4HS-2,5SWx-2,3HE-2,6DN+1,5DN+1|
 pn|Knap,Gomerov,Vainikonis,Cheremisin,Isaev,Kowalski,Gudkov,Vainikonis|pg||
-qx|o1|st||md|3SKTH84DCAKT987654,SAJ642HJDAT3CQJ32,S9HK7653DKQJ9764C,SQ8753HAQT92D852C|sv|o|mb|1D|mb|p|mb|2C|mb|p|mb|2H|mb|p|mb|5C|mb|p|ÃcAEWÉäì|¡qÌzwÅ·ËB|pg||
+qx|o1|st||md|3SKTH84DCAKT987654,SAJ642HJDAT3CQJ32,S9HK7653DKQJ9764C,SQ8753HAQT92D852C|sv|o|mb|1D|mb|p|mb|2C|mb|p|mb|2H|mb|p|mb|5C|mb|p|ÃcAEWÉäì|¡qÌzwÅ·ËB|pg||
 mb|p|mb|p|pg||
 pc|dA|pc|d4|pc|d2|pc|c4|pg||
-pc|cA|bgªã¢ÌÅÈ©È©©ªÅÍìêÈ¢Åµå¤|pg||
-pc|c2|pc|d6|QuCNÈÌÅAP_EÅ·©B|pg||
+pc|cA|bgªã¢ÌÅÈ©È©©ªÅÍìêÈ¢Åµå¤|pg||
+pc|c2|pc|d6|QuCNÈÌÅAP_EÅ·©B|pg||
 pc|d5|pg||
 pc|cK|pc|c3|pc|h3|pc|d8|pg||
 pc|cT|pc|cJ|pc|h5|pc|h9|pg||
@@ -29,8 +29,8 @@ pc|c7|pc|s6|pc|h7|pc|s3|pg||
 pc|c6|pc|d3|pc|dK|pc|hT|pg||
 pc|h4|pc|sJ|pc|hK|pc|hA|pg||
 pg||
-qx|o2|st||md|4SA7HAQ9DCAKQJT864,SKQJT42HJT742DK6C,SH8653DAJT975432C,S98653HKDQ8C97532|sv|n|SPÍA³µ¢ÌÅµå¤©H|pg||
-mb|p|mb|2C|mb|3C|¡äyAAoÔ©àæ B|pg||
+qx|o2|st||md|4SA7HAQ9DCAKQJT864,SKQJT42HJT742DK6C,SH8653DAJT975432C,S98653HKDQ8C97532|sv|n|SPÍA³µ¢ÌÅµå¤©H|pg||
+mb|p|mb|2C|mb|3C|¡äyAAoÔ©àæ B|pg||
 mb|4D|mb|4S|mb|6C|mb|p|mb|p|mb|p|pg||
 pc|d6|pc|dA|pc|d8|pc|s7|pg||
 pc|d2|pc|dQ|pc|c8|pc|dK|pg||
@@ -50,14 +50,14 @@ qx|c2|st||md|4SA7HAQ9DCAKQJT864,SKQJT42HJT742DK6C,SH8653DAJT975432C,S98653HKDQ8C
 pc|dA|pc|d8|pc|c4|pc|dK|pg||
 pc|dJ|pc|dQ|pc|s7|pc|d6|pg||
 pc|hA|mc|9|pg||
-qx|o3|st||md|1SJ2HKQJ953DAJCQ94,SAT97654HDKQ8432C,SKQ3HAT2D75CT7653,S8H8764DT96CAKJ82|sv|e|mb|1H|mb|1S|mb|4H|mb|p|mb|p|mb|p|PSjÆI[vµÜ·ªA»êÅàTEXÍ1@cÌûªÇ¢ÌÅÍÈ¢©Æv¢Ü·ª¥¥¥¥|pg||
+qx|o3|st||md|1SJ2HKQJ953DAJCQ94,SAT97654HDKQ8432C,SKQ3HAT2D75CT7653,S8H8764DT96CAKJ82|sv|e|mb|1H|mb|1S|mb|4H|mb|p|mb|p|mb|p|PSjÆI[vµÜ·ªA»êÅàTEXÍ1@cÌûªÇ¢ÌÅÍÈ¢©Æv¢Ü·ª¥¥¥¥|pg||
 pc|sA|pc|s3|pc|s8|pc|sJ|pg||
 pc|sT|pc|sQ|pc|h6|pc|s2|pg||
 pc|d9|pc|dA|pc|d2|pc|d5|pg||
 pc|hK|pc|d3|pc|h2|pc|h4|pg||
 pc|h3|pc|s7|pc|hT|pc|h7|pg||
 pc|hA|pc|h8|pc|h5|pc|s5|pg||
-[gµÄ­êéÆA¤êµ¢iB¨kakasi³ñAnpcjpn³ñ|pg||
+[gµÄ­êéÆA¤êµ¢iB¨kakasi³ñAnpcjpn³ñ|pg||
 pc|sK|pc|c2|pc|dJ|pc|s4|pg||
 pc|c3|pc|cK|pc|c4|pc|d4|pg||
 pc|d6|mc|8|pg||
@@ -90,7 +90,7 @@ pc|s6|pc|s7|pc|hJ|pc|sQ|pg||
 pc|cJ|pc|c3|pc|hT|pc|c5|pg||
 pc|sT|pc|sJ|pc|d8|pc|sA|pg||
 mc|7|pg||
-qx|o5|st||md|3SATHK976543DJCKT8,S83H82DQCAQJ65432,S96HADAKT9765432C,SKQJ7542HQJTD8C97|sv|n|mb|2D|mb|3S|mb|6D|mb|p|mb|p|bgª¬³¢©çR@hÅ©dµ½ÌÅµå¤©H|pg||
+qx|o5|st||md|3SATHK976543DJCKT8,S83H82DQCAQJ65432,S96HADAKT9765432C,SKQJ7542HQJTD8C97|sv|n|mb|2D|mb|3S|mb|6D|mb|p|mb|p|bgª¬³¢©çR@hÅ©dµ½ÌÅµå¤©H|pg||
 mb|p|pg||
 pc|hQ|pc|h3|pc|h2|pc|hA|pg||
 pc|dA|pc|d8|pc|dJ|pc|dQ|pg||
