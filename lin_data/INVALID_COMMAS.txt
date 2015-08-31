@@ -1,0 +1,273 @@
+# List of LIN files on BBO that have a problem with the player names
+#
+# This file was automatically generated.
+# Lines with a '#' are ignored
+# Blank lines are ignored
+
+# Format:
+# number_of_players:LIN:title
+
+# A first column of 0 means that there are no players records.
+# A first column of anything other than 4 or 8 means that there is probably a comma
+# in the 'pn' or 'pw' field that needs correcting.
+# Until this is correct the file will not be processed.
+#
+#
+0:00253:India 46 Winter National Semi final,1 of 4,I,1,14,Nalco,0,Railways A,0
+0:00393:EC 2004 Malmo,Round 2,I,1,20,Denmark,0,Russia,0
+0:00492:Vanderbilt 2004,SF3,I,1,16,Schwartz,0,Nickell,0
+0:00563:2004 Reisenger,1st Final,B,1,28,Brachman,5,Opponents,0
+0:00660:tuscani under the star,last session,P,15,30,Team 1,0,Team 2,0
+0:00661:TUSCANY UNDER THE STAR - FINAL MASTER,THIRD SESSION,P,1,14,Team 1,0,Team 2,0
+0:00662:TOSCANA SOTTO LE STELLE - MASTER FINALE,SESSIONE 1,P,1,16,Team 1,0,Team 2,0
+0:00663:TUSCANY UNDER THE STAR - FINAL MASTER,SESSION 2,P,1,16,Team 1,0,Team 2,0
+0:04764:2006 Nordic Cup,Match 5 2nd half,I,13,24,Finland,0,Denmark,0
+0:04766:2006 Nordic Cup,Match 1 2nd half,I,13,24,Sweden,0,Iceland,0
+0:04768:2006 Nordic Cup,Match 4 2nd half,I,13,24,Norway,0,Sweden,0
+0:04771:2006 Nordic Cup,Match 3 2nd half,I,13,24,Denmark,0,Sweden,0
+0:04845:Buffett Cup Teams 6,Open EN1 Closed PL4,B,1,28,Europe,0,USA,0
+0:05134:White House Int_ Teams Top 16,Round 3,I,1,12,Sweden,0,Poland,0
+0:05750:Huayuan Cup 2006 Beijing China,Semi-Finals,I,1,12,Li Shu Yuan,35,Zhang Xiao Feng,13
+0:05789:2006 Reisinger Finals - 2nd Session,2nd Half,B,1,27,North - South,0,East - West,0
+0:06127:Polish First Division semifinal,Segm_5_6,I,1,12,PRATERM,91,SAKURA,77
+0:07090:NO_TITLE
+0:08350:PKO BP BAM Grand Prix of Poland 2005,Final,B,1,30,Optical,0,Chlodnia,0
+0:08691:Polish National Trials 2005,Segm_23_28,I,1,20,Team1,0,Team2,0
+0:09407:Estonian Open Teams Finals,3_7,I,1,16,Druva,0,Rakvere,0
+0:09912:2009 USWBC - Semi-Final B,Fourth Quarter,I,49,112,Mancuso,81,Moss,82
+0:10718:Israel Team Trials 2009 - Final,1 of 8,I,1,32,Birman,0,Herbst,0
+0:10826:Untitled match2,1,I,1,15,Team 1,0,Team 2,0
+0:10827:treino,1,I,1,15,marc,0,mig,0
+0:11634:Untitled match,Untitled segment,I,1,31,Team 1,0,Team 2,0
+0:12525:hellenic ladies team trials,3rd,P,1,8,Team 1,0,Team 2,0
+0:12758:Junior Camrose,Match 5,I,1,12,Northern Ireland,0,Scotland,0
+0:12920:Untitled match,Untitled segment,I,1,12,Team 1,0,Team 2,0
+0:14444:EUROPEAN TEAM CHAMPIONSHIP,O RR 2,I,1,20,NORWAY,0,CROATIA,0
+0:16548:practice,1,I,1,16,blah 1,0,blah 2,0
+0:16665:14th NEC CUP Final,Segment 4,I,49,64,CHINA Women,108,JAPAN Open,98
+0:17074:juice,semi,I,1,32,caracci,6,loloc,0
+0:17376:Untitled match,lm 2011,I,1,4,NIBU,0,Wales,0
+0:17679:NO_TITLE
+0:17692:Practise Teams1,Segment 1 of 2,I,1,16,Anderson,-25,Sunshine,25
+0:17693:Practise Teams1_,Segment 1 of 2,I,5,20,Anderson,25,Sunshine,25
+0:17694:Practise Teams1,Segment 1,I,1,16,Anderson,20,Sunshine,0
+0:17696:Practise 4,1,I,1,16,Dulmage,0,Rosie,0
+0:17697:Practise Teams A,Segment 1,I,1,16,Gaucher,0,Jones,0
+0:17699:Practise Teams A,segment 1,I,1,16,Gaucher,0,Macleod,0
+0:17701:Thursday practise,Segment 1,I,1,36,Team 1,0,Louder,0
+0:17704:Practise match 2,1,I,6,41,Anderson,0,Sabier,0
+0:17705:Practise Teams C,Segment 1,I,11,46,Team 1,0,Team 2,0
+0:17706:last practise match on Thursday,1,I,1,36,Anderson,0,To be determined,0
+0:17707:last practise match on Thursday,1,I,1,36,Anderson,0,To be determined,0
+0:17784:Practise Teams C,Segment 1,I,11,46,Team 1,0,Team 2,0
+0:17787:Practise 9 is enough,Segment2,I,1,36,Team 1,0,Team 2,0
+0:17805:Practice 3 ,1,I,1,36,Team 1,0,Team 2,0
+0:17950:Practice 3 ,1,I,1,36,Team 1,0,Team 2,0
+0:17951:Practice 3 ,1,I,1,36,Team 1,0,Team 2,0
+0:17979:Practise 9 is enough,Segment2,I,1,36,Team 1,0,Team 2,0
+0:17980:Fri Eve Practise,1,I,1,64,Team 1,0,Team 2,0
+0:17982:fri 13 eve practice,1,I,1,64,Team 1,0,Team 2,0
+0:17984:fri 13 eve practice,1,I,1,64,Team 1,0,Team 2,0
+0:18008:fri practice,2,I,1,64,Team 1,0,Team 2,0
+0:18070:fri practice,2,I,1,64,Team 1,0,Team 2,0
+0:18186:Practice Match Norwegian Clubteams Championship,Round 1_1,I,1,32,Sortland 1,0,Sortland 2,0
+0:18188:Practice Match Norwegian Clubteams Championship,Round 1_1,I,1,32,Sortland 1,0,Sortland 2,0
+0:18191:Practice Match Norwegian Clubteams Championship,Round 1_1,I,1,32,Sortland 1,0,Sortland 2,0
+0:18192:Practice Match Norwegian Clubteams Championship,Round 1_2,I,1,32,Sortland 1,34,Sortland 2,39
+0:18195:Practice 3 ,1,I,1,36,Team 1,0,Team 2,0
+0:18277:Practice 3 ,1,I,1,36,Team 1,0,Team 2,0
+0:18336:Practise Match Norwegian Teams Champinship,Round 1_1,I,1,16,Sortland 2,0,Sortland 1,0
+0:18337:Practise Match Norwegian Teams Champinship,Round 1_1,I,1,16,Sortland 2,0,Sortland 1,0
+0:18339:Practise Match Norwegian Teams Championship,Round 1_2,I,17,32,Sortland 2,40,Sortland 1,34
+0:18363:Practice Match Norwegian Clubteams Championship,Round 1_2,I,1,32,Sortland 1,34,Sortland 2,39
+0:18786:48th Asia Pacific Bridge Federation Championships,RR2-Match 23,I,1,16,Japan-Yamada (Sr),0,Indonesia (Sr),0
+0:22766:INDONESIA NATIONAL CHAMPIONSHIP,QR 4_7,I,17,32,EAST JAVA,0,NORTH SULAWESI,0
+0:24018:Untitled match,Untitled segment,I,1,32,Team 1,0,Team 2,0
+0:25997:NO_TITLE
+0:26053:NO_TITLE
+0:26196:NO_TITLE
+0:26296:NO_TITLE
+0:26379:Gold Cup  Final,Stanza 2 of 8,I,9,16,J de Botton,6,Allfrey,34
+0:26415:NO_TITLE
+0:26441:NO_TITLE
+0:26464:NO_TITLE
+0:26466:NO_TITLE
+0:26573:NO_TITLE
+0:26596:NO_TITLE
+0:26609:NO_TITLE
+0:26617:NO_TITLE
+0:26635:NO_TITLE
+0:26636:NO_TITLE
+0:26637:NO_TITLE
+0:26638:NO_TITLE
+0:26639:NO_TITLE
+0:26646:NO_TITLE
+0:26647:NO_TITLE
+0:30698:NO_TITLE
+0:30705:NO_TITLE
+0:36020:14th Red Bull WBS-T17-Mixed Pairs,F9,P,1,10,Team 1,0,Team 2,0
+0:36464:Chennai Practice,swiss 1 of 1,I,1,32,x,0,y,0
+0:37252:SARUNDAJANG CUP-INDONESIA,Final RR 4_5,I,13,24,LEILEM JAYA,0,Perjuangan Sulut-2,0
+0:37728:Lederer Practice,Match 1,I,1,36,England,0,Norway,0
+0:37827:Netherlands-Israel practice match,9 of 9,I,1,16,Netherlands,330,Israel,279
+0:38248:NO_TITLE
+10:02132:Tallinn Festival,5 of 8,I,1,64,Sweden,0,LatSwe,0
+10:05724:Junior Camrose,Match 1 ,I,1,36,England,0,Wales,0
+10:05926:USBC2006,R32 -  SEG 4_6,I,46,60,ONSTOTT,61,FOUT,79
+10:08206:Brazilian Team Trials,Finals 2/6,I,17,32,Chagas,51,Campos,21
+10:08207:Brazilian Team Trials,Semi-finals 1_4,I,1,16,Chagas,6,Brum,0
+10:10939:Sao Paulo 2009,BBO2o - R1_21,I,1,16,USA 1,0,AUSTRALIA,0
+10:10941:Sao Paulo 2009,BBOVG - R2_21,I,17,32,CHINA,0,RUSSIA,0
+10:15250:Buffett Cup 2010,Individual 5A,B,1,6,Europe,0,USA,0
+10:15486:World Bridge Series 2010,Round 4C,I,1,32,Rosen,0,Martens,0
+10:15490:World Bridge Series 2010,Round 6C,I,1,32,Pinot Noir,0,Canada,0
+10:15515:World Bridge Series 2010,KO 64 - R2_4 - C,I,1,32,PINOT NOIR,24,ALIZEE,18
+10:15840:7th Kepri Governor Cup,Final RR1_7,I,1,14,Windrunners,0,Well Wise,0
+10:20377:São Paulo Cup 2011,Finals 1_4,I,1,16,Chagas,0,D'Orsi,11
+10:20378:São Paulo Cup 2011,Finals 2_4,I,17,32,Chagas,41,D'Orsi,18
+10:20402:São Paulo Cup 2011,Finals 3_4,I,1,16,Chagas,74,D'Orsi,51
+10:20403:São Paulo Cup 2011,Finals 4_4,I,17,32,Chagas,123,D'Orsi,109
+10:23778:BBO3 - 51st European Team Championships,MO4 - Open A,I,1,20,Sweden,0,Israel,0
+10:23810:BBO2 _ 51st European Team Championships,M07 _ Open A,I,1,20,Bulgaria,0,Israel,0
+10:26003:Sao Paulo Cup,Finals 1_4,I,1,16,Marchioni,4,Chagas,0
+10:26004:Sao Paulo Cup,Finals 2_4,I,1,16,Marchioni,31,Chagas,32
+10:26022:Sao Paulo Cup,Finals 3_4,I,1,16,Chagas,97,Marchioni,50
+10:26024:Sao Paulo Cup,Finals 4_4,I,17,32,Chagas,135,Marchioni,78
+10:26803:NTU Cup Quarter Finals,Segment 1_2,I,1,12,¥æ¤j A,0,martini,1
+10:26804:NTU Cup Quarter Finals,Segment 2_2,I,13,24,ªþ¾ô±¡¸t,20,BTU µæ,24
+10:31708:55TH WINTER NATIONALS 2013  AHMEDABAD,QF-4_4,I,43,56,SHREE CEMENT,122,ARUN JAIN,85
+10:32033:34TH MAHARASHTRA STATE BRHMAN SABHA SICKKA PAIRS,2_2,P,1,28,Team 1,0,Team 2,0
+10:33948:PRBA STATELEVEL JAIN GROUP TOURNAMENT PUNE,RR-1_7,I,1,8,SHRI RADHEY,0,MANYWAR,0
+11:08959:Lady Milne Wales v Ireland,match one,I,1,14,Republic of Ireland,0,Wales,0
+11:15474:World Bridge Series 2010,Round 2C,I,1,32,Lavazza,0,Kahn,0
+11:16144:2010 Senior Knockout B Semifinal,Segment 2 of 4,I,17,32,Meltzer,41,O'Rourke NPC,40
+11:21643:Regional ChShip Vest-Agder,Finale Segment,I,1,16,Farsund,0,Kristiansand,0
+11:21645:Regional ChShip Vest-Agder,Finale,I,1,16,Farsund,6,Kristiansand,41
+11:22614:Brazilian Team Trials 2012,Semifinal 1_6,I,1,15,D'Orsi,0,Carvalho,11
+11:22616:Brazilian Team Trials 2012,Semifinal 1_6,I,1,15,D'Orsi,0,Carvalho,11
+11:22618:Brazilian Team Trials 2012,Semifinal 1_6,I,1,15,D'Orsi,0,Carvalho,11
+11:22792:Indonesian National Championships 2012,Inter-Provinces Q7,I,1,16,DKI,0,West Java,0
+11:33910:5TH TELKOM INDONESIAN OPEN,FINAL RR2,I,15,28,TELKOM,0,NUSANTARA 1,0
+12:02128:Tallinn Festival,8 of 8,I,1,64,LatSwe,0,Loparn,0
+12:03998:Bermuda Bowl 2007,Rd 18/21,I,1,16,Poland,0,Sweden,0
+12:06081:São Paulo Cup,Final 1_4,I,1,16,Amaral,0,Chagas,7
+12:08201:Brazilian Team Trials,Finals 1_6,I,1,16,Chagas,0,Campos,0
+12:08202:Brazilian Team Trials,Finals 5_6,I,65,80,Campos,111,Chagas,142
+12:08203:Brazilian Team Trials,Finals 3_6,I,33,48,Campos,31,Chagas,59
+12:08204:Brazilian Team Trials,Semi-final 2_4,I,17,32,Campos,34,Amaral,28
+12:08208:Brazilian Team Trials,Finals 4_6,I,49,64,Campos,87,Chagas,104
+12:08209:Brazilian Team Trials,Finals 6_6,I,81,96,Campos,123,Chagas,175
+12:13723:Cavendish Teams S1 R1_3,1,I,1,9,Zimmermann,0,Welland,0
+12:13725:Cavendish Teams S1  R2,R2,I,10,18,De Knijff,0,Brink,0
+12:14909:5th World University Bridge Championship,RR 1 Mandarin Table,I,1,16,Chinese Taipei - A,0,Chinese Taipei - B,0
+12:14912:5th World University Bridge Championship,RR 2 - Mandarin,I,1,16,Chinese Taipei - A,0,China - B,0
+12:15473:World Bridge Series 2010,Round 2B,I,1,32,San3PDX1,0,Cayne,0
+12:15535:World Bridge Series 2010,KO 32 - R2_4 - B,I,1,32,MAHAFFEY,9,CHINA OPEN,13
+12:16343:cpto equipos preferente,1,I,1,32,almirall,0,pont,0
+12:22169:CTCBA Chinese Taipei Open Team TrialFinals 2012,Segment 2_8,I,17,32,Weide,57,Alioth,28
+12:22186:CTCBA Chinese Taipei Open Team Trial Finals 2012,Segment 4_8,I,49,64,Weide,138,Alioth,103
+12:22636:Brazilian Team Trials 2012,Semifinal 6_6,I,16,30,Aranha,141,Chagas,163
+12:22790:Indonesian National Championship 2012,Inter-Provinces Q6,I,17,32,DKI,0,North Sulawesi,0
+12:25217:2012 Buffett Cup,Pairs Segment 2,P,12,22,Team 1,0,Team 2,0
+12:27407:Chinese Taipei Antonio Chong Cup Semifinals,Segment 1_2,I,1,12,Yeh Bros,0,Xiao Ying Inn,2
+13:22620:Brazilian Team Trials,Semifinals 3_6,I,1,15,Aranha,55,Chagas,64
+13:22621:Brazilian Team Trials 2012,Semifinals 4_6,I,16,30,Chagas,89,Aranha,99
+13:22622:Brazilian Team Trials,Semifinals 4_6,I,16,30,Aranha,89,Chagas,99
+14:06082:São Paulo Cup,Final 3_4,I,1,16,Chagas,63,Amaral,71
+14:06083:São Paulo Cup,Final 2_4,I,1,16,Amaral,31,Chagas,42
+14:06084:São Paulo Cup,Final 4_4,I,17,32,Chagas,97,Amaral,101
+14:07910:São Paulo State Championship,Finals 4_6,I,49,64,Chagas,133,Amaral,91
+14:07911:São Paulo State Championship,Finals 3_6,I,33,48,Chagas,83,Amaral,50
+14:07913:Sao Paulo State Championship,Finals 1_6,I,1,16,Chagas,20,Amaral,0
+14:07914:São Paulo State Championship,Finals 2_6,I,17,32,Chagas,36,Amaral,24
+14:08205:Brazilian Team Trials,Semi-finals 3_4,I,33,48,Amaral,54,Campos,85
+14:08210:Brazilian Team Trials,Semi-final 4_4,I,49,64,Brum,71,Chagas,114
+14:22634:Brazilian Team Trials 2012,Semifinals 5_6,I,1,15,Aranha,120,Chagas,135
+15:07912:São Paulo State Championship,Finals 5_6,I,65,80,Amaral,115,Chagas,172
+15:07915:São Paulo State Championship,Finals 6_6,I,81,96,Amaral,161,Chagas,183
+15:22619:Brazilian Team Trials 2012,Semifinal 2_6,I,16,30,Aranha,19,Chagas,55
+3:04459:2007 Cavendish Pairs,Session 2 Table 2,P,1,27,Team 1,0,Team 2,0
+7:14398:EBL Ostend 2010,Open Q1,I,1,18,Italy,0,France,0
+7:21306:Portuguese Open Teams - FINAL,1_2,I,1,40,M. João Lara,0,J. C. Henriques,0
+7:33829:BUDIMEX Pair Grand Prix of Poland,SEGMENT 5_5,B,11,20,PAIR EVENT,0,PAIR EVENT,0
+7:39218:Tallinn Bridge Festival - Teams,2_9,I,1,54,Senjoorid,0,Latvia U20,0
+9:01042:Spanish Teams 2008,Final Round,I,1,16,Passarinho,0,Almirall,0
+9:02125:Tallinn Festival Teams,1 of 8,I,1,64,FIN BLUE,0,FIN RED,0
+9:02129:Tallinn Festival,2 of 8,I,1,64,FIn BLUE,0,Pealinn,0
+9:02210:olrudeaster 08 mix,2,P,22,45,Team 1,0,Team 2,0
+9:02562:São Paulo Cup,Finals 1_4,I,1,16,Chagas,8,Peirão,0
+9:03071:Kepri Governor's Cup IV,Final 7,I,1,14,International Team,0,Senayan,0
+9:03458:ALL INDIA UTI BANK MASTERS Championship,Finals Seg 3 _ 4,I,29,42,Chennai Online,68,Wellknit,51
+9:03459:ALL INDIA UTI BANK MASTERS Championship,SEMIFIANLS SEG 2,I,11,20,TRICKS,9,Chennai Online,0
+9:04167:2007 USBC,R8 - 4 v 5 - 1/8,I,1,15,MELTZER,0,DEUTSCH,0
+9:04216:2007 Autumn Teams,Swiss 7,I,17,32,Oz-One,0,Lusk,0
+9:04829:Buffett Cup Ind 8,Open EN3 Closed CH6,B,43,48,Europe,0,USA,0
+9:08059:Camrose Trophy 2005,Weekend 2 Ballymena,I,1,32,Wales,0,Scotland,0
+9:09934:Tallinn Festival- teams,2 _ 11,I,9,48,FRANCEST,0,MARUPE,0
+9:10919:FOSS Grand Tourney,F092A1,P,1,16,Team 1,0,Team 2,0
+9:11903:Gabrial - UI Cup 3,Q4_6,I,1,10,Geologi Timah B,0,Belitung,0
+9:11913:Gabrial-UI Cup 3,Final Round 3_7,I,1,30,Belitung,0,OICO Maesa,0
+9:11928:Gabrial - UI Cup 3,Final Round 6_7,I,1,30,Syabas Gabrial,0,Belitung,0
+9:14175:Tallinn Festival - Pairs,Untitled segment,B,1,60,Team 1,0,Team 2,0
+9:14347:São Paulo State Championship,Finals 1_6,I,1,32,Chagas,7,Peirão,0
+9:14356:São Paulo State Championship,Finals 4_6,I,17,32,Chagas,88,Peirão,98
+9:14364:São Paulo State Championship,Finals 5_6,I,1,16,Chagas,117,Peirão,136
+9:14369:São Paulo State Championship,Finals 6_6,I,17,32,Chagas,158,Peirão,179
+9:15031:FOSS-tren,tren1,P,1,16,Team 1,0,Team 2,0
+9:15210:Buffett Cup 2010,Teams 4C,B,15,28,Europe,0,USA,0
+9:15211:Buffett Cup 2010,Teams 3B,B,1,14,Europe,0,USA,0
+9:15216:Buffett Cup 2010,Teams 4B,B,15,28,Europe,0,USA,0
+9:15217:Buffett Cup 2010,Teams 4B,B,15,28,Europe,0,USA,0
+9:15229:Buffett Cups 2010,Teams 6B,B,15,28,Europe,0,USA,0
+9:15236:Buffett Cup 2010,Individual 2C,B,7,12,Europe,0,USA,0
+9:15237:Buffett Cup 2010,Individual 2B,B,7,12,Europe,0,USA,0
+9:15239:Buffet Cup 2010,Individual 3A,B,13,18,Europe,0,USA,0
+9:15240:Buffett Cup 2010,Individual 3B,B,13,18,Europe,0,USA,0
+9:15241:Buffet Cup 2010,Individual 4B,B,19,24,Europe,0,USA,0
+9:15243:Buffet Cup 2010,Individual 4B,B,19,24,Europe,0,USA,0
+9:15252:Buffett Cup 2010,Individual 6C,B,7,12,Europe,0,USA,0
+9:15254:Buffett Cup 2010,Individual 6B,B,7,12,Europe,0,USA,0
+9:15255:Buffett Cup 2010,Indivual 7A,B,13,18,Europe,0,USA,0
+9:15257:Buffett Cup 2010,Individual 7B,B,13,18,Europe,0,USA,0
+9:15261:Buffett Cup 2010,Individual 8C,B,1,6,Europe,0,USA,0
+9:15269:Buffett Cup 2010,Individual 10B,B,13,18,Europe,0,USA,0
+9:15272:Buffett Cup 2010,Individual 11B,B,19,24,Europe,0,USA,0
+9:15273:Buffett Cup 2010,Individual 11C,B,19,24,Europe,0,USA,0
+9:15492:World Bridge Series 2010,Round 6A,I,1,32,San3PDX1,0,Auken,0
+9:15500:World Bridge Series 2010,Round 7C,I,1,32,Moss,0,Gogo Fans,0
+9:15735:São Paulo Cup,Finals 1_4,I,1,16,Chagas,0,D'Orsi,7
+9:15736:São Paulo Cup,Finals 1_4,I,1,16,Chagas,0,D'Orsi,7
+9:15830:7th Kepri Governor Cup,Qualification R 5_7,I,21,30,Gabsi Timah,0,International,0
+9:15861:7th kepri Governor Cup,Final RR 5_7,I,1,14,Well Wise,0,International,0
+9:16146:2010 Senior KO B Semifinal,Segment 1 of 4,I,1,16,Meltzer,0,O'Rourke,0
+9:16171:Pertamina Field Tambun Cup,QR 2_5,I,1,32,Makassar Utama,0,Gabsi Senayan 2,0
+9:16173:Pertamina Field Tambun Cup,QR 2_5,I,1,32,Makassar Utama,0,Field Tambun 2,0
+9:16175:Pertamina Field Tambun Cup,QR 4_5,I,1,20,Makassar Utama,0,Geo Timah,0
+9:16237:Spanish Teams Championship 2010,Round 3_7,I,1,16,Ventin,0,Lantaron,0
+9:16238:Spanish Teams Championship 2010,Round 3_7,I,1,16,Ventin,0,Lantaron,0
+9:16246:Spanish Teams Championship 2010,Round 5_7,I,1,16,Frances,0,Frutos,0
+9:16579:18th NTU CUP FINAL,Segment 1_2,I,1,14,BTU - =(' ')=,2,BTU - 96,0
+9:16908:camrose 2011,Match 1A - Stanza 1,I,1,16,Wales,0,WBU,0
+9:17742:cavendish pairs,8of35,I,1,4,Team 1,0,Team 2,0
+9:17744:cavendish pairs,round 10 of 35,P,9,12,Team 1,0,Team 2,0
+9:22221:CTCBA Chinese Taipei Open Team Trials Final 2012,Segment 5_8,I,65,80,Weide,208,Alioth,119
+9:22223:CTCBA Chinese Taipei Open Team Trials Final 2012,Segment 7_8,I,97,112,Weide,350,Alioth,148
+9:23476:Norwegian Club Teams Championship Final 2012,Round 1_2_7,I,17,32,Namsos BK,31,Heimdal BK,10
+9:23876:BBO1 - Euro Team 2012,M15-OpenB,I,1,20,France,0,Monaco,0
+9:24633:12th Geologi Cup 2012,QR 4_6,I,25,32,SEMANGAT BR. SULSEL,0,Geo Timah,0
+9:24726:MAHARASHTRA SUMMER MONSOON LEAGUE 2012,R-1_21,I,1,6,VEEGEES,0,SUNIL MACCHAR,0
+9:25765:BAGLA PAIRS ROYALE 2012,R-7_27,I,1,6,Team 1,0,Team 2,0
+9:26717:Maharaja Yashwant Rao Holkar Bridge Championship,SL-6_8,I,21,30,SHREE CEMENT,0,TEXAN ACES,0
+9:27458:Brazilian Team Trials 2013,Semifinals 1_6,I,1,15,VillasBoas,17,Carvalho,0
+9:27460:Brazilian Team Trials 2013,Semifinals 2_6,I,16,30,VillasBoas,76,Carvalho,7
+9:27478:Justice J_M_Lal Memorial  Championship 2013 Pune,QF 1_3,I,1,10,Shree Radhye ,0,Venky,0
+9:30020:FANTONI VACATIONS - TORRE CANNE 2013,Fantoni Vacations,P,1,18,Team 1,0,Team 2,0
+9:32505:Rajasthan state championship kota,round robin 4_9,I,1,12,Team 1,0,Team 2,0
+9:32506:30th Rajasthan Bridge Championship 2014,RR 5 of 9,I,9,16,Rajputana,0,Four Aces,0
+9:32852:JUSTICE J M LAL MEMORIAL 2014 PUNE,F-1_4,I,1,14,SUNIL MACCHAR,0,MANYAWAR,0
+9:33916:TELKOM INDONESIAN OPEN,Final RR3,I,1,14,DJARUM BLACK,0,BALIKPAPAN 1,0
+9:34938:Indian Open Team Selection Trials 2014 Delhi,FINALS 5_6,I,65,80,TEXAN ACES,127,FORMIDABLES,137
+9:37048:Camp Esp Ronda 4,Untitled segment,I,1,32,Knap,0,Vincent,0
+9:37050:Camp Esp Ronda 4,Untitled segment,I,1,32,Knap,0,Vincent,0
+9:37079:Campeonato Espanaonda 7,Round 7,I,1,32,vincent,0,bordallo,0
+9:37080:Campeonato EspanRonda,Round 5,I,1,32,Pont,0,Knap,0
