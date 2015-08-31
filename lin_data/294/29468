@@ -24,7 +24,7 @@ pc|s2|pc|s3|pc|sA|pc|sJ|pg||
 nt|dbl me:  This board wd be more interesting at BAM, wanting to reach 7N...|pg||
 pc|sK|pc|s7|pc|s4|pc|h2|pg||
 pc|s5|pc|s6|pc|sQ|pc|h5|pg||
-mc|13|nt|chip:  The play shouldn't take long. Declarer could claim as 13 sure tricks.|pg||
+mc|13|nt|chip:	The play shouldn't take long. Declarer could claim as 13 sure tricks.|pg||
 pg||
 qx|o78|st||md|4SJ753HT76DQC97652,S862HJ832DK76532C,SKT4HK95DJT94CAJT,SAQ9HAQ4DA8CKQ843|sv|o|mb|2C|mb|p|mb|2D!|mb|p|mb|2N|mb|p|mb|3C|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|c7|pc|s2|pc|cT|pc|cK|pg||
 pc|hQ|pc|h7|pc|h2|pc|h9|pg||
@@ -46,16 +46,16 @@ qx|c78|st||md|4SJ753HT76DQC97652,S862HJ832DK76532C,SKT4HK95DJT94CAJT,SAQ9HAQ4DA8
 pc|sT|pc|sA|pc|s7|pc|s6|pg||
 nt|chip:  I agree that E hand is worth 22.|pg||
 pc|hQ|pc|h6|pc|h2|pc|hK|pg||
-pc|s4|nt|chip:  Though doesn't fit well with the W hand.|pg||
+pc|s4|nt|chip:	Though doesn't fit well with the W hand.|pg||
 pc|sQ|pc|s5|pc|s8|pg||
 nt|dbl me:  Part of E's reason for upgrading his hand, the good 5-card suit, went up in smoke|pg||
 pc|dA|pc|dQ|pc|d2|pc|d4|pg||
 pc|d8|pc|c7|pc|dK|pc|d9|pg||
 pc|d3|pc|dT|pc|c3|pc|c2|pg||
 pc|dJ|pc|c4|pc|c5|pc|d5|pg||
-pc|cA|nt|chip:  Guess N is taking his 5 tricks.|pg||
+pc|cA|nt|chip:	Guess N is taking his 5 tricks.|pg||
 mc|8|pg||
-qx|o79|st||md|1SKT762H852DQ2C975,SQ4HQ43DKJ5CAQJT6,SA95HAJ6DA764CK84,SJ83HKT97DT983C32|sv|n|nt|Vugraphzfg: west says last hand you get to play  today partner|pg||
+qx|o79|st||md|1SKT762H852DQ2C975,SQ4HQ43DKJ5CAQJT6,SA95HAJ6DA764CK84,SJ83HKT97DT983C32|sv|n|nt|Vugraphzfg: west says last hand you get to play	today partner|pg||
 mb|p|mb|1N|mb|p|mb|p|mb|p|pc|d7|pc|dT|pc|dQ|pc|dK|pg||
 pc|cA|pc|c4|pc|c2|pc|c5|pg||
 pc|cT|pc|cK|pc|c3|pc|c7|pg||
@@ -76,7 +76,7 @@ pc|s5|pc|s3|pc|sT|nt|chip:  Now declarer up to 7 tricks|pg||
 pc|sQ|pg||
 pc|cA|pc|c4|pc|c3|pc|c9|pg||
 pc|cJ|pc|c8|pc|h7|pc|c7|pg||
-pc|cT|nt|chip:  though NS have 7 so needs to take them.|pg||
+pc|cT|nt|chip:	though NS have 7 so needs to take them.|pg||
 pc|d7|pc|d8|pc|h2|pg||
 pc|c6|pc|h6|pc|d9|pc|h5|pg||
 nt|chip:  N needed to win the 2nd D and play a spade. not easy.|pg||
@@ -91,7 +91,7 @@ pc|h8|pc|hJ|pc|h3|pc|h9|pg||
 pc|dQ|pc|d7|pc|dK|pc|dT|pg||
 pc|sJ|pc|sK|pc|c8|pc|s7|pg||
 pc|cA|pc|c4|pc|d8|mc|9|pg||
-qx|c80|st||md|2S62HJ2DAQJ5CKJT84,SQT975HQT763D874C,SAJ4HK95DK962C962,SK83HA84DT3CAQ753|sv|e|nt|dbl me:  Good deceptive decl. play waiting on the clubs there...|pg||
+qx|c80|st||md|2S62HJ2DAQJ5CKJT84,SQT975HQT763D874C,SAJ4HK95DK962C962,SK83HA84DT3CAQ753|sv|e|nt|dbl me:	Good deceptive decl. play waiting on the clubs there...|pg||
 nt|Vugraphzff: Onstott tells Ferguson he was 3343, but would never have led a @S.|pg||
 mb|p|mb|p|nt|chip:  If P-P-1C will see if S bids 1D.|pg||
 mb|1C|mb|1D|mb|d|nt|dbl me:  Bruce wd feel ill not bidding 1d  ;-)|pg||
@@ -129,12 +129,12 @@ pc|hT|pc|s5|pc|hK|nt|dbl me:  The 7th off. trick will likely prove elusive here|
 pc|hA|pg||
 pc|h7|pc|d2|pc|c7|pc|h8|pg||
 nt|dbl me:  Not easy for E to know that a d is safe|pg||
-pc|d4|pc|dA|nt|dbl me:  wd|pg||
+pc|d4|pc|dA|nt|dbl me:	wd|pg||
 pc|d3|pc|d5|pg||
 pc|d9|pc|dT|pc|dK|pc|d7|pg||
 pc|cJ|pc|cQ|pc|cK|pc|c4|pg||
 pc|c3|pc|c9|pc|c8|pc|c6|pg||
-pc|cA|pc|s8|nt|dbl me:  W will endplay decl.|pg||
+pc|cA|pc|s8|nt|dbl me:	W will endplay decl.|pg||
 pc|d8|pc|c5|pg||
 pc|c2|pc|d6|pc|dJ|pc|cT|pg||
 pc|s2|nt|dbl me:  nicely done|pg||
@@ -205,7 +205,7 @@ pc|h3|nt|smoller:  @CK takes care of the diamond loser|pg||
 pc|h5|pc|h9|pc|h8|pg||
 nt|ritong: claim|pg||
 mc|10|pg||
-qx|c83|st||md|1SAK96HT92D83CK942,SQJ73H87DQT542CAQ,ST2HAQJ63DAKJCJ87,S854HK54D976CT653|sv|e|nt|dbl me:  N muttering to himself "1d passed out..."|pg||
+qx|c83|st||md|1SAK96HT92D83CK942,SQJ73H87DQT542CAQ,ST2HAQJ63DAKJCJ87,S854HK54D976CT653|sv|e|nt|dbl me:	N muttering to himself "1d passed out..."|pg||
 mb|p|mb|p|mb|1N!|an|15-17|mb|p|mb|2C|mb|p|mb|2H|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|d6|pc|d3|pc|dQ|pc|dA|pg||
 nt|dbl me:  A sp lead wuda been more fun for the kibs|pg||
 pc|sT|pc|s4|pc|sA|pc|s7|pg||
@@ -246,7 +246,7 @@ pc|cT|nt|ritong: so down 1|pg||
 pc|h8|pc|d9|pc|s6|pg||
 pc|sQ|nt|scoolik: new leader +4|pg||
 mc|8|pg||
-qx|c84|st||md|2SKQ654HJ95D6CK732,S2HQT7DAKJ8CQT964,STHAK8643DQ7532CJ,SAJ9873H2DT94CA85|sv|b|mb|1D|mb|2H|mb|2S|mb|3H|nt|dbl me:  W not too keen on his light opener at this point...|pg||
+qx|c84|st||md|2SKQ654HJ95D6CK732,S2HQT7DAKJ8CQT964,STHAK8643DQ7532CJ,SAJ9873H2DT94CA85|sv|b|mb|1D|mb|2H|mb|2S|mb|3H|nt|dbl me:	W not too keen on his light opener at this point...|pg||
 mb|p|mb|4H|mb|p|mb|p|mb|p|pc|dT|nt|dbl me:  You won't find that last bid in any book on preempting  :-)|pg||
 pc|d6|pc|dK|pc|d5|pg||
 pc|h7|pc|hK|pc|h2|pc|h5|pg||
@@ -256,12 +256,12 @@ pc|d4|pc|h9|pc|d8|pc|d2|pg||
 pc|c3|pc|c6|pc|h3|pc|c5|pg||
 pc|d3|pc|d9|pc|hJ|pc|dJ|pg||
 pc|sK|pc|dA|pc|d7|pc|s3|pg||
-pc|sQ|pc|c9|nt|dbl me:  NS were fortunate to escape the axe here.|pg||
+pc|sQ|pc|c9|nt|dbl me:	NS were fortunate to escape the axe here.|pg||
 pc|dQ|pc|s7|pg||
 pc|s6|pc|cT|pc|h4|pc|s8|pg||
 mc|9|pg||
 qx|o85|st||md|3SJ87HAK962DA753C6,SAT9HJT75D9CKQT74,SK63H83DKJ642C952,SQ542HQ4DQT8CAJ83|sv|n|mb|p|nt|jtmckee: the tears are flowing in Toledo or whatever town Katz lives in|pg||
-mb|p|mb|1H|mb|p|nt|jtmckee: ann arbor  which isnt even in Ohio   i am told|pg||
+mb|p|mb|1H|mb|p|nt|jtmckee: ann arbor  which isnt even in Ohio	 i am told|pg||
 nt|scoolik: JT be kind Katz good guy|pg||
 mb|1N|mb|p|nt|jtmckee: I am pulling as hard for Katz as I was for the National League last night|pg||
 nt|ritong: jay tee seems to have counts to rule out:)|pg||
@@ -345,7 +345,7 @@ pc|s8|pc|sT|pc|sJ|pc|d8|pg||
 pc|h7|pc|h3|pc|h9|pc|hT|pg||
 pc|hK|pc|h2|pc|h6|pc|h5|pg||
 mc|10|pg||
-qx|c86|st||md|4S8753HA63D653CJ43,ST94HQ954DAJT97CA,SKJ62HKT8DCKQT987,SAQHJ72DKQ842C652|sv|e|nt|dbl me:  There is a famous hand in which Hamman declined to overruff holding 3 trumps, and sure enough, decl. eventually lost trump control.|pg||
+qx|c86|st||md|4S8753HA63D653CJ43,ST94HQ954DAJT97CA,SKJ62HKT8DCKQT987,SAQHJ72DKQ842C652|sv|e|nt|dbl me:	There is a famous hand in which Hamman declined to overruff holding 3 trumps, and sure enough, decl. eventually lost trump control.|pg||
 nt|Vugraphzff: Well, we have had a score correction.  On board 64, originally it was a swing of 4 to Cappelli.|pg||
 nt|Vugraphzff: They changed the result to a push, so the score is now 173-161|pg||
 nt|dbl me:  A tip of the hat to Chase our fine vugraph operator|pg||
@@ -432,7 +432,7 @@ pc|d8|pc|d7|pc|d9|pc|dJ|pg||
 pc|s9|pc|h2|nt|smoller:  no need to guess diamonds|pg||
 mc|7|nt|jtmckee: the best canapes are in New orleans|pg||
 pg||
-qx|c88|st||md|2S953HQTDKJT54CAQJ,ST8HAK8652DA86C93,SAQ72H73D72CK8742,SKJ64HJ94DQ93CT65|sv|o|nt|dbl me:  The ability to shake off a board like that is a key to success at this level.|pg||
+qx|c88|st||md|2S953HQTDKJT54CAQJ,ST8HAK8652DA86C93,SAQ72H73D72CK8742,SKJ64HJ94DQ93CT65|sv|o|nt|dbl me:	The ability to shake off a board like that is a key to success at this level.|pg||
 mb|1H|mb|p|mb|2H|mb|p|mb|3H|an|to play|mb|d|mb|p|mb|4D|mb|p|mb|p|mb|p|nt|dbl me:  Her we are again with the short-minor t-o x...cd be trouble.|pg||
 nt|dbl me:  Here*|pg||
 pc|hK|pc|h3|pc|h4|pc|hT|pg||

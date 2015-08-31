@@ -145,10 +145,10 @@ nt|medwards: ?|pg||
 nt|barbyh: seems automatic to return a club|pg||
 pc|c3|pc|cA|pc|cT|pc|c5|pg||
 pc|c4|pc|cK|pc|c7|pc|c6|pg||
-pc|dT|pc|dJ|nt|dbl me:  The d play was not ideal for decl.|pg||
+pc|dT|pc|dJ|nt|dbl me:	The d play was not ideal for decl.|pg||
 pc|d3|pc|sT|pg||
 nt|medwards: Do not understand the diamond pl after bidding|pg||
-pc|dA|pc|d7|nt|dbl me:  agree|pg||
+pc|dA|pc|d7|nt|dbl me:	agree|pg||
 mc|8|nt|sixela: isnt this -4?|pg||
 nt|medwards: S/B Four|pg||
 pg||
@@ -192,10 +192,10 @@ nt|medwards: true|pg||
 pc|c8|pc|c7|pc|cQ|nt|medwards: creating action?|pg||
 pc|sJ|pg||
 pc|s2|pc|s5|pc|sK|pc|sA|pg||
-pc|sQ|mc|8|nt|dbl me:  ...successfully  :-)|pg||
+pc|sQ|mc|8|nt|dbl me:  ...successfully	:-)|pg||
 nt|medwards: yes|pg||
 pg||
-qx|c67|st||md|1SKT97HJ5DK82CAJ83,SAQ43HK763DA6C976,S62HT92DQJ73CKQ42,SJ85HAQ84DT954CT5|sv|e|mb|1D|an|precision 0+ diam|mb|d|mb|1N|mb|2H|mb|p|mb|p|mb|2N!|mb|p|mb|3C|mb|3H|mb|p|mb|p|nt|dbl me:  At OT, N treated her 8-ct as a weak raise and was rewarded with a 3C Contract.|pg||
+qx|c67|st||md|1SKT97HJ5DK82CAJ83,SAQ43HK763DA6C976,S62HT92DQJ73CKQ42,SJ85HAQ84DT954CT5|sv|e|mb|1D|an|precision 0+ diam|mb|d|mb|1N|mb|2H|mb|p|mb|p|mb|2N!|mb|p|mb|3C|mb|3H|mb|p|mb|p|nt|dbl me:	At OT, N treated her 8-ct as a weak raise and was rewarded with a 3C Contract.|pg||
 mb|p|nt|Vugraphzfe: thx kibetzers|pg||
 pc|hJ|nt|dbl me:  Now NS need to lead trumps ay every opportunity.|pg||
 nt|dbl me:  Great start by S|pg||
@@ -222,7 +222,7 @@ pc|d6|pc|d9|pc|dK|pc|dA|pg||
 pc|c8|pc|cJ|pc|cQ|pc|c7|pg||
 pc|h5|pc|hK|mc|9|nt|Vugraphzfd: players taking a break|pg||
 pg||
-qx|c68|st||md|2SAK53HT87DJ6CAJT4,S742H652D9875CKQ5,SQJT96HK4DKQ32C73,S8HAQJ93DAT4C9862|sv|b|nt|dbl me:  A well-earned swing|pg||
+qx|c68|st||md|2SAK53HT87DJ6CAJT4,S742H652D9875CKQ5,SQJT96HK4DKQ32C73,S8HAQJ93DAT4C9862|sv|b|nt|dbl me:	A well-earned swing|pg||
 mb|p|mb|1S|mb|p|mb|4S!|mb|p|mb|p|mb|p|nt|Vugraphzfe: playing strong club, no need to look for slam|pg||
 pc|c2|nt|Vugraphzfe: EW opening leads vs suits 4th best and MUD|pg||
 nt|Vugraphzfe: 2 of clubs lead may talk declarer into 2 club finesses to go down an extra trick|pg||
@@ -317,7 +317,7 @@ pc|d9|mc|9|pg||
 qx|c72|st||md|2SAHQT963DAQ2CT932,SKQJH42DKJ98CK864,ST9832HK87D64CQJ7,S7654HAJ5DT753CA5|sv|o|mb|1D!|an|precision 0+ diam|mb|p|mb|1S|nt|chip:  Deas did well not to open a precision 2D on the last deal.|pg||
 mb|2H|mb|d!|nt|chip:  With both pairs playing strong C and nebulous D, we will have lots of 1D openings.|pg||
 nt|Vugraphzfe: saved by her system ... 2d would be multi|pg||
-mb|3H|nt|chip:  But is 2H precision then?|pg||
+mb|3H|nt|chip:	But is 2H precision then?|pg||
 mb|p|nt|Vugraphzfe: 2h would be weak with both majors 4-5 or 5-4 or longer|pg||
 mb|p|mb|p|pc|sK|pc|s2|pc|s4|pc|sA|pg||
 pc|c2|pc|c4|pc|cQ|pc|cA|pg||
@@ -329,11 +329,11 @@ pc|h2|pc|h7|pc|h5|pc|h3|pg||
 pc|d6|pc|d3|pc|dA|pc|d8|pg||
 pc|d2|pc|d9|pc|h8|pc|d5|pg||
 pc|hK|pc|hA|pc|h6|pc|h4|pg||
-pc|c5|nt|chip:  Now club for a ruff, or it makes.|pg||
+pc|c5|nt|chip:	Now club for a ruff, or it makes.|pg||
 pc|c3|pc|cK|pc|c7|pg||
 pc|dJ|pc|cJ|pc|dT|mc|9|pg||
 qx|o73|st||md|3SQ64HAK643DTCJ853,S953H98DJ96CAK974,SKJ872HJ72DA85C62,SATHQT5DKQ7432CQT|sv|e|nt|medwards: Of course we see all the hands|pg||
-mb|2S|mb|3D|nt|dbl me:  S made the correct-but-unsuccessful play.|pg||
+mb|2S|mb|3D|nt|dbl me:	S made the correct-but-unsuccessful play.|pg||
 nt|dbl me:  Another example of N's well-known style of preempting...|pg||
 nt|medwards: yes|pg||
 mb|p|mb|p|mb|p|nt|dbl me:  This time, I just don't see it, as N is a grat dummy for h's.|pg||
@@ -380,13 +380,13 @@ qx|c74|st||md|4S982HQT986DJT75C4,ST63HK2D964CK9762,SAKQJHAJ743DA3CQ3,S754H5DKQ82
 nt|chip:  NS sold out to 3D at the other table.|pg||
 mb|p|mb|p|mb|p|mb|1C|an|strong art|nt|chip:  16+ 1C|pg||
 mb|d!|an|clubs|mb|p|mb|3C|mb|d!|mb|p|mb|3H|mb|p|mb|4H|mb|p|mb|p|mb|p|pc|c6|nt|chip:  I think P by S over the DBL was quite weak, so a little surprised she didn't bid 4H over the DBL.|pg||
-pc|cQ|nt|chip:  Of 3C|pg||
+pc|cQ|nt|chip:	Of 3C|pg||
 pc|cA|pc|c4|pg||
 pc|cJ|pc|h9|pc|c2|pc|c3|pg||
 pc|hQ|pc|hK|pc|hA|nt|chip:  NS in the other room bid themselves up to 5H and were lucky to make it.|pg||
 pc|h5|pg||
 mc|11|pg||
-qx|o75|st||md|1S65HA94DKJ9CAK973,SQ82HQT62D5CJT854,SAKJ974HJ87D72CQ2,ST3HK53DAQT8643C6|sv|o|nt|dbl me:  Many pairs use 3N artificial to indicate the "constructive" 1-4 bid, a treatment I am fond of|pg||
+qx|o75|st||md|1S65HA94DKJ9CAK973,SQ82HQT62D5CJT854,SAKJ974HJ87D72CQ2,ST3HK53DAQT8643C6|sv|o|nt|dbl me:	Many pairs use 3N artificial to indicate the "constructive" 1-4 bid, a treatment I am fond of|pg||
 nt|medwards: Good way to play|pg||
 mb|1N|mb|p|mb|2H!|nt|medwards: Six is on here|pg||
 mb|3D|mb|p|mb|p|nt|barbyh: not with a d lead|pg||

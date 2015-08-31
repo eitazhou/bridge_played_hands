@@ -15,7 +15,7 @@ qx|c46|st||md|4SA965HAT732DJ3CQ3,SKQ32H86DA2CAJ976,S87HQ94D9654CKT42,SJT4HKJ5DKQ
 pc|h6|pc|hQ|pc|hK|pg||
 pc|sT|pc|s6|pc|s2|pc|s7|pg||
 nt|dbl me:  Hi everyone|pg||
-pc|sJ|nt|chip:  On a heart lead declarer may play on spades, then find out S is 4-5 in the minors, so short in D, and might misguess the D suit.|pg||
+pc|sJ|nt|chip:	On a heart lead declarer may play on spades, then find out S is 4-5 in the minors, so short in D, and might misguess the D suit.|pg||
 nt|Drewsky: U mean 4-5 in majors, right Chipper ?|pg||
 pc|sA|pc|s3|pc|s8|pg||
 nt|chip:  Also, when S wins the spade might lead a second low heart. That would be right if N had club K (no 10) and D Q.|pg||
@@ -25,13 +25,13 @@ nt|Vugraphzfh: no pitching yet... sanborn won second spade and is in tank|pg||
 nt|chip:  sorry, I meant on the next spades.|pg||
 nt|dbl me:  Had S  waited until the 3rd round, she would have seen a signal from N|pg||
 pc|dJ|pc|dA|pc|d5|pc|d7|pg||
-pc|sQ|nt|chip:  But ducking two spades would be fatal if declarer had Txx of clubs.|pg||
+pc|sQ|nt|chip:	But ducking two spades would be fatal if declarer had Txx of clubs.|pg||
 nt|Vugraphzfh: perhaps she was afraid declarer only needed two spades|pg||
 nt|dbl me:  Decl. breathing easy now|pg||
 pc|c4|pc|s4|pc|s5|pg||
 pc|sK|pc|c2|pc|c5|pc|s9|pg||
 pc|d2|pc|d6|pc|dK|pc|d3|pg||
-pc|dQ|nt|chip:  D J only right if declarer has a 2 way club guess and without a D play could safety play clubs into S.|pg||
+pc|dQ|nt|chip:	D J only right if declarer has a 2 way club guess and without a D play could safety play clubs into S.|pg||
 pc|h2|pc|h8|pc|d4|pg||
 pc|dT|pc|h7|pc|c6|pc|d9|pg||
 pc|d8|pc|c3|pc|c7|nt|chip:  EW did well to bid this pushy game and make it, and that will put them in the lead by an IMP.|pg||
@@ -54,13 +54,13 @@ qx|c47|st||md|1SK76HKQT753DT7CKQ,SJT9H962DQ3CAT542,SA53HAJDAJ982CJ83,SQ842H84DK6
 mb|1H|mb|p|mb|2D|mb|p|mb|2H|mb|p|nt|dbl me:  A "you-are-there" moment for the kibs?  ;-)|pg||
 mb|2N|mb|p|nt|Vugraphzfh: just explaining why claim took so long ... vugraph operator getting napkins :)|pg||
 nt|dbl me:  Apparently NS are using the rebid as their default, as N chose not to raise h's|pg||
-mb|3N|mb|p|mb|4H|mb|p|nt|dbl me:  (never mind)  :-)|pg||
+mb|3N|mb|p|mb|4H|mb|p|nt|dbl me:  (never mind)	:-)|pg||
 nt|chip:  I think NS play a pretty standard system with 5 card majors and strong NT. EW play a rather unusual strong C system with lots of relays.|pg||
 mb|4N|mb|p|mb|5C|mb|p|nt|dbl me:  This delayed raise actually introduced a level of complexity that a direct raise might have avoided.|pg||
 nt|chip:  looks like it was taken as a slam try (a bit odd as then would expect a 4m Q-bid).|pg||
 mb|6N|mb|p|mb|p|mb|p|nt|chip:  slight play for 6H if no D lead, but 6N no play without an unlikely error.|pg||
 nt|dbl me:  2N was not alerted, so I wonder what she had in mind...|pg||
-pc|s2|nt|chip:  Well N did have a hand with some slam interest.|pg||
+pc|s2|nt|chip:	Well N did have a hand with some slam interest.|pg||
 nt|chip:  not sure I agree with the lead, but should help clarify the defense.|pg||
 nt|dbl me:  But an unalerted 2N wd tend to slow things down rather than floor the accelerator|pg||
 pc|sK|pc|sJ|pc|s5|pg||
@@ -157,7 +157,7 @@ pc|c5|pc|c9|pc|cT|pc|c2|pg||
 pc|cA|pc|h3|pc|h2|pc|cQ|pg||
 pc|dQ|pc|dA|pc|d8|pc|d9|pg||
 mc|11|pg||
-qx|c50|st||md|4ST764H983DA532CK2,SKJ5HQJ7652DK8C53,SQ983HAKT4D97CQ94,SA2HDQJT64CAJT876|sv|n|nt|dbl me:  3n might make in practice if opps lead 3 rounds of clubs|pg||
+qx|c50|st||md|4ST764H983DA532CK2,SKJ5HQJ7652DK8C53,SQ983HAKT4D97CQ94,SA2HDQJT64CAJT876|sv|n|nt|dbl me:	3n might make in practice if opps lead 3 rounds of clubs|pg||
 mb|1D!|an|precision 2+ diam|mb|p|nt|dbl me:  ( 49)|pg||
 mb|1H!|an|sometimes <4 hearts|mb|p|mb|3C|nt|chip:  1H is natural, but might be only 3 on some weakish hands.|pg||
 mb|p|mb|3H|nt|medwards: 5 clubs down on diamond lead|pg||
@@ -172,7 +172,7 @@ nt|dbl me:  Ahh, thx for the system insight|pg||
 pc|s4|pc|s5|nt|chip:  Now looks like down one: 1 D and 4 hearts, since will pitch a club on third D as N ruffs.|pg||
 pc|s3|pc|sA|pg||
 pc|dJ|pc|d3|pc|c3|pc|h4|pg||
-pc|s9|nt|chip:  3N might make by W after a S lead. Also 5C makes without a D lead.|pg||
+pc|s9|nt|chip:	3N might make by W after a S lead. Also 5C makes without a D lead.|pg||
 pc|c6|nt|dbl me:  I'm sure the pass of 3h was a bit of a letdown for N|pg||
 pc|s6|pc|sK|pg||
 pc|c5|pc|c4|pc|cA|pc|c2|pg||
@@ -186,7 +186,7 @@ mc|8|pg||
 qx|o51|st||md|1SQJ432HADAQ832CQ8,SA5HQ9863DK74CKT2,SKHJ54DJ965CJ7643,ST9876HKT72DTCA95|sv|e|mb|1S|mb|d|mb|p|mb|2H|mb|d|mb|3H|mb|3N|mb|4H|mb|5D|mb|d|mb|p|mb|p|mb|p|pc|h3|pc|h4|pc|hT|pc|hA|pg||
 pc|s2|pc|sA|pc|sK|pc|sT|pg||
 pc|h9|pc|h5|pc|h2|pc|d2|pg||
-nt|ahollan1: sorry everyone who's asking   i just don't know about DBL   maybe Italian-influenced "extras"|pg||
+nt|ahollan1: sorry everyone who's asking   i just don't know about DBL	 maybe Italian-influenced "extras"|pg||
 pc|s3|pc|s5|pc|d5|pc|s6|pg||
 pc|d6|pc|dT|pc|dQ|nt|ahollan1: that's Wheeler's DBL  rather than Deas'|pg||
 pc|dK|pg||
@@ -211,7 +211,7 @@ nt|medwards: Might be a bulletin hand|pg||
 nt|dbl me:  The timing must be spot-on|pg||
 nt|chip:  Looks like the best lead. Now declarer needs to come to club ace to lead a heart or take a first round finesse against N's heart J.|pg||
 nt|dbl me:  I wd think a d lead takes priority, right?|pg||
-pc|sA|nt|chip:  Maybe even then some problems as if draw trump, not enough tricks without setting up a spade.|pg||
+pc|sA|nt|chip:	Maybe even then some problems as if draw trump, not enough tricks without setting up a spade.|pg||
 pc|sK|pc|s6|pg||
 pc|c2|pc|c3|pc|cA|nt|dbl me:  No, that's right...opps can't lead clubs profitably.|pg||
 pc|c8|pg||
@@ -238,7 +238,7 @@ nt|ahollan1: would Bernstein raise to 2@S with @SQxx and @HK?|pg||
 pc|h9|nt|ahollan1: if so then no 2nd round finesse|pg||
 pc|h6|pc|h2|pc|hK|pg||
 pc|h3|nt|ahollan1: again  i think if north had @SQxx and red King  she would bid 2@S  so Palmer looking for line that makes with assumption that @DK is offside|pg||
-nt|ahollan1: does that translate to fly @HJ and double hook @C  or is that double dummy analysis?|pg||
+nt|ahollan1: does that translate to fly @HJ and double hook @C	or is that double dummy analysis?|pg||
 pc|hJ|pc|c5|pc|h8|pg||
 pc|c9|pc|cT|pc|cJ|pc|s9|pg||
 pc|d4|nt|ahollan1: was play in other room as tortured?|pg||
@@ -255,10 +255,10 @@ nt|chip:  5+ S, that is not what is on their system sheet.|pg||
 nt|chip:  OK, like that better.|pg||
 nt|Vugraphzfh: (it is 5+ spades after 1h opening)|pg||
 nt|medwards: Club suit in play here|pg||
-mb|p|mb|2C|mb|p|mb|2D|nt|chip:  Yes, over 1H 2C is the relay.|pg||
+mb|p|mb|2C|mb|p|mb|2D|nt|chip:	Yes, over 1H 2C is the relay.|pg||
 mb|p|mb|2N|mb|p|mb|4H|mb|p|mb|p|mb|p|pc|sJ|nt|chip:  On the prior board NS took a (perhaps) phantom save in 5D, so now Sonsini back in lead.|pg||
 pc|sK|pc|s7|pc|s5|pg||
-pc|h9|nt|chip:  Assume W showed 4H and a balanced hand, E chose 4H.|pg||
+pc|h9|nt|chip:	Assume W showed 4H and a balanced hand, E chose 4H.|pg||
 pc|h6|pc|h2|pc|hQ|pg||
 pc|sT|pc|s2|pc|s3|pc|sA|pg||
 pc|c6|pc|cK|pc|cA|pc|c2|pg||
@@ -267,7 +267,7 @@ nt|chip:  H and D are ufriendly here, but the great news in clubs will see this 
 pc|s9|pc|s4|pc|sQ|pc|hT|pg||
 pc|hA|pc|h3|pc|h4|nt|chip:  Actually declarer rather lucky the club play worked so well. If Kx of clubs onside (much more likely), would have lost the contract with her play.|pg||
 mc|10|pg||
-qx|o53|st||md|3SA2H3DKJ742CKQT86,SQ4HT987DQT3CA974,S63HQJ542DA985C32,SKJT9875HAK6D6CJ5|sv|n|nt|ahollan1: neither North played @SQ on 2nd round of suit   but @S never bid in the other room|pg||
+qx|o53|st||md|3SA2H3DKJ742CKQT86,SQ4HT987DQT3CA974,S63HQJ542DA985C32,SKJT9875HAK6D6CJ5|sv|n|nt|ahollan1: neither North played @SQ on 2nd round of suit	 but @S never bid in the other room|pg||
 mb|p|mb|1S|mb|2N|mb|p|mb|3D|mb|4S|mb|p|mb|p|mb|p|nt|ahollan1: in Seniors   Schwartz 48-14 set extends lead over Street to 144 + change|pg||
 pc|cK|nt|ahollan1: Lynch leads Kasle by 18 & fraction|pg||
 nt|ahollan1: [they have carryover from Round Robin]|pg||
@@ -279,11 +279,11 @@ pc|cQ|pc|c4|pc|c2|pc|cJ|pg||
 pc|cT|pc|c7|mc|10|pg||
 qx|c53|st||md|3SA2H3DKJ742CKQT86,SQ4HT987DQT3CA974,S63HQJ542DA985C32,SKJT9875HAK6D6CJ5|sv|n|nt|chip:  Low club to A more attractive if dummy had entries to lead up to clubs twice.|pg||
 nt|medwards: yes|pg||
-mb|p|mb|1S|mb|2N|mb|p|nt|chip:  looks like 9 tricks for each side in S/D respectively.|pg||
-mb|4D|mb|4S|nt|dbl me:  Even 3S goes down on the ruff here|pg||
+mb|p|mb|1S|mb|2N|mb|p|nt|chip:	looks like 9 tricks for each side in S/D respectively.|pg||
+mb|4D|mb|4S|nt|dbl me:	Even 3S goes down on the ruff here|pg||
 nt|chip:  Maybe 10 in spades if NS don't get their ruff.|pg||
 mb|p|mb|p|mb|p|nt|chip:  Though probably a club lead will kill the entry for two heart finesses.|pg||
-pc|h3|pc|h7|nt|dbl me:  Sry, can't beat 3S  :-)|pg||
+pc|h3|pc|h7|nt|dbl me:	Sry, can't beat 3S  :-)|pg||
 nt|chip:  Yes, 3S cold (lose a trick in each suit).|pg||
 nt|chip:  Will N play Q or 5 of hearts for a D signal.|pg||
 pc|hJ|pc|hA|pg||
@@ -373,16 +373,16 @@ pc|h9|pc|h6|pc|h8|pc|s3|pg||
 pc|h5|pc|hQ|pc|hK|pc|c3|pg||
 pc|cA|pc|c6|pc|c5|pc|c2|pg||
 pc|d9|pc|dJ|pc|d2|pc|d3|pg||
-pc|c9|nt|chip:  looks like she just burned her dummy entry to cash the D. Don't understand the play.|pg||
+pc|c9|nt|chip:	looks like she just burned her dummy entry to cash the D. Don't understand the play.|pg||
 nt|medwards: Oh Say Hello for me|pg||
 nt|chip:  can't make it now.|pg||
 nt|dbl me:  Seems she was hoping a club honor wd come down...not sure why|pg||
 nt|medwards: Sorry private|pg||
 nt|Vugraphzfh: hoping granovetter would be endplayed perhaps?|pg||
-pc|cT|pc|cJ|nt|dbl me:  Much better chance ruffing out the dK|pg||
+pc|cT|pc|cJ|nt|dbl me:	Much better chance ruffing out the dK|pg||
 pc|hT|pg||
 mc|9|pg||
-qx|o57|st||md|3SA2HA987DT53CJ986,SQT85HQ4DA62CAQ52,S93HK3DKQJ8CKT743,SKJ764HJT652D974C|sv|e|nt|ahollan1: on 56  in other room played 4@H was played by North   defense went @S lead @Sx return for ruff  |pg||
+qx|o57|st||md|3SA2HA987DT53CJ986,SQT85HQ4DA62CAQ52,S93HK3DKQJ8CKT743,SKJ764HJT652D974C|sv|e|nt|ahollan1: on 56	in other room played 4@H was played by North   defense went @S lead @Sx return for ruff  |pg||
 mb|1N|nt|ahollan1: 1N = 12-14 throughout|pg||
 mb|2H|an|majors|mb|p|mb|4S|nt|ahollan1: Joe beat me to the alert of 2@H|pg||
 mb|p|mb|p|mb|p|pc|dK|pc|d4|pc|d3|pc|dA|pg||
@@ -395,7 +395,7 @@ mb|1D|mb|1S|nt|chip:  2N on 55, 4H down one here on 56.|pg||
 mb|d|mb|4S|mb|p|mb|p|mb|d|mb|p|nt|Vugraphzfh: i was asked "any table conversation worth mentioning?"  it is very quiet|pg||
 mb|5C|mb|p|mb|p|mb|d|nt|dbl me:  Questionable o/c at this vul., with disadvantage of suppressing hearts.|pg||
 mb|p|mb|p|mb|p|pc|s6|pc|sA|pc|s8|pc|s3|pg||
-pc|c9|nt|chip:  5C looks wrong to me with 2 spades, but guess she wrongly believes opponents at this Vul.|pg||
+pc|c9|nt|chip:	5C looks wrong to me with 2 spades, but guess she wrongly believes opponents at this Vul.|pg||
 pc|c2|pc|c4|pc|s4|pg||
 nt|dbl me:  Hard to resist the 5C bid when the length there had never been shown.|pg||
 nt|chip:  At least a fairly cheap phatom save (down 1).|pg||
@@ -417,7 +417,7 @@ pc|hQ|pc|h3|pc|h5|pc|c6|pg||
 pc|hJ|pc|c8|pc|hA|pc|s7|pg||
 pc|s8|pc|sK|pc|s3|pc|sT|pg||
 mc|8|pg||
-qx|c58|st||md|4SKJ97H642D93CKT64,SQ432HQJ7DKJT87C3,SATHT983DA62CQ872,S865HAK5DQ54CAJ95|sv|b|mb|1D|an|precision 2+ diam|mb|p|mb|1S|mb|p|mb|1N|mb|p|mb|p|mb|p|pc|h4|pc|h7|pc|h8|nt|chip:  Looks like 8 tricks.|pg||
+qx|c58|st||md|4SKJ97H642D93CKT64,SQ432HQJ7DKJT87C3,SATHT983DA62CQ872,S865HAK5DQ54CAJ95|sv|b|mb|1D|an|precision 2+ diam|mb|p|mb|1S|mb|p|mb|1N|mb|p|mb|p|mb|p|pc|h4|pc|h7|pc|h8|nt|chip:	Looks like 8 tricks.|pg||
 pc|hK|pg||
 pc|d5|pc|d3|pc|dJ|pc|d2|pg||
 pc|d7|pc|d6|pc|dQ|pc|d9|pg||
@@ -427,7 +427,7 @@ pc|cJ|pc|cK|nt|chip:  The defense started with KA and a spade on 56, declarer ru
 pc|c3|pg||
 pc|c4|pc|s2|pc|cQ|pc|cA|pg||
 pc|h5|pc|h2|pc|hJ|pc|h3|pg||
-pc|dK|nt|chip:  On 57 EW played 4S down 1, so 5 imps back to Baker and stop the Sonsini run.|pg||
+pc|dK|nt|chip:	On 57 EW played 4S down 1, so 5 imps back to Baker and stop the Sonsini run.|pg||
 nt|dbl me:  Yes, giving the ruff on the 2nd rd instead is superior|pg||
 pc|h9|pc|s5|pc|s7|pg||
 pc|d8|pc|c2|pc|s6|mc|8|pg||
@@ -455,7 +455,7 @@ pc|c2|pc|c5|pc|cJ|pc|cA|pg||
 nt|dbl me:  However, opps have been known to bid one more with a hand like E's|pg||
 pc|sK|pc|s9|pc|s8|pc|d3|pg||
 nt|chip:  I think W would express an opinion about 5H first. Now if N bid 5H, that might get Ew to 5S.|pg||
-nt|dbl me:  S ain't bidding 5h  ;-)|pg||
+nt|dbl me:  S ain't bidding 5h	;-)|pg||
 pc|s4|pc|sJ|pc|d2|pc|h5|pg||
 pc|c7|pc|c8|pc|cQ|pc|c3|pg||
 mc|10|pg||
