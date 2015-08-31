@@ -21,7 +21,7 @@ pg||
 qx|o18|st||md|4SAT972HQ73D8764C4,SQ85HT8DQT5CJ9852,S6HA654DJ2CAQT763,SKJ43HKJ92DAK93CK|sv|n|mb|1D|mb|p|mb|p|mb|2C|mb|d|nt|mbruun: This shoul end the bidding|pg||
 nt|mbruun: d|pg||
 mb|p|mb|2D|nt|adriaantje: Hop does play at the highest possible level in the Netherlands, but he likes to play mixed events with his girlfriend Banas as well :)|pg||
-nt|pelu:  1    TACZEWSKA J. - ZATORSKI P.     59.62  2    BUUS THOMSEN S. - BILDE D.     59.30  3    PUCZYNSKA A. - GALAZKA K.      56.57   |pg||
+nt|pelu:  1    TACZEWSKA J. - ZATORSKI P.     59.62  2	  BUUS THOMSEN S. - BILDE D.	 59.30	3    PUCZYNSKA A. - GALAZKA K.	    56.57   |pg||
 mb|2H|mb|p|nt|adriaantje: who is from Polish origin|pg||
 mb|p|mb|p|nt|mbruun: Tempting to go for the gold and pass 2 C X with red opps|pg||
 pc|dA|nt|adriaantje: that would not have been a crazy idea|pg||
@@ -91,7 +91,7 @@ nt|luka55: Yes @C+any|pg||
 mb|3C!|nt|adriaantje: what's common in Poland?|pg||
 nt|pelu:  the I would pass 2@c|pg||
 mb|p|mb|p|mb|p|nt|luka55: but posible 5any 4@C|pg||
-pc|hJ|nt|pelu:  s "know" that ps has @c + @s|pg||
+pc|hJ|nt|pelu:	s "know" that ps has @c + @s|pg||
 nt|mbruun: Dont worry about the overtricks on this hand|pg||
 pc|h2|pc|hA|pc|h4|pg||
 pc|c3|pc|cJ|pc|cQ|pc|c2|pg||
@@ -229,7 +229,7 @@ pc|h5|pc|hQ|pc|h4|pg||
 pc|h6|pc|h8|pc|hK|pc|hA|pg||
 nt|mbruun: rehe|pg||
 nt|adriaantje: I know W does with his regular p|pg||
-mc|11|nt|pelu:  and from spec: did it promise opening values :)|pg||
+mc|11|nt|pelu:	and from spec: did it promise opening values :)|pg||
 nt|adriaantje: I've seen W opening 10 HCP and 4333 and blaming his partner for the bad score|pg||
 nt|josj: maybe, it did so on paper|pg||
 nt|adriaantje: Ah, yet another Dutch pair, nice|pg||
@@ -252,7 +252,7 @@ nt|pelu:  our operator is - now - Andreas Plejdrup|pg||
 nt|mbruun: 2 D NV seems clear cut|pg||
 mb|p|pc|cQ|nt|mbruun: Sry, Im to wild even for the juniors|pg||
 pc|c4|pc|cA|pc|c2|pg||
-pc|s7|nt|pelu:  your partner overcall - show a good suit (dont take space from opp) and then u lead another suit - and even the wrong card in the suit :(:(|pg||
+pc|s7|nt|pelu:	your partner overcall - show a good suit (dont take space from opp) and then u lead another suit - and even the wrong card in the suit :(:(|pg||
 pc|s6|pc|s9|pc|sQ|pg||
 pc|h3|pc|h2|pc|h8|pc|hQ|pg||
 nt|pelu:  not good for partnership morale (tels spects :))|pg||
@@ -284,7 +284,7 @@ pc|d7|pg||
 nt|pelu:  diff system :)|pg||
 pc|s3|pc|sA|pc|s8|pc|s2|pg||
 pc|cA|pc|cQ|pc|c2|pc|c3|pg||
-pc|cT|nt|pelu:  brigth spec: 5x@d and @sK = a squeeze for 8 tricks |pg||
+pc|cT|nt|pelu:	brigth spec: 5x@d and @sK = a squeeze for 8 tricks |pg||
 pc|h2|pc|c5|pc|c4|pg||
 pc|c7|pc|d4|nt|josj: and 120 beats 110|pg||
 pc|cK|pc|c6|pg||
@@ -292,7 +292,7 @@ pc|cJ|pc|c8|pc|d3|nt|Vugraphzjf: td says 1 minut|pg||
 nt|Vugraphzjf: didn't speed anything up :))|pg||
 pc|d8|pg||
 pc|c9|pc|h7|nt|adriaantje: bridge players have their own sense of time :)|pg||
-pc|d6|nt|pelu:  I am now told that after invention they dont play check-back for @hs |pg||
+pc|d6|nt|pelu:	I am now told that after invention they dont play check-back for @hs |pg||
 nt|pelu:  sourse: Jassem|pg||
 pc|dJ|pg||
 pc|h4|pc|h3|pc|hA|pc|h6|pg||
@@ -306,7 +306,7 @@ mb|p|mb|p|mb|1C|mb|1N|mb|p|mb|2D!|mb|p|nt|pelu:   no update on resultpage after 
 mb|2H|mb|p|mb|p|mb|p|nt|mbruun: Conservative but good decision by West since partner is bound to have wasted values in diamonds|pg||
 nt|adriaantje: Bos choosing not to bid 2@C, after which he could bid (after 2@D) 2@H to define his hand more precisely|pg||
 nt|josj: NS might be in contention for a medal|pg||
-pc|c6|nt|pelu:  NS no3 before last 8 boards|pg||
+pc|c6|nt|pelu:	NS no3 before last 8 boards|pg||
 pc|c2|pc|c3|pc|c8|pg||
 pc|dA|nt|mbruun: Clubs sorry|pg||
 pc|d5|pc|s2|pc|d3|pg||
@@ -438,14 +438,14 @@ nt|mbruun: Clubs are blocking though, so he might be kept to 10|pg||
 pc|sA|pc|s7|pc|s3|pc|s5|pg||
 pc|s9|pc|d4|pc|sK|pc|s6|pg||
 pc|sQ|nt|mbruun: Unless hes playing chinese in hearts|pg||
-pc|sT|nt|pelu:  why would @D be better? @DA, 4@S and @CK|pg||
+pc|sT|nt|pelu:	why would @D be better? @DA, 4@S and @CK|pg||
 nt|mbruun: She|pg||
 pc|d6|pc|dT|pg||
 pc|sJ|pc|d5|pc|d7|nt|luka55: Yes probably only 10tricks|pg||
 pc|h6|pg||
 nt|mbruun: Takes out an entry|pg||
 nt|adriaantje: if she plays all her @Ss now|pg||
-pc|s8|nt|pelu:  easy 11 tricks on @D-lead|pg||
+pc|s8|nt|pelu:	easy 11 tricks on @D-lead|pg||
 pc|d8|pc|c7|pc|dQ|pg||
 nt|mbruun: How?|pg||
 nt|pelu:  @D ro A, 4 x @S , @CK|pg||
@@ -476,7 +476,7 @@ pc|s9|pc|sT|pc|s3|pg||
 nt|luka55: Great play by Polish junior |pg||
 pc|s7|pc|sA|pc|s8|pc|s5|pg||
 pc|d4|nt|adriaantje: yes, the mixed pairs have been ruled by the Polish players|pg||
-pc|d2|nt|pelu:  Poland also No 7 - Sweden No 6|pg||
+pc|d2|nt|pelu:	Poland also No 7 - Sweden No 6|pg||
 pc|dQ|pc|d5|pg||
 nt|adriaantje: they must have trained hard :)|pg||
 pc|dT|pc|dJ|pc|dK|pc|d3|pg||
