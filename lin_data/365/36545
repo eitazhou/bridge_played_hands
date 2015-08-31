@@ -35,7 +35,7 @@ pc|sK|pc|s3|pc|s5|pc|sJ|pg||
 pc|s2|pc|sT|pc|sA|pc|c2|pg||
 pc|h7|pc|h5|pc|hJ|pc|h8|pg||
 pc|hA|pc|c3|pc|h9|pc|hT|pg||
-mc|7|nt|ady: declarer tried for either 3-3 spade split    or heart finesse|pg||
+mc|7|nt|ady: declarer tried for either 3-3 spade split	  or heart finesse|pg||
 pg||
 qx|c18|st||md|4SA854H973DT62CQT9,SJ6HQT54DA983CA72,SK72HAKJ2DKQ4C654,SQT93H86DJ75CKJ83|sv|n|mb|p|mb|p|mb|1D|mb|1N|mb|p|mb|p|mb|p|pc|s9|pc|s4|pc|s6|pc|s2|pg||
 pc|s3|pc|s5|pc|sJ|pc|sK|pg||
@@ -54,7 +54,7 @@ pc|c7|pc|c4|pc|sQ|pc|c3|pg||
 pc|dA|pc|d5|pc|d8|pc|d4|pg||
 pc|d2|pc|d7|pc|s6|pc|d6|pg||
 pc|h6|pc|h4|pc|hQ|pc|hK|pg||
-pc|dK|pc|s7|nt|Henryb:  How does declarer hope to make on this line?|pg||
+pc|dK|pc|s7|nt|Henryb:	How does declarer hope to make on this line?|pg||
 pc|dJ|pc|d3|pg||
 pc|h9|pc|hT|nt|ady: 1 down|pg||
 pc|hJ|pc|h3|pg||
@@ -134,7 +134,7 @@ pc|c6|pc|c5|pc|cJ|pc|c2|pg||
 pc|dQ|pc|d3|pc|h4|pc|d9|pg||
 pc|dJ|pc|h3|pc|c9|pc|s8|pg||
 pc|d7|mc|7|pg||
-qx|o23|st||md|1ST987HAK85DATCKJ4,SAKQJHJ9632DQ8C72,S63HT7DKJ76542CAT,S542HQ4D93CQ98653|sv|b|mb|1N|nt|ady: 3NT   or 5@D   making n/s|pg||
+qx|o23|st||md|1ST987HAK85DATCKJ4,SAKQJHJ9632DQ8C72,S63HT7DKJ76542CAT,S542HQ4D93CQ98653|sv|b|mb|1N|nt|ady: 3NT	or 5@D	 making n/s|pg||
 mb|2C!|an|ask for M|mb|3N|mb|p|mb|p|mb|p|pc|sA|nt|ady: defence can take 4 spade tricks|pg||
 pc|s3|pc|s5|pc|s7|pg||
 pc|sK|pc|s6|pc|s4|pc|s8|pg||
@@ -151,7 +151,7 @@ pc|h2|pc|h7|pc|hQ|pc|hA|pg||
 pc|c4|pc|c2|pc|cT|pc|cQ|pg||
 pc|h4|pc|hK|pc|h3|pc|hT|pg||
 mc|8|pg||
-qx|o24|st||md|2SAK865HT63DK7C975,S743HJ754DA98CJ32,SJT9HAKQ8DQT62CA8,SQ2H92DJ543CKQT64|sv|o|mb|p|mb|1C!|mb|p|mb|1N!|an|5+ !S|mb|p|nt|ady: 4@S   best spot for n/s|pg||
+qx|o24|st||md|2SAK865HT63DK7C975,S743HJ754DA98CJ32,SJT9HAKQ8DQT62CA8,SQ2H92DJ543CKQT64|sv|o|mb|p|mb|1C!|mb|p|mb|1N!|an|5+ !S|mb|p|nt|ady: 4@S	best spot for n/s|pg||
 mb|3S!|mb|p|mb|4S|mb|p|mb|p|mb|p|pc|cK|pc|c5|pc|c2|pc|c8|pg||
 pc|s2|pc|s5|pc|s3|nt|ady: on 23   declarer went down  in 3NT  so leaders are now cruising|pg||
 pc|sT|pg||
@@ -183,7 +183,7 @@ pc|c4|pc|c9|pc|s2|pc|cT|pg||
 pc|dQ|pc|dK|pc|dA|pc|d3|pg||
 pc|d5|pc|d7|pc|dJ|pc|d2|pg||
 mc|8|pg||
-qx|o26|st||md|4SQ7HQJ8DA754CQT63,SAJT96H76DT82CA98,SK8432H542DQJ93C7,S5HAKT93DK6CKJ542|sv|b|mb|1H|mb|p|mb|1S|mb|p|mb|3C|mb|p|mb|3D!|mb|p|mb|3N|mb|p|mb|p|mb|p|nt|ady: unfortunate  for Stenson  hand 25     west does not know of the heart fit  to make 6NT    also south had an sutomatic diamond lead|pg||
+qx|o26|st||md|4SQ7HQJ8DA754CQT63,SAJT96H76DT82CA98,SK8432H542DQJ93C7,S5HAKT93DK6CKJ542|sv|b|mb|1H|mb|p|mb|1S|mb|p|mb|3C|mb|p|mb|3D!|mb|p|mb|3N|mb|p|mb|p|mb|p|nt|ady: unfortunate  for Stenson	hand 25     west does not know of the heart fit  to make 6NT	also south had an sutomatic diamond lead|pg||
 pc|sQ|pc|sA|pc|s2|pc|s5|pg||
 pc|sJ|pc|sK|pc|h3|pc|s7|pg||
 pc|dJ|pc|dK|pc|dA|pc|d2|pg||
@@ -220,7 +220,7 @@ pc|sK|pc|sT|pc|s4|pc|d6|pg||
 pc|dJ|pc|d3|pc|d8|pc|sQ|pg||
 pc|c4|pc|c2|pc|cQ|pc|cA|pg||
 pc|h8|pc|hT|pc|h9|pc|h2|pg||
-mc|11|nt|ady: 6@D   a good save    5@S  making|pg||
+mc|11|nt|ady: 6@D   a good save    5@S	making|pg||
 pg||
 qx|c27|st||md|1SQ54HQ8743D9CAT87,SHAJT5DKJ7652CK94,SAKJ97632H9DA3C52,ST8HK62DQT84CQJ63|sv|o|mb|p|mb|1D|mb|4S|mb|p|mb|p|mb|p|pc|d8|pc|d9|pc|dK|pc|dA|pg||
 pc|h9|pc|hK|pc|h3|pc|h5|pg||
