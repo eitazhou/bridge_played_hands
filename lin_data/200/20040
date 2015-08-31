@@ -90,7 +90,7 @@ nt|chmitty: le déclarant a fait une bêtise à l'entame|pg||
 pc|c7|nt|zds3006: Î÷£ºÑîÁ¢ÐÂ¡£¶«£º¶­Àûµ³¡£ÏÖÔÚ¹úÄÚ×îºÃµÄÒ»Á÷ÅÆÊÖ|pg||
 pc|s5|pc|c3|nt|goal: ÕâÑùÒ»¸öÕóÈÝ¶Ô¸¶È¥ÄêÐÂ¿ÆÊÀ½ç¹Ú¾üµÄÔ­°àÈËÂí£¬ÊµÁ¦ÉÏÓ¦¸ÃÊÇÂÔÑ·Ò»³ï|pg||
 nt|goal: Ï£ÍûËûÃÇÄÜÓÐ³öÉ«µÄ·¢»Ó|pg||
-nt|poohbear: Declarer needs to guess spades and finesse the @ds backwards to make this  . He has an inferential count on the hand . he assumes East has no more than 5 @hs and 1 @c so he might ...|pg||
+nt|poohbear: Declarer needs to guess spades and finesse the @ds backwards to make this	. He has an inferential count on the hand . he assumes East has no more than 5 @hs and 1 @c so he might ...|pg||
 nt|poohbear: guess this|pg||
 nt|poohbear: now needs to cross with the @d ace to finesse @ss then run the @d jack|pg||
 nt|goal: ¿ªÊÒÄÏ±±Ã°½Ðµ½4S£¬µ«Ö»å´Ò»¡£±ÕÊÒµÄ3SÏÖÔÚÒªÈ«´ò¶Ô²ÅÄÜ´ò³É£¬90%Òªå´|pg||
@@ -263,7 +263,7 @@ pc|h7|pc|hA|pc|h3|pg||
 mc|10|pg||
 qx|o3|st||md|1SJHT98762DQ6CQJ87,SKQ4HAKQDK32CAT42,S98653H4DT975CK63,SAT72HJ53DAJ84C95|sv|e|mb|2H|mb|d|mb|p|mb|2N!|nt|xenya: typical 3rd hand opening|pg||
 mb|p|mb|3N|nt|psyck:  This is the last round of the RR: http://www.ccba.org.cn/Tour/Cross.aspx?tourid=703&section=78d819f6-9b7f-4008-abc8-4f6960f87c43&orderByRank=yes|pg||
-mb|p|nt|psyck:  Top 3 (Netherlands, USA, Chinese Taipai) separated by 4 VP's|pg||
+mb|p|nt|psyck:	Top 3 (Netherlands, USA, Chinese Taipai) separated by 4 VP's|pg||
 mb|p|mb|p|nt|psyck:  Italy/England trailing a bit at 5th|pg||
 pc|c7|pc|c2|pc|cK|pc|c5|pg||
 nt|psyck:  Winners will be decided by yje RR results, to this is the last match of the event|pg||
@@ -278,7 +278,7 @@ mc|11|pg||
 qx|c3|st||md|1SJHT98762DQ6CQJ87,SKQ4HAKQDK32CAT42,S98653H4DT975CK63,SAT72HJ53DAJ84C95|sv|e|nt|goal: ÄÏ¸Û¶¯Á¦¶ÓÔÚÁíÒ»×À³ö³¡µÄÊÇÀ´×Ô¹ãÖÝµÄÒ»¶ÔÄêÇáÅÆÊÖ£¬³Â¼Í¶÷ºÍÀî½¨Î°¡£ËûÃÇÔÚ¶Ô¿¹ÊÀ½çÇÅÁª´óÊ¦·ÖÅÅÐÐ°ñÉÏÅÅÇ°Á½ÃûµÄÒâ´óÀûÅÆÊÖ|pg||
 nt|goal: Õâ¸ö±ÈÈüÊÇ11ÂÖÑ­»·Èü£¬Ç°ÈýÂÖµÄ±ÈÈüÔÚ£º http://www.ccba.org.cn/Tour/RoundResult.aspx?section=78d819f6-9b7f-4008-abc8-4f6960f87c43&round=3&tourid=703|pg||
 nt|goal: ×¯¼ÒÃ»ÓÐ·É·½¿é£¬Ö»ÄÃµ½8¶Õ|pg||
-nt|goal: ¾¹·«¿ªÊÒµÄÑ¡ÊÖÊÇÁ¬ÈôDºÍÊ©ºÀ¾ü£¬ÏÖÒÛ¹úÊÖ|pg||
+nt|goal: ¾¹·«¿ªÊÒµÄÑ¡ÊÖÊÇÁ¬ÈôDºÍÊ©ºÀ¾ü£¬ÏÖÒÛ¹úÊÖ|pg||
 nt|chmitty: mais comme il y a Fantoni de l'autre côté, ils finiront ensemble !!!|pg||
 nt|chmitty: aurait pu :) mais ça n'est pas raisonnable en effet|pg||
 nt|marlowepi: il est probable mais loin de sur que Ouest tienne les coeurs et non les piques. en tous cas un fit theorique 44 a pique ne sera pas forcement la cle de la citadelle meme quand il ...|pg||
@@ -779,7 +779,7 @@ nt|goal: ÄÏ±±µÄÌåÏµÊÇ¶À´´µÄFlyÌåÏµ|pg||
 nt|granguru:  lead shows 10x 109x or 109xxx|pg||
 nt|zds3006: ¶«Î÷ÓÐ4H£¬|pg||
 nt|chmitty: sur entame 10 de @c et petit du mort, Franck saura que son partenaire a 109 secs|pg||
-nt|ritong: 3@h ne serait pas forcing, a priori  mais il pouvait "transiter" par 3@d, par exemple|pg||
+nt|ritong: 3@h ne serait pas forcing, a priori	mais il pouvait "transiter" par 3@d, par exemple|pg||
 pc|c6|nt|zds3006: ÒòÎª±ØÐëÏÈ¼ì²é3NTÊÇ·ñºÏÀí£¬ÖÁÓÚÂú¹á£¿´Ó3Sµ½6C»¹ÓÐ×ã¹»µÄ¿Õ¼äÄØ|pg||
 nt|goal: 4S ºÜ°²È«|pg||
 nt|chmitty: car sinon le déclarant aurait mis la dame|pg||
@@ -804,7 +804,7 @@ qx|o7|st||md|1SAK952H2DK63CKQ92,S87HJT863D9542C65,S4HAQ7DQJ87CAJT84,SQJT63HK954D
 pc|c4|pc|c3|pc|cK|pc|c5|pg||
 pc|d3|pc|d5|pc|dQ|pc|dA|pg||
 pc|sQ|pc|sA|pc|s7|pc|s4|pg||
-pc|cQ|nt|xenya: http://www.ccba.org.cn/Tour/Cross.aspx?tourid=703&section=78d819f6-9b7f-4008-abc8-4f6960f87c43&orderByRank=yes  for standings|pg||
+pc|cQ|nt|xenya: http://www.ccba.org.cn/Tour/Cross.aspx?tourid=703&section=78d819f6-9b7f-4008-abc8-4f6960f87c43&orderByRank=yes	for standings|pg||
 pc|c6|pc|c8|pc|c7|pg||
 pc|c2|pc|h6|pc|cA|pc|s3|pg||
 pc|cJ|pc|h4|pc|c9|pc|d2|pg||
@@ -1277,7 +1277,7 @@ nt|zds3006: 3NT¡£Ê×¹¥H¾Íå´£¬µ«¶«SKJ£¬ÓÐ¼¸¸öÈË»áÊ×�
 nt|chmitty: on peut même faire 6 je pense si on devine l'as de @h 3ème !!|pg||
 pg||
 qx|o11|st||md|1SAJ754HJ972DKQC85,S862HAK6DJ42CAKT4,SKQ3HQTDAT85CQJ63,ST9H8543D9763C972|sv|o|nt|psyck:  if dummy had @cJ in addition, the contract could be made with a double dummy intra finesse in @s|pg||
-mb|1S|mb|d|mb|r|mb|p|nt|psyck:  as the cards were, he just did not have enough tricks|pg||
+mb|1S|mb|d|mb|r|mb|p|nt|psyck:	as the cards were, he just did not have enough tricks|pg||
 mb|2H|mb|p|nt|xenya: note that if W had won @DA and played a @H (as most of us would i believe) he would have squeezed E  |pg||
 mb|4S|mb|p|mb|p|mb|p|pc|cA|pc|c3|pc|c2|nt|xenya: needs a @C lead to beat it by 2 tricks|pg||
 pc|c5|pg||
@@ -1469,7 +1469,7 @@ mb|p|nt|poohbear: Grue is making me look bad all match :P|pg||
 pc|h3|nt|goal: 2SÊÇÄ³¸ß»¨¶ÌÃÅµÄÈýÌ×ÅÆ|pg||
 nt|goal: 2NTÎÊ£¬3D±íÊ¾ºìÐÄ¶Ì|pg||
 nt|goal: Ó¦¸ÃÊÇÒ»¸±Ã»ÓÐÊäÓ®µÄÅÆ¡£|pg||
-nt|goal: ¶«¼Ò¿ÉÒÔÑ¡Ôñ´ò3NT£¬»òÕß4CÀ­³öí£¬Í¬°é·ñ¶¨·½¿é¿ØÖÆºóÍ£ÔÚ5C¡£3NTºÍ5CÔÚÊµ¼Ê·Ö²¼ÏÂ¶¼Ã»ÓÐÎÊÌâ¡£|pg||
+nt|goal: ¶«¼Ò¿ÉÒÔÑ¡Ôñ´ò3NT£¬»òÕß4CÀ­³öí£¬Í¬°é·ñ¶¨·½¿é¿ØÖÆºóÍ£ÔÚ5C¡£3NTºÍ5CÔÚÊµ¼Ê·Ö²¼ÏÂ¶¼Ã»ÓÐÎÊÌâ¡£|pg||
 nt|goal: ¿ªÊÒ¶«Î÷ÓÃÀàËÆµÄ½ø³Ì½Ðµ½5C|pg||
 nt|chmitty: si oui, c'est agréable avec cette main, mais moins avec une main faible non fittée|pg||
 nt|chmitty: 500 ?? un bon arrangement entre amis|pg||
@@ -1543,7 +1543,7 @@ nt|chmitty: accident de Fantunes sur la 11 semble-t-il : ils jouent 5@d et pas 4
 pc|c4|pc|c5|pg||
 nt|goal: ³©´ï½«ÔÙµÃ6£­8µã|pg||
 nt|marlowepi: je vous informe a propos de rien que je viens de voir un spectacle que je n'ai jamais vu........pendant les dernieres 10 minutes j'ai vu dans la rue devant mon batiment un grand ...|pg||
-nt|marlowepi: defile tres bruyant  qui est une manifestation contre le president du club de football de ce quartier .   police escort et tout !!  peut-etre quotidien en europe mais pour un ...|pg||
+nt|marlowepi: defile tres bruyant  qui est une manifestation contre le president du club de football de ce quartier .	police escort et tout !!  peut-etre quotidien en europe mais pour un ...|pg||
 nt|marlowepi: pauvre paysan provincial d'Indiana......|pg||
 pc|dT|nt|vugraphzph: bien joué|pg||
 pc|d2|pc|d7|nt|goal: ÏÖÔÚ»¹ÊÇå´Ò»|pg||
@@ -1811,7 +1811,7 @@ nt|chmitty: l'entame atout semblait plus naturelle|pg||
 nt|marlowepi: S peut ici envisager une main "parfaite" pour N qui rendrait un chelem jouable, et peut-etre  dans ces circonstances il aurait pu explorer cette possibilite|pg||
 nt|ritong: il l a , en quelque sorte|pg||
 nt|ritong: 4@d laisse la place a 4@h|pg||
-nt|marlowepi: AKTx   Axxx   Qx   Kxx, qui n;est guere differente ce celle que tient N|pg||
+nt|marlowepi: AKTx   Axxx   Qx	 Kxx, qui n;est guere differente ce celle que tient N|pg||
 pc|hK|pg||
 nt|poohbear: 1@c 1@d 1NT 2NT might be artificial|pg||
 nt|goal: sure, you are right|pg||
