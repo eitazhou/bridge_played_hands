@@ -60,7 +60,7 @@ pc|sT|pc|sK|pc|h3|pc|s2|pg||
 pc|cQ|pc|cT|pc|c8|pc|cK|pg||
 mc|10|pg||
 qx|c19|st||md|1SK9653H6DT7CQJ642,S7HAQT7543DQ652CT,SQJ842HK98DA8CA98,SATHJ2DKJ943CK753|sv|e|mb|p|mb|3H|nt|malipivo:  4@h for E-W is working well, N-S may sacrifice in spades.|pg||
-mb|p|mb|p|nt|malipivo:  Defence must be careful to attack diamonds first, otherwise @hK provides a pitch for losing diamond.|pg||
+mb|p|mb|p|nt|malipivo:	Defence must be careful to attack diamonds first, otherwise @hK provides a pitch for losing diamond.|pg||
 mb|p|pc|sQ|pc|sA|pc|s3|pc|s7|pg||
 pc|hJ|pc|h6|pc|hA|pc|h8|pg||
 pc|hQ|pc|hK|pc|h2|pc|s5|pg||
@@ -96,8 +96,8 @@ pc|hK|pc|h4|pc|h9|pc|hA|pg||
 pc|h2|pc|hQ|pc|h6|pc|h8|pg||
 pc|sA|pc|sQ|pc|s9|pc|s6|pg||
 mc|9|pg||
-qx|c21|st||md|3SJT9875H98D6C9764,S64HAJ2DKT974CQ85,SA3HKQ73DJ853CJ32,SKQ2HT654DAQ2CAKT|sv|n|mb|p|mb|1C|mb|p|mb|1D|nt|malipivo:  3!n E-W is a sound contract.|pg||
-mb|p|mb|1H|mb|p|mb|1S!|an|trsf to 1NT|mb|p|mb|2N|an|18-19|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|sJ|nt|malipivo:  The same contract is found in the OR, @sJ lead.|pg||
+qx|c21|st||md|3SJT9875H98D6C9764,S64HAJ2DKT974CQ85,SA3HKQ73DJ853CJ32,SKQ2HT654DAQ2CAKT|sv|n|mb|p|mb|1C|mb|p|mb|1D|nt|malipivo:	3!n E-W is a sound contract.|pg||
+mb|p|mb|1H|mb|p|mb|1S!|an|trsf to 1NT|mb|p|mb|2N|an|18-19|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|sJ|nt|malipivo:	The same contract is found in the OR, @sJ lead.|pg||
 pc|s4|pc|sA|pc|s2|pg||
 pc|s3|pc|sK|pc|s5|pc|s6|pg||
 pc|dA|pc|d6|pc|d4|pc|d3|pg||
@@ -178,7 +178,7 @@ pc|c8|pc|s6|pc|h6|pc|c7|pg||
 pc|s2|pc|s4|pc|sA|pc|s9|pg||
 pc|sJ|pc|sQ|pc|s5|pc|d2|pg||
 mc|10|pg||
-qx|o25|st||md|3SQ65HQ62DQJ54CA43,S43HJ73DKT87CQJ98,SAKJ872HAKT95D9CK,ST9H84DA632CT7652|sv|e|mb|1S|mb|p|mb|3D|an|limit raise     3!s|mb|p|mb|3H|mb|p|mb|3S|mb|p|mb|4C|mb|p|mb|4S|mb|p|mb|4N|mb|p|mb|5D|mb|d|mb|p|mb|p|mb|5H|mb|p|mb|6S|mb|p|mb|p|mb|p|pc|dA|pc|d4|pc|d7|pc|d9|pg||
+qx|o25|st||md|3SQ65HQ62DQJ54CA43,S43HJ73DKT87CQJ98,SAKJ872HAKT95D9CK,ST9H84DA632CT7652|sv|e|mb|1S|mb|p|mb|3D|an|limit raise	3!s|mb|p|mb|3H|mb|p|mb|3S|mb|p|mb|4C|mb|p|mb|4S|mb|p|mb|4N|mb|p|mb|5D|mb|d|mb|p|mb|p|mb|5H|mb|p|mb|6S|mb|p|mb|p|mb|p|pc|dA|pc|d4|pc|d7|pc|d9|pg||
 pc|d2|pc|dQ|pc|dK|pc|s2|pg||
 mc|12|nt|vugraphzaz: break at the table|pg||
 pg||
@@ -203,7 +203,7 @@ pc|hJ|pc|h8|pc|h7|pc|hA|pg||
 pc|dA|pc|d2|pc|c7|pc|d8|pg||
 pc|h6|pc|hT|mc|9|pg||
 qx|c26|st||md|4SJ32HQ983DQCAJT72,SA865H754DT87CKQ4,SKQHAK6DA53C98653,ST974HJT2DKJ9642C|sv|b|mb|p|mb|p|mb|p|mb|1N|mb|p|mb|2C|mb|p|mb|2D|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|d6|pc|dQ|pc|d7|pc|d3|pg||
-pc|h3|pc|h4|pc|hA|nt|malipivo:  5@c would be unlucky on this layout (-1).|pg||
+pc|h3|pc|h4|pc|hA|nt|malipivo:	5@c would be unlucky on this layout (-1).|pg||
 pc|h2|pg||
 pc|c5|pc|s4|pc|cA|pc|c4|pg||
 pc|s2|pc|sA|pc|sQ|pc|s7|pg||

@@ -89,8 +89,8 @@ nt|phil: I cannot count today|pg||
 nt|phil: Dennis was  1 a push? |pg||
 mc|7|nt|uni_dennis: but i'm interested in the bidding, as NS play a mini-NT in this Vul|pg||
 nt|phil: so the unofficial score is Spain 8, Netherlands 0|pg||
-nt|uni_dennis:  1 was push,  2 5 or 6imps to spain|pg||
-nt|uni_dennis:  3 3 imps to Spain|pg||
+nt|uni_dennis:	1 was push,  2 5 or 6imps to spain|pg||
+nt|uni_dennis:	3 3 imps to Spain|pg||
 nt|fluffy: 8-0 for spain|pg||
 nt|phil: hey Gonzo!|pg||
 nt|fluffy: but board 4 might be 12 for dutch|pg||
@@ -186,7 +186,7 @@ pc|hA|pc|h5|pc|h3|pc|h7|pg||
 pc|hK|pc|h6|pc|s2|pc|s3|pg||
 pc|cK|pc|c5|pc|c8|pc|c2|pg||
 pc|cQ|pc|c6|pc|c9|pc|c4|pg||
-nt|ahollan1: Goded down in 5@H   sorry, didn't watch the play|pg||
+nt|ahollan1: Goded down in 5@H	 sorry, didn't watch the play|pg||
 pc|sA|pc|sK|pc|s4|pc|s5|pg||
 pc|c3|pc|cA|pc|cT|pc|c7|pg||
 mc|11|pg||
@@ -250,7 +250,7 @@ pc|dQ|pc|dK|pc|d2|pc|d4|pg||
 pc|sA|pc|s3|pc|s6|nt|phil: 12 away|pg||
 pc|s7|pg||
 pc|sT|nt|laukik: =|pg||
-pc|sQ|mc|10|nt|henryb:  I think they need 22, because surely the bye does not count towards the VP average. Although I suppose it might|pg||
+pc|sQ|mc|10|nt|henryb:	I think they need 22, because surely the bye does not count towards the VP average. Although I suppose it might|pg||
 pg||
 qx|o8|st||md|2SJT865HQ64DT2CAT2,SAQHA983DQ985CJ43,SK94HKT72DJ643CKQ,S732HJ5DAK7C98765|sv|o|mb|1D|mb|d|mb|1S|mb|2S|nt|ahollan1: on  7  Goded led @DA then shifted to @H10    +620 for a push|pg||
 mb|3C|mb|p|mb|p|mb|p|pc|s9|nt|ahollan1: sorry started to doze off    1@S=@C|pg||
@@ -341,9 +341,9 @@ pc|h6|pc|hQ|nt|laukik: its not 11 imp =980|pg||
 pc|hA|nt|laukik: now|pg||
 pc|h2|pg||
 mc|12|pg||
-qx|o12|st||md|2SQHAJDQ952CJ96532,SKJHQ542DAKJ63CT8,ST973HK863DT84CKQ,SA86542HT97D7CA74|sv|n|nt|ahollan1: i believe that would be the default interpretation after a 1@H opener  but  not after minor suit opener|pg||
+qx|o12|st||md|2SQHAJDQ952CJ96532,SKJHQ542DAKJ63CT8,ST973HK863DT84CKQ,SA86542HT97D7CA74|sv|n|nt|ahollan1: i believe that would be the default interpretation after a 1@H opener	but  not after minor suit opener|pg||
 mb|1N|mb|p|mb|4D|nt|ahollan1: 1N = good 14-17|pg||
-mb|p|mb|4S|mb|p|mb|p|mb|p|pc|cK|nt|ahollan1: 4@D = South African Texas    showing @S  [no slam or taking charge]|pg||
+mb|p|mb|4S|mb|p|mb|p|mb|p|pc|cK|nt|ahollan1: 4@D = South African Texas	  showing @S  [no slam or taking charge]|pg||
 nt|fluffy: heart lead insta beats, but impossible, now @cK will make it interesting|pg||
 nt|ahollan1:  11  Goded DOES bid 4N after 1@H-4@S|pg||
 nt|ahollan1: Brink bids 5@S  and Spain gets to slam|pg||
@@ -461,7 +461,7 @@ pc|cK|nt|thorvald: Very agressive bidding vs a passed partner|pg||
 pc|c8|pc|c2|pc|c5|pg||
 pc|cA|pc|cT|pc|c3|pc|c7|pg||
 mc|9|pg||
-qx|o16|st||md|2SAQ75HQT982D7C762,S982HK76DKQ84CAK9,SJ6HAJ53DJ965C843,SKT43H4DAT32CQJT5|sv|e|nt|ahollan1: now  final board of the match   very well played by Spain|pg||
+qx|o16|st||md|2SAQ75HQT982D7C762,S982HK76DKQ84CAK9,SJ6HAJ53DJ965C843,SKT43H4DAT32CQJT5|sv|e|nt|ahollan1: now  final board of the match	 very well played by Spain|pg||
 mb|1N|mb|p|mb|2C|mb|p|mb|2D|nt|ahollan1: many rooms still in play   qualifiers still uncertain|pg||
 mb|p|mb|3C|mb|p|mb|3D|mb|p|mb|3H|mb|p|nt|fluffy: now no game should make, but who knows|pg||
 nt|ahollan1: 3@C = 41 in majors|pg||
@@ -489,7 +489,7 @@ nt|ahollan1: closed room now on final board|pg||
 pg||
 qx|c16|st||md|2SAQ75HQT982D7C762,S982HK76DKQ84CAK9,SJ6HAJ53DJ965C843,SKT43H4DAT32CQJT5|sv|e|mb|1N|nt|phil: I have Spain at a quotient of 1.3333 - adding up Netherlands now|pg||
 mb|p|nt|thorvald: Still Board 5 looks like the board that could have let Spain thru to the last 16|pg||
-mb|2C|mb|p|mb|2D|mb|p|mb|2H!|mb|p|mb|2S|mb|p|mb|2N|mb|p|mb|3C|mb|p|mb|3D|mb|p|nt|ahollan1: thru 14  our teams tied for 4th/5th  but that doesn't include the Dutch pickup on 15|pg||
+mb|2C|mb|p|mb|2D|mb|p|mb|2H!|mb|p|mb|2S|mb|p|mb|2N|mb|p|mb|3C|mb|p|mb|3D|mb|p|nt|ahollan1: thru 14  our teams tied for 4th/5th	but that doesn't include the Dutch pickup on 15|pg||
 mb|3N|mb|p|mb|p|mb|p|nt|ahollan1: there will be a vugraph table open to hear the Captain's picks for R16|pg||
 pc|h3|pc|h4|pc|hT|nt|ahollan1: same @H lead in the other room|pg||
 pc|hK|pg||
@@ -506,7 +506,7 @@ pc|s5|pc|s2|pc|s6|pg||
 nt|dbrenner: it's showing not a tie anymore|pg||
 nt|uni_dennis: so Netherlands finish 4th in this group then|pg||
 nt|bobholl: K@D with 9 in N?|pg||
-nt|ahollan1: i believe  not only will captain's pick their R16 opponent, but will also choose which sessions they have seating rights|pg||
+nt|ahollan1: i believe	not only will captain's pick their R16 opponent, but will also choose which sessions they have seating rights|pg||
 nt|phil: Drijver drops the 9 but West still gets it right|pg||
 nt|ahollan1: R16 is 6 sets of 16 boards over 2 days|pg||
 nt|uni_dennis: so Germany can pick from France, Poland and Ireland|pg||
@@ -516,5 +516,5 @@ mc|9|nt|ahollan1: not really  next highest remaining team chooses its opponent f
 nt|uni_dennis: no number 2 automatically matched to worst team from other group|pg||
 nt|ahollan1: rules of selection are described in the Supplemental Conditions of Contest|pg||
 nt|ahollan1: anyone want to guess which opponents are picked by Germany and USA?|pg||
-nt|ahollan1: majority guesses   USA v India    Germany v Ireland|pg||
+nt|ahollan1: majority guesses	USA v India    Germany v Ireland|pg||
 pg||

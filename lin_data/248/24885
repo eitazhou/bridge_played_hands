@@ -55,7 +55,7 @@ pg||
 qx|o27|st||md|1SAJ74HAKQ763DK53C,SKQ962H2DAQT6CQ62,S83H5DJ9742CKJT54,ST5HJT984D8CA9873|sv|o|nt|sga1:  not good bidding|pg||
 nt|sga1:  s will open 1c now|pg||
 mb|1C!|mb|d!|an|s& D or !H And !C|mb|p|mb|1S|mb|2H|mb|2S|nt|sga1:  EWplaying two suites overcalls|pg||
-mb|3C|mb|p|mb|3H|mb|p|nt|sga1:  2S shows S and D|pg||
+mb|3C|mb|p|mb|3H|mb|p|nt|sga1:	2S shows S and D|pg||
 mb|p|mb|p|pc|sK|pc|s3|pc|sT|pc|s4|pg||
 pc|s6|pc|s8|pc|s5|pc|s7|pg||
 pc|c4|pc|cA|pc|h3|pc|c2|pg||
@@ -109,9 +109,9 @@ pc|hA|pc|h7|pc|h5|pc|d2|pg||
 pc|hQ|pc|h9|pc|d7|pc|d4|pg||
 pc|h4|pc|hT|pc|d9|pc|d8|pg||
 pc|d3|mc|10|pg||
-qx|o29|st||md|3SAKQTHKQ863D86CAQ,S8432HA4DQT2CKJ82,SJ95HJT95DA954C75,S76H72DKJ73CT9643|sv|b|mb|p!|mb|p|mb|1C!|mb|p|mb|1D!|mb|p|mb|1H!|nt|sga1:  no|pg||
+qx|o29|st||md|3SAKQTHKQ863D86CAQ,S8432HA4DQT2CKJ82,SJ95HJT95DA954C75,S76H72DKJ73CT9643|sv|b|mb|p!|mb|p|mb|1C!|mb|p|mb|1D!|mb|p|mb|1H!|nt|sga1:	no|pg||
 mb|p|mb|1S!|mb|p|mb|1N|mb|p|mb|2C!|mb|p|mb|2N|an|both|mb|p|mb|4H|mb|p|mb|p|mb|p|nt|sga1:  reached a cold contract finally|pg||
-pc|d2|nt|sga1:  S showed a balanced hand after 1H puppet|pg||
+pc|d2|nt|sga1:	S showed a balanced hand after 1H puppet|pg||
 pc|dA|pc|d7|pc|d8|pg||
 pc|hJ|pc|h2|pc|h3|pc|hA|pg||
 nt|sga1:  2c Stayman, 2nt both majors|pg||
