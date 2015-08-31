@@ -21,7 +21,7 @@ nt|kit: Norty will have rise king of clubs when a club is led from dummy, of cou
 nt|dbl me:  The textbook position in clubs in which N must rise early to prevent a ruffing finesse|pg||
 nt|phil:  yes but wont a trump play take out the entry? (Hi Kit / Richie)|pg||
 pc|dQ|nt|kit: But if South doesn't shift to a diamond now, that defense won't help |pg||
-pc|dA|pc|d4|nt|dbl me:  Hi Phil|pg||
+pc|dA|pc|d4|nt|dbl me:	Hi Phil|pg||
 pc|d3|pg||
 pc|c4|nt|kit: no, king of clubs also entry|pg||
 pc|cK|pc|cT|nt|kit: here is the test|pg||
@@ -31,7 +31,7 @@ nt|kit: He is checking, but I'm sure he will find the diamond continuation.|pg||
 pc|d6|pc|d9|pc|dJ|pc|dK|pg||
 nt|dbl me:  Rare to see an "oops" from Bobby... ;-)|pg||
 nt|phil:  there rates to be some IMPs on this board - NS have an easy 3N and 4@h isn't down off the top|pg||
-pc|cQ|pc|c2|nt|dbl me:  The key is for EW to realize that 4S is a gainful sac.|pg||
+pc|cQ|pc|c2|nt|dbl me:	The key is for EW to realize that 4S is a gainful sac.|pg||
 nt|kit: Martel trying to see if there is any chance.  There isn't.|pg||
 pc|d2|pc|cA|pg||
 pc|hA|pc|s4|pc|hJ|pc|h2|pg||
@@ -40,7 +40,7 @@ pc|sQ|pc|s8|pc|s3|pc|s6|pg||
 pc|s9|pc|sA|pc|s5|pc|s2|pg||
 mc|9|pg||
 qx|o3|st||md|1S5HAKQ765DQ52CAK9,SAKQ73HT2D8763C63,SJTHJ9DAKCQT87542,S98642H843DJT94CJ|sv|e|nt|kit: 6@C or 6@H cold, and should be pretty easy to bid I think.|pg||
-mb|1H|mb|1S|nt|dbl me:  wd by NS...|pg||
+mb|1H|mb|1S|nt|dbl me:	wd by NS...|pg||
 mb|2C|mb|3S|nt|kit: East would probably bid 4@S at other vulnerabilities, but at unfavorable it is a bit rich.|pg||
 nt|dbl me:  The vul. keeps EW from spoiling their fun|pg||
 nt|phil:  should 4@c be forcing here? |pg||
@@ -76,7 +76,7 @@ qx|c4|st||md|2SQ64HK42DT54CQ982,SJ9853H97DKQ83CA6,S72HAQJT86D2CKT73,SAKTH53DAJ97
 pc|s3|pc|s7|pc|sA|pc|s4|pg||
 pc|sK|pc|s6|pc|s5|pc|s2|pg||
 mc|10|pg||
-qx|o5|st||md|3S872H9764DKJ4CJ65,SK965HKT82D65CKQ8,SAJT3HA53DT32CA42,SQ4HQJDAQ987CT973|sv|n|mb|1C|mb|1D|mb|p|mb|1N|mb|p|mb|p|nt|dbl me:  Sometimes a phantom sac is not so phantom if the unsuccessful defense wd have been chosen...|pg||
+qx|o5|st||md|3S872H9764DKJ4CJ65,SK965HKT82D65CKQ8,SAJT3HA53DT32CA42,SQ4HQJDAQ987CT973|sv|n|mb|1C|mb|1D|mb|p|mb|1N|mb|p|mb|p|nt|dbl me:	Sometimes a phantom sac is not so phantom if the unsuccessful defense wd have been chosen...|pg||
 mb|p|nt|kit: Levin really has no attractive lead|pg||
 pc|sT|pc|sQ|nt|kit: That is a really bad spade holding to lead from|pg||
 pc|s8|pc|s6|pg||
@@ -88,7 +88,7 @@ pc|h7|pc|h8|nt|kit: Now if Levin had declarer's 5 of spades, it might be another
 nt|dbl me:  so true|pg||
 nt|kit: Declarer may have to play South for the jack of clubs, thought.|pg||
 pc|h3|pg||
-pc|cT|nt|phil:  he probably will - NS play a 14-16 NT|pg||
+pc|cT|nt|phil:	he probably will - NS play a 14-16 NT|pg||
 pc|c5|pc|cQ|pc|cA|pg||
 pc|d2|nt|dbl me:  yet another duck of an A (in clubs) wudda been fun...|pg||
 nt|kit: not clear to me how that would have mattered.|pg||
@@ -122,13 +122,13 @@ pc|d6|pc|d2|pc|dA|pc|d4|pg||
 pc|c7|pc|c6|pc|c8|pc|c4|pg||
 pc|cQ|pc|dT|pc|d9|pc|cJ|pg||
 pg||
-qx|o6|st||md|4SKQ5HA87DK9843C74,ST964HJ532DTCAT92,SJ732HKQT6DAJ76C6,SA8H94DQ52CKQJ853|sv|e|mb|1C|mb|1D|mb|d|nt|dbl me:  Not everyone wd choose 1D over a X, but it's magic here...|pg||
+qx|o6|st||md|4SKQ5HA87DK9843C74,ST964HJ532DTCAT92,SJ732HKQT6DAJ76C6,SA8H94DQ52CKQJ853|sv|e|mb|1C|mb|1D|mb|d|nt|dbl me:	Not everyone wd choose 1D over a X, but it's magic here...|pg||
 mb|2N!|mb|p|nt|kit: 5@D is a great contract -- if you guess the diamonds, that is.|pg||
 nt|phil:  seems reasonable with a partial club fit|pg||
 nt|kit: Which they did in the other room!|pg||
 nt|kit: 1@D overcall seems routine to me.|pg||
 mb|3C!|mb|p|nt|kit: They will get the diamonds right in this room also, after Zia's neg dbl showing 4-4 in majors and no 3@C bid by Martel|pg||
-mb|3H|mb|p|mb|3S|mb|p|mb|4C|mb|p|mb|4D|mb|p|nt|dbl me:  They're doing the obligatory NT-testing dance before reaching 5D|pg||
+mb|3H|mb|p|mb|3S|mb|p|mb|4C|mb|p|mb|4D|mb|p|nt|dbl me:	They're doing the obligatory NT-testing dance before reaching 5D|pg||
 nt|kit: I don't know if Levin can pass 4@D here in their partnership|pg||
 nt|kit: If he can, he probably will|pg||
 mb|p|mb|p|pc|c2|pc|c6|pc|cK|pc|c4|pg||
@@ -174,11 +174,11 @@ nt|frankaus: ..|pg||
 mb|p|mb|2C!|mb|p|mb|2H|mb|p|nt|kit: Qute a stop in other room with combined 33 HCP|pg||
 nt|dbl me:  That's a contract that wd be more commonly reached by a misunderstanding   ;-)|pg||
 mb|3C|mb|p|mb|3H|mb|p|mb|3N|mb|p|nt|phil:  5N now might get you there|pg||
-nt|kit: Now 5NT pick by South, 6@D by North, all pass.  Easy.|pg||
+nt|kit: Now 5NT pick by South, 6@D by North, all pass.	Easy.|pg||
 nt|dbl me:  hehe...nice|pg||
 nt|kit: actually quite possible looking at South's hand.|pg||
 mb|p|mb|p|nt|phil:  I love pick-a-slam, but it seems blunt to start finding your fits at the 6 level|pg||
-pc|d5|pc|dT|nt|dbl me:  3-suited hands are a real Achilles heal for 2C strong.|pg||
+pc|d5|pc|dT|nt|dbl me:	3-suited hands are a real Achilles heal for 2C strong.|pg||
 pc|d3|pc|d6|pg||
 nt|kit: wow -- they stopped in this room also.|pg||
 nt|dbl me:  Heel|pg||
@@ -213,11 +213,11 @@ mb|5D|mb|p|mb|p|mb|p|nt|dbl me:  You certainly don't look for "opportunities" to
 pc|hK|nt|kit: The inevitable Jxx hits in dummy on the king lead from KQxx.|pg||
 pc|h3|pc|h6|pc|hA|pg||
 pc|d4|pc|d6|pc|dK|pc|d2|pg||
-pc|s8|nt|phil:  3@d, while it cramps space, expresses the suit nicely - plus the hand is fast. The right 7 count produces 3N|pg||
+pc|s8|nt|phil:	3@d, while it cramps space, expresses the suit nicely - plus the hand is fast. The right 7 count produces 3N|pg||
 pc|s3|pc|sA|pc|s5|pg||
 pc|dA|pc|d8|pc|c2|pc|d3|pg||
 pc|dQ|pc|h2|pc|c4|pc|d5|pg||
-pc|dJ|nt|phil:  it did sound like they had a hole in the heart suit here|pg||
+pc|dJ|nt|phil:	it did sound like they had a hole in the heart suit here|pg||
 nt|dbl me:  3D however is rather depressing to a so-so hand with 5 spades and a small stiff d.|pg||
 nt|kit: yes, it does.  But how will partner know a club stop, not a heart stop is needed?|pg||
 mc|12|pg||
@@ -266,7 +266,7 @@ mb|2N|mb|p|nt|phil:  breather 4@h here|pg||
 nt|kit: Another dull hand -- although it won't look dull to declarer after likely spade lead.|pg||
 nt|kit: Cashing AK of hearts could be very bad if hearts 4-1.|pg||
 mb|3C|mb|d|mb|3D!|mb|p|mb|3S!|mb|p|nt|kit: Well, no spade lead now|pg||
-mb|4C|mb|p|mb|4D!|mb|d|mb|p|mb|p|mb|4H|mb|p|mb|p|mb|p|nt|dbl me:  There was a time long ago, my children, when 2N with the S hand was regarded as perverted...  ;-)|pg||
+mb|4C|mb|p|mb|4D!|mb|d|mb|p|mb|p|mb|4H|mb|p|mb|p|mb|p|nt|dbl me:  There was a time long ago, my children, when 2N with the S hand was regarded as perverted...	;-)|pg||
 nt|kit: Serves Martel right -- he makes two lead-directing doubles, and finds himself on lead.|pg||
 nt|dbl me:  hehe|pg||
 pc|dQ|pc|d3|pc|dA|pc|d2|pg||
@@ -287,7 +287,7 @@ pc|cK|pc|c3|pc|c2|pc|c5|pg||
 nt|kit: Declarer will play ace and a diamond without touching trumps, in order to guarantee being able to ruff a fourth diamond in dummy if needed.|pg||
 nt|dbl me:  Only a very unlikely trump lead wd be unsettling to decl. (and S wd have to unblock under the dA)|pg||
 pc|cJ|pc|c7|pc|cA|pc|h5|pg||
-pc|s3|pc|s2|nt|dbl me:  ...and give pd a d|pg||
+pc|s3|pc|s2|nt|dbl me:	...and give pd a d|pg||
 pc|sA|pc|s9|pg||
 pc|d4|pc|d9|pc|dA|pc|d3|pg||
 pc|sT|pc|s4|pc|sK|pc|sJ|pg||
@@ -356,7 +356,7 @@ mb|p|mb|p|nt|dbl me:  yup|pg||
 pc|sQ|nt|kit: In fact, declarer will take the heart finesse, since if it wins he would have East in squeeze-endplay|pg||
 pc|s4|pc|s2|pc|s9|pg||
 nt|kit: Which will result in down 2.|pg||
-nt|kit: Of course East better continue king of spades.  Don't know significance of 2 of spades from 32 doubleton.|pg||
+nt|kit: Of course East better continue king of spades.	Don't know significance of 2 of spades from 32 doubleton.|pg||
 nt|dbl me:  He will prob. conclude that if pd is out of spades, the contract is unbeatable|pg||
 nt|kit: I think so also.|pg||
 pc|cJ|nt|kit: I think they play standard signals|pg||
@@ -364,7 +364,7 @@ pc|cA|nt|kit: ouch!|pg||
 pc|c8|pc|c4|pg||
 pc|d5|pc|d2|pc|dQ|nt|dbl me:  uh-oh, signal mix-up|pg||
 pc|dK|pg||
-pc|c2|pc|c9|nt|dbl me:  This wd never happen at the rubber bridge club, where you must disregard your pd's carding  ;-)|pg||
+pc|c2|pc|c9|nt|dbl me:	This wd never happen at the rubber bridge club, where you must disregard your pd's carding  ;-)|pg||
 pc|c7|pc|cK|pg||
 pc|dA|pc|d8|pc|d9|pc|d7|pg||
 pc|dJ|pc|d6|pc|h2|pc|dT|pg||

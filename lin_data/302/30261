@@ -176,7 +176,7 @@ pc|c3|pc|d5|pc|dJ|pc|d3|pg||
 mc|10|pg||
 qx|o7|st||md|1S986HT86DQT942CA7,SA4HKQDAK87C86432,SKJ532H97532D3CT9,SQT7HAJ4DJ65CKQJ5|sv|b|nt|yorkbeach:  should have been -2 at least|pg||
 mb|p|nt|yorkbeach:  should be a routine game|pg||
-mb|1N|mb|p|mb|3N|nt|yorkbeach:  1NT = 15-17|pg||
+mb|1N|mb|p|mb|3N|nt|yorkbeach:	1NT = 15-17|pg||
 mb|p|mb|p|mb|p|nt|yorkbeach:  6@c is not far away but would need @dQ to drop|pg||
 pc|s2|nt|yorkbeach:  NS lead high from three small, so declarer knows that Nunes does not have KJ9xx|pg||
 pc|sQ|pc|s9|pc|s4|pg||
@@ -396,7 +396,7 @@ pc|s4|pc|sJ|pc|sQ|pc|d2|pg||
 pc|h6|pc|h3|pc|hQ|pc|h4|pg||
 mc|11|pg||
 qx|o12|st||md|2S93HAQJTDAKT4C932,SKJ652H986DQJ97C7,SAQTHK52D53CKJT86,S874H743D862CAQ54|sv|n|mb|p|mb|1N|mb|p|nt|yorkbeach:  in the CR, South switched to a @d at trick 3, which gave declarer an easier ride|pg||
-mb|2C|mb|p|mb|2D|mb|p|mb|3N|mb|p|nt|yorkbeach:  1NT = 12-14|pg||
+mb|2C|mb|p|mb|2D|mb|p|mb|3N|mb|p|nt|yorkbeach:	1NT = 12-14|pg||
 mb|p|mb|p|pc|s7|nt|paulg:  East leading his stronger major|pg||
 pc|s3|pc|sK|pc|sA|pg||
 pc|h2|nt|paulg:  this hand will not take long|pg||
@@ -411,11 +411,11 @@ pc|c2|pc|c7|pc|cJ|pc|cQ|pg||
 pc|s7|pc|s9|pc|sJ|pc|sQ|pg||
 pc|c6|pc|cA|pc|c3|pc|h6|pg||
 mc|11|pg||
-qx|o13|st||md|3ST7HDKQ9865CKT752,SK2HAKJ752DA743C8,S98543HQ9D2CAQJ64,SAQJ6HT8643DJTC93|sv|b|mb|p|mb|p|mb|2D|an| |nt|yorkbeach:  2@d does not promise opening values in third seat|pg||
+qx|o13|st||md|3ST7HDKQ9865CKT752,SK2HAKJ752DA743C8,S98543HQ9D2CAQJ64,SAQJ6HT8643DJTC93|sv|b|mb|p|mb|p|mb|2D|an| |nt|yorkbeach:	2@d does not promise opening values in third seat|pg||
 nt|paulg:  pretty difficult slam to bid|pg||
 nt|yorkbeach:  and to make on a @c lead|pg||
 mb|2H|nt|yorkbeach:  but of course North leads his singleton @d|pg||
-mb|p|nt|paulg:  3@h should be a strong jump overcall here and would be my choice|pg||
+mb|p|nt|paulg:	3@h should be a strong jump overcall here and would be my choice|pg||
 nt|yorkbeach:  so @c goes away on the @s|pg||
 mb|4H|mb|p|mb|p|mb|p|pc|d2|pc|dT|pc|dQ|pc|dA|pg||
 pc|hA|pc|h9|nt|paulg:  no-one is even thinking about slam but perhaps if East could have made a fit bid with 3@s then West would be interested|pg||
@@ -429,7 +429,7 @@ qx|o14|st||md|4ST3HQ62DAKQJ76C84,S9H853D953CAT9532,SQJ2HAJT4DT842CKQ,SAK87654HK9
 nt|paulg:  anyone who does bid the slam will deserve their IMPs|pg||
 mb|1S|mb|2D|mb|p|mb|2S|nt|yorkbeach:  2@s belngs to North|pg||
 mb|3S|mb|p|mb|p|nt|yorkbeach:  Nunes will not want to go past 3NT|pg||
-mb|3N|mb|p|mb|p|mb|p|nt|paulg:  some play that double by South asks for a spade stop|pg||
+mb|3N|mb|p|mb|p|mb|p|nt|paulg:	some play that double by South asks for a spade stop|pg||
 nt|paulg:  but Nunes needed more than a spade stop, a club and heart stop too would help|pg||
 nt|yorkbeach:  a high @s or a low one?|pg||
 pc|s4|nt|yorkbeach:  would take an inpsired view but 3NT is now makeable|pg||
@@ -478,7 +478,7 @@ pc|cK|pg||
 pc|s7|pc|c8|pc|cA|pc|hJ|pg||
 pg||
 qx|o15|st||md|1SJT974HKQT96DQ4C7,SAKQ852HA5D97CT92,S3HJ732DJ832CK853,S6H84DAKT65CAQJ64|sv|n|nt|yorkbeach:  leading high spades would have avoided the endplay option and given West the chance to ask for a @c switch|pg||
-mb|p|mb|1S|mb|p|mb|2D|mb|p|mb|2S|mb|p|mb|3C|mb|p|nt|yorkbeach:  but would not have helped|pg||
+mb|p|mb|1S|mb|p|mb|2D|mb|p|mb|2S|mb|p|mb|3C|mb|p|nt|yorkbeach:	but would not have helped|pg||
 nt|paulg:  Alujas will probably bid 3NT and hope that the spades and one minor provide sufficient tricks|pg||
 mb|3H|mb|p|mb|4C|mb|p|mb|4S|mb|p|mb|p|nt|paulg:  West will now try a natural 4@s|pg||
 mb|p|pc|h7|pc|h4|pc|hQ|pc|hA|pg||
@@ -513,12 +513,12 @@ pc|c7|pc|s2|pc|d8|pg||
 nt|Psyck:  yes one normally trusts initial carding of opps when they are unlikely to false card, i thought dc played it too fast...|pg||
 pc|cT|pc|c5|pc|c4|pc|h6|pg||
 mc|10|pg||
-qx|o16|st||md|2SA54HAKQ95DA8CJ53,ST872H7DKQ53CKQ97,SKQJ63H82DJ42CT82,S9HJT643DT976CA64|sv|e|mb|p|nt|yorkbeach:  a good result for Argentina in the CR|pg||
+qx|o16|st||md|2SA54HAKQ95DA8CJ53,ST872H7DKQ53CKQ97,SKQJ63H82DJ42CT82,S9HJT643DT976CA64|sv|e|mb|p|nt|yorkbeach:	a good result for Argentina in the CR|pg||
 mb|p|nt|yorkbeach:  avoiding 4@s|pg||
-mb|p|nt|paulg:  Final board and a big win for Monaco. Tough to have to face them in this mood.|pg||
+mb|p|nt|paulg:	Final board and a big win for Monaco. Tough to have to face them in this mood.|pg||
 mb|1H|an| |mb|p|mb|1S|mb|p|nt|yorkbeach:  1H natural and F1|pg||
 mb|2C|an| |mb|p|mb|2D|an| |mb|p|nt|paulg:  I've seen Fantoni and Nunes play in 3NT when they have a major fit more than any other world-class pair|pg||
-mb|2S|an| |mb|p|mb|3S|mb|p|mb|3N|nt|yorkbeach:  in the CR Helgemo X 1H, which made 4@s less attractive|pg||
+mb|2S|an| |mb|p|mb|3S|mb|p|mb|3N|nt|yorkbeach:	in the CR Helgemo X 1H, which made 4@s less attractive|pg||
 mb|p|mb|4S|mb|p|mb|p|nt|yorkbeach:  South's strong opening deterred Alujas from entering the auction|pg||
 mb|p|nt|yorkbeach:  some declarers have made 4@s after West was in the auction|pg||
 pc|dT|pc|dA|pc|d5|pc|d4|pg||

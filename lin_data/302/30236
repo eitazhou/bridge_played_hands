@@ -20,7 +20,7 @@ nt|ahollan1: 1N=14-16|pg||
 mb|1N|mb|2S|an| |mb|d|an| |nt|ahollan1: i think 2@S = nat  [i.e. not promising 2nd suit]|pg||
 nt|ahollan1: DBL = takeout|pg||
 nt|loganrun:  4S is tricky to beat with the club situation - they must untangle it to cash 4 tricks to beat it for sure|pg||
-mb|p|mb|p|mb|p|pc|h3|mc|9|nt|loganrun:  Poor judgement here|pg||
+mb|p|mb|p|mb|p|pc|h3|mc|9|nt|loganrun:	Poor judgement here|pg||
 nt|loganrun:  Surely double was takeout|pg||
 nt|vugraphzcz: sorry wrong result|pg||
 nt|vugraphzcz: will adjust|pg||
@@ -31,16 +31,16 @@ nt|loganrun:  No problem Michael - the Dutch fans are aghast|pg||
 nt|ahollan1: players enter results at the table using bridgemate|pg||
 nt|ahollan1: running scores come from there|pg||
 nt|JaapFr: score was 20-18 i think|pg||
-nt|ahollan1: http://www.worldbridge.org/repository/tourn/bali.13/microsite/Results.htm  has links for scores of all 3 championships|pg||
+nt|ahollan1: http://www.worldbridge.org/repository/tourn/bali.13/microsite/Results.htm	has links for scores of all 3 championships|pg||
 nt|vugraphzcz: board 25 3S made|pg||
-nt|ahollan1: web showing thru 7 boards  Argentina 20  Netherlands 17|pg||
+nt|ahollan1: web showing thru 7 boards	Argentina 20  Netherlands 17|pg||
 nt|loganrun:  Thank you Michael|pg||
 nt|vugraphzcz: board 26 2C made by East|pg||
 nt|vugraphzcz: board 27 now|pg||
 nt|loganrun:  This internet issue happened here before as well in a previous match - Michale are we likely to see the hands soon do you know?|pg||
 nt|loganrun:  Michael sorry (my bad finger typing)|pg||
 nt|vugraphzcz: sorry i dont know yet, they still working on it|pg||
-nt|ahollan1: there was a server room crash yesterday that also left us hanging  [and operators scrambling to re-enter results]|pg||
+nt|ahollan1: there was a server room crash yesterday that also left us hanging	[and operators scrambling to re-enter results]|pg||
 nt|ahollan1: ahh some progess now in other room where Muller just went down in 3@S|pg||
 nt|vugraphzcz: 2@S DBL was wrong result sorry|pg||
 nt|loganrun:  Al - shall we just continue to describe board 27 sight unseen and see if our analysis is correct later?|pg||
@@ -84,7 +84,7 @@ pc|dJ|pc|dT|nt|KingCur: as we see now: 2@C and making|pg||
 pc|dA|pc|d7|pg||
 pc|hJ|pc|h9|pc|h3|pc|hA|pg||
 pc|s3|pc|c3|pc|c4|pc|h4|pg||
-pc|cK|pc|cA|pc|c5|nt|granguru:  system rejected hand 28 played in the other table...|pg||
+pc|cK|pc|cA|pc|c5|nt|granguru:	system rejected hand 28 played in the other table...|pg||
 pc|c8|pg||
 pc|d3|pc|d8|pc|dK|nt|bobholl: but i fear this is making too|pg||
 pc|c7|pg||
@@ -106,7 +106,7 @@ pc|s2|pc|s6|pc|sA|pc|s5|pg||
 nt|KingCur: 33-30 to ARG current score|pg||
 pc|s9|pc|s4|pc|s3|pc|sJ|pg||
 nt|KingCur: a heart was led in Open, for 1 off in 4@S; with the trump lead, declarer might not even make 3@S here|pg||
-pc|d2|pc|d6|pc|dQ|nt|granguru:  Can win |pg||
+pc|d2|pc|d6|pc|dQ|nt|granguru:	Can win |pg||
 nt|bobholl: shout to him QQ|pg||
 pc|dK|pg||
 nt|granguru:  @H now |pg||
@@ -143,8 +143,8 @@ pc|s8|pc|sQ|pc|s9|pc|sT|pg||
 mc|10|pg||
 qx|o29|st||md|3ST984H8DQT865CKT3,SQJ73HQT9DA73C976,SK2HKJ643DJ42CJ54,SA65HA752DK9CAQ82|sv|b|nt|loganrun:  Bali is a fantastic holiday destination but the internet reliability is not quite as fantastic|pg||
 mb|p|mb|1C|mb|p|mb|1H|mb|p|mb|1S|mb|p|mb|2C|nt|loganrun:  1H shows spades|pg||
-mb|p|mb|2N|mb|p|mb|3N|mb|p|mb|p|mb|p|nt|ahollan1: so sorry  1@C = 16+ unbal or 17+ bal   1@H = art game force   a few hand types|pg||
-nt|ahollan1: 1@S relay   2@C = "bal"  [no singleton or void]  but not 5@C/@D(332)|pg||
+mb|p|mb|2N|mb|p|mb|3N|mb|p|mb|p|mb|p|nt|ahollan1: so sorry  1@C = 16+ unbal or 17+ bal	 1@H = art game force	a few hand types|pg||
+nt|ahollan1: 1@S relay	 2@C = "bal"  [no singleton or void]  but not 5@C/@D(332)|pg||
 nt|ahollan1: Verhees never showed @S|pg||
 pc|s9|nt|loganrun:  This will require all of Van Prooijen's guie - but this spade lead helps a little|pg||
 nt|loganrun:  guile|pg||
@@ -232,7 +232,7 @@ pc|cJ|pc|h4|pc|sT|pg||
 pc|cK|pc|h6|pc|hA|pc|s7|pg||
 pg||
 qx|o31|st||md|1S752HAK96D92CKQ53,SKJ8H842DQJ763CT2,SQT94HJT75DKT54CA,SA63HQ3DA8CJ98764|sv|n|nt|loganrun:  I would have thought a low club was better than a spade to the ace in case diamonds didn't break|pg||
-mb|1C|an| |nt|ahollan1: for NS  1@C = 2+   transfer responses|pg||
+mb|1C|an| |nt|ahollan1: for NS	1@C = 2+   transfer responses|pg||
 mb|1D|nt|loganrun:  Gives you 2 potential entries|pg||
 mb|d|an| |mb|r|nt|ahollan1: 1@D tends to deny a 4-card major|pg||
 mb|2H|an| |nt|ahollan1: with 4@H/@S & 5+@D  they overcall 1NT [raptor]|pg||
@@ -276,7 +276,7 @@ mc|9|nt|bobholl: claim|pg||
 pg||
 qx|o32|st||md|2SQ2HQ752DA732CQ65,SJT853HKJ9864D84C,S94H3DKT65CKT8743,SAK76HATDQJ9CAJ92|sv|e|nt|ahollan1: i bet players enter as down 1|pg||
 nt|vugraphzcz: he was down 2|pg||
-mb|p|mb|p|nt|ahollan1: really?   now i have to go back to the movie :(|pg||
+mb|p|mb|p|nt|ahollan1: really?	 now i have to go back to the movie :(|pg||
 mb|1C|nt|ahollan1: 1@C = 16+ unbal or 17+ bal|pg||
 mb|p|mb|1D|nt|ahollan1: 1@D = 0-7|pg||
 mb|1N|an| |nt|ahollan1: we knew somebody was going to bid 1N -- just thought it would be east|pg||
@@ -289,7 +289,7 @@ mb|4S|nt|ahollan1: cute situation for Leaping Michaels by the negative 1@D bidde
 nt|loganrun:  But what a 0-7 hand|pg||
 mb|4N|mb|d|nt|loganrun:  This will be expensive |pg||
 mb|5C|mb|p|nt|ahollan1: wow  just realized we on on last board of the match  [and of day 2]|pg||
-mb|p|mb|d|nt|loganrun:  Al - do they play Pass here as a willingness to double?|pg||
+mb|p|mb|d|nt|loganrun:	Al - do they play Pass here as a willingness to double?|pg||
 mb|p|mb|p|mb|p|nt|loganrun:  Looks like they do and double would be to go on|pg||
 nt|ahollan1: sorry Chris   at which point?|pg||
 pc|sJ|nt|loganrun:  After 5C|pg||
@@ -297,8 +297,8 @@ nt|loganrun:  By East|pg||
 pc|s4|pc|sK|pc|s2|pg||
 pc|sA|pc|sQ|pc|s3|pc|s9|pg||
 pc|hA|pc|h2|pc|h4|pc|h3|pg||
-nt|ahollan1: they've made some recent adjustments to high level DBL that I haven't absorbed, but often  DBL = willing to bid more |pg||
-pc|hT|pc|h5|pc|h6|nt|loganrun:  Ty|pg||
+nt|ahollan1: they've made some recent adjustments to high level DBL that I haven't absorbed, but often	DBL = willing to bid more |pg||
+pc|hT|pc|h5|pc|h6|nt|loganrun:	Ty|pg||
 pc|c3|pg||
 nt|ahollan1: Closed room is just finishing board 30|pg||
 pc|cK|nt|ahollan1: top page for links to scores for all 3 championships   http://www.worldbridge.org/repository/tourn/bali.13/microsite/Results.htm|pg||
