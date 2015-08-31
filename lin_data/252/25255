@@ -2,7 +2,7 @@ vg|Buffett Cup Match 1,1,B,1,12,USA,0,Europe,0|
 rs|3SW=,4SE-2,6NS+1,6NN+1,5DSx-2,3HW+1,4HE+1,4HE+1,3SE-1,3CS-2,3SEx=,3SE=,4SN-2,4SN+1,2HW+2,4HW+3,5CEx-1,4HW-1,3NS-2,3NS-2,,,,|
 pn|Lall,Bessis T.,Hamman,Bessis M.,Nunes,Wolpert,Fantoni,Levin|pg||
 qx|o1|st||md|3SJHT3DQJ873CKQT53,SK973HKJ96DK42C84,S842HAQ754DAT65C2,SAQT65H82D9CAJ976|sv|o|nt|yorkbeach:  EW for Europe are the father and son combination Michel Bessis-Thomas Bessis http://info.ecatsbridge.com/Systems/2012europeanteams-dublin/openteams/france/bessis-bessis.pdf|pg||
-mb|1H|mb|2H|mb|p|nt|yorkbeach:  scoring is like matchpoints - the size of the swing does not matter|pg||
+mb|1H|mb|2H|mb|p|nt|yorkbeach:	scoring is like matchpoints - the size of the swing does not matter|pg||
 mb|3S|mb|p|mb|p|mb|p|nt|yorkbeach:  East might make a Michaels cue bid NV with less than this|pg||
 pc|dA|pc|d9|pc|d3|nt|yorkbeach:  board-a-match or point-a-board is the official term for the scoring|pg||
 pc|d4|pg||
@@ -24,7 +24,7 @@ pc|s6|nt|yorkbeach:  North hopes the @s8 will score an overruff, so does not pla
 pc|c3|pc|s9|pc|s8|pg||
 pc|hK|pc|hA|pc|h8|pc|h3|pg||
 mc|9|pg||
-qx|c1|st||md|3SJHT3DQJ873CKQT53,SK973HKJ96DK42C84,S842HAQ754DAT65C2,SAQT65H82D9CAJ976|sv|o|nt|djneill:  hi all|pg||
+qx|c1|st||md|3SJHT3DQJ873CKQT53,SK973HKJ96DK42C84,S842HAQ754DAT65C2,SAQT65H82D9CAJ976|sv|o|nt|djneill:	hi all|pg||
 nt|djneill:  welcome, scorring is point-a-board, so the higher score wins, not IMPs|pg||
 nt|djneill:  N-S play 1NT/2@c/2@d/2@h/2@s as minimum opening hands, and 1@c/1@d/1@h/1@s as very solid opening hands|pg||
 nt|gavin:  hi|pg||
@@ -72,8 +72,8 @@ qx|o2|st||md|4SKJ65HAT75DQ95CAJ,ST9432HKJ983D6C93,SAQ7HQ4DAKJ4CKQ42,S8H62DT8732C
 mb|4S|nt|yorkbeach:  facing a 15-17 1NT, North can count 36 points|pg||
 mb|p|mb|4N|mb|p|mb|6N|mb|p|mb|p|mb|p|pc|s2|nt|yorkbeach:  looks like 4@s shows slam interest and asks South whether he is maximum or minimum|pg||
 mc|13|pg||
-qx|c2|st||md|4SKJ65HAT75DQ95CAJ,ST9432HKJ983D6C93,SAQ7HQ4DAKJ4CKQ42,S8H62DT8732CT8765|sv|n|nt|djneill:  one matchpoint to europe (max on a board)|pg||
-mb|p|mb|1C|nt|djneill:  1@c is a solid 1@c opening, forcing|pg||
+qx|c2|st||md|4SKJ65HAT75DQ95CAJ,ST9432HKJ983D6C93,SAQ7HQ4DAKJ4CKQ42,S8H62DT8732CT8765|sv|n|nt|djneill:	one matchpoint to europe (max on a board)|pg||
+mb|p|mb|1C|nt|djneill:	1@c is a solid 1@c opening, forcing|pg||
 nt|gavin:  two nice black jacks give you 13 top tricks|pg||
 mb|p|nt|djneill:  should wolpert bid a fav michaels, gavin?|pg||
 mb|1N|mb|p|mb|2C|mb|p|mb|2D|mb|p|nt|djneill:  1NT game forcing, positional, balanced|pg||
@@ -83,11 +83,11 @@ nt|gavin:  west knows the opponents have a game and potentially a slam|pg||
 mb|2N|mb|p|mb|3N|nt|gavin:  the major downsde is not what you would assume|pg||
 nt|gavin:  everyone things the bad part of bidding michaels with west hand|pg||
 nt|gavin:  is that you might go for a number|pg||
-mb|p|nt|gavin:  everyone "thinks"|pg||
+mb|p|nt|gavin:	everyone "thinks"|pg||
 nt|gavin:  but the major downside of bidding michaels with west's hand|pg||
 nt|gavin:  is that when the opponents end up decarling|pg||
 mb|4C|mb|p|mb|4N|nt|gavin:  you are telling them your distribution and how to play the minor suits (their long suits)|pg||
-mb|p|nt|gavin:  when you are non - vul against vul|pg||
+mb|p|nt|gavin:	when you are non - vul against vul|pg||
 nt|gavin:  the major upside in bidding michaels is finding a nice sacrifice|pg||
 nt|gavin:  or having partner fit you well and further the preempt|pg||
 nt|gavin:  by quickly bidding 4 of a major taking up a ton of room|pg||
@@ -107,7 +107,7 @@ nt|djneill:  we all would like to know your thoughts|pg||
 pc|d3|mc|13|pg||
 qx|o3|st||md|1S64H95DAQ63CKJT94,SQTHAQJ863DKT7C62,SAK53H2D98542CQ83,SJ9872HKT74DJCA75|sv|e|nt|yorkbeach:  give South a spade less and another card elsewhere and there would be only 12 tricks|pg||
 nt|yorkbeach:  still you would expect the other room to be in 7NT|pg||
-mb|1D|mb|1H|mb|d|nt|yorkbeach:  1NT = 14-17, which perhpas explains it|pg||
+mb|1D|mb|1H|mb|d|nt|yorkbeach:	1NT = 14-17, which perhpas explains it|pg||
 mb|3D|mb|p|nt|yorkbeach:  if South showed a minimum, North could see 'only' 35-36 points|pg||
 mb|3N|mb|4D|mb|4H|mb|5D|nt|yorkbeach:  3@d might be any decent hand with 4-card support 'mixed raise' rather then necessarily a splinter|pg||
 mb|d|mb|p|mb|p|mb|p|nt|yorkbeach:  system cards no not cover everything :(|pg||
@@ -117,9 +117,9 @@ nt|yorkbeach:  unfortunately for NS this is a phantom sacrifice|pg||
 pc|c5|pc|c9|pc|c2|pc|c8|pg||
 pc|h5|nt|yorkbeach:  which declarer now knows (unless diamonds break 4-0)|pg||
 mc|9|pg||
-qx|c3|st||md|1S64H95DAQ63CKJT94,SQTHAQJ863DKT7C62,SAK53H2D98542CQ83,SJ9872HKT74DJCA75|sv|e|nt|djneill:  ok, split the matchpoint:  1/2 - 1/2|pg||
+qx|c3|st||md|1S64H95DAQ63CKJT94,SQTHAQJ863DKT7C62,SAK53H2D98542CQ83,SJ9872HKT74DJCA75|sv|e|nt|djneill:	ok, split the matchpoint:  1/2 - 1/2|pg||
 nt|gavin:  I didnt put enough energy into counting the jacks to give you a good opinion|pg||
-mb|p|nt|gavin:  both world class norths bid 6nt|pg||
+mb|p|nt|gavin:	both world class norths bid 6nt|pg||
 nt|gavin:  sounds right :)|pg||
 mb|1H|nt|djneill:  ok West bid 1@h here|pg||
 mb|p|mb|3H|mb|p|mb|p|mb|p|pc|sA|nt|gavin:  another board over before the play starts|pg||
@@ -153,23 +153,23 @@ pc|hA|pc|h4|pc|d7|pc|h6|pg||
 nt|yorkbeach:  chance however of catching either a short @hK and then judging whether to play for a ruffing finesse or just keep ruffing|pg||
 pc|hQ|pc|h8|pc|c7|nt|yorkbeach:  we are now getting results from the other table|pg||
 mc|11|pg||
-qx|c4|st||md|2S962HK84DAQ52CT93,SQT7H9D976CKQJ876,SJ43HT63DJT843C54,SAK85HAQJ752DKCA2|sv|b|nt|djneill:  at this table, E-W had all the room in the world and stopped correctly|pg||
+qx|c4|st||md|2S962HK84DAQ52CT93,SQT7H9D976CKQJ876,SJ43HT63DJT843C54,SAK85HAQJ752DKCA2|sv|b|nt|djneill:	at this table, E-W had all the room in the world and stopped correctly|pg||
 nt|djneill:  again, East here opened 1@h, heavyyyyyyy|pg||
 mb|p|nt|djneill:  but, at the other table, N-S made the last mistake|pg||
 mb|p|mb|1H|mb|p|mb|1N|mb|p|mb|2S|nt|djneill:  Gavin is that a 1@h or 2@c for you|pg||
 nt|gavin:  Definitely 1@H|pg||
 nt|djneill:  seems like 21 HCP and long suit is cutting it close|pg||
 nt|gavin:  east west I believe play Kokish Relay|pg||
-mb|p|nt|gavin:  it makes heart hands a real pain in 2@C|pg||
+mb|p|nt|gavin:	it makes heart hands a real pain in 2@C|pg||
 mb|3C|nt|gavin:  need to back the bidding up so east is the 1@H bidder|pg||
-mb|p|mb|3H|nt|djneill:  so after 2@c, it would be impossible to show @h below the 3-levle which is possibly too high for an accurate auction?|pg||
+mb|p|mb|3H|nt|djneill:	so after 2@c, it would be impossible to show @h below the 3-levle which is possibly too high for an accurate auction?|pg||
 nt|djneill:  europe is ahead so far, thanks to boards 1 and 3 - board-a-match scoring, not IMPs|pg||
 mb|p|mb|3S|nt|gavin:  yeah their auction after 2@C would start 2@C-2@D-2@H-2@S-3@S|pg||
 nt|gavin:  on this particulary hand 2@C wouldnt get a 2@D response|pg||
 nt|gavin:  particular|pg||
-mb|p|nt|gavin:  showing hearts and spades|pg||
+mb|p|nt|gavin:	showing hearts and spades|pg||
 nt|gavin:  very uncomfortable|pg||
-mb|4C|mb|p|nt|djneill:  any chance of 6@c?|pg||
+mb|4C|mb|p|nt|djneill:	any chance of 6@c?|pg||
 mb|4H|mb|p|mb|p|mb|p|nt|djneill:  5@c would not score as well as 4@h often, hardly ever unless 4@h went down and 5@c made|pg||
 nt|gavin:  yeah the risk of ending in 5@C |pg||
 nt|gavin:  is too much|pg||
@@ -218,7 +218,7 @@ nt|yorkbeach:  Smith-Brock bid it 1NT-7NT, which is probably how many of you who
 pc|dK|pc|d6|pc|d2|pc|d9|pg||
 pc|d7|pc|s6|pc|d4|pc|dT|pg||
 mc|8|pg||
-qx|c5|st||md|3S7HK743DT98CKJT32,S9542HJTDAKJ7CAQ7,SKQJ6HAQ52D63C964,SAT83H986DQ542C85|sv|n|nt|djneill:  similar to previous hand - long suit to run on the dummy, get active|pg||
+qx|c5|st||md|3S7HK743DT98CKJT32,S9542HJTDAKJ7CAQ7,SKQJ6HAQ52D63C964,SAT83H986DQ542C85|sv|n|nt|djneill:	similar to previous hand - long suit to run on the dummy, get active|pg||
 mb|1N|mb|p|mb|p|nt|djneill:  1NT is minimum balanced opening|pg||
 nt|djneill:  standard defense to this kind of NT, is strength-showing doubles|pg||
 mb|d|mb|p|nt|djneill:  that way, E-W can get to game, or at least avoid being stolen from|pg||
@@ -233,13 +233,13 @@ nt|gavin:  and pull the double when you have no idea|pg||
 nt|djneill:  like @dQJTx?|pg||
 nt|gavin:  yes or even JT9 third|pg||
 mb|2S|nt|gavin:  or somet T98x suit|pg||
-mb|p|mb|p|mb|3C|mb|p|nt|gavin:  sequences|pg||
+mb|p|mb|p|mb|3C|mb|p|nt|gavin:	sequences|pg||
 nt|gavin:  if it is indeed a split deck hand|pg||
 nt|djneill:  2@s was interesting, I did not know that 2@d promised 2 suits|pg||
 nt|gavin:  and your opening lead is your opponents source of tricks|pg||
 nt|gavin:  you are going to struggle to beat 1NT X|pg||
 mb|p|nt|djneill:  looks like us won the battle of this board, just bad for each side at the 3-level|pg||
-mb|p|pc|hJ|nt|djneill:  2@s seemed to be the winning call|pg||
+mb|p|pc|hJ|nt|djneill:	2@s seemed to be the winning call|pg||
 nt|gavin:  this was a strange situation|pg||
 nt|gavin:  because east probably thought they were making their 2 level contract|pg||
 nt|gavin:  and didnt get a chance to show her strength|pg||
@@ -251,7 +251,7 @@ nt|tez: USA Leads Europe 36-24|pg||
 nt|djneill:  hi Tez|pg||
 mc|7|pg||
 qx|o6|st||md|4SA62HK6DQT84CKT74,SQJT4HT92DA97C863,SHQJ53DKJ652CQ952,SK98753HA874D3CAJ|sv|e|nt|yorkbeach:  on board 3 the result in the other room does not tally with the play (defenders appeared to have 4 tricks) but is a won board for Europe anyway|pg||
-mb|1S|mb|p|mb|2S|mb|d|mb|3S|mb|d|nt|yorkbeach:  the EW hands fit perfectly|pg||
+mb|1S|mb|p|mb|2S|mb|d|mb|3S|mb|d|nt|yorkbeach:	the EW hands fit perfectly|pg||
 mb|p|nt|yorkbeach:  will be hard to reach game unless pushed|pg||
 mb|p|mb|p|pc|hK|nt|yorkbeach:  and 4 losers anyway 2@h 1@S 1@c|pg||
 pc|h2|pc|h5|pc|hA|pg||
@@ -262,19 +262,19 @@ pc|sJ|pc|d6|nt|yorkbeach:  doubling the opponents into game is not the disaster 
 pc|s5|pc|sA|pg||
 nt|yorkbeach:  just a lost board|pg||
 mc|9|pg||
-qx|c6|st||md|4SA62HK6DQT84CKT74,SQJT4HT92DA97C863,SHQJ53DKJ652CQ952,SK98753HA874D3CAJ|sv|e|nt|djneill:  ok, other room seems to be the significant decider on this one|pg||
+qx|c6|st||md|4SA62HK6DQT84CKT74,SQJT4HT92DA97C863,SHQJ53DKJ652CQ952,SK98753HA874D3CAJ|sv|e|nt|djneill:	ok, other room seems to be the significant decider on this one|pg||
 nt|djneill:  3@sx making|pg||
 nt|djneill:  where N-S can make 4@d|pg||
 nt|djneill:  the key there was North's takeout double of 2@s with 9 HCP, a spade void, and no Aces|pg||
-mb|1S|mb|p|nt|djneill:  but the double would have worked out a lot (by both sides)|pg||
+mb|1S|mb|p|nt|djneill:	but the double would have worked out a lot (by both sides)|pg||
 nt|djneill:  the theory is that the person short in their suit should be the more aggressive, can't be shorter than a void|pg||
 mb|2S|mb|p|mb|3H|mb|p|mb|3S|mb|p|mb|p|mb|p|pc|s2|pc|sQ|pc|d2|nt|djneill:  we can't predict what would have happened had North doubled, but it seems like reasonable for South to double 3@s, hoping for the magic +200|pg||
 pc|s3|pg||
 mc|9|nt|djneill:  the reason 200 is abnormally good at board a match or matchpoints, is that it outscores pretty much any partial out there, so as long as you don't have game, +200 is a top|pg||
 pg||
 qx|o7|st||md|1SQ8HKJ7DAQ9632C97,ST54HQ3DKJT7CKJT5,SAJ973HA642D5CA82,SK62HT985D84CQ643|sv|b|nt|yorkbeach:  and also less of a disaster than at matchpoints|pg||
-mb|1D|mb|p|mb|1S|mb|p|mb|2D|mb|p|nt|yorkbeach:  South may have intended his double as responsive|pg||
-mb|2H|mb|p|mb|2S|mb|p|mb|2N|mb|p|nt|yorkbeach:  note that South's preference did not show 3 spades|pg||
+mb|1D|mb|p|mb|1S|mb|p|mb|2D|mb|p|nt|yorkbeach:	South may have intended his double as responsive|pg||
+mb|2H|mb|p|mb|2S|mb|p|mb|2N|mb|p|nt|yorkbeach:	note that South's preference did not show 3 spades|pg||
 mb|3H|mb|p|mb|3S|mb|p|nt|yorkbeach:  it would be usual to jump to 3@s with 3-card support|pg||
 mb|3N|mb|p|nt|yorkbeach:  this auction has pinpointed the club lead|pg||
 mb|4S|mb|p|mb|p|mb|p|nt|yorkbeach:  so North prefers the 5-2 fit|pg||
@@ -307,15 +307,15 @@ nt|yorkbeach:  the Dutch pair bid 6@c on 4 but they would have won the board mor
 mc|10|pg||
 qx|c8|st||md|2S643HK3DQ873CKQ72,SQJT7HJT42D62CAJ6,SK95H965DKJ94C854,SA82HAQ87DAT5CT93|sv|o|mb|p|mb|p|nt|djneill:  welcome to our new voice commentators|pg||
 mb|1C|mb|p|mb|1H|mb|p|nt|djneill:  to listen, use the web client|pg||
-mb|2H|mb|p|mb|p|mb|p|pc|h5|nt|djneill:  this looks pretty flat, just a bunch of finesses |pg||
-pc|h7|nt|pelu:  why no result from B7?|pg||
+mb|2H|mb|p|mb|p|mb|p|pc|h5|nt|djneill:	this looks pretty flat, just a bunch of finesses |pg||
+pc|h7|nt|pelu:	why no result from B7?|pg||
 pc|hK|pc|h4|pg||
 pc|c2|nt|djneill:  anyone wanting to know why JT9 work together, look at these|pg||
 pc|c6|pc|c8|pc|cT|pg||
 pc|hQ|pc|h3|pc|hJ|pc|h6|pg||
 pc|s2|pc|s3|mc|12|nt|djneill:  South could not see West's hand in clubs, obviously|pg||
 pg||
-qx|o9|st||md|3ST9765H96DK84CT52,SQHAQ75432DT52C94,SKJ83HKT8DAQJ76CQ,SA42HJD93CAKJ8763|sv|e|mb|1D|mb|2C|mb|2D|mb|2H|mb|2S|nt|yorkbeach:  in the remaining match both pairs bid 6@c on 4|pg||
+qx|o9|st||md|3ST9765H96DK84CT52,SQHAQ75432DT52C94,SKJ83HKT8DAQJ76CQ,SA42HJD93CAKJ8763|sv|e|mb|1D|mb|2C|mb|2D|mb|2H|mb|2S|nt|yorkbeach:	in the remaining match both pairs bid 6@c on 4|pg||
 mb|3C|mb|4S|nt|yorkbeach:  the Bulgarians had a very simple 3@c-6@c|pg||
 mb|p|mb|p|nt|yorkbeach:  Sontag-Berkowitz got there on a strong club auction|pg||
 nt|yorkbeach:  nobody can use Lall of underbidding here :)|pg||
@@ -335,7 +335,7 @@ nt|yorkbeach:  -200 is not going to be a good score|pg||
 pc|hA|pc|h8|pc|hJ|pc|h6|pg||
 nt|yorkbeach:  but the bidding makes it very likely that the @hK is offside|pg||
 mc|10|pg||
-qx|c9|st||md|3ST9765H96DK84CT52,SQHAQ75432DT52C94,SKJ83HKT8DAQJ76CQ,SA42HJD93CAKJ8763|sv|e|mb|1D|mb|2C|mb|2D|mb|2H|nt|djneill:  1@d is a solid opening hand with @d|pg||
+qx|c9|st||md|3ST9765H96DK84CT52,SQHAQ75432DT52C94,SKJ83HKT8DAQJ76CQ,SA42HJD93CAKJ8763|sv|e|mb|1D|mb|2C|mb|2D|mb|2H|nt|djneill:	1@d is a solid opening hand with @d|pg||
 mb|3D|nt|djneill:  2@d possible because 1@d promised 5|pg||
 mb|4C|mb|p|mb|4H|mb|p|mb|p|mb|p|pc|cQ|nt|djneill:  North will have to get to South in @d - no other way to do it quickly - dummy's @c are ready to roll|pg||
 pc|cA|pc|c2|pc|c4|pg||
