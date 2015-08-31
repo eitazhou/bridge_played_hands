@@ -259,7 +259,7 @@ nt|ralfwil: The result on board 6 made it more clear to pass on 3@c|pg||
 nt|jcwla: OR E/W also in that ugly 3NT so we'll see what happens there.|pg||
 mb|2H|an|5!s or + and 4!h or +|nt|marlowepi: 2H - specifically 55? in what range?|pg||
 nt|andyv:  I think W's hand made it very clear|pg||
-mb|p|nt|andyv:  probably 5-8|pg||
+mb|p|nt|andyv:	probably 5-8|pg||
 mb|4S|mb|p|mb|p|mb|p|nt|ralfwil: right so far with 4@s|pg||
 nt|marlowepi: 4S extremely unambiutuous|pg||
 nt|marlowepi: that is the Italian spelling:)|pg||
@@ -315,7 +315,7 @@ nt|jcwla: Two ugly misfitting mins (or submins?) going to game on momentum = -30
 mb|p|nt|ralfwil: looks like an easy 3nt on NS|pg||
 nt|andyv:  3N seems to be the popular score in Board 6.  The conclusion:  Vul. was the driving force|pg||
 mb|1H|mb|p|mb|1S|mb|p|mb|2C!|mb|p|mb|2D!|mb|p|mb|2N!|mb|p|mb|3C!|mb|p|nt|andyv:  2@c relay and 3@c check back for @s?|pg||
-mb|3N!|mb|p|mb|p|nt|marlowepi: personally i think we are being a little too harsh on the ladies for their enterprise on  6. if E held something like:  J   Axx   Axx   QJTxxx, the bidding would have been exactly ...|pg||
+mb|3N!|mb|p|mb|p|nt|marlowepi: personally i think we are being a little too harsh on the ladies for their enterprise on  6. if E held something like:  J   Axx	 Axx   QJTxxx, the bidding would have been exactly ...|pg||
 nt|marlowepi: the same and 3N would be better than 50%. if all my 3N contracts depended more or less on position of 9 of spades and one foe rather than the other having a 4-card length, i'd be ...|pg||
 nt|marlowepi: happy|pg||
 mb|p|nt|vugraphzvt: the whole alert relays was 5-5 and 1@s|pg||
@@ -341,7 +341,7 @@ pc|h7|nt|effebi: anche il Re secco fuori (eventualmente) in un resto di 8 carte!
 pc|h3|pc|hJ|nt|effebi: il programma vede le carte|pg||
 pc|hK|pg||
 pc|sT|pc|s8|pc|sK|pc|s3|pg||
-nt|effebi: Il dichiarante, però, all'inizio di carte ne vede solo 26. Le altre le aggiunge strada facendo|pg||
+nt|effebi: Il dichiarante, però, all'inizio di carte ne vede solo 26. Le altre le aggiunge strada facendo|pg||
 pc|dA|pc|d9|pc|d3|pc|d6|pg||
 pc|d2|pc|c2|pc|dK|pc|d8|pg||
 pc|d5|pc|dQ|pc|d4|pc|s4|pg||
@@ -414,12 +414,12 @@ nt|andyv:  well on their way|pg||
 mb|4N|mb|p|nt|jcwla: Well, on 8, South played 3NT but ended up trapped in dummy with @H's and went down 1 in the OR, 11 to Italy and we're tied at 39.|pg||
 mb|5H|mb|p|nt|ralfwil: necessary to lead @h|pg||
 nt|andyv:  W wondering how confident she is of pd finding the Q|pg||
-mb|6S|mb|p|mb|p|mb|p|nt|andyv:  W assuming @s will be 2-2 or hoping pd has the J@s|pg||
+mb|6S|mb|p|mb|p|mb|p|nt|andyv:	W assuming @s will be 2-2 or hoping pd has the J@s|pg||
 nt|andyv:  S just better not lead a trump:)|pg||
 pc|hT|pc|hJ|nt|ralfwil: now it all depends on finding @sQ|pg||
 nt|andyv:  found the right lead... a @c or @d would have given declarer 2  chances|pg||
 pc|hK|pc|h4|pg||
-nt|marlowepi: S in the other room had what is customarily (and charitably) called a blind spot, and went down in 3N on  8. Her plan is not entirely evident|pg||
+nt|marlowepi: S in the other room had what is customarily (and charitably) called a blind spot, and went down in 3N on	8. Her plan is not entirely evident|pg||
 pc|d4|pc|d9|pc|d3|pc|dJ|pg||
 nt|andyv:  good play by N|pg||
 nt|andyv:  declarers habitually will lead low from dummy|pg||
@@ -453,7 +453,7 @@ nt|jcwla: 2 overtrick IMPs to Italy on 9 and we have a new leader.|pg||
 nt|marlowepi: there was a slight indication that might have steered Cronier in the winning direction. N has heart AK but did not overcall, so rates to have the shorter heart holding. even so, ...|pg||
 nt|marlowepi: probably shorter only by one card, though, so even if Benedicte starts with the king (my play) she is likely to play for 22 trumps anyway|pg||
 mb|1S|mb|p|nt|andyv:  start with K and low @s if N follows odds are almost even as to whether to finesse or play for split|pg||
-mb|p|mb|d|mb|p|mb|3H|mb|p|mb|4H|mb|p|mb|p|mb|p|nt|marlowepi: note to eager-beaver pre-emptors:  had S gotten active in the bidding, E would have made the slam in her sleep|pg||
+mb|p|mb|d|mb|p|mb|3H|mb|p|mb|4H|mb|p|mb|p|mb|p|nt|marlowepi: note to eager-beaver pre-emptors:	had S gotten active in the bidding, E would have made the slam in her sleep|pg||
 pc|s9|nt|andyv:  this will hold it to 5|pg||
 pc|sK|pc|sA|pc|s2|pg||
 pc|s3|pc|sQ|pc|h2|pc|s5|pg||
@@ -491,7 +491,7 @@ pc|s5|pc|s9|pc|sT|pc|s7|pg||
 nt|effebi: ed est realizzerà il contratto|pg||
 mc|10|pg||
 qx|c12|st||md|2SA9HAQDJ54CAKT873,SJT84HK98DK96CQJ4,S72HJT76532D3C952,SKQ653H4DAQT872C6|sv|n|mb|p|mb|p|mb|1D|mb|d|nt|jcwla: @D lead to beat it.|pg||
-mb|1S|mb|2H|mb|4D!|an|at least 5!s-5!d|mb|5C|nt|andyv:  leading stiff seems about the only reasonable thing to do here once the E pattern is known... an advantage to sometimes just blasting into 4@s|pg||
+mb|1S|mb|2H|mb|4D!|an|at least 5!s-5!d|mb|5C|nt|andyv:	leading stiff seems about the only reasonable thing to do here once the E pattern is known... an advantage to sometimes just blasting into 4@s|pg||
 nt|ralfwil: N has a good time to find the @d shift after a @h or a @c lead when she can see the table|pg||
 mb|5D|mb|p|an|forcing|nt|andyv:  no play for 5@d|pg||
 nt|ralfwil: and even more easy if E converts to 5@s|pg||
