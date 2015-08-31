@@ -77,11 +77,11 @@ pc|s3|nt|golfsquash: 12 Imps for Ireland on bd 2. Scotland played 5@c-5 on 4/3 f
 pc|s9|pc|sA|pc|s6|pg||
 pc|s2|pc|sT|pc|d4|pc|sK|pg||
 mc|9|pg||
-qx|o4|st||md|2SJ8653HAKTD76CAQ9,SQT9H8653DAT954CT,S72H972DJ82CKJ875,SAK4HQJ4DKQ3C6432|sv|b|mb|p|mb|p|mb|1N|nt|phil352:  14-16 1nt|pg||
+qx|o4|st||md|2SJ8653HAKTD76CAQ9,SQT9H8653DAT954CT,S72H972DJ82CKJ875,SAK4HQJ4DKQ3C6432|sv|b|mb|p|mb|p|mb|1N|nt|phil352:	14-16 1nt|pg||
 nt|phil352:  W may bid stayman and pass the response|pg||
 mb|2D!|nt|phil352:  not if south does that :)|pg||
 mb|p|mb|2H|mb|p|mb|2S|mb|p|mb|p|nt|phil352:  2@D = 1-suited major|pg||
-mb|p|pc|h6|nt|phil352:  this could go for a few|pg||
+mb|p|pc|h6|nt|phil352:	this could go for a few|pg||
 pc|h2|pc|hJ|pc|hA|pg||
 pc|s3|pc|s9|pc|s2|pc|s4|pg||
 nt|phil352:  W needs to get a club ruff in|pg||
@@ -107,7 +107,7 @@ pc|sK|pc|s8|pc|sT|nt|golfsquash: and a sixth Imp|pg||
 pc|c5|pg||
 pc|h4|pc|hT|pc|h6|pc|h9|pg||
 mc|9|pg||
-qx|o5|st||md|3SJ86HA843DK65CAJ5,SAT5H976DA84CQ863,SKHKQJ2DQJT9CT972,SQ97432HT5D732CK4|sv|n|nt|phil352:  not the start Scotland would have wanted, sitting 7 VPs behind england going into this match|pg||
+qx|o5|st||md|3SJ86HA843DK65CAJ5,SAT5H976DA84CQ863,SKHKQJ2DQJT9CT972,SQ97432HT5D732CK4|sv|n|nt|phil352:	not the start Scotland would have wanted, sitting 7 VPs behind england going into this match|pg||
 mb|1D|mb|2S|mb|d|mb|3S|mb|p|mb|p|mb|d|mb|p|mb|4H|mb|p|mb|p|mb|p|pc|s4|pc|s6|pc|sA|pc|sK|pg||
 nt|vugraphzxt: thinking|pg||
 pc|s5|pc|h2|pc|s2|pc|s8|pg||
@@ -129,8 +129,8 @@ pc|hQ|pc|hT|pc|h4|pc|h7|pg||
 pc|c2|pc|c4|pc|cA|pc|c3|pg||
 pc|hA|pc|h9|pc|c7|mc|10|nt|golfsquash: 4@s costs 500|pg||
 pg||
-qx|o6|st||md|4SK83HQ4DKQ9842CQ2,SQT942HAKT6DT7C63,S5H832DJ5CAT98754,SAJ76HJ975DA63CKJ|sv|e|nt|phil352:  will S bid over 1NT from E?|pg||
-mb|1N|mb|d|nt|phil352:  X shows 1 minor|pg||
+qx|o6|st||md|4SK83HQ4DKQ9842CQ2,SQT942HAKT6DT7C63,S5H832DJ5CAT98754,SAJ76HJ975DA63CKJ|sv|e|nt|phil352:	will S bid over 1NT from E?|pg||
+mb|1N|mb|d|nt|phil352:	X shows 1 minor|pg||
 mb|2C|nt|phil352:  if i had that bid available i'd obviously use it too :)|pg||
 nt|phil352:  EW look like they'll play in their 8 card fit here|pg||
 nt|vugraphzxt: not in my box either|pg||
@@ -166,7 +166,7 @@ pc|dA|pc|d4|pc|d7|pc|d5|pg||
 pc|d3|pc|d8|pc|dT|pc|dJ|pg||
 pc|c4|pc|cK|pc|cQ|pc|c6|pg||
 mc|7|pg||
-qx|o7|st||md|1SAJT5HKQ75DT94CT2,SKQ9H32DAQJ75CA97,S874HA84D83CJ8643,S632HJT96DK62CKQ5|sv|b|nt|phil352:  should have been 500|pg||
+qx|o7|st||md|1SAJT5HKQ75DT94CT2,SKQ9H32DAQJ75CA97,S874HA84D83CJ8643,S632HJT96DK62CKQ5|sv|b|nt|phil352:	should have been 500|pg||
 nt|vugraphzxt: systems both sides did not handle hands - much discussion|pg||
 mb|p|mb|1N|mb|p|mb|2C!|mb|p|mb|2D|mb|p|mb|2N|mb|p|mb|3N|mb|p|mb|p|mb|p|nt|phil352:  9 tricks - coffee time|pg||
 nt|vugraphzxt: black please|pg||
@@ -188,7 +188,7 @@ pc|cA|pc|c8|pc|c5|pc|sT|pg||
 pc|c9|pc|cJ|pc|cQ|mc|9|nt|golfsquash: south knows where the @hA is, so will throw a spade|pg||
 pg||
 qx|o8|st||md|2S985HAKJ82D954CQ4,SK63HT53DKQ832CA9,SJ7HQ6DAJT7CKT873,SAQT42H974D6CJ652|sv|o|mb|1D|nt|phil352:  EW probably stop in 2@S here|pg||
-mb|p|mb|1S|nt|phil352:  1@D any hand <16 that doesnt fit elsewhere|pg||
+mb|p|mb|1S|nt|phil352:	1@D any hand <16 that doesnt fit elsewhere|pg||
 mb|p|mb|1N|mb|p|mb|p|mb|p|nt|phil352:  1@S presumably promised only 4|pg||
 pc|c7|pc|c2|pc|c4|pc|c9|pg||
 nt|phil352:  down one probably|pg||
@@ -331,7 +331,7 @@ pc|c6|pc|hT|pg||
 mc|12|pg||
 qx|o14|st||md|4SAQJT5HQ32DA875CA,S863HK874DJ2CT953,SK972H96DQ93CQJ84,S4HAJT5DKT64CK762|sv|o|nt|vugraphzxt: thks Phil|pg||
 mb|1D|mb|1S|nt|vugraphzxt: server slow|pg||
-mb|p|mb|2S|nt|phil352:  note S not getting too excited and just overcalling|pg||
+mb|p|mb|2S|nt|phil352:	note S not getting too excited and just overcalling|pg||
 mb|p|mb|4S|mb|p|nt|phil352:  there's always time to get excited after partner shows suport|pg||
 mb|p|mb|p|nt|phil352:  *support|pg||
 pc|h4|pc|h6|pc|hA|pc|h2|pg||
@@ -369,7 +369,7 @@ pc|sK|nt|golfsquash: well played|pg||
 mc|10|pg||
 qx|o15|st||md|1SHJ3DAQ98643CQ842,SKT764HA875D2CA93,SAQJ852HK9642D75C,S93HQTDKJTCKJT765|sv|n|nt|phil352:  well done, endplayed E with the K@C, had to lead away from his K@D|pg||
 mb|3D|mb|d|mb|3S|mb|3N|mb|p|nt|phil352:  3NT looks makeable|pg||
-mb|p|mb|5D|nt|phil352:  but a heart lead will put it in trouble|pg||
+mb|p|mb|5D|nt|phil352:	but a heart lead will put it in trouble|pg||
 mb|d|mb|p|mb|p|mb|p|pc|hA|pc|h2|pc|hT|pc|h3|pg||
 nt|phil352:  4@D may have been enough to generate a double|pg||
 nt|phil352:  probably want to cut down on dummy's ruffs|pg||

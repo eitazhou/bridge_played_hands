@@ -426,8 +426,8 @@ qx|c4|st||md|2SAK864HT6DTCQ9863,SJT953HJ74D982CJT,SQ7HAK8DAQ643CA75,S2HQ9532DKJ7
 nt|vugraphzzm: +2|pg||
 nt|gel_pc_pc: sayýndaki Q3 tane piki tespit edip zaptetme þansý kalmazdý|pg||
 nt|gel_pc_pc: dolayýsýyla yanlýþ yerden pik çekme durumu kalmazdý|pg||
-nt|exerdar: eþleþmeler    grup maçlarýnda,  1. 2. 3. takýmýn kendi aralarýnda yaptýgý maçlar    knockouta nasýl gireceðini belli ediyor|pg||
-nt|exerdar: mesela  grubu 3. bitiren bi takým , 1.den  5vp 2.den  3 vp  alýp çýkarsa  ,  32. sýradan girebilir elemelere|pg||
+nt|exerdar: eþleþmeler	  grup maçlarýnda,  1. 2. 3. takýmýn kendi aralarýnda yaptýgý maçlar	knockouta nasýl gireceðini belli ediyor|pg||
+nt|exerdar: mesela  grubu 3. bitiren bi takým , 1.den  5vp 2.den  3 vp	alýp çýkarsa  ,  32. sýradan girebilir elemelere|pg||
 nt|vugraphzzm: Grup maçlarý bitti |pg||
 nt|vugraphzzm: þimdi 32 takým mücadele ediyor|pg||
 nt|champ i: 3 boardda çok iyi 4 sp diyenler batacak|pg||
@@ -519,7 +519,7 @@ nt|vugraphzzm: görüþmek üzere Levent|pg||
 nt|vahaboglu: Erke 2@s yerine 2@h demiþ olsa idi rahatlayacaktý|pg||
 nt|begse: 4nt da tehlikeli  trefli tahmin etmek lazým|pg||
 nt|vahaboglu: gerçi 3NT ile 4NT nin pek farký yok|pg||
-nt|begse: 4nt oynamaya diger renklerde  kuvvet gösteriyor ama  bence uygun degil|pg||
+nt|begse: 4nt oynamaya diger renklerde	kuvvet gösteriyor ama  bence uygun degil|pg||
 pc|hT|nt|exerdar: 4@Hx li iyi baraj olacak|pg||
 nt|emre kaya: 5 karo alabilseydi 9 lövesi hazýrdý|pg||
 nt|sehmusercn: sanýrým defans 6 löve alacak gibi|pg||
@@ -542,7 +542,7 @@ nt|emre kaya: kenan baðlantýný kuvvetlendir biraz:)|pg||
 nt|isyan_06:  jetler de mi sorun kenan |pg||
 nt|vugraphzzm: evet biraz kuytuda kaldýk |pg||
 nt|tefo33: herkese selam|pg||
-nt|isyan_06:  manolyadasÄ±n iÅte daha ne olsun ,|pg||
+nt|isyan_06:  manolyadasÄ±n iÅte daha ne olsun ,|pg||
 nt|emre kaya: selam tevfik abi|pg||
 nt|champ i: slm|pg||
 nt|sehmusercn: selam Tevfik abi|pg||
@@ -894,7 +894,7 @@ nt|vahaboglu: ortaðýna çýktý|pg||
 nt|vahaboglu: 8 lövede kalýyor|pg||
 nt|slyvanas: nasýl bir sekanslar gidebilirler treflden?|pg||
 nt|funtay: bizde hiç bilmiyoruz bu iþi:)|pg||
-pc|d6|nt|exerdar: @cpartajý var @sQ içerde 2 parça, asta çekse  pasda yapsa sorun yok|pg||
+pc|d6|nt|exerdar: @cpartajý var @sQ içerde 2 parça, asta çekse	pasda yapsa sorun yok|pg||
 nt|ckesgin: 3@d deseiyi|pg||
 pc|d7|nt|ckesgin: @d oynamazsa da 12 olmaz|pg||
 nt|vugraphzzm: drry i unutmuþ sanýrým Erke|pg||
@@ -1424,11 +1424,11 @@ nt|vahaboglu: 6 lý @h gibi düþündü haklý olarak|pg||
 pc|dK|nt|tez: bütün hikayesini anlattý..iyi konuþtu|pg||
 pc|dQ|pc|d3|pc|d7|pg||
 pc|c3|nt|ckesgin: iki yöntem var temelde elindeki kaðýtlarý konuþanlar aklýndakileri konuþanlar|pg||
-pc|c5|nt|tweety1: tahminim  ort pastan gelince  1nt için   15 az oluyor..   |pg||
+pc|c5|nt|tweety1: tahminim  ort pastan gelince	1nt için   15 az oluyor..   |pg||
 nt|vahaboglu: 1@h açarsa|pg||
 nt|vahaboglu: 3 NT iyi idi|pg||
 pc|c9|pc|cK|pg||
-nt|tweety1: bazýlarý  18 + lazým diyor  1nt için|pg||
+nt|tweety1: bazýlarý  18 + lazým diyor	1nt için|pg||
 pc|h7|nt|ckesgin: @c partaj @h pasý|pg||
 pc|h5|nt|ovncylmz: diger masa pass giden bordu 2@s oynadi|pg||
 nt|champ i: cl atar yerden|pg||
@@ -1601,7 +1601,7 @@ nt|ckesgin: cevap evet ozalp 3@c diyebilse iyiydi|pg||
 pc|h3|pg||
 nt|bircan: elden alýnýp @SR ya gidilir tayfun boþlarsa kartý batýrýr|pg||
 pc|d6|nt|ckesgin: @s oynamalýydý @h k danemin deðildir|pg||
-nt|exerdar: 7@s  geldi  |pg||
+nt|exerdar: 7@s  geldi	|pg||
 pc|dA|pc|d4|nt|varoslu: alinmasa|pg||
 pc|d3|pg||
 pc|sT|nt|ckesgin: bir þekilde yarýþsal 3@cve iyi el için ayrý yolarvar 3@c i bir þekilde söylemelilerdi|pg||
@@ -1900,7 +1900,7 @@ nt|ovncylmz: akinin elden 6d diyoruz simdi|pg||
 nt|vugraphzzm: 2@h 2@s e yolluyor sopnra 3@d ile karodan davet ediyor sanýrým|pg||
 nt|ovncylmz: 2 yabanci As|pg||
 nt|vahaboglu: der ama 11 nolu bordda da geri verir|pg||
-pc|dQ|nt|varoslu: gidisat kotu  |pg||
+pc|dQ|nt|varoslu: gidisat kotu	|pg||
 nt|tez: @c glirse yaptýrýr|pg||
 nt|ckesgin: 2@s pas/düzelt idi 2 rengini oynayalýmyani|pg||
 nt|vugraphzzm: maç 20:00 da baþlayacak bu arada az önce yanlýþ yazdým|pg||
@@ -1912,7 +1912,7 @@ pc|d8|nt|vahaboglu: bak ne kadar tedbirli konuþuyorum artýk|pg||
 pc|d5|nt|ovncylmz: ortakta kapali pik Axxx varsa hemen olur:)|pg||
 nt|ckesgin: demin þýganýnýn asý yerde çýktý gene öyledir dedi uçar:)|pg||
 nt|ovncylmz: Axxx karo:)|pg||
-nt|ckesgin: yoksa oyun sonunda  @h e yatýrýr yýlmazý|pg||
+nt|ckesgin: yoksa oyun sonunda	@h e yatýrýr yýlmazý|pg||
 pc|dK|pg||
 nt|ckesgin: 3@c oynanabilrdi|pg||
 nt|champ i: :)|pg||
@@ -2010,7 +2010,7 @@ nt|bircan: abi @S keselim ama yandada 1 tane treflimiz olsun :)|pg||
 nt|bircan: iyi akþamlar herkese|pg||
 nt|vugraphzzm: yarýn ilk maç saat 10 da baþlýyor|pg||
 nt|vugraphzzm: teþekkürler herkese iyi akþamlar|pg||
-nt|ckesgin: @h A tek @c 62 yerde @h Qx   @c K|pg||
+nt|ckesgin: @h A tek @c 62 yerde @h Qx	 @c K|pg||
 nt|ckesgin: olacaktý|pg||
 nt|emre kaya: herkese iyi aksamlar|pg||
 pc|hQ|pc|h3|pc|h2|pg||
