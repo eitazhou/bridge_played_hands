@@ -59,7 +59,7 @@ qx|c3|st||md|1SAJTHT87DA64C9653,S8543HKJ92D8CQJ42,S976HQ654DT75CK87,SKQ2HA3DKQJ9
 mb|p|mb|p|mb|1H!|mb|d|mb|r|an| |nt|ahollan1: West is Jason Hackett|pg||
 mb|1S|mb|p|nt|ahollan1: 1@H = [ostensibly] 10-15, 4+@H|pg||
 nt|ahollan1: if 2 suits then 2nd is LONGER [canape] or 5@H 5@S|pg||
-mb|2D|mb|p|mb|2N|mb|p|nt|ahollan1: RDBL - 3@H   a hand that would raise to 2@H if opener promised 5|pg||
+mb|2D|mb|p|mb|2N|mb|p|nt|ahollan1: RDBL - 3@H	a hand that would raise to 2@H if opener promised 5|pg||
 mb|3S|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|h4|pc|h3|pc|hT|pc|hJ|pg||
 nt|ahollan1: NS  reverse count & attitude, odd/even 1st discard, Smith vs NT|pg||
 pc|s4|pc|s6|pc|sK|pc|sA|pg||
@@ -92,7 +92,7 @@ pc|sT|pc|sK|pc|s9|pc|h7|pg||
 mc|8|pg||
 qx|c4|st||md|2SK6543HKTDCAQ7542,SQJ92H85DAKT95CJ6,S87HAJ74D87432CT9,SATHQ9632DQJ6CK83|sv|b|mb|1D!|mb|p|mb|1H|an| |mb|2N!|nt|bebechira: East http://livebridge.net/bbo/wbf/player.php?wbf=509|pg||
 nt|ahollan1: Paul  are EW playing the system you would have played with Brian Senior?|pg||
-mb|p|mb|3C|nt|Paulhac:  No I play strong NT 2 over 1 but 4 card Majors with Brian however I play this system with Jason|pg||
+mb|p|mb|3C|nt|Paulhac:	No I play strong NT 2 over 1 but 4 card Majors with Brian however I play this system with Jason|pg||
 nt|bebechira: West http://livebridge.net/bbo/wbf/player.php?wbf=3615|pg||
 mb|d|mb|p|nt|bebechira: your commentator Paul Hackett http://livebridge.net/bbo/wbf/player.php?wbf=133|pg||
 nt|bebechira: your commentator Al Hollander http://livebridge.net/bbo/wbf/player.php?wbf=999001|pg||
@@ -103,7 +103,7 @@ pc|s2|pc|s7|pc|sT|pc|sK|pg||
 nt|Paulhac:  If Brian plays a spade now South has to switch to a heart|pg||
 nt|bebechira: we have Lotan Fisher with us as well :)|pg||
 nt|thenapster: Hello everyone :)|pg||
-nt|ahollan1: @S7 is lowest @S   so either  discouraging @C [Smith]  or singleton|pg||
+nt|ahollan1: @S7 is lowest @S	so either  discouraging @C [Smith]  or singleton|pg||
 nt|thenapster: Paul,Al|pg||
 nt|Paulhac:  Hi Lotan|pg||
 nt|bebechira: your commentator Lotan Fisher http://livebridge.net/bbo/wbf/player.php?wbf=12474|pg||
@@ -142,7 +142,7 @@ mc|10|pg||
 qx|c6|st||md|4S98653H963DK62C86,SAQJTHQ752DA5CK73,S74HAKJT4DJT9CJT9,SK2H8DQ8743CAQ542|sv|e|mb|1D!|mb|p|nt|ahollan1: is 1@D unbal or just  usually 5+suit?|pg||
 mb|1H|mb|p|mb|2C|mb|p|mb|2S|an| |nt|Paulhac:  Unbalanced I think|pg||
 mb|p|mb|3C|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|hK|pc|h8|pc|h9|pc|h2|pg||
-nt|ahollan1: some of the pairs who play  Unbalanced @D   would rebid 1N as transfer to @C  |pg||
+nt|ahollan1: some of the pairs who play  Unbalanced @D	 would rebid 1N as transfer to @C  |pg||
 nt|thenapster: true|pg||
 nt|ahollan1: first pair that comes to mind   Martel-Fleisher|pg||
 nt|ahollan1: and some of the Swedish pairs|pg||
@@ -162,9 +162,9 @@ pc|d8|pc|s4|pc|h3|pc|cQ|pg||
 pc|d2|pc|c3|pc|h5|pc|h9|pg||
 pc|hA|pc|hT|pc|h4|pc|h6|pg||
 pc|c7|pc|c6|mc|6|pg||
-qx|c7|st||md|1SQ8H75432D976CKT9,SAKTHJ96D5CAQJ852,S653HA8DAKQT82C74,SJ9742HKQTDJ43C63|sv|b|mb|p|mb|1C!|nt|ahollan1: on  4  3N was played by West    opening lead was @D and defense had plenty of time to figure out how to beat 3N|pg||
+qx|c7|st||md|1SQ8H75432D976CKT9,SAKTHJ96D5CAQJ852,S653HA8DAKQT82C74,SJ9742HKQTDJ43C63|sv|b|mb|p|mb|1C!|nt|ahollan1: on	4  3N was played by West    opening lead was @D and defense had plenty of time to figure out how to beat 3N|pg||
 mb|1D|mb|1S|mb|p|nt|ahollan1: 1@D tends to deny 4-card major|pg||
-mb|3C|mb|3D|mb|p|mb|p|nt|ahollan1: with  4@H/@S & 5+om   NS  overcall Raptor 1NT|pg||
+mb|3C|mb|3D|mb|p|mb|p|nt|ahollan1: with  4@H/@S & 5+om	 NS  overcall Raptor 1NT|pg||
 mb|p|pc|c6|pc|c9|pc|cJ|pc|c7|pg||
 nt|Paulhac:  Presumably they have not discussed 1S to show 5|pg||
 pc|h6|pc|hA|pc|hT|pc|h2|pg||
@@ -207,7 +207,7 @@ pc|h5|pc|h2|pc|hT|pc|hQ|pg||
 pc|sA|pc|s6|pc|s3|pc|s2|pg||
 mc|11|pg||
 qx|c9|st||md|3ST543H62DQJ732C97,S72HT93DK4CKT8542,SAQJ98HKQ74D85CJ6,SK6HAJ85DAT96CAQ3|sv|e|nt|thenapster: how many segments we gonna have total?|pg||
-mb|1H!|nt|ahollan1: but Hackett is more rested since their Semi-Final opponent withdrew after 1st half  [78-5]|pg||
+mb|1H!|nt|ahollan1: but Hackett is more rested since their Semi-Final opponent withdrew after 1st half	[78-5]|pg||
 mb|1N|mb|p|nt|ahollan1: 1@H = 10-15, 4+@H  if 2nd suit it is LONGER [canape] or 5@H 5@S|pg||
 mb|2S!|nt|ahollan1: Quarter Finals and Semi-Final were 2x16   Final 4x16|pg||
 mb|d|nt|Paulhac:  4 of 16 boards|pg||
@@ -257,14 +257,14 @@ pc|c2|pc|dT|pc|cA|pc|c3|pg||
 pc|cK|pc|c9|pc|s3|mc|7|pg||
 qx|c11|st||md|1SAT8H873D96CAKJ74,SQ7654HK6DA8CQT93,SK932HAT9DKJ54C52,SJHQJ542DQT732C86|sv|o|nt|ahollan1: 1@D = 10-15, 0+@D  often weak NT |pg||
 mb|1D!|mb|1S|nt|thenapster: Hackett team picked up 11 imps on board number 7 after the other table played 3nt.north cashed 6diamonds and A of heart for +300|pg||
-mb|1N|mb|p|mb|p|mb|p|pc|h4|nt|ahollan1: one of the fun hands 1@D can hold is 4@D 5+@S   but van Prooijen suspected this deck only has 13 @S|pg||
+mb|1N|mb|p|mb|p|mb|p|pc|h4|nt|ahollan1: one of the fun hands 1@D can hold is 4@D 5+@S	but van Prooijen suspected this deck only has 13 @S|pg||
 pc|h3|pc|hK|pc|h9|pg||
 pc|h6|pc|hT|pc|hJ|pc|h7|pg||
 pc|h2|pc|h8|pc|s7|pc|hA|pg||
 pc|s2|pc|sJ|pc|sA|pc|s4|pg||
 pc|sT|nt|ahollan1: @SJ popping up  seems to bring declarer's total to 7 --  but suit blocked|pg||
 pc|sQ|pc|sK|pc|d2|pg||
-nt|ahollan1: so  just play Hackett to have @DA  or diddle with @C suit??|pg||
+nt|ahollan1: so  just play Hackett to have @DA	or diddle with @C suit??|pg||
 nt|thenapster: he cant try first the clubs then the diamonds|pg||
 nt|thenapster: sorry i mean he can|pg||
 nt|ahollan1: do you think early @S discard puts @C length in west?|pg||
@@ -408,7 +408,7 @@ pc|s9|pc|hJ|pc|sT|pc|sJ|pg||
 nt|ahollan1: at different form of scoring   does declarer play @H before @SA?|pg||
 pc|dJ|mc|8|pg||
 qx|o16|st||md|2SQT94HT87DK87CK84,S852HA542D52CJ753,SKJ6HK93DAT9CAT62,SA73HQJ6DQJ643CQ9|sv|e|mb|p|mb|1N|mb|p|mb|p|mb|p|pc|d4|pc|d7|pc|d5|pc|d9|pg||
-nt|ahollan1: final board of Q1  --  restart scheduled for  35 minutes    but they can agree to begin sooner|pg||
+nt|ahollan1: final board of Q1	--  restart scheduled for  35 minutes	 but they can agree to begin sooner|pg||
 pc|sK|pc|sA|pc|s4|pc|s2|pg||
 pc|hQ|pc|h7|pc|h2|pc|hK|pg||
 pc|sJ|pc|s7|pc|sQ|pc|s5|pg||
