@@ -113,7 +113,7 @@ nt|pelu: is 1@C strong?|pg||
 nt|sybarra: my guess also |pg||
 mb|p|nt|murat e: 2nt asks|pg||
 mb|3H!|nt|ady: not sure west should take any fiurther action  opposite a passed hand?|pg||
-nt|sybarra: I am told: 2H   5c@S  4c@H   0-8     2Sp  5c@S  4c@H  9-11|pg||
+nt|sybarra: I am told: 2H   5c@S  4c@H	 0-8	 2Sp  5c@S  4c@H  9-11|pg||
 nt|pelu: if 2@H = 6-9 why will West ask?|pg||
 nt|pelu: if 0-8 then I dont understand 2Nt|pg||
 nt|sybarra: sorry was 5-8,  not 0-8|pg||
@@ -182,7 +182,7 @@ pc|d5|pc|dQ|pc|dK|pc|dT|pg||
 pc|sJ|pc|s4|pc|c3|pc|sQ|pg||
 mc|9|pg||
 qx|o18|st||md|4SK84HKT98D5CA7432,SQT32HAQ74D832CT9,SAJH532DAJT6CKQJ8,S9765HJ6DKQ974C65|sv|n|nt|pelu: and a fair result :)|pg||
-mb|p|mb|p|mb|p|mb|1D!|mb|p|nt|ady: n/s  should not have much difficulty in 3NT|pg||
+mb|p|mb|p|mb|p|mb|1D!|mb|p|nt|ady: n/s	should not have much difficulty in 3NT|pg||
 mb|1H|mb|p|mb|1N!|mb|p|mb|2C|mb|p|nt|sybarra: wonder what their nt range is |pg||
 mb|2D|mb|p|mb|3N|nt|murat e: two way check back|pg||
 mb|p|mb|p|mb|p|nt|ady: east may elect to lead a spade|pg||
@@ -236,7 +236,7 @@ mb|1H|mb|1N|nt|sybarra: E not being bashful |pg||
 nt|sybarra: but same in CR|pg||
 nt|pelu: both pairs: 1Nt in "sandwich-position" = strong|pg||
 mb|p|nt|pelu: u agree?|pg||
-mb|2N!|an|clubs|nt|sybarra: 2 nt looks lebish,   so we might play 3 @C here|pg||
+mb|2N!|an|clubs|nt|sybarra: 2 nt looks lebish,	 so we might play 3 @C here|pg||
 mb|d|nt|pelu: pass from S???|pg||
 nt|ady: very dubious  1NT    as it happens there is a get out in clubs for e/w|pg||
 mb|3C!|mb|3H|mb|p|nt|sybarra: I dont think 2 nt was @D's|pg||
@@ -255,7 +255,7 @@ nt|vugraphzks: NS is playing really artificial system|pg||
 nt|vugraphzks: 1 H! is 2+|pg||
 nt|vugraphzks: 1 @H|pg||
 nt|vugraphzks: so S passed he is not sure about fit|pg||
-nt|ady: biiding in CR same up to 1NT by east   but south raised ti 2@H  at that point   but that was passed out|pg||
+nt|ady: biiding in CR same up to 1NT by east   but south raised ti 2@H	at that point	but that was passed out|pg||
 nt|ady: sees a long delay?|pg||
 nt|ady: seems|pg||
 nt|murat e: yüksel is aker thinking|pg||
@@ -300,7 +300,7 @@ mb|p|nt|sybarra: but I play leb. everywhere!|pg||
 mb|2N!|nt|murat e: yes|pg||
 mb|p|mb|3N!|nt|murat e: there is the double finesse in diamonds but once spades coning in no need|pg||
 mb|p|mb|4D!|nt|sybarra: that was the cue that W needed |pg||
-mb|p|mb|4S|mb|p|mb|4N|nt|ady: 2NT jacoby   presume 3NT  no shortage or 2nd suit   but plus values|pg||
+mb|p|mb|4S|mb|p|mb|4N|nt|ady: 2NT jacoby   presume 3NT	no shortage or 2nd suit   but plus values|pg||
 mb|p|nt|murat e: 2nt jacoby i guess|pg||
 mb|5D|nt|sybarra: should be easy 6 @H |pg||
 nt|sybarra: another pesky 3/1 break but hardly matters here either |pg||
@@ -372,7 +372,7 @@ mb|2N!|mb|p|mb|3H|mb|3S|mb|p|nt|ady: n/s limit around 28 tricks in spades|pg||
 mb|4S|mb|p|nt|pelu: look at the bidding in CR: 1@s - 1NT - 2Nt (asking for extra) and the 4@S in S??|pg||
 nt|ady: 8 tricks|pg||
 nt|sybarra: does S have a pass card?  nope|pg||
-nt|sybarra: being vul,  made me do it,  (says S)|pg||
+nt|sybarra: being vul,	made me do it,	(says S)|pg||
 mb|p|mb|d|mb|p|mb|p|nt|pelu: why bgid strongly against odds when u are red?|pg||
 mb|p|pc|sA|nt|sybarra: I would have expected a better hand (and suit) from my pard |pg||
 nt|ady: the aggression here now become expensive|pg||
@@ -380,7 +380,7 @@ pc|s2|pc|s6|pc|s3|pg||
 pc|sK|pc|s5|pc|sJ|pc|s8|pg||
 pc|s4|pc|s7|pc|h3|pc|s9|pg||
 pc|h4|pc|h8|pc|hQ|pc|hA|pg||
-nt|ady: 7 imps     so new leaders|pg||
+nt|ady: 7 imps	   so new leaders|pg||
 pc|hT|pc|hK|pc|h7|pc|c2|pg||
 pc|dA|pc|d9|pc|d3|pc|d2|pg||
 pc|dJ|pc|dK|pc|d5|pc|d4|pg||
@@ -638,7 +638,7 @@ pc|h2|pc|h8|pc|hA|pg||
 pc|sA|pc|s5|pc|s6|pc|s3|pg||
 pc|h6|pc|hQ|pc|hK|pc|c9|pg||
 pc|s7|pc|sT|pc|c3|pc|h7|pg||
-pc|sQ|nt|ady: sjould be down 2   so flat|pg||
+pc|sQ|nt|ady: sjould be down 2	 so flat|pg||
 pc|cJ|pc|hJ|nt|sybarra: strange hand again |pg||
 nt|ady: ruff next with 10@D|pg||
 nt|vugraphzks: director called|pg||
@@ -673,7 +673,7 @@ mb|1C!|nt|sybarra: we thank our operator Yusel,  for a great job! |pg||
 mb|1N|nt|pelu: EW had 6 tricks before the revoke, so never make|pg||
 mb|p|nt|murat e: i see|pg||
 mb|2D|mb|p|mb|2H|mb|p|mb|2N|mb|p|nt|vugraphzks: last board of this round|pg||
-mb|3N|mb|p|mb|p|mb|p|nt|sybarra: and thx to the commentators, Peter, Murat, and David.   We appreciate your time and insights|pg||
+mb|3N|mb|p|mb|p|mb|p|nt|sybarra: and thx to the commentators, Peter, Murat, and David.	 We appreciate your time and insights|pg||
 pc|sJ|nt|bobholl: sybarra good too :)|pg||
 nt|sybarra: and thx to the Turkish Bridge League and the folks in Adana for bringing this to BBO |pg||
 nt|sybarra: thx Bob :) |pg||
@@ -695,7 +695,7 @@ pc|sQ|pc|d2|pc|s9|pc|h8|pg||
 nt|ady: thx all|pg||
 nt|ady: thx specs|pg||
 mc|8|nt|murat e: thx and bye|pg||
-nt|sybarra: thx all cu in about 25 min   |pg||
+nt|sybarra: thx all cu in about 25 min	 |pg||
 nt|ady: bye|pg||
 nt|vugraphzks: see you in 20 minutes|pg||
 pg||
