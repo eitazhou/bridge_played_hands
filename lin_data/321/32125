@@ -1,4 +1,4 @@
-vg|Division Nationale 1,FINALE  -  Seg 5_6,I,1,16,ZIMMERMANN,222,ZALESKI,91|
+vg|Division Nationale 1,FINALE	-  Seg 5_6,I,1,16,ZIMMERMANN,222,ZALESKI,91|
 rs|3SN-1,1NW=,3SE+1,2SE+2,3NE-1,4DW-1,3NW-2,3NW+1,4SN=,4SN=,3NS+2,3NS+2,4SN+1,3NS=,3NN=,3NN=,3HN-1,2HN=,4SW=,4SW=,4SW=,4SW+1,3NE-3,2SW+1,1NS-1,2HE-1,3NW-2,3NE-4,4SWx-2,4HN-1,6DE-2,4SW=|
 pn|Nunes,Toffier,Fantoni,Pilon,CRONIER,HELGEMO,ZALESKI,HELNESS|pg||
 qx|o1|st||md|3S874HT65DAJ86C864,SJ52HAJ9DQT43CJ72,SAKQT3HK742D5CT95,S96HQ83DK972CAKQ3|sv|o|mb|1S|mb|d|mb|2S|mb|d|mb|3S|mb|p|mb|p|mb|p|pc|cA|pc|c4|pc|c2|pc|c5|pg||
@@ -41,7 +41,7 @@ pc|sQ|pc|s7|pc|s4|pc|h3|pg||
 pc|s9|pc|sJ|pc|sA|pc|c5|pg||
 pc|d4|pc|d3|pc|dA|pc|dK|pg||
 pc|h2|pc|h8|pc|hA|pc|h4|pg||
-pc|d9|mc|10|nt|olivix:  helness aurait il oubliÃ© de garder le 2p communiquant?|pg||
+pc|d9|mc|10|nt|olivix:	helness aurait il oubliÃ© de garder le 2p communiquant?|pg||
 pg||
 qx|o3|st||md|1SAT98HKQJ3D43CJ84,S4HAT2DJ9852CAQ65,SJ6532H54DKT76C73,SKQ7H9876DAQCKT92|sv|e|mb|p|mb|1D|mb|1S|mb|d|mb|2D|mb|p|mb|2S|mb|3N|mb|p|mb|p|mb|p|pc|hK|pc|hA|pc|h4|pc|h6|pg||
 pc|d2|pc|d7|pc|dQ|pc|d4|pg||
@@ -56,7 +56,7 @@ pc|c6|pc|s6|pc|h7|pc|s8|pg||
 mc|8|pg||
 qx|c3|st||md|1SAT98HKQJ3D43CJ84,S4HAT2DJ9852CAQ65,SJ6532H54DKT76C73,SKQ7H9876DAQCKT92|sv|e|nt|olivix:  oups pas bien tout vu ...|pg||
 nt|vugraphzaj: il a l'as de @h...|pg||
-mb|1C|mb|1D|nt|olivix:  avec la tablette,  quand on Ã©crit,  on perd le jeu de vue, ce qui explique de petits ratÃ©s,  sorry :)|pg||
+mb|1C|mb|1D|nt|olivix:	avec la tablette,  quand on Ã©crit,  on perd le jeu de vue, ce qui explique de petits ratÃ©s,  sorry :)|pg||
 mb|1H!|an|!s 5 cards|mb|2N!|mb|3S|mb|4D|nt|vugraphzaj: 2NT alerted as fit @d..|pg||
 mb|p|mb|p|mb|p|pc|s2|pc|sK|nt|olivix:  tu parles en anglais? je croyais que c etait la table en franÃ§ais|pg||
 pc|sA|pc|s4|pg||
@@ -138,12 +138,12 @@ pc|cT|pc|c2|pc|c5|pc|cA|pg||
 pc|sJ|pc|s5|pc|d3|pc|sA|pg||
 pc|d9|pc|dK|pc|d2|pc|d4|pg||
 mc|11|pg||
-qx|c7|st||md|1STHAQ82DA843CK982,SA73HJ64D97CQJ765,SQJ9842HK95DK5CA3,SK65HT73DQJT62CT4|sv|b|nt|poussin:  le flanc pouvait faire deux levÃ©es de plus en retournant trefle|pg||
-mb|1D|mb|p|nt|poussin:  aprÃ¨s l'as de pique|pg||
+qx|c7|st||md|1STHAQ82DA843CK982,SA73HJ64D97CQJ765,SQJ9842HK95DK5CA3,SK65HT73DQJT62CT4|sv|b|nt|poussin:	le flanc pouvait faire deux levÃ©es de plus en retournant trefle|pg||
+mb|1D|mb|p|nt|poussin:	aprÃ¨s l'as de pique|pg||
 mb|1S|mb|p|mb|1N|mb|p|nt|poussin:  mais le flanc pique semblait beaucoup plus naturel|pg||
 mb|2C!|mb|p|mb|2D|mb|p|nt|olivix:  11 levÃ©es a pique, donne plate?|pg||
 nt|poussin:  pique ou sa?|pg||
-mb|3S|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|c5|nt|poussin:  la sÃ©quence de Zaleski montre je pense 6 cartes Ã  pique et une proposition entre 3sa et 4p|pg||
+mb|3S|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|c5|nt|poussin:  la sÃ©quence de Zaleski montre je pense 6 cartes Ã  pique et une proposition entre 3sa et 4p|pg||
 nt|vugraphzaj: 5@c, pair impair (3rd, 5th|pg||
 pc|c3|pc|cT|pc|c2|pg||
 nt|poussin:  Cronier choisir logiquement de jouer 3sa avec son singleton pique|pg||
@@ -167,7 +167,7 @@ pc|dA|pc|d6|pc|d2|pc|d5|pg||
 pc|dT|pc|d8|pc|d3|pc|dK|pg||
 pc|hA|pc|h6|pc|h5|pc|h4|pg||
 pc|hJ|pc|hQ|mc|9|pg||
-qx|c8|st||md|2ST9764H43DJ32CA52,SAQ53HAJT972DK5C7,SKJHKQ6DAQT974CKT,S82H85D86CQJ98643|sv|o|nt|poussin:  on laisse passer une fois dans chaque couleur et le dÃ©fense ne peut affranchir aucune des deux|pg||
+qx|c8|st||md|2ST9764H43DJ32CA52,SAQ53HAJT972DK5C7,SKJHKQ6DAQT974CKT,S82H85D86CQJ98643|sv|o|nt|poussin:	on laisse passer une fois dans chaque couleur et le dÃ©fense ne peut affranchir aucune des deux|pg||
 nt|olivix:  si quelqu un connait un rÃ©dacteur du bridgeur pour la raconter ...|pg||
 nt|vugraphzaj: Cronier reproche à Zaleski de ne pas avoir sauté à 4@s sur 1sa, ou de les dire apres|pg||
 mb|1H|nt|olivix:  beaucoup trop pour 1sa|pg||
@@ -177,16 +177,16 @@ mb|2H|nt|poussin:  la redemande de Cronier a 1sa est considÃ©rÃ© comme un mo
 nt|vugraphzaj: 2@c horrible?|pg||
 mb|2N|mb|p|nt|olivix:  non mais il faut suivre 2k a 2c sauf si on joue un gadget 5p 4c sur ouverture 1k|pg||
 nt|poussin:  ici Zaleski dit 2sa montrant une main rÃ©guliÃ¨re de 18-20 pts environ|pg||
-mb|3N|mb|p|mb|p|mb|p|pc|h8|nt|poussin:  et Cronier ne cherche pas le fit 5-3 Ã©ventuel. a pique|pg||
+mb|3N|mb|p|mb|p|mb|p|pc|h8|nt|poussin:	et Cronier ne cherche pas le fit 5-3 Ã©ventuel. a pique|pg||
 pc|h3|nt|olivix:  vk la carte clef|pg||
 pc|h9|pc|hQ|pg||
 nt|poussin:  il aurait pu dire 3c, pour que Zaleski nomme 3p avec 3cartes|pg||
 nt|poussin:  Zaleski devrait tirer les k en tÃªte pour faire 5k 2t et 2c|pg||
-nt|poussin:  remonter au mort Ã  l'as de trÃ¨fle ne me semble pas sans danger|pg||
+nt|poussin:  remonter au mort Ã  l'as de trÃ¨fle ne me semble pas sans danger|pg||
 pc|dA|pc|d8|pc|d2|pc|d5|pg||
 pc|dT|pc|d6|pc|d3|pc|dK|pg||
 nt|vugraphzaj: il t'écoute :)|pg||
-nt|poussin:  en remontant Ã  l'as de trÃ¨fle on risque peut Ã©tÃ© de rater l'impasse k et de voir les adversaires rejouer trÃ¨fle et affranchir 2t en plus des deux as et du roi de k|pg||
+nt|poussin:  en remontant Ã  l'as de trÃ¨fle on risque peut Ã©tÃ© de rater l'impasse k et de voir les adversaires rejouer trÃ¨fle et affranchir 2t en plus des deux as et du roi de k|pg||
 nt|olivix:  il joue la securite|pg||
 nt|olivix:  3p semble la chance de chute, le rp en face est possible mais cela ne colle pas avec le jeu des k|pg||
 nt|olivix:  le declarant aurait ouvert la 5Ã¨me levÃ©e du flanc|pg||
@@ -253,7 +253,7 @@ qx|c10|st||md|4S953HQJ62DKQ5C962,SAK862HDJT9872CK4,SQTHA98543D6CAJT5,SJ74HKT7DA4
 mb|p|mb|p|mb|1S|mb|2H|mb|3H!|mb|4H|mb|4S|nt|poussin:  3c montre sans doute un soutien limite avec 3 atouts|pg||
 nt|olivix:  5c est cher 800|pg||
 mb|p|mb|p|nt|poussin:  dans le standard franÃ§ais Ã§a en montrerait 4 des atouts|pg||
-mb|p|pc|d6|nt|poussin:  HH disent probablement 2sa avec 4 atouts dans cette sÃ©quence|pg||
+mb|p|pc|d6|nt|poussin:	HH disent probablement 2sa avec 4 atouts dans cette sÃ©quence|pg||
 pc|dA|pc|d5|pc|d7|pg||
 pc|s4|pc|s9|pc|sA|pc|sT|pg||
 pc|sK|pc|sQ|pc|s7|pc|s5|pg||
@@ -268,7 +268,7 @@ pc|hK|pc|sJ|pc|hJ|pc|h9|pg||
 pc|dA|pc|dK|pc|d2|pc|d3|pg||
 pc|d6|pc|sQ|pc|d8|pc|d9|pg||
 mc|10|pg||
-qx|c11|st||md|1SJ5H3DA654CAJ9653,SKQ8762HJ2DK7CKT2,ST9HQT98DJT82CQ87,SA43HAK7654DQ93C4|sv|o|nt|poussin:  si le dÃ©clarant commencÃ© par affranchir ses k Sud peut rejouer cÅur et faire chuter|pg||
+qx|c11|st||md|1SJ5H3DA654CAJ9653,SKQ8762HJ2DK7CKT2,ST9HQT98DJT82CQ87,SA43HAK7654DQ93C4|sv|o|nt|poussin:  si le dÃ©clarant commencÃ© par affranchir ses k Sud peut rejouer cÅur et faire chuter|pg||
 mb|p|mb|1S|mb|p|mb|2H|an|GF|mb|3C|mb|p|mb|p|mb|4S|mb|p|mb|p|mb|p|pc|c7|pc|c4|pc|cA|pc|cT|pg||
 pc|d5|pc|d7|pc|dT|pc|dQ|pg||
 pc|d3|pc|dA|pc|dK|pc|d2|pg||
@@ -281,8 +281,8 @@ pc|d3|pc|d4|pc|dK|pc|d5|pg||
 pc|s9|pc|sA|pc|s3|pc|sJ|pg||
 pc|hK|pc|hQ|pc|h9|pc|h2|pg||
 pc|hJ|nt|chmitty: Pour ceux qui étaient là ce matin et qui brulent d'envie de savoir par quel raisonnement Helgemo a gagné 6@s j'ai la réponse|pg||
-nt|chmitty: contre envoi d'un chèque de 100 et d'une enveloppe-réponse timbrée lol :)|pg||
-nt|Vugraphzaa: 95 ici pour la meme|pg||
+nt|chmitty: contre envoi d'un chèque de 100 et d'une enveloppe-réponse timbrée lol :)|pg||
+nt|Vugraphzaa: 95 ici pour la meme|pg||
 pc|c5|pc|h4|nt|chmitty: Il a jugé que dans la séquence (où Nord est certainement tricolore souvenez-vous) ....|pg||
 pc|hA|pg||
 pc|c8|pc|c3|pc|cA|pc|c2|pg||
@@ -322,7 +322,7 @@ pc|dT|pc|dA|pc|dK|pc|d4|pg||
 pc|sA|pc|s8|pc|d5|pc|d8|pg||
 pc|s9|pc|sJ|pc|d6|pc|d9|pg||
 pg||
-qx|c13|st||md|3SAK93HK6DAQ32C987,SJ875HA7DKJ7CAKQ4,SQ6HQ954D654CT532,ST42HJT832DT98CJ6|sv|b|mb|p|mb|p|mb|1N|nt|olivix:  en principe, Zaleski abandonne a la fin du segment, saut grosse remontÃ©e|pg||
+qx|c13|st||md|3SAK93HK6DAQ32C987,SJ875HA7DKJ7CAKQ4,SQ6HQ954D654CT532,ST42HJT832DT98CJ6|sv|b|mb|p|mb|p|mb|1N|nt|olivix:	en principe, Zaleski abandonne a la fin du segment, saut grosse remontÃ©e|pg||
 nt|vugraphzaj: le pli à @c était la 2e levée, c'est tout :)|pg||
 mb|d!|nt|vugraphzaj: X = strong|pg||
 mb|p|mb|2H|mb|p|mb|p|mb|p|pc|sA|pc|s5|pc|s6|pc|s4|pg||
@@ -362,7 +362,7 @@ qx|c14|st||md|4SKT4H53DQ76CT9765,S98HK762DKJ98CKQ2,SQ732HAJT9D432CA4,SAJ65HQ84DA
 nt|vugraphzaj: sauf erreur @d :)|pg||
 pc|dJ|pc|d2|nt|poussin:  helness n'a que 8 levees|pg||
 nt|poussin:  4k 2t 1c et 1p|pg||
-nt|poussin:  mais Nord risque d'Ãªtre embÃªtÃ© avec ses 4cartes Ã  cÅur et a pique|pg||
+nt|poussin:  mais Nord risque d'Ãªtre embÃªtÃ© avec ses 4cartes Ã  cÅur et a pique|pg||
 pc|dT|pg||
 pc|d8|pc|d3|pc|d5|pc|dQ|pg||
 pc|c5|nt|poussin:  ah|pg||
@@ -371,7 +371,7 @@ pc|dA|pc|d6|pc|d9|pc|d4|pg||
 nt|poussin:  helness a jouÃ© que Cronier avait entamÃ© dans 2 petits k|pg||
 pc|h4|pc|h5|pc|hK|pc|hA|pg||
 pc|hJ|pc|hQ|pc|h3|pc|h2|pg||
-pc|h8|pc|c6|pc|h6|nt|poussin:  Ã©tonnant mais l'entame a mis un peu de temps Ã  venir alors que carreau Ã©tait la couleur verte|pg||
+pc|h8|pc|c6|pc|h6|nt|poussin:  Ã©tonnant mais l'entame a mis un peu de temps Ã	venir alors que carreau Ã©tait la couleur verte|pg||
 pc|h9|pg||
 pc|hT|pc|s5|pc|c7|pc|h7|pg||
 pc|s2|pc|s6|pc|sT|pc|s8|pg||
@@ -395,11 +395,11 @@ qx|c15|st||md|1S86HQTDAKJ986C932,SKJT954H3DQ42CAJ6,SAQHAK9852DT5C875,S732HJ764D7
 mb|p|mb|1S|mb|2H|mb|2S|mb|3D|mb|3S|mb|p|mb|p|mb|4H|mb|p|mb|p|mb|p|pc|cK|pc|c2|pc|c6|pc|c7|pg||
 nt|poussin:  4c devrait chuter d'une contre 3p qui chutait aussi d'une, rien de grave|pg||
 pc|s7|pc|s6|pc|sK|pc|sA|pg||
-nt|poussin:  si les cÅurs Ã©taient 3-2 dire 4c aurait Ã©tÃ© rÃ©munÃ©rateur|pg||
+nt|poussin:  si les cÅurs Ã©taient 3-2 dire 4c aurait Ã©tÃ© rÃ©munÃ©rateur|pg||
 pc|h2|pc|h6|pc|hQ|pc|h3|pg||
 pc|hT|pc|s4|pc|hA|pc|h4|pg||
 pc|hK|pc|h7|pc|d6|pc|s5|pg||
-nt|poussin:  le dÃ©clarant pourrait gagner en jouant cÅur vers les 10'mais ce n'est pas vraiment le tableau|pg||
+nt|poussin:  le dÃ©clarant pourrait gagner en jouant cÅur vers les 10'mais ce n'est pas vraiment le tableau|pg||
 nt|poussin:  maintenant il va peut Ãªtre faire l'impasse k pour essayer de dÃ©fausser un trÃ¨fle?|pg||
 nt|poussin:  mais Ã§a ne laisserait pas assez de points en ouest|pg||
 nt|vugraphzaj: c'est exactement ce que Romain demandait|pg||
@@ -434,11 +434,11 @@ mb|2N|mb|p|mb|3C|mb|p|mb|3D!|nt|olivix:  score actuel : 258 118|pg||
 nt|vugraphzaj: la der du match me confirme-t-on|pg||
 mb|p|mb|3H!|nt|poussin:  j'en ai la confirmation par un des joueurs|pg||
 mb|p|mb|3S|mb|p|mb|4S|mb|p|mb|p|mb|p|nt|olivix:  oui c Ã©tait annonce avant sauf grosse remontÃ©e|pg||
-nt|poussin:  fÃ©licitations Ã  l'Ã©quipe zimmerman qui conserve donc son titre!|pg||
+nt|poussin:  fÃ©licitations Ã  l'Ã©quipe zimmerman qui conserve donc son titre!|pg||
 nt|vugraphzaj: Merci à tous d'avoir suivi ce WE de DN, Bravo aux vainqueurs !|pg||
 pc|c4|pc|c7|pc|cK|pc|c3|pg||
 pc|cA|pc|cJ|pc|c6|pc|c9|pg||
-pc|c2|pc|cQ|pc|cT|nt|poussin:  merci Ã  tous... au revoir|pg||
+pc|c2|pc|cQ|pc|cT|nt|poussin:  merci Ã	tous... au revoir|pg||
 pc|d3|pg||
 nt|vugraphzaj: merci gogo pour tes commentaires pertinents! :)|pg||
 pc|sA|pc|s4|pc|s7|pc|s3|pg||
