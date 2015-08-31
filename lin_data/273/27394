@@ -1,7 +1,7 @@
 vg|A 2013 Vanderbilt SF,Segment 1 of 4,I,1,16,Rosenthal,0,Auken,0|
 rs|4SE=,2SE+1,4HS=,4HS+1,3NE-1,2SSx-2,1NN=,2CE-1,3NW+1,3NW+1,3CS=,3CS=,4SN-1,4CE-2,3CN+1,3NN-1,3NE-2,1NW=,1NN=,1NN=,4SE-1,4SE-1,3SN=,2SN+1,3SE-1,2SE=,3SN-1,4SN-1,3NE+2,4HW+3,3NW+2,3NW+2|
 pn|Rosenthal,Welland,Silverstei,Auken,M Bilde,Upmark,D Bilde,Nystrom|pg||
-qx|o1|st||md|3SKJ7HK8743DKQ7C86,S964HJT2D942CKQT2,S82HA965D865CJ543,SAQT53HQDAJT3CA97|sv|o|mb|p|mb|1S|mb|p|mb|2S|mb|p|mb|4S|mb|p|mb|p|mb|p|nt|ahollan1: 1@S 90% unbal   6+@S or some singleton/void|pg||
+qx|o1|st||md|3SKJ7HK8743DKQ7C86,S964HJT2D942CKQT2,S82HA965D865CJ543,SAQT53HQDAJT3CA97|sv|o|mb|p|mb|1S|mb|p|mb|2S|mb|p|mb|4S|mb|p|mb|p|mb|p|nt|ahollan1: 1@S 90% unbal	6+@S or some singleton/void|pg||
 pc|dK|pc|d2|pc|d8|nt|ahollan1: both matches playing the same set of boards|pg||
 pc|dA|pg||
 pc|c9|pc|c6|nt|pelu:  there were problems in CR - wrong cards - the cards for 3. segment :) - |pg||
@@ -49,10 +49,10 @@ pc|h3|pc|cT|pc|cJ|pg||
 pc|d3|mc|9|pg||
 qx|o2|st||md|4SK4HQJ52DAJ73CAQ7,ST832H4DK9852C852,SA95HAT983DQT4CT6,SQJ76HK76D6CKJ943|sv|n|nt|ahollan1: in the other match  1  4@S-4 vs 4@S-1|pg||
 mb|1C|an|!|nt|ahollan1: 1@C=2+, includes bal hands with ANY 5-card suit when out of range for NT opener|pg||
-mb|1N|nt|ahollan1: the driving requirement for EW opening bids    13 cards|pg||
+mb|1N|nt|ahollan1: the driving requirement for EW opening bids	  13 cards|pg||
 nt|ahollan1: not absolute requirement, but usually followed|pg||
 mb|p|mb|2D|mb|p|nt|ahollan1: 2@D = transfer|pg||
-mb|2H|mb|p|mb|3N|nt|ahollan1: surprise   no superaccept|pg||
+mb|2H|mb|p|mb|3N|nt|ahollan1: surprise	 no superaccept|pg||
 mb|p|mb|4H|mb|p|mb|p|mb|p|pc|s3|nt|ahollan1: in the other match   NS had free run   south opening 1N and ending up in 4@H|pg||
 pc|s5|pc|sQ|pc|sK|pg||
 pc|hQ|nt|ahollan1: just a question of overtricks|pg||
@@ -60,7 +60,7 @@ pc|h4|pc|h3|pc|hK|pg||
 pc|d6|pc|d3|pc|dK|pc|d4|pg||
 pc|d9|pc|dQ|pc|h6|pc|d7|pg||
 nt|ahollan1: all ko matches in the vandergold / spinderbilt are 64 boards in 4-16 board segments|pg||
-pc|cJ|nt|pelu:  also trhe final?|pg||
+pc|cJ|nt|pelu:	also trhe final?|pg||
 pc|cA|pc|c8|pc|c6|pg||
 mc|10|nt|ahollan1: the only matches that are NOT 64 boards  are round-robin matches before pure KO number reached|pg||
 pg||
@@ -70,7 +70,7 @@ pc|c2|pc|cT|pc|cJ|pc|cQ|pg||
 pc|h5|pc|h4|pc|h9|pc|hK|pg||
 nt|panosk: 2 badly placed kings and +1 most probably|pg||
 pc|d6|pc|dA|mc|11|pg||
-qx|o3|st||md|1SAT973HQ9DQT83CQ9,SKQJ8H642DJ74CKT8,S642HKT85D2CA7643,S5HAJ73DAK965CJ52|sv|e|mb|p|mb|p|mb|p|mb|1D|an|!|nt|ahollan1: 1@D = unbal, 5+@D or 4441      |pg||
+qx|o3|st||md|1SAT973HQ9DQT83CQ9,SKQJ8H642DJ74CKT8,S642HKT85D2CA7643,S5HAJ73DAK965CJ52|sv|e|mb|p|mb|p|mb|p|mb|1D|an|!|nt|ahollan1: 1@D = unbal, 5+@D or 4441	 |pg||
 mb|1S|nt|ahollan1: disciples of Pearson Points might pass east because of @S shortness|pg||
 mb|3S|an|!|mb|p|nt|ahollan1: 3@S transfer to 3N  [i assume]|pg||
 mb|3N|mb|p|mb|p|mb|p|nt|ahollan1: other room   P-P-P-1@D//1@S-1N-2@D-P//2@S-DBL-end|pg||
@@ -162,7 +162,7 @@ mb|2H|an|! !|nt|ahollan1: 2@H = a) BAL, 20-21  b) nat|pg||
 mb|p|mb|2S|an|! !|nt|ahollan1: 2@S forces 2N|pg||
 mb|p|mb|2N|an|!|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|hQ|nt|ahollan1: Auken's auction was all geared to making Welland declarer in NT|pg||
 nt|ahollan1: i know   rest of world   2N-3N|pg||
-nt|ahollan1: but there are some very interesting benefits of making opening 2N=22-24 [as in old days]   and 20-21, the more frequent hand, part of the 2@C structure|pg||
+nt|ahollan1: but there are some very interesting benefits of making opening 2N=22-24 [as in old days]	and 20-21, the more frequent hand, part of the 2@C structure|pg||
 pc|h2|pc|h6|pc|h7|pg||
 pc|h8|pc|h3|pc|h4|nt|ahollan1: Nystrom-Upmark auction starts the same way, but Nystrom rebid 3@S instead of 3N|pg||
 pc|hK|pg||
@@ -260,15 +260,15 @@ pc|s9|pc|s7|pc|sK|pc|sQ|pg||
 pc|h2|pc|hA|pc|h3|pc|h5|pg||
 pc|cT|pc|cK|pc|cA|pc|c7|pg||
 pc|d3|mc|8|pg||
-qx|o8|st||md|2S54HTDQJT64CKJT63,SAJ762HA976D985C8,SKQT9HKJ53DK3CA52,S83HQ842DA72CQ974|sv|o|nt|smoller:  we are all confused|pg||
+qx|o8|st||md|2S54HTDQJT64CKJT63,SAJ762HA976D985C8,SKQT9HKJ53DK3CA52,S83HQ842DA72CQ974|sv|o|nt|smoller:	we are all confused|pg||
 nt|ahollan1: Upmark made same DBL over 3@S  but Dennis B  RDBL|pg||
 mb|p|nt|pelu:  pl operator, if u lose the play then just stop playing cards|pg||
-mb|1N|mb|p|nt|ahollan1: final contract  7  Nystrom 4@C east|pg||
+mb|1N|mb|p|nt|ahollan1: final contract	7  Nystrom 4@C east|pg||
 mb|2N|nt|smoller:  It seems that N took @SA and finessed sdpades|pg||
 mb|p|nt|ahollan1: not sure if NS 14-16 or 15-17|pg||
-mb|3C|mb|p|nt|ahollan1: assume 2N = @D  with 3@C = reject|pg||
+mb|3C|mb|p|nt|ahollan1: assume 2N = @D	with 3@C = reject|pg||
 mb|p|nt|ahollan1: so responder can get out with 5@D 5@C   as we see here|pg||
-nt|ahollan1: original 4-suit transfers  used the intermediate bid as ACCEPT responder's minor|pg||
+nt|ahollan1: original 4-suit transfers	used the intermediate bid as ACCEPT responder's minor|pg||
 nt|ahollan1: this treatment is used to free up 3@C response for other hand types  [example  5@C 5@D INVITE  or Puppet Stayman]|pg||
 mb|p|nt|ahollan1:  7  Rosenthal down in both rooms  7 imps to Auken|pg||
 nt|ahollan1: other match  vanProoijen over Fleisher   24-2|pg||
@@ -312,11 +312,11 @@ nt|pelu:  prob 6 tricks|pg||
 nt|smoller:  yes, around 6 tricks - byt too late to rest it now :)|pg||
 nt|ahollan1: defense does best if West not forced to make an opening lead :)|pg||
 nt|pelu:  2@d + 1@c + 1H + 2@s|pg||
-mb|2N|mb|p|nt|smoller:  3*too late to test|pg||
+mb|2N|mb|p|nt|smoller:	3*too late to test|pg||
 mb|3N|mb|p|mb|p|mb|p|nt|ahollan1: other match  Willenken in 3NX|pg||
 nt|smoller:  @S10 will held declarer|pg||
 nt|smoller:  *help|pg||
-nt|ahollan1: our match  Nystrom-Upmark   1@S-1N-end|pg||
+nt|ahollan1: our match	Nystrom-Upmark	 1@S-1N-end|pg||
 pc|s5|pc|s8|pc|s4|pc|s6|pg||
 pc|c3|pc|c2|pc|cQ|pc|cT|pg||
 pc|c9|nt|ahollan1: thru 8 [of 64]  vanProoijen 30  Fleisher 2|pg||
@@ -342,7 +342,7 @@ mb|p|pc|c4|pc|cQ|pc|cT|pc|c3|pg||
 pc|s3|pc|s2|pc|sJ|pc|s4|pg||
 pc|s8|nt|panosk: @S dont behave but has other options  too|pg||
 nt|Rodal F: So as we see it Panos 1NT=?|pg||
-pc|d6|pc|sK|nt|panosk: in OR  Auken in 3N east   Rosenthal bid @S  leads @S5|pg||
+pc|d6|pc|sK|nt|panosk: in OR  Auken in 3N east	 Rosenthal bid @S  leads @S5|pg||
 pc|sA|pg||
 pc|h8|pc|h6|pc|hK|pc|h5|pg||
 nt|Rodal F: At OR there are some more fire at B9. E play 3NT|pg||
@@ -370,13 +370,13 @@ pc|d2|pc|dT|pg||
 pc|s2|nt|ahollan1: what happens if Welland does open 2@D?   Silverstein 2N??   Auken DBL|pg||
 pc|sT|pc|sK|pc|s4|pg||
 nt|Vugraphzfd: Auken places cards on table to think.|pg||
-nt|ahollan1: rosenberg-willenken also play flannery  but they're still playing  9|pg||
+nt|ahollan1: rosenberg-willenken also play flannery  but they're still playing	9|pg||
 pc|hT|pc|h7|pc|hK|pc|hA|pg||
 pc|sA|pc|s3|pc|sJ|pc|s8|pg||
 pc|d9|pc|d7|pc|dJ|pc|h5|pg||
 pc|d3|pc|sQ|pc|c2|pc|c7|pg||
 pc|d4|pc|c9|pc|c3|pc|cT|pg||
-nt|ahollan1: willenken  did not open flannery   actually  he did not open|pg||
+nt|ahollan1: willenken	did not open flannery	actually  he did not open|pg||
 pc|h8|pc|h2|pc|hJ|pc|hQ|pg||
 pc|h6|pc|c4|pc|h9|pc|h3|pg||
 pc|h4|pc|c8|pc|cJ|pc|c5|pg||
@@ -431,7 +431,7 @@ pc|sJ|pc|s6|pc|s3|pc|sK|pg||
 pc|c5|nt|Rodal F: B10 became = and B11 also 4@SE at OR|pg||
 nt|Rodal F: By same lead|pg||
 mc|9|pg||
-qx|o12|st||md|2S87HK9DA9643CAJ32,SK53HQ65DKQT5CQ85,SAQJ642H842DJ2C94,ST9HAJT73D87CKT76|sv|n|nt|ahollan1: well   4@S-1 and 4@H-1|pg||
+qx|o12|st||md|2S87HK9DA9643CAJ32,SK53HQ65DKQT5CQ85,SAQJ642H842DJ2C94,ST9HAJT73D87CKT76|sv|n|nt|ahollan1: well	4@S-1 and 4@H-1|pg||
 mb|1C|an| !|mb|1S|mb|2D|an|! !|nt|ahollan1: 2@D = 5+@H|pg||
 nt|ahollan1: not sure about minimum strength|pg||
 mb|d|nt|ahollan1: if forced to guess -- would assume min similar to opening 2@H|pg||
@@ -515,7 +515,7 @@ pc|c5|nt|ahollan1: counter oops|pg||
 nt|smoller:  It should have been easy for Sabine to see|pg||
 pc|cQ|pg||
 pc|h6|pc|h2|pc|hQ|pc|h3|pg||
-pc|d9|pc|dT|nt|ahollan1: Auken team  4-person    that is typical of Roy Welland teams|pg||
+pc|d9|pc|dT|nt|ahollan1: Auken team  4-person	 that is typical of Roy Welland teams|pg||
 mc|8|pg||
 qx|c14|st||md|4SQJ42HAKJ82D72CT4,SA963HQ74DA93CK82,SKT87HT3DQJT4CAJ5,S5H965DK865CQ9763|sv|o|mb|p|mb|1H|mb|p|mb|1S|mb|p|mb|2S|mb|p|mb|3N|mb|p|nt|Rodal F: Hard to stop und 4 now|pg||
 mb|4S|mb|p|mb|p|mb|p|nt|Rodal F: Or might 3NT:)|pg||
@@ -536,16 +536,16 @@ mc|9|pg||
 qx|o15|st||md|1SJ753H983DJ42C754,SQHKQ754DK9763C63,SA9HT62DQT8CKJ982,SKT8642HAJDA5CAQT|sv|n|mb|p|mb|1H|mb|p|mb|1N|an|! !|nt|ahollan1: 1@H = 80% unbal  6+@H or some singleton/void|pg||
 nt|ahollan1: 1!N = game force relay|pg||
 nt|smoller:  any danger of getting too hich here?|pg||
-mb|p|mb|2C|an|!|mb|p|mb|2D|an|! !|nt|ahollan1: 2@C=a) 4+@D  b) 5M(440)  c) 5M(332)  |pg||
-mb|p|mb|2S|an|!|nt|ahollan1: 2@D RELAY    2@S=@D, short @S|pg||
+mb|p|mb|2C|an|!|mb|p|mb|2D|an|! !|nt|ahollan1: 2@C=a) 4+@D  b) 5M(440)	c) 5M(332)  |pg||
+mb|p|mb|2S|an|!|nt|ahollan1: 2@D RELAY	  2@S=@D, short @S|pg||
 mb|p|nt|smoller:  hte cards are laying well for 6@H|pg||
 mb|2N|an|!|nt|ahollan1: nothing about strength yet|pg||
-mb|p|mb|3D|an|!|nt|ahollan1: 2N RELAY   3@D = 1552|pg||
+mb|p|mb|3D|an|!|nt|ahollan1: 2N RELAY	3@D = 1552|pg||
 mb|p|nt|smoller:  How do you know Al?|pg||
 mb|3H|an|!!|nt|ahollan1: i've watched many hands played by EW on bbo|pg||
 mb|p|nt|ahollan1: and they are VERY good at explaining alerts|pg||
 mb|3S|an|! !|mb|p|nt|smoller:  You really know all systems Al, as Henry says|pg||
-mb|3N|nt|ahollan1: i think  3@H = Optional RKC for @H   3@S=min|pg||
+mb|3N|nt|ahollan1: i think  3@H = Optional RKC for @H	3@S=min|pg||
 nt|ahollan1: 3N= i tried |pg||
 mb|p|mb|p|mb|p|pc|s3|pc|sQ|pc|sA|pc|s4|pg||
 nt|ahollan1: Optional RKC has 1st step = minimum   other steps normal RKC responses just up one level|pg||
@@ -571,17 +571,17 @@ pc|s4|pc|s5|pc|h7|pc|sA|pg||
 pc|hK|pc|hT|pc|s6|pc|h9|pg||
 mc|13|pg||
 qx|o16|st||md|2SAJ3H97643DT85CQ8,S98542HK2DQ76CAKT,SQT76HQJTDJ32C976,SKHA85DAK94CJ5432|sv|e|mb|1C|an|! !|nt|ahollan1: in other match  operator said  "director just told them that next quarter starts in about 15 min"|pg||
-mb|p|mb|1S|an|! !|nt|ahollan1: since both matches playing same boards   all 4 tables must start at same time|pg||
+mb|p|mb|1S|an|! !|nt|ahollan1: since both matches playing same boards	all 4 tables must start at same time|pg||
 mb|p|mb|1N|nt|ahollan1: 1@S = game force relay|pg||
 mb|p|nt|ahollan1: 1N = BAL  a) 11-13  b) 17-19|pg||
-mb|2C|an|! !|mb|p|mb|2D|an|! !|nt|ahollan1: 2@C relay    2@D = 11-13|pg||
+mb|2C|an|! !|mb|p|mb|2D|an|! !|nt|ahollan1: 2@C relay	 2@D = 11-13|pg||
 mb|p|mb|2H|an|! !|nt|ahollan1: much of what Welland plays  he gathered from time partnered with Bjorn Fallenius|pg||
-mb|p|mb|2S!|an|!|mb|p|mb|2N|an|!|mb|p|nt|ahollan1: 2@H = RELAY  2@S = unexpected for me   i thought 2N would be 4+@S, not 4@H|pg||
+mb|p|mb|2S!|an|!|mb|p|mb|2N|an|!|mb|p|nt|ahollan1: 2@H = RELAY	2@S = unexpected for me   i thought 2N would be 4+@S, not 4@H|pg||
 nt|smoller:  Why telling the ops about Wests distributions - any other logical contact than 3NT|pg||
 nt|panosk: wearing out the bidding boxes Al :)|pg||
 nt|ahollan1: maybe 2@S specifically 5@S|pg||
 mb|3C|an|!|mb|p|mb|3N|mb|p|mb|p|mb|p|nt|ahollan1: would not be shocked if 3@C = exactly 5233|pg||
-pc|hQ|nt|ahollan1: Fleisher v vanProoijen finishing up   vP leads 44-5|pg||
+pc|hQ|nt|ahollan1: Fleisher v vanProoijen finishing up	 vP leads 44-5|pg||
 pc|hA|nt|ahollan1: as here  only issue is number of overtricks in 3N|pg||
 pc|h7|pc|h2|pg||
 pc|c2|pc|c8|pc|cT|pc|c9|pg||
