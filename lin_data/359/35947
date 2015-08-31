@@ -77,7 +77,7 @@ pc|hK|pc|s7|pc|s3|pc|h5|pg||
 mc|7|pg||
 qx|o17|st||md|3SAK764HQDQT72C542,SQT92H63DAK93CQT9,SJHAKT9742D85CAJ6,S853HJ85DJ64CK873|sv|o|nt|shengabus:  No double, no trouble.|pg||
 nt|BroLucius:  In that case.... one might expect them to, just possibly, avoid an 18-point 3NT contract.|pg||
-mb|1H|mb|p|mb|1S|mb|p|mb|3H|mb|p|nt|shengabus:  Looks like a non-bashing route to 4@h, which will make.|pg||
+mb|1H|mb|p|mb|1S|mb|p|mb|3H|mb|p|nt|shengabus:	Looks like a non-bashing route to 4@h, which will make.|pg||
 mb|4H|nt|BroLucius:  South OK for 4@H now|pg||
 mb|p|mb|p|mb|p|nt|vugraphzbf: m|pg||
 pc|c7|pc|c2|nt|BroLucius:  East has to choose between the minors and opts for the aggressive lead. (A close decision)|pg||
@@ -356,7 +356,7 @@ pc|dQ|pc|d5|pc|d7|pc|d9|pg||
 pc|cQ|pc|cK|pc|c6|pc|s7|pg||
 pc|d6|pc|d8|pc|h4|pc|dJ|pg||
 mc|8|pg||
-qx|o25|st||md|3SKQT95HK87D75CQJ2,SAJ62H3DAJ96C8754,S7HA642DT832CK963,S843HQJT95DKQ4CAT|sv|e|mb|p|nt|BroLucius:  Well, that was an interesting bidding board. |pg||
+qx|o25|st||md|3SKQT95HK87D75CQJ2,SAJ62H3DAJ96C8754,S7HA642DT832CK963,S843HQJT95DKQ4CAT|sv|e|mb|p|nt|BroLucius:	Well, that was an interesting bidding board. |pg||
 mb|1H|mb|1S|nt|BroLucius:  Will West bid 1NT over 1@S. That is the NA way, I think.|pg||
 nt|BroLucius:  They are not worried that a game may be missed because East did not open a strong 1NT.|pg||
 mb|d|mb|p|nt|BroLucius:  Double is OK too.|pg||
@@ -416,8 +416,8 @@ pc|s9|pc|c5|pc|d8|pc|h5|pg||
 pc|d9|pc|dQ|pc|dT|pc|d3|pg||
 pc|dK|pc|dJ|pc|hJ|pc|s8|pg||
 mc|9|pg||
-qx|o27|st||md|1SAK32H74DQT732CJ3,SQ876HT62DACT8742,SJ5HKJ93DKJ4CAKQ5,ST94HAQ85D9865C96|sv|o|mb|p|mb|p|mb|1C|mb|p|nt|shengabus:  Looks like the Great Dealer is feeling relaxed again, as we surely (?) reach 3NT|pg||
-mb|1S|mb|p|mb|2N|mb|p|mb|3N|mb|p|nt|shengabus:  We are confused at the claim for -1.|pg||
+qx|o27|st||md|1SAK32H74DQT732CJ3,SQ876HT62DACT8742,SJ5HKJ93DKJ4CAKQ5,ST94HAQ85D9865C96|sv|o|mb|p|mb|p|mb|1C|mb|p|nt|shengabus:	Looks like the Great Dealer is feeling relaxed again, as we surely (?) reach 3NT|pg||
+mb|1S|mb|p|mb|2N|mb|p|mb|3N|mb|p|nt|shengabus:	We are confused at the claim for -1.|pg||
 mb|p|mb|p|nt|shengabus:  That feels difficult.|pg||
 pc|h5|nt|BroLucius:  Walsh advocates responding in spades on this hand. Only if you are worth two bids (around 11+) would you respond 1@D.|pg||
 nt|shengabus:  Ah, but it has been corrected|pg||
@@ -472,8 +472,8 @@ mb|p|mb|2S|mb|p|nt|ahollan1: 2@S = 6+@S some side 4-suit|pg||
 mb|3H|mb|p|mb|3N|mb|p|mb|4C|mb|p|nt|ahollan1: 3@H asks about @S      3N = a) A or K, not Q   b) QJ|pg||
 mb|4H|mb|p|nt|ahollan1: I think 4@C = RKC[0314]    but don'|pg||
 nt|ahollan1: don't quote me|pg||
-mb|4N|mb|p|mb|5D|mb|p|mb|5H|mb|p|mb|5N|mb|p|mb|6S|mb|p|nt|ahollan1: reliable source  4@C=art slam try   4@H = medium interest|pg||
-nt|ahollan1: then 4N=RKC[0314]    5@H saks about trump Q   [seems weird after the response to 3@H]|pg||
+mb|4N|mb|p|mb|5D|mb|p|mb|5H|mb|p|mb|5N|mb|p|mb|6S|mb|p|nt|ahollan1: reliable source  4@C=art slam try	4@H = medium interest|pg||
+nt|ahollan1: then 4N=RKC[0314]	  5@H saks about trump Q   [seems weird after the response to 3@H]|pg||
 mb|6N|mb|p|mb|p|mb|p|nt|ahollan1: 6N avoids risk of @D ruff    nice auction|pg||
 pc|hT|nt|ahollan1: but still lose the war|pg||
 pc|h5|pc|h2|pc|hK|pg||
