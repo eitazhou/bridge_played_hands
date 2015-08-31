@@ -150,7 +150,7 @@ qx|o5|st||md|3SKJ852HQJ2D865CA2,SAT743H964DKQCQ54,S6HAK85DJ974CJT93,SQ9HT73DAT32
 mb|1C|an|art 8-14 all purpose|nt|glen: 1@c handles most 8-10s (any shape)|pg||
 nt|glen: and some hands in the 11-13(14) range|pg||
 mb|1S|mb|p|mb|1N|mb|p|mb|p|nt|glen: the 11-13(14) hands are three suiter, 5-5+ two suiter, 54/45+ majors, or 7 card suits|pg||
-mb|p|nt|3for3:  with slightly better spade spots, tuncok might easily double|pg||
+mb|p|nt|3for3:	with slightly better spade spots, tuncok might easily double|pg||
 pc|c6|pc|c2|pc|cQ|pc|c9|pg||
 pc|c5|pc|c3|pc|c7|pc|cA|pg||
 pc|d5|pc|dQ|pc|d4|pc|d3|pg||
@@ -212,7 +212,7 @@ qx|o7|st||md|1ST54H9D876CK98742,SAKJ8HT876DQ953C5,S97HAKQ32DAK4CJT3,SQ632HJ54DJT
 nt|3for3:  it is 8-14 according to the alert|pg||
 mb|2S|nt|shuster:  its usually 8-10, but could be as strong as 13 with oddball shapes|pg||
 nt|3for3:  doubling and bidding your suit later can be dangerous (either way) you might get shutout or bid too high|pg||
-mb|3H|mb|p|mb|p|mb|p|nt|3for3:  if you start with 1@H then double later....|pg||
+mb|3H|mb|p|mb|p|mb|p|nt|3for3:	if you start with 1@H then double later....|pg||
 pc|s3|nt|3for3:  the first real swing to Dinkin|pg||
 pc|s4|pc|sK|pc|s7|pg||
 pc|d3|pc|dA|pc|dT|pc|d6|pg||
@@ -255,20 +255,20 @@ mb|p|mb|3D|nt|game over: now he has shape and spades (which makes it more likely
 nt|game over: luckily only rarely pass over 1@d p p which is quite often the winning auction)|pg||
 nt|Harmon: ill timed but a trap of 1d|pg||
 mb|p|mb|p|nt|Harmon: can make 3n if guess d's|pg||
-nt|krhorneman:  I think it is more takeout oriented but with only one minor, with the 1d opening nebulous|pg||
+nt|krhorneman:	I think it is more takeout oriented but with only one minor, with the 1d opening nebulous|pg||
 mb|p|nt|game over: can easily be right ... (I prefer a double over 1NT if you want to enter the auction)|pg||
 nt|Harmon: same with 3d|pg||
 pc|hT|nt|krhorneman:  I suspect he didn't want to double 1nt as Hampson still unlimited|pg||
 nt|game over: not entering the auction is also very dangerous as East might respond on nothing (I don't think it is a clear-cut double though)|pg||
 pc|hQ|pc|h2|pc|h5|pg||
 nt|batman98: is this risk of trying to find a fit at the three level with really only support for one unbid suit worth it?|pg||
-nt|krhorneman:  Since they lead Rusinow only from length, declarer has worked out that the 10 is not from JT|pg||
+nt|krhorneman:	Since they lead Rusinow only from length, declarer has worked out that the 10 is not from JT|pg||
 pc|h9|nt|game over: a small (tiny) point in favour of the double is that East can still have 6+spades|pg||
 pc|hA|pc|h4|pc|h8|pg||
 pc|h3|pc|h7|pc|d3|pc|h6|pg||
 pc|c2|pc|c4|pc|cK|pc|c8|pg||
 pc|s3|pc|sA|pc|s9|pc|s5|pg||
-nt|krhorneman:  Greco needed to cash his club, or lead another heart to kill the dummy entry.  The club loser can be pitched now.|pg||
+nt|krhorneman:	Greco needed to cash his club, or lead another heart to kill the dummy entry.  The club loser can be pitched now.|pg||
 pc|sK|pc|sJ|pc|s7|pc|s4|pg||
 pc|hK|pc|dK|pc|dA|pc|hJ|pg||
 pc|sQ|pc|sT|pc|cJ|pc|s2|pg||
@@ -297,7 +297,7 @@ pc|s6|pc|dQ|pc|sT|pc|s7|pg||
 pc|s8|pc|s9|pc|d7|pc|dA|pg||
 pg||
 qx|c9|st||md|3SAJHT872DAQJ84C82,ST843HK3DKT32CAK9,S9752H654D96CQ653,SKQ6HAQJ9D75CJT74|sv|e|mb|p|mb|1D|an|2+ diamonds|mb|2D|mb|3N|mb|p|mb|p|mb|p|pc|d9|pc|d5|pc|dJ|pc|dK|pg||
-nt|krhorneman:  at a different vulnerability Greco might have passed, playing for a penalty but here just making the pragmatic bid.|pg||
+nt|krhorneman:	at a different vulnerability Greco might have passed, playing for a penalty but here just making the pragmatic bid.|pg||
 nt|batman98: this should make fairly easily with 2 diamonds, 4 hearts, 2 diamonds and a spade or two|pg||
 nt|batman98: 2 clubs|pg||
 pc|cA|pc|c3|pc|c4|pc|c2|pg||
@@ -336,7 +336,7 @@ pc|c7|pg||
 pc|hA|pc|h6|pc|h7|pc|h3|pg||
 nt|batman98: 1-3-4-5 or 5-4 and game forcing|pg||
 pc|h4|pc|hT|pc|hK|pc|hQ|pg||
-nt|krhorneman:  Zack did well in the @s suit to make it easy to make|pg||
+nt|krhorneman:	Zack did well in the @s suit to make it easy to make|pg||
 mc|10|pg||
 qx|o11|st||md|1SAJ3HAJT75DQ62CKQ,S6HQ96DKJ98743CT2,S975H432DACA96543,SKQT842HK8DT5CJ87|sv|o|mb|1C|an|art 16+|nt|glen: this is the Big Club vs. the Little Club systems|pg||
 mb|3D|an|alerted by E, not by W|mb|d|mb|p|mb|3H|mb|p|nt|glen: the match is played with screens, so both E and W are responsible for making alerts, even of their own bids|pg||
@@ -351,7 +351,7 @@ pc|cQ|pc|cT|pc|c4|pc|c8|pg||
 pc|hJ|pc|hQ|pc|h3|pc|hK|pg||
 mc|10|pg||
 qx|c11|st||md|1SAJ3HAJT75DQ62CKQ,S6HQ96DKJ98743CT2,S975H432DACA96543,SKQT842HK8DT5CJ87|sv|o|nt|game over: I was thinking about it too, but with a singleton king you don't mind a spade lead and your only likely game is 3NT (since you only have 10 HCP)|pg||
-nt|krhorneman:  I do with some partners.  I don't think I would with that hand though|pg||
+nt|krhorneman:	I do with some partners.  I don't think I would with that hand though|pg||
 mb|1H|nt|krhorneman:  Yes, for the same reasons, not strong enough to play 5 of a minor, and my singleton is an honor|pg||
 mb|3D|mb|4H|mb|p|nt|krhorneman:  You should have at least the strength to play in a minor game, and usually some slam interest to make the bid.|pg||
 mb|p|mb|p|pc|s6|nt|batman98: north raised to 4 hearts on the strength of his heart support|pg||
@@ -381,7 +381,7 @@ nt|Harmon: 500 or 650|pg||
 mb|5S|mb|p|mb|p|nt|game over: regarding the lead in board 5: I did a small double-dummy simulation (only 500 hands) and @s Q, @h x @d x were almost equal, but I think the simplistic parameters I chose for West ...|pg||
 nt|game over: not overcalling 1@s were in favour of a heart lead (so a heart lead is slightly worse, but as I said the sample size too small ..) |pg||
 mb|d|mb|p|mb|p|mb|p|pc|d7|nt|batman98: do the Grossacks have any blue cards in the bidding box?|pg||
-nt|krhorneman:  this will certainly help them get back into the match after a bad start|pg||
+nt|krhorneman:	this will certainly help them get back into the match after a bad start|pg||
 pc|d2|nt|krhorneman:  Hampson will be disappointed that West doesn't have the @d Ace nor any entry|pg||
 pc|d3|pc|dA|pg||
 pc|s4|nt|game over: declarer still has hopes for an overtrick (minor-suit squeeze) against West, but E/W are certainly sharp enough to return a club if necessary|pg||
@@ -423,7 +423,7 @@ pc|cK|pc|c2|pc|c3|pc|c8|pg||
 pc|c9|pc|c5|pc|cA|pc|cT|pg||
 pc|c4|pc|h4|pc|s7|pc|c6|pg||
 mc|11|nt|vugraphzfc: short break|pg||
-nt|krhorneman:  Weak NT at the other table didn't work out well on board 9|pg||
+nt|krhorneman:	Weak NT at the other table didn't work out well on board 9|pg||
 nt|vugraphzfc: back now|pg||
 pg||
 qx|o14|st||md|4S87HQ84DAQ762CQ54,SJ63HAJ7DT3CJT876,SAKT92HK9DK954CK2,SQ54HT6532DJ8CA93|sv|o|mb|p|mb|1D|an|2+!D 10-15|nt|glen: sadly E is a point short of opening 1@C|pg||
@@ -449,15 +449,15 @@ nt|game over: 2@D = GF (part of two-way checkback) I guess|pg||
 mb|p|mb|3D|mb|p|mb|3H|mb|p|mb|3S|nt|vugraphzfc: no strong club for NS|pg||
 mb|p|mb|3N|nt|game over: Wooldridge are another top pair which plays an unlimited system and would open this hand regularly I believe, but otherwise if you want to open this type of hand, please play a ...|pg||
 nt|game over: strong club system :)|pg||
-nt|krhorneman:  but they do it anyway, as I was going to add|pg||
+nt|krhorneman:	but they do it anyway, as I was going to add|pg||
 nt|batman98: doesnt look like 3nt will be very successful with j club lead|pg||
 nt|game over: after 2@d the bidding was natural, 3@h values or cue bid, I guess|pg||
 mb|p|nt|krhorneman:  Opening this type of hand in the context of a non big club system leads to a lot of swings|pg||
 nt|game over: North might be considering a slam and will end in a superior 5@d contract?|pg||
 nt|batman98: 5d looks right and 4 spades is pretty luck|pg||
 nt|game over: even opposite say @s xx @h Axx @d AQxxx @c Jxx a slam is not too bad (even after a club lead as West won't underlead the @c A very often)|pg||
-nt|krhorneman:  for those interested, teams are listed here, and you can look up convention cards for all pairs:|pg||
-nt|krhorneman:  http://usbf.org/index.php?option=com_entries&event=39&task=list|pg||
+nt|krhorneman:	for those interested, teams are listed here, and you can look up convention cards for all pairs:|pg||
+nt|krhorneman:	http://usbf.org/index.php?option=com_entries&event=39&task=list|pg||
 mb|p|mb|p|pc|cT|pc|cK|pc|cA|pc|c4|pg||
 pc|c9|pc|c5|pc|cJ|pc|c2|pg||
 pc|c8|pc|h9|pc|c3|pc|cQ|pg||
@@ -480,11 +480,11 @@ qx|c15|st||md|1S865HK973DK94CAQ5,SAK732HA842DA63C6,SQJTHQJDJT72C9732,S94HT65DQ85
 nt|batman98: will north pass or bid 1nt|pg||
 mb|p|nt|game over: would you double or overcall 1@s?|pg||
 nt|vugraphzfc: last deal of the set here -- short break until every table finishes then we return for the 2nd of 8 sets for this round of 16 match|pg||
-mb|p|mb|p|pc|c3|nt|krhorneman:  with this strong a hand, I would bid 1@s, with a weaker hand, double|pg||
+mb|p|mb|p|pc|c3|nt|krhorneman:	with this strong a hand, I would bid 1@s, with a weaker hand, double|pg||
 nt|batman98: i would overcall 1s and double later if possible|pg||
 pc|cJ|pc|cQ|pc|c6|pg||
 pc|h3|pc|h2|pc|hJ|pc|h5|pg||
-nt|krhorneman:  thanks vugraph operator, well done job|pg||
+nt|krhorneman:	thanks vugraph operator, well done job|pg||
 pc|sQ|pc|s4|pc|s6|pc|s2|pg||
 pc|sJ|pc|s9|pc|s5|pc|sK|pg||
 pc|sA|pc|sT|pc|c4|pc|s8|pg||
@@ -492,13 +492,13 @@ pc|s7|nt|game over: declarer will be forced to make this, by drawing trumps and 
 pc|c2|pc|c8|pc|c5|pg||
 pc|h4|pc|hQ|pc|h6|pc|h7|pg||
 nt|game over: not my best prediction but this leads to a nicer endposition:)|pg||
-nt|krhorneman:  @d exit needed now to prevent the overtrick|pg||
+nt|krhorneman:	@d exit needed now to prevent the overtrick|pg||
 pc|c9|pc|cT|pc|cA|pc|s3|pg||
 pc|hA|pc|d2|pc|hT|pc|h9|pg||
 mc|8|nt|game over: such a shame .. .thanks all, especially my co-commentators and the vugraph operator!|pg||
-nt|krhorneman:  thanks all|pg||
+nt|krhorneman:	thanks all|pg||
 nt|batman98: thanks for coming everyone and especially all you awesome specs!!!|pg||
 nt|game over: if North had returned a diamond, declarer can win in hand and cash the @s A, squeezing South in three suits|pg||
 nt|game over: (or whatever spade declarer had left)|pg||
-nt|vugraphzfc: back soon -- scheduled for about half an hour from now.   |pg||
+nt|vugraphzfc: back soon -- scheduled for about half an hour from now.	 |pg||
 pg||
