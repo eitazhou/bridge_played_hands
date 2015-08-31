@@ -35,7 +35,7 @@ pc|h4|pc|h3|pc|hT|pc|h2|pg||
 pc|h5|pc|h7|pc|hJ|pc|hK|pg||
 pc|d5|pc|d3|pc|dQ|pc|dK|pg||
 pc|s6|pc|sA|pc|s4|pc|s5|pg||
-pc|h9|pc|h6|pc|hA|nt|pelu:  hvis N falder far, sÃ¥ er der store forbindelsesproblemer. Ãst burde have afblokkeret @h9|pg||
+pc|h9|pc|h6|pc|hA|nt|pelu:  hvis N falder far, sÃ¥ er der store forbindelsesproblemer. Ãst burde have afblokkeret @h9|pg||
 pc|d7|pg||
 pc|d2|pc|d4|pc|dA|pc|d9|pg||
 pc|d8|pc|dT|pc|dJ|nt|Luffe12:  Nord er fÃ¦rdig|pg||
@@ -82,7 +82,7 @@ nt|Walddk2: Fin pointe|pg||
 nt|vugraphzau: men vinder vel ikke alligevel?|pg||
 pc|h4|nt|Walddk2: Hun tror ikke på, at de mangler to esser|pg||
 pc|h2|pc|hK|pc|h8|pg||
-pc|hQ|nt|pelu:  ingen trumfning, men trumferne 4-1 er vel ogsÃ¥ sÃ¦ttende|pg||
+pc|hQ|nt|pelu:	ingen trumfning, men trumferne 4-1 er vel ogsÃ¥ sÃ¦ttende|pg||
 nt|vugraphzau: med @herne 4 imod?|pg||
 pc|d4|pc|h7|pc|h5|pg||
 nt|Walddk2: Ja|pg||
@@ -100,12 +100,12 @@ qx|c2|st||md|4SKQHKQ9DKQJ83C854,S84H8DA9764CJT632,SAJT963HAJ743DT2C,S752HT652D5C
 pc|s6|pc|s2|pc|sQ|pc|s4|pg||
 pc|sK|pc|s8|pc|s9|pc|s5|pg||
 mc|12|pg||
-qx|o3|st||md|1SA72H76DAK653CKJ9,SK54HAKQT8DQCQ832,SQT86HDT42CAT7654,SJ93HJ95432DJ987C|sv|e|nt|Luffe12:  6@s vinder derimod i skridtgang med samme udspil|pg||
+qx|o3|st||md|1SA72H76DAK653CKJ9,SK54HAKQT8DQCQ832,SQT86HDT42CAT7654,SJ93HJ95432DJ987C|sv|e|nt|Luffe12:	6@s vinder derimod i skridtgang med samme udspil|pg||
 nt|Walddk2: Desværre var der en indtastningsfejl på dette spil i lukket rum, så vi kan ikke se meldeforløbet til 4!X|pg||
 nt|Walddk2: 4@HX|pg||
 nt|pelu:  et fint resultat til KrÃ¸jgaard - Graversen pÃ¥ smÃ¥ vÃ¦rdier|pg||
-mb|1N|nt|pelu:  jeg har det stÃ¥ende som 1@c - 1@H - D - 4@h, D P P P|pg||
-mb|d|mb|2C|nt|Luffe12:  5@c er ikke langt vÃ¦k pÃ¥ den anden  led :)|pg||
+mb|1N|nt|pelu:	jeg har det stÃ¥ende som 1@c - 1@H - D - 4@h, D P P P|pg||
+mb|d|mb|2C|nt|Luffe12:	5@c er ikke langt vÃ¦k pÃ¥ den anden  led :)|pg||
 mb|2H|nt|Walddk2: Jeg bruger Windows-versionen, når vi ikke har voice, så jeg har intet meldeforløb|pg||
 nt|pelu:  igen 1@C, der bla. indeholder en 15-17 Ut|pg||
 nt|pelu:  i lukket|pg||
@@ -264,7 +264,7 @@ qx|o7|st||md|1SAT54HKQ4DQ9CAT42,SK9HA62DAK7643CK8,SQJ876H87DT52C976,S32HJT953DJ8
 nt|vugraphzau: og 11 imp til Schaltz i spil 14, hvor man missede 4-4 fitten i @h|pg||
 mb|d|nt|pelu:  I lukket fandt Graversen @s ud og hjerter tilbage - de fÃ¸rste 7 stik til modspillet|pg||
 mb|2S|mb|3H|mb|3S|nt|smoller:  nÃ¦h, men det var bare et hjertesuk - det skal vist ikke nogen stor programmÃ¸r til, nÃ¥r informationen er til stede et andet sted. Vi kan jo spÃ¸rge Thorvald|pg||
-mb|4H|mb|p|mb|p|mb|p|pc|sA|nt|pelu:  Hvis Morten fÃ¸rst tager 4x@c, sÃ¥ ser han 8HP hos Ãst - Ãst kan ikke have @sE og erderfor med 9-11 storvarit til at have @dD - som Lars Andersson meget rigtigt pÃ¥pegede|pg||
+mb|4H|mb|p|mb|p|mb|p|pc|sA|nt|pelu:  Hvis Morten fÃ¸rst tager 4x@c, sÃ¥ ser han 8HP hos Ãst - Ãst kan ikke have @sE og erderfor med 9-11 storvarit til at have @dD - som Lars Andersson meget rigtigt pÃ¥pegede|pg||
 pc|s9|pc|s8|pc|s2|pg||
 nt|Walddk2: Den har en fin chance|pg||
 pc|s4|pc|sK|pc|s7|pc|s3|pg||
@@ -305,7 +305,7 @@ pc|cQ|pc|c7|pc|c4|pc|c6|pg||
 pc|d9|pc|dQ|pc|d3|pc|d6|pg||
 pc|h6|pc|h5|pc|hK|pc|hA|pg||
 nt|pelu:  usÃ¦dvanligt at begge S-spillere Ã¥bnede med 1ut - Dennis opvurderede - selvfÃ¸lgelig - til 15-14, mens Lars Blakset kun vutrderede at hÃ¥nden var 12-14 vÃ¦rd|pg||
-pc|dA|nt|pelu:  Dennis: 15-17|pg||
+pc|dA|nt|pelu:	Dennis: 15-17|pg||
 nt|vugraphzau: S viser @derne og kræver 7 stik|pg||
 mc|7|pg||
 qx|c8|st||md|2ST98HATDAKJT9CQ93,SQJ3HQ986DQ72CA72,SK75HJ52D543CK854,SA642HK743D86CJT6|sv|o|mb|p|mb|p|mb|p|mb|1N|mb|p|mb|p|mb|p|pc|h9|pc|h2|pc|h3|pc|hT|pg||
@@ -322,7 +322,7 @@ pc|hQ|pc|hJ|pc|h7|pc|c9|pg||
 pc|h8|pc|s7|pc|c6|pc|cQ|pg||
 pc|s3|pc|cK|pc|cJ|pc|sT|pg||
 pg||
-qx|o9|st||md|3SQJ6HK97DK5CJ9432,S32HJ864D963CAK85,SAKT54HAT52DQ84C7,S987HQ3DAJT72CQT6|sv|e|nt|smoller:  men ved begge borde "glemte" Ãst at melde|pg||
+qx|o9|st||md|3SQJ6HK97DK5CJ9432,S32HJ864D963CAK85,SAKT54HAT52DQ84C7,S987HQ3DAJT72CQT6|sv|e|nt|smoller:	men ved begge borde "glemte" Ãst at melde|pg||
 nt|vugraphzau: Såvel NS som ØV er klar over, at man er i "tidsnød"|pg||
 mb|1S|mb|p|mb|2C|mb|p|nt|vugraphzau: så de har alle fire sat tempoet noget op nu|pg||
 mb|2H|mb|p|nt|pelu:  er Syds hÃ¥nd med 3 x 10 plus en nÃ¦sten gÃ¥ede 5-farve i ruder ikke 15-17 vÃ¦rd? - Roland (der tÃ¦ller HP) og Steen (der tÃ¦ller stik) :)|pg||
@@ -331,7 +331,7 @@ mb|p|mb|p|mb|p|pc|s7|nt|smoller:  Syds hÃ¥nd var god nok til 15-17 sans|pg||
 nt|Walddk2: Enigt panel|pg||
 pc|s6|pc|s2|pc|sT|pg||
 pc|d4|pc|d7|nt|Walddk2: Et meldeforløb lige efter lærebogen. Syd har vist 10-12 med tre spar|pg||
-pc|dK|nt|smoller:  Er I ogsÃ¥ enig i, at Ãst skulle have konkurreret?|pg||
+pc|dK|nt|smoller:  Er I ogsÃ¥ enig i, at Ãst skulle have konkurreret?|pg||
 pc|d6|pg||
 pc|d5|pc|d3|pc|d8|pc|dT|pg||
 pc|s8|pc|sQ|pc|s3|pc|sA|pg||
@@ -399,7 +399,7 @@ nt|Walddk2: Dette er ikke et hurtigt spil. Let nok at komme i 3UT, men spilføri
 nt|nilsland:  efter trumf ut i hvert fald|pg||
 mb|1N|mb|p|mb|2D!|mb|p|mb|2H!|mb|p|mb|3N|mb|p|mb|p|mb|p|nt|Walddk2: @SB ud er godt for modspillet|pg||
 nt|vugraphzau: Turneringslederen har lige været ved bordet -- så alle fire er klar over tidsen|pg||
-pc|sJ|nt|pelu:  denne gang er jeg ikke enig i at opvurdere til 15-17 ingen mellemkort og i ut er E ikke sÃ¦rlig god |pg||
+pc|sJ|nt|pelu:	denne gang er jeg ikke enig i at opvurdere til 15-17 ingen mellemkort og i ut er E ikke sÃ¦rlig god |pg||
 nt|vugraphzau: Der var lidt problemer med Bridgemates i starten af halvlegen -- så der kan være givet lidt ekstra tid|pg||
 nt|pelu:  E = 1 stik, KB kan give 2|pg||
 nt|Walddk2: Sparene sidder skidt for spilfører. Til gengæld er der held i de røde farver|pg||
@@ -411,7 +411,7 @@ nt|smoller:  *til sin ret|pg||
 pc|hA|pc|h9|pc|h5|pc|hQ|pg||
 pc|h8|pc|cT|pc|s3|pc|hK|pg||
 nt|Walddk2: Hvis spilfører trækker @HE, skal Peter lægge en honnør (gjort)|pg||
-pc|sT|nt|pelu:  det ligner 3 stik i @h + 3 i @c, plus 3 topstik = 9|pg||
+pc|sT|nt|pelu:	det ligner 3 stik i @h + 3 i @c, plus 3 topstik = 9|pg||
 nt|Walddk2: han er allerede markeret med KD, så det gælder om at lægge et kort man er markeret med så hurtigt som muligt|pg||
 nt|vugraphzau: S spørger til udspillene -- ved faktisk ikke hvad ØV spiller ud med KB10 .. ?|pg||
 nt|Walddk2: Hvis han havde spillet 10'eren, ville spilfører vide, at hjerterne sidder 4-2|pg||
@@ -481,7 +481,7 @@ mb|p|mb|1N|mb|p|nt|pelu:  sorry - jeg havde glemt at de havde byttet plads - sÃ
 nt|smoller:  Her er der en bordsjasker - godt nÃ¥r man er i tidsnÃ¸d|pg||
 mb|2H|mb|p|mb|p|mb|p|nt|Walddk2: Det tager da en evighed for Vest at melde|pg||
 nt|Walddk2: 2@H er meget pessimistisk over for 15-17|pg||
-pc|cQ|nt|pelu:  Jan - har du hÃ¸rt om TU-lederne har meddelt tids-grÃ¦nser?|pg||
+pc|cQ|nt|pelu:	Jan - har du hÃ¸rt om TU-lederne har meddelt tids-grÃ¦nser?|pg||
 nt|vugraphzau: der er fire minutter tilbage af officiel spilletid|pg||
 pc|cA|pc|c2|pc|c8|pg||
 pc|h6|pc|hA|pc|h4|pc|h3|pg||
@@ -493,7 +493,7 @@ pc|dA|pc|d6|pc|d8|pc|d9|pg||
 nt|smoller:  sÃ¥ 2@C fulgt af 3@H - det er vel invit|pg||
 pc|d2|pc|dK|pc|d3|nt|Walddk2: ja|pg||
 pc|s6|pg||
-mc|10|nt|pelu:  ÃV spiller ikke med overfÃ¸ring - i lukket 2@D - 2ut = max og 3-farve ogsÃ¥ sÃ¥ var ÃV i game|pg||
+mc|10|nt|pelu:	ÃV spiller ikke med overfÃ¸ring - i lukket 2@D - 2ut = max og 3-farve ogsÃ¥ sÃ¥ var ÃV i game|pg||
 nt|Walddk2: Som en tilskuer påpeger, også forsigtigt af Øst ikke at melde 3@H med supermax og et par tiere|pg||
 nt|vugraphzau: vi er tilbage om ca 15 minutter|pg||
 nt|smoller:  jeg er ikke enig med den tilskuer|pg||
@@ -524,7 +524,7 @@ nt|Walddk2: Og nu overså jeg hjerter-tiklpasningen|pg||
 nt|Walddk2: Jeg tror jeg går i seng|pg||
 nt|vugraphzau: men Dennis Bilde vælger vist at undlade at melde @h-farven|pg||
 mb|3N|mb|p|mb|p|mb|p|nt|Walddk2: Det var uklogt|pg||
-pc|s2|nt|pelu:  2 kopper the + 1 cola zero vil hjÃ¦lpe, Roland,|pg||
+pc|s2|nt|pelu:	2 kopper the + 1 cola zero vil hjÃ¦lpe, Roland,|pg||
 pc|sK|pc|sA|nt|Walddk2: Er du enig i, at det var uklogt at undertrykke hjerterfarven?|pg||
 pc|s6|pg||
 pc|s3|pc|sJ|pc|sQ|pc|h5|pg||
@@ -566,7 +566,7 @@ nt|Walddk2: scratch|pg||
 pc|c5|pc|h2|pc|h7|pg||
 pc|dK|pc|c2|pc|d9|pc|d2|pg||
 pc|c3|pc|c7|pc|cJ|pc|cQ|pg||
-pc|d6|nt|pelu:  prÃ¸v at tÃ¦lle stik - ved at tage den nÃ¦sten markerede knibning i @s har N 9 stik|pg||
+pc|d6|nt|pelu:	prÃ¸v at tÃ¦lle stik - ved at tage den nÃ¦sten markerede knibning i @s har N 9 stik|pg||
 pc|hT|pc|s6|pc|dJ|pg||
 nt|pelu:  dette fungerer ogsÃ¥|pg||
 pc|h9|pc|d8|pc|hJ|pc|cT|pg||
@@ -582,7 +582,7 @@ pc|c8|pc|cK|pc|h9|pc|cA|pg||
 pc|s3|pc|d7|pc|s5|pc|s6|pg||
 pc|h5|pc|hQ|pc|d8|pc|h2|pg||
 mc|7|pg||
-qx|o16|st||md|2SK9632HJDQJ987C83,S7HAQ9542DT632CJ4,SQJHT87D54CAKQ975,SAT854HK63DAKCT62|sv|e|nt|pelu:  ÃV har 2 tyder svage 2-Ã¥bninger 2M = 8-11 og 6 farve, mens 2@D viser ubekendt major og 0-8 - ofte kun 5-farve|pg||
+qx|o16|st||md|2SK9632HJDQJ987C83,S7HAQ9542DT632CJ4,SQJHT87D54CAKQ975,SAT854HK63DAKCT62|sv|e|nt|pelu:  ÃV har 2 tyder svage 2-Ã¥bninger 2M = 8-11 og 6 farve, mens 2@D viser ubekendt major og 0-8 - ofte kun 5-farve|pg||
 mb|2D!|mb|3C|nt|pelu:  Vest har ikke HP styrke til 2@h|pg||
 nt|vugraphzau: men alene i zonen tror jeg ikke at ØV kommer til at åbne med 2@d med kun en 5-farve :)|pg||
 mb|3H!|nt|pelu:  3@H beder makker passe med @h-farve og melde 3@S med spar|pg||
@@ -601,7 +601,7 @@ nt|Walddk2: Men det var trods alt en Multi alene i zonen|pg||
 nt|pelu:  men 2@D kan vÃ¦re meget svag - her nÃ¦sten max + 6-farve - de blev ramt af deres system - og indmeldingen|pg||
 pc|s2|pc|h2|nt|pelu:  hvis Vest kun har 5-farve er game set fra E|pg||
 pc|c5|pg||
-pc|d6|nt|pelu:  Ãst's stoil ikke sandsynlig|pg||
+pc|d6|nt|pelu:	Ãst's stoil ikke sandsynlig|pg||
 nt|vugraphzau: ja - her bruger N godt nok noget tid til at planlægge det videre forløb af modspillet|pg||
 pc|sJ|pc|h3|pc|d9|pg||
 pc|sA|pc|s3|pc|s7|pc|sQ|pg||
@@ -654,7 +654,7 @@ mb|2S|mb|3H!|mb|p|nt|vugraphzau: 2@d er "multi-forsvar mod nt"|pg||
 nt|pelu:  2@D fra N var ogsÃ¥ "multi" altsÃ¥ visende en ubekendt major|pg||
 nt|vugraphzau: Det er vist blevet ret populært at spille mod NT-åbninger|pg||
 nt|Walddk2: Lover normalt seks kort i denne zonestilling vil jeg tro|pg||
-mb|4H|nt|pelu:  der er kun 3 toptaberte i 3@H, men der er vist langt til 10 stik|pg||
+mb|4H|nt|pelu:	der er kun 3 toptaberte i 3@H, men der er vist langt til 10 stik|pg||
 mb|p|mb|p|mb|p|nt|pelu:  nu fÃ¥r vi at se om Dennis Bilde spiller bedre end jeg analyserer :)|pg||
 pc|h2|nt|vugraphzau: "Det her er et skud i tågen" siger Morten Bilde da han lagde kortene på bordet |pg||
 nt|Walddk2: Han er i det mindste ikke distraheret af at se ØV's kort|pg||
