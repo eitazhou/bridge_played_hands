@@ -192,7 +192,7 @@ pc|hA|pc|h3|pc|h8|pc|hK|pg||
 pc|hJ|pc|h9|pc|c3|pc|sJ|pg||
 pc|h5|pc|cT|pc|d4|pc|d9|pg||
 pc|h4|pc|c4|mc|10|pg||
-qx|c10|st||md|4SJ98542HK7D97CQJ5,S3HAQJ542DQJ6CAK2,SAT7HT93DAT53CT64,SKQ6H86DK842C9873|sv|b|mb|p|mb|p|mb|1H|mb|p|mb|1S|mb|p|mb|2D|mb|p|mb|2H|mb|p|mb|2S|mb|p|mb|2N|mb|p|mb|3H|nt|ahollan1: 1@S = 0-4@S  [playing Kaplan Inversion  1@H-1N = 5+@S]|pg||
+qx|c10|st||md|4SJ98542HK7D97CQJ5,S3HAQJ542DQJ6CAK2,SAT7HT93DAT53CT64,SKQ6H86DK842C9873|sv|b|mb|p|mb|p|mb|1H|mb|p|mb|1S|mb|p|mb|2D|mb|p|mb|2H|mb|p|mb|2S|mb|p|mb|2N|mb|p|mb|3H|nt|ahollan1: 1@S = 0-4@S	[playing Kaplan Inversion  1@H-1N = 5+@S]|pg||
 mb|p|mb|p|mb|p|nt|ahollan1: 2@D = a) 6+@H, 13+ HCP  b) BAL, 17-18 HCP|pg||
 nt|ahollan1: 2@S = 6331, INV+|pg||
 pc|h3|pc|h6|pc|hK|pc|hA|pg||
@@ -277,9 +277,9 @@ pc|s6|pc|s7|pc|s9|pc|h7|pg||
 pc|sQ|pc|c2|pc|sT|pc|sJ|pg||
 pc|cQ|pc|c3|pc|c4|pc|c5|pg||
 mc|11|pg||
-qx|c14|st||md|4SKHAK75D9754CK832,SAT6HJ82DAKT32CA4,SJ73HT64DQ86C9765,SQ98542HQ93DJCQJT|sv|o|mb|2D|mb|p|mb|2N|nt|ahollan1: 2@D = a) Weak 2@H/@S  4-7/6-9  vul always 6-suit  b) good 22-24, BAL|pg||
+qx|c14|st||md|4SKHAK75D9754CK832,SAT6HJ82DAKT32CA4,SJ73HT64DQ86C9765,SQ98542HQ93DJCQJT|sv|o|mb|2D|mb|p|mb|2N|nt|ahollan1: 2@D = a) Weak 2@H/@S	4-7/6-9  vul always 6-suit  b) good 22-24, BAL|pg||
 mb|p|mb|3C|nt|ahollan1: 2N = RELAY    3@C = non-max|pg||
-mb|p|mb|3D|mb|p|mb|4D|mb|p|mb|4S|mb|p|mb|p|mb|p|nt|ahollan1: 3@D RELAY    3@S=@S, terrible hand  4@H=@S, ok hand    |pg||
+mb|p|mb|3D|mb|p|mb|4D|mb|p|mb|4S|mb|p|mb|p|mb|p|nt|ahollan1: 3@D RELAY	  3@S=@S, terrible hand  4@H=@S, ok hand    |pg||
 nt|ahollan1: i guess they've changed to using 4@C & 4@S to show the ok hands|pg||
 pc|c7|pc|cT|pc|c2|pc|c4|pg||
 pc|dJ|pc|d7|pc|dA|pc|d6|pg||
@@ -326,10 +326,10 @@ mc|13|pg||
 qx|c16|st||md|2S932H6DQ4CQJ65432,SAJT8HKQ4DAJ72CA9,S754HJ987DT653CT8,SKQ6HAT532DK98CK7|sv|e|nt|ahollan1: is this a good 19 [2N] or bad 19 [1@C]|pg||
 mb|2D|nt|ahollan1: oh  they've changed the balanced hand that is covered by Multi|pg||
 nt|ahollan1: my [crumbling] kingdom for a new convention card|pg||
-mb|p|mb|4C|mb|p|mb|4N|nt|ahollan1: 4@C  says  transfer to your major|pg||
+mb|p|mb|4C|mb|p|mb|4N|nt|ahollan1: 4@C	says  transfer to your major|pg||
 nt|ahollan1: 4N says -- fooled you   i have the strong balanced hand|pg||
 mb|p|nt|ahollan1: is there a way to show 5@H and then invite 7 or just blast?|pg||
-mb|5N|mb|p|mb|6D|mb|p|mb|6N|mb|p|mb|p|mb|p|nt|ahollan1: they won't be happy to miss 7N   |pg||
+mb|5N|mb|p|mb|6D|mb|p|mb|6N|mb|p|mb|p|mb|p|nt|ahollan1: they won't be happy to miss 7N	 |pg||
 nt|ahollan1: but not knowing the range of 4N  just not sure who was supposed to bid more |pg||
 pc|s4|pc|s6|pc|s2|pc|sA|pg||
 pc|hK|pc|h7|pc|h2|pc|h6|pg||
@@ -365,7 +365,7 @@ pc|d9|pc|d5|pc|dK|pc|dT|pg||
 pc|c3|pc|c8|pc|dQ|pc|s3|pg||
 pc|hT|pc|sK|pc|d2|pc|hK|pg||
 mc|9|pg||
-qx|c18|st||md|4S542HJ32DAK82CA32,SJHKQ97DT4CJT9876,SA986HAT84DQ976CQ,SKQT73H65DJ53CK54|sv|n|mb|2D|mb|d|mb|2H|nt|ahollan1: non-vul Multi can have 5-card Major   vul it must be 6-cards|pg||
+qx|c18|st||md|4S542HJ32DAK82CA32,SJHKQ97DT4CJT9876,SA986HAT84DQ976CQ,SKQT73H65DJ53CK54|sv|n|mb|2D|mb|d|mb|2H|nt|ahollan1: non-vul Multi can have 5-card Major	vul it must be 6-cards|pg||
 mb|3N|mb|p|mb|p|mb|p|nt|ahollan1: is the default over DBL  that P=@D  RDBL=force 2@H to bid own suit and 2@H = pass/correct?|pg||
 pc|sQ|pc|s2|pc|sJ|pc|sA|pg||
 pc|d7|pc|d5|pc|dA|pc|d4|pg||
@@ -407,8 +407,8 @@ pc|sQ|pc|s2|pc|s5|pc|s3|pg||
 pc|s7|pc|h7|pc|sT|pc|s6|pg||
 pc|h2|pc|h9|pc|hA|pc|h4|pg||
 mc|7|pg||
-qx|c20|st||md|2SA63HAQ6DQ754CKJ2,SQ9874HK43D6CA875,SJ2H8752DAJ82CQ64,SKT5HJT9DKT93CT93|sv|b|mb|p|mb|p|mb|p|mb|1D|mb|1S|nt|ahollan1: NS  weak NT throughout  so 1@D = 4+|pg||
-mb|d|mb|2S|mb|3N|mb|p|mb|p|mb|p|pc|s7|nt|ahollan1: 3N?     quick -- somebody give me an adjective|pg||
+qx|c20|st||md|2SA63HAQ6DQ754CKJ2,SQ9874HK43D6CA875,SJ2H8752DAJ82CQ64,SKT5HJT9DKT93CT93|sv|b|mb|p|mb|p|mb|p|mb|1D|mb|1S|nt|ahollan1: NS	weak NT throughout  so 1@D = 4+|pg||
+mb|d|mb|2S|mb|3N|mb|p|mb|p|mb|p|pc|s7|nt|ahollan1: 3N?	   quick -- somebody give me an adjective|pg||
 pc|sJ|pc|sK|pc|s3|pg||
 pc|sT|pc|s6|pc|sQ|pc|s2|pg||
 pc|s8|pc|h2|pc|s5|pc|sA|pg||
@@ -418,7 +418,7 @@ nt|ahollan1: this is last board of the match for our table|pg||
 pc|hT|pc|hA|pc|h3|pc|h5|pg||
 pc|d5|pc|c5|pc|dA|pc|d3|pg||
 pc|c4|pc|c3|pc|cK|pc|cA|pg||
-pc|s9|pc|d2|nt|ahollan1: lots of vugraph action this week    check out  http://www.bridgebase.com/vugraph/schedule.php|pg||
+pc|s9|pc|d2|nt|ahollan1: lots of vugraph action this week    check out	http://www.bridgebase.com/vugraph/schedule.php|pg||
 pc|hJ|pc|d7|pg||
 pc|s4|nt|ahollan1: from here - i'm going over to france  to watch fantunes|pg||
 pc|h7|pc|dT|pc|c2|pg||

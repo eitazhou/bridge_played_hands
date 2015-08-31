@@ -122,7 +122,7 @@ nt|loganrun:  Must guess the diamond now and if he leads the queen south must du
 nt|loganrun:  Small to the ten A small diamond by South now|pg||
 pc|h4|pc|h3|pc|h9|pc|h7|pg||
 nt|loganrun:  South should switchto a small daimond at trick 2|pg||
-pc|hT|pc|h8|pc|hQ|nt|loganrun:  Bu he did alright as it was, it is now off on a heart continuation|pg||
+pc|hT|pc|h8|pc|hQ|nt|loganrun:	Bu he did alright as it was, it is now off on a heart continuation|pg||
 pc|hA|pg||
 pc|hJ|pc|h2|nt|loganrun:  Maybe|pg||
 pc|c3|pc|hK|pg||
@@ -154,7 +154,7 @@ pc|d3|pc|d7|pc|h2|pc|d2|pg||
 pc|c3|pc|c6|pc|h3|pc|c9|pg||
 pc|d4|pc|dT|pc|h4|pc|dK|pg||
 pc|c8|pc|cQ|pc|h6|pc|cJ|pg||
-pc|d9|pc|dQ|pc|cT|nt|loganrun:  Pitch|pg||
+pc|d9|pc|dQ|pc|cT|nt|loganrun:	Pitch|pg||
 nt|loganrun:  With South on lead he is home|pg||
 pc|sQ|pg||
 pc|hK|pc|h9|pc|h5|pc|hA|pg||
@@ -166,13 +166,13 @@ pc|c8|pc|c5|pc|cJ|pc|cK|pg||
 pc|sK|pc|s6|pc|s2|pc|h2|pg||
 pc|s8|pc|s7|pc|d5|pc|h5|pg||
 pc|d9|mc|8|pg||
-qx|c7|st||md|1ST52HKT43DKJ75CA5,SJ9HA652D8CQJT943,SKQ83HQ98D943CK72,SA764HJ7DAQT62C86|sv|b|mb|p|mb|p|mb|p|nt|loganrun:  Will Buchen open (rule of 15 says yes but..)|pg||
-mb|1D|mb|p|mb|1H|mb|p|mb|1S|mb|p|mb|1N|mb|p|mb|p|mb|p|pc|s3|pc|s4|nt|loganrun:  Interesting 1NT - King of spades lead makes it iffy but no a spade lead|pg||
+qx|c7|st||md|1ST52HKT43DKJ75CA5,SJ9HA652D8CQJT943,SKQ83HQ98D943CK72,SA764HJ7DAQT62C86|sv|b|mb|p|mb|p|mb|p|nt|loganrun:	Will Buchen open (rule of 15 says yes but..)|pg||
+mb|1D|mb|p|mb|1H|mb|p|mb|1S|mb|p|mb|1N|mb|p|mb|p|mb|p|pc|s3|pc|s4|nt|loganrun:	Interesting 1NT - King of spades lead makes it iffy but no a spade lead|pg||
 pc|sT|pc|sJ|pg||
 pc|cT|pc|c7|pc|c6|pc|cA|pg||
 pc|s5|pc|s9|pc|sQ|pc|sA|pg||
 pc|c8|pc|c5|pc|cQ|pc|cK|pg||
-pc|sK|pc|s6|pc|s2|nt|loganrun:  Tough but needed to attack hearts|pg||
+pc|sK|pc|s6|pc|s2|nt|loganrun:	Tough but needed to attack hearts|pg||
 pc|h2|pg||
 pc|s8|pc|s7|pc|d5|pc|h5|pg||
 pc|h8|pc|h7|pc|hK|pc|hA|pg||
@@ -274,7 +274,7 @@ pc|s6|pc|s8|pc|sQ|pc|sA|pg||
 pc|dQ|pc|d7|pc|d3|pc|d6|pg||
 nt|loganrun:  I would have played the 9 of hearts when in with the diamond king|pg||
 nt|loganrun:  But it doesn't help|pg||
-pc|s7|pc|s3|pc|s4|nt|loganrun:  But a 2 imp pickup anyway|pg||
+pc|s7|pc|s3|pc|s4|nt|loganrun:	But a 2 imp pickup anyway|pg||
 pc|s9|pg||
 pc|c3|pc|c7|pc|cQ|pc|c2|pg||
 pc|cA|pc|c5|pc|c4|pc|cK|pg||

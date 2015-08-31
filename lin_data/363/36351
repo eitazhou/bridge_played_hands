@@ -2,7 +2,7 @@ vg|WUC 2014 RR17_17,MATCH 1_1,I,1,20,FRANCE 2,0,POLAND 1,0|
 rs|3NN+1,4HWx-1,2DNx-1,3NW-2,4HSx-2,4SEx=,6HSx-2,5SEx-2,3CW+1,3HS-1,4HW-1,3HW+1,4SNx-2,4CE-1,4SW=,3NE=,4HS-1,3HS+2,4SW-1,4SW-1,3NW+3,3NW=,4SN-1,4SN-2,5HS=,6HS=,5HNx-2,5SE=,3DE=,3HN-1,3DS-2,3HW=,4SS+1,4SS+1,4HE+1,4HE=,3NN=,3NN+1,5CE+1,6CE-1|
 pn|VINCENOT,TUCZYNSKI,MARIE,WOJCIESZEK,BIELAWSKI,VENTOS,NIAJKO,PENSEC|pg||
 qx|o1|st||md|3S87654H95DQ5CAQJ4,SJT3HKQT8632D4CT8,SQ9HA74DAKJ86CK75,SAK2HJDT9732C9632|sv|o|nt|Henryb:  On the other hand he couldn't see the void in clubs|pg||
-mb|1D|mb|p|mb|1S|mb|3H|mb|3N|mb|p|mb|p|mb|p|nt|Henryb:  The French E-W in the other room took a good save (against 3N) |pg||
+mb|1D|mb|p|mb|1S|mb|3H|mb|3N|mb|p|mb|p|mb|p|nt|Henryb:	The French E-W in the other room took a good save (against 3N) |pg||
 pc|hJ|pc|h5|pc|hQ|pc|hA|pg||
 pc|d6|pc|d2|pc|dQ|pc|d4|pg||
 pc|c4|pc|c8|pc|cK|pc|c6|pg||
@@ -27,7 +27,7 @@ pc|hK|pc|hA|pc|c6|pc|h9|pg||
 mc|9|pg||
 qx|o2|st||md|4SQJ9H9543DK2CQ972,S54HA872DJ53CK864,S8763HT6DAQT864C5,SAKT2HKQJD97CAJT3|sv|n|nt|Henryb:  apparently declarer did not throw a spade from S|pg||
 mb|1C!|an|polish|mb|p|mb|1H|mb|1N!|mb|d|nt|Henryb:  1@c probably "Polish": 2+ clubs balanced 11-14, natural with clubs, or strong|pg||
-mb|p|mb|p|mb|2D|mb|d!|an|18+|mb|p|mb|p|mb|p|nt|Henryb:  best result is to defend. 500 available|pg||
+mb|p|mb|p|mb|2D|mb|d!|an|18+|mb|p|mb|p|mb|p|nt|Henryb:	best result is to defend. 500 available|pg||
 pc|hK|pc|h3|pc|h2|pc|h6|pg||
 nt|Henryb:  maybe not|pg||
 pc|hQ|pc|h4|pc|h7|pc|hT|pg||
@@ -206,7 +206,7 @@ pc|s7|pc|d6|pc|h3|pc|sT|pg||
 pc|dQ|pc|dA|pc|d2|pc|d8|pg||
 mc|11|pg||
 qx|o10|st||md|4S9872HK74DT954C82,SAKT5H853DQ863C94,S3HQT9DAKJ2CAJ765,SQJ64HAJ62D7CKQT3|sv|b|mb|1C!|mb|p|mb|1S|mb|p|mb|3S|mb|p|mb|4S|mb|p|mb|p|mb|p|nt|Henryb:  1@c again balanced minimum, natural, or 18+|pg||
-pc|dA|pc|d7|nt|Henryb:  3@s seems like a junior overbid to me|pg||
+pc|dA|pc|d7|nt|Henryb:	3@s seems like a junior overbid to me|pg||
 pc|dT|pc|d3|pg||
 pc|hT|pc|h2|pc|h4|pc|h3|pg||
 nt|Henryb:  If W showed 8+, (as I am told) there is no need to be overly encouraging|pg||
@@ -242,7 +242,7 @@ pc|d7|pc|c5|pc|c7|pc|c2|pg||
 pc|d4|pc|s6|pc|cK|pc|c9|pg||
 pc|sA|pc|sQ|pc|sT|pc|s4|pg||
 mc|9|pg||
-qx|o12|st||md|2SA6HAT7DAJ4CT9652,SJ943HQ5DQ865CQJ3,SKQ8752HJ92DT7CK7,STHK8643DK932CA84|sv|n|mb|p|mb|2S|mb|p|nt|Henryb:  I would pass as S, but that is just me|pg||
+qx|o12|st||md|2SA6HAT7DAJ4CT9652,SJ943HQ5DQ865CQJ3,SKQ8752HJ92DT7CK7,STHK8643DK932CA84|sv|n|mb|p|mb|2S|mb|p|nt|Henryb:	I would pass as S, but that is just me|pg||
 mb|4S|mb|p|mb|p|mb|p|pc|h4|pc|h7|pc|hQ|pc|hJ|pg||
 pc|cQ|pc|cK|pc|cA|pc|c2|pg||
 pc|c8|pc|c9|pc|cJ|pc|c7|pg||
@@ -265,11 +265,11 @@ pc|d9|pc|d4|pc|d6|pc|s5|pg||
 pc|h9|pc|h6|pc|hT|pc|s9|pg||
 pc|cQ|pc|c7|pc|c4|pc|c2|pg||
 mc|8|pg||
-qx|o13|st||md|3S3HKQT942D6CAK932,SQ8654HJDKJ2CQJT7,SJ9HA86DAQT83C654,SAKT72H753D9754C8|sv|b|nt|Henryb:  how did he go down 2?|pg||
+qx|o13|st||md|3S3HKQT942D6CAK932,SQ8654HJDKJ2CQJT7,SJ9HA86DAQT83C654,SAKT72H753D9754C8|sv|b|nt|Henryb:	how did he go down 2?|pg||
 nt|Henryb:  he was -1, operator: lost 1@h, 1@s and 2@c|pg||
 nt|vugraphzen: sry, corrected|pg||
 mb|1D|nt|Henryb:  thanks.|pg||
-mb|1S|mb|2H|mb|4S|mb|p|mb|p|mb|5C|mb|d|mb|5H|mb|p|mb|p|mb|p|nt|Henryb:  4 (or 5) @h are good contracts|pg||
+mb|1S|mb|2H|mb|4S|mb|p|mb|p|mb|5C|mb|d|mb|5H|mb|p|mb|p|mb|p|nt|Henryb:	4 (or 5) @h are good contracts|pg||
 pc|hJ|nt|Henryb:  and, btw, I can't read chinese|pg||
 nt|Henryb:  I'm too old to learn now. perhaps 50 or so years ago|pg||
 pc|h6|pc|h7|pc|hK|pg||
@@ -443,9 +443,9 @@ pc|dT|pc|d8|pc|h4|pc|s8|pg||
 pc|c7|pc|s9|pc|s7|pc|h5|pg||
 pc|s6|pc|sA|pc|sT|pc|sK|pg||
 mc|10|pg||
-qx|o20|st||md|2S7432HKQ4DA974C76,SAKQTH65DKJ63CK94,SJ9HAJT8732DQT52C,S865H9D8CAQJT8532|sv|b|nt|Henryb:  Going into this last match Poland 1 is marginally ahead of Czech Rep 2, and about 5VP ahead of Poland 2|pg||
+qx|o20|st||md|2S7432HKQ4DA974C76,SAKQTH65DKJ63CK94,SJ9HAJT8732DQT52C,S865H9D8CAQJT8532|sv|b|nt|Henryb:	Going into this last match Poland 1 is marginally ahead of Czech Rep 2, and about 5VP ahead of Poland 2|pg||
 mb|1N|nt|Henryb:  North will undoubtedly bid hearts somehow|pg||
-mb|3H|mb|4C|nt|Henryb:  which might dissuade East from barging into 3N|pg||
+mb|3H|mb|4C|nt|Henryb:	which might dissuade East from barging into 3N|pg||
 mb|4H|mb|p|mb|p|mb|5C|mb|p|mb|p|mb|p|pc|hK|pc|h5|pc|h2|nt|Henryb:  N-S (obviously) would have done better to save in 5@h|pg||
 pc|h9|pg||
 nt|Henryb:  It is a difficult question who should have saved. My feeling is South, who could "see" the big fit|pg||
