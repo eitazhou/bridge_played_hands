@@ -57,7 +57,7 @@ mb|p|mb|3H|nt|BridgeGoth: 3@H: slam try|pg||
 mb|p|mb|3S|mb|p|nt|BridgeGoth: 3S: cue|pg||
 mb|4D|mb|p|nt|BridgeGoth: 4@D: Cue (no @C cue)|pg||
 mb|4S|nt|BridgeGoth: 4@S: cu|pg||
-mb|p|mb|4N|mb|p|mb|5H|nt|BridgeGoth: 4N: Even   of keycards|pg||
+mb|p|mb|4N|mb|p|mb|5H|nt|BridgeGoth: 4N: Even	of keycards|pg||
 mb|p|mb|p|nt|BridgeGoth: 5@H: 2 missing|pg||
 mb|p|pc|d6|nt|BridgeGoth: Creative route to 5@H, but as we can see, the 2 missing keycards is all they will lose|pg||
 nt|BridgeGoth: Note: 4@S wa a @Scue and a @C cue|pg||
@@ -98,7 +98,7 @@ mb|d|mb|p|mb|p|mb|p|nt|fabsayc: fantoni may be trying to score robson out of 3nt
 pc|dQ|nt|fabsayc: scare, not score|pg||
 pc|d7|pc|d6|nt|BridgeGoth: well he wisely stood in the pocket.|pg||
 pc|d2|pg||
-nt|dbl me:  That lead will "score" him INTO 3N  ;-)|pg||
+nt|dbl me:  That lead will "score" him INTO 3N	;-)|pg||
 nt|zer: hello|pg||
 nt|dbl me:  Will the X convince decl. that the sK is off?|pg||
 nt|BridgeGoth: N/S play reverse smith and upside down carding|pg||
@@ -147,7 +147,7 @@ pc|sT|pc|d9|pc|d8|nt|bt:  good morning henri, everyone|pg||
 pc|sQ|pg||
 nt|ritong: good boy|pg||
 pc|hK|nt|ritong: hei lars|pg||
-nt|bt:  nice defence here|pg||
+nt|bt:	nice defence here|pg||
 pc|hA|pc|h5|pc|h3|pg||
 pc|h4|pc|h8|pc|hQ|pc|h2|pg||
 pc|dQ|mc|8|nt|bt:  now the bidding ... ;)|pg||
@@ -169,7 +169,7 @@ mc|8|nt|dbl me:  E correcte|pg||
 pg||
 qx|o22|st||md|4SAQJ97HQ8632DK2C6,ST2HATDAJT73CAQ87,S43H74D854CKJ5432,SK865HKJ95DQ96CT9|sv|e|mb|p|mb|1S|mb|2D|mb|p|mb|2N|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|h6|nt|ritong: secret weapon won t work|pg||
 nt|ritong: score it up|pg||
-nt|bt:  declarer has 9 tricks, not easy communicating though|pg||
+nt|bt:	declarer has 9 tricks, not easy communicating though|pg||
 nt|chmitty: some communications difficulties|pg||
 nt|chmitty: probably will take in hand and play @dQueen ... to tempt South|pg||
 pc|hT|nt|chmitty: and if not covered a small @d|pg||
@@ -188,7 +188,7 @@ pc|c8|pc|cJ|pc|cT|pc|sQ|pg||
 pc|cK|pc|s6|pc|h8|pc|cQ|pg||
 pc|s3|pc|sK|pc|sA|pc|s2|pg||
 pc|hQ|pc|sT|pc|s4|pc|s8|pg||
-nt|bt:  or is it the fantunes tempo compared to the vikings|pg||
+nt|bt:	or is it the fantunes tempo compared to the vikings|pg||
 nt|ritong: helness sometimes tanks for ever too|pg||
 pg||
 qx|c22|st||md|4SAQJ97HQ8632DK2C6,ST2HATDAJT73CAQ87,S43H74D854CKJ5432,SK865HKJ95DQ96CT9|sv|e|mb|p|mb|1S|nt|dbl me:  E correctly was unimpressed with his minor K's on that auction.|pg||
@@ -238,7 +238,7 @@ nt|ritong: he has no losing plan in 3NT doubled|pg||
 pc|sK|pc|s9|pc|h6|pc|s5|pg||
 pc|c4|pc|c6|pc|cA|pc|c3|pg||
 pc|cK|pc|c7|pc|c9|pc|c5|pg||
-nt|bt:  he doesnt know that ;)|pg||
+nt|bt:	he doesnt know that ;)|pg||
 pc|c2|pc|c8|pc|cJ|pc|hT|pg||
 pc|cQ|pc|dT|pc|cT|pc|d8|pg||
 pc|hK|pc|h2|pc|h7|pc|h3|pg||
@@ -273,7 +273,7 @@ pc|d9|mc|10|pg||
 qx|o24|st||md|2SJ652HT854DT5CA54,SQT3HK932DAKJ7C98,SAK87HJ6D64CKJT76,S94HAQ7DQ9832CQ32|sv|o|mb|1D|mb|p|mb|2D|mb|p|mb|2N|mb|p|mb|3D|mb|p|mb|p|mb|p|nt|barnets: http://www.worldbridge.org/repository/tourn/bali.13/microsite/RunningScores/Asp/knockoutphaseconditstatMultievColours.asp?qtournid=995&qphase=QF&qroundno=2|pg||
 nt|ritong: bonjour barnet|pg||
 pc|sA|pc|s4|pc|s6|pc|s3|pg||
-nt|bt:  good bidding getting to diamonds here, many cant nowadays|pg||
+nt|bt:	good bidding getting to diamonds here, many cant nowadays|pg||
 nt|barnets: bonjour en cinq minutes ici|pg||
 nt|ritong: :)|pg||
 nt|ritong: didn t know you have some french buddy|pg||
@@ -304,13 +304,13 @@ pc|h7|pc|h8|pc|hK|pc|s7|pg||
 mc|9|nt|BridgeGoth: Nobody in the open found 6@C on the previous deal|pg||
 pg||
 qx|o25|st||md|3SK98432H82D9CAK92,STHKJ954DKT7CQT73,SHAQT763DQ42CJ864,SAQJ765HDAJ8653C5|sv|e|mb|3H|nt|ritong: 4@d surely|pg||
-nt|bt:  some action coming, nice|pg||
+nt|bt:	some action coming, nice|pg||
 nt|ritong: @ds +@ss|pg||
 mb|3S|nt|ritong: they do not play that|pg||
 mb|p|nt|bt:  a heavy overcall|pg||
 mb|3N|mb|p|mb|4D|nt|bt:  to say the least|pg||
 mb|p|nt|bt:  if 4@D isnt available, 4@H would be a popular choice|pg||
-nt|bt:  helgemo hates his hand|pg||
+nt|bt:	helgemo hates his hand|pg||
 mb|p|mb|p|nt|ritong: i would not be in love with this scenario either|pg||
 pc|cA|nt|ritong: and tor surely does not like this flop|pg||
 pc|c3|nt|bt:  they might be right stopping given this lie of the cards|pg||
@@ -320,15 +320,15 @@ pc|h8|pc|h9|pc|hT|pc|d3|pg||
 pc|s5|pc|sK|pc|sT|pc|h3|pg||
 pc|h2|nt|barnets: now can mke exactly 4|pg||
 pc|h4|pc|h6|pc|d5|pg||
-nt|bt:  precision bidding|pg||
-nt|bt:  though helness probably disagreed when dummy appeared|pg||
+nt|bt:	precision bidding|pg||
+nt|bt:	though helness probably disagreed when dummy appeared|pg||
 nt|ritong: he knows north had only 6@hs now|pg||
 nt|ritong: and zero @s|pg||
 nt|ritong: so ruffing a low @s with @d 10 looks ok|pg||
 pc|s6|pc|s8|pc|dT|nt|bt:  doesnt he have to guess @D9?|pg||
 nt|ritong: not quite|pg||
 nt|ritong: assuming north has at least two @ds|pg||
-nt|bt:  true|pg||
+nt|bt:	true|pg||
 nt|ritong: now he can have 6@h 6@c, but..|pg||
 pc|h7|pg||
 pc|dK|pc|d2|pc|d6|pc|d9|pg||
@@ -371,11 +371,11 @@ nt|dbl me:  That was highly unexpected...|pg||
 pg||
 qx|o26|st||md|4SQT6HA9DT873C8652,SAK532HQJ32DA96C7,S974HKT4DQ542CAJ3,SJ8H8765DKJCKQT94|sv|b|mb|p|nt|bt:  cant beat monaco if they are lucky|pg||
 mb|p|mb|1S|mb|p|mb|1N|mb|p|mb|2H|mb|p|mb|2S|mb|p|mb|p|mb|p|nt|ritong: you jealous dude|pg||
-nt|bt:  just stating the obvious, they are to good to be lucky as well ;)|pg||
+nt|bt:	just stating the obvious, they are to good to be lucky as well ;)|pg||
 pc|d4|pc|dJ|pc|d8|pc|d6|pg||
-nt|bt:  here 4@H is a make, strange preference|pg||
+nt|bt:	here 4@H is a make, strange preference|pg||
 nt|ritong: yes, quite surprising|pg||
-nt|bt:  reasoning may be he need extras to make game, hence stalling with 2@S|pg||
+nt|bt:	reasoning may be he need extras to make game, hence stalling with 2@S|pg||
 pc|s8|pc|s6|pc|sA|pc|s4|pg||
 pc|sK|pc|s7|pc|sJ|pc|sT|pg||
 nt|barnets: USA only up by 6 v Canada now|pg||
@@ -385,7 +385,7 @@ pc|h4|pc|h5|pc|hA|pc|h2|pg||
 pc|h9|pc|h3|pc|hK|pc|h6|pg||
 pc|hT|pc|h7|pc|sQ|nt|bt:  in 4@H you lose 2@H and a 1@C|pg||
 pc|hJ|pg||
-nt|bt:  not saying it is a good cntract|pg||
+nt|bt:	not saying it is a good cntract|pg||
 pc|d3|pc|d9|pc|d2|pc|dK|pg||
 mc|8|nt|bt:  heart partscore is good though|pg||
 pg||
@@ -511,7 +511,7 @@ pc|c2|pc|s6|pg||
 pc|hQ|pc|s2|pc|c3|pc|sT|pg||
 nt|barnets: except its 1 down|pg||
 pc|hT|pc|s4|pc|c4|pc|c9|pg||
-nt|ritong: when bidding 5@s can be wrong, sort of, when both contracts go down  however, the swing is WAY smaller|pg||
+nt|ritong: when bidding 5@s can be wrong, sort of, when both contracts go down	however, the swing is WAY smaller|pg||
 pc|h7|pc|s8|pc|c7|pc|cA|pg||
 pc|d2|pc|dT|pc|dQ|pc|dA|pg||
 pc|sJ|pc|h2|pc|sA|pc|c8|pg||
@@ -528,12 +528,12 @@ nt|pitiful:  well i am sorry martin, that was not what it was systemically|pg||
 nt|dbl me:  W did not guarantee 3 sp's, btw|pg||
 mb|4H|nt|pitiful:  1@s promised 3@s|pg||
 nt|dbl me:  oh, ic...thx for the clarification|pg||
-mb|4S|nt|pitiful:  i am their coach so  i should know|pg||
+mb|4S|nt|pitiful:  i am their coach so	i should know|pg||
 mb|p|nt|pitiful:  i have a copy of their system|pg||
-mb|p|mb|5H|nt|dbl me:  hehe....where were you on the first 13?  ;-)|pg||
+mb|p|mb|5H|nt|dbl me:  hehe....where were you on the first 13?	;-)|pg||
 nt|pitiful:  1N opening was 15-17 initially so Andrew downdraded his hand |pg||
 nt|pitiful:  in bed sorry|pg||
-mb|5S|nt|pelu:  now NS has the @s-contract in S where 11 trick normal, played by N only 10 tricks (@c-ruff)|pg||
+mb|5S|nt|pelu:	now NS has the @s-contract in S where 11 trick normal, played by N only 10 tricks (@c-ruff)|pg||
 mb|p|mb|p|nt|BridgeGoth: @H underlead would be brilliant|pg||
 nt|dbl me:  Thx for rousing yourself  :-)|pg||
 nt|fabsayc: i don't care, if you can have 15-17 for 1 minor, then all later doubles show that hand type in my book|pg||
@@ -565,7 +565,7 @@ mb|5C|mb|d|nt|barnets: xx|pg||
 mb|p|nt|barnets: stripe tail ape x|pg||
 mb|p|nt|barnets: to stop them bidding 6|pg||
 mb|p|nt|barnets: which is cold|pg||
-pc|sK|nt|barnets: draw  2 trunmps play 4 hearts rufffing in dummy|pg||
+pc|sK|nt|barnets: draw	2 trunmps play 4 hearts rufffing in dummy|pg||
 nt|barnets: rruff spade back t hand|pg||
 nt|barnets: last trump and 2  diamonds|pg||
 pc|sA|pc|s2|pc|s3|pg||
