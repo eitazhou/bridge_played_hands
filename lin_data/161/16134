@@ -15,7 +15,7 @@ mb|3N|mb|p|mb|4C|mb|p|mb|6S|mb|p|mb|p|mb|p|pc|d7|nt|Jacki: Welcome Henry, Henry 
 nt|henryb:  Hello All|pg||
 pc|dA|pc|d4|pc|d5|pg||
 pc|s5|pc|d2|pc|sA|pc|s3|pg||
-pc|hT|pc|c3|nt|henryb:  this was not the worst slam in the world until the spade break was revealed|pg||
+pc|hT|pc|c3|nt|henryb:	this was not the worst slam in the world until the spade break was revealed|pg||
 pc|h2|pc|hA|pg||
 pc|h7|pc|h9|pc|s7|pc|h4|pg||
 pc|c6|pc|c4|pc|cQ|pc|cA|pg||
@@ -25,7 +25,7 @@ mb|1D|mb|p|nt|anamtebha:  this board looks interesting though|pg||
 mb|1H|nt|anamtebha:  I'll stay for this one!|pg||
 mb|1S|mb|d|an|3 !hs|mb|p|mb|2H|nt|gerstman: the ubiquitous support double:  never being able to show a six solid suit on the side|pg||
 mb|p|mb|p|nt|anamtebha:  if this is passed E might balance into 2@s|pg||
-mb|2S|mb|3H|mb|p|nt|anamtebha:  now N will raise imo|pg||
+mb|2S|mb|3H|mb|p|nt|anamtebha:	now N will raise imo|pg||
 mb|p|mb|p|nt|anamtebha:  solid @ds didnt look too good to him then!|pg||
 pc|sK|nt|gerstman: the law of total tricks:  we have eight of our trumps and we have seven of theirs!  how many tricks do we make?|pg||
 pc|s2|nt|lestergold: Good evening all|pg||
@@ -163,7 +163,7 @@ pc|d8|pc|c4|pc|dK|pc|d6|pg||
 pc|sJ|pc|s2|pc|s4|pc|sA|pg||
 pc|s5|pc|sT|pc|sQ|pc|sK|pg||
 mc|10|pg||
-qx|o12|st||md|2SKJ5H53DAQT52CK54,SA642HJ4DKJ7CJT86,SQ9HKQT7D9843CQ93,ST873HA9862D6CA72|sv|n|mb|p|mb|p|mb|p|mb|1D|mb|p|mb|1H|mb|p|mb|1N|mb|p|mb|2D|mb|p|mb|p|nt|henryb:  after 1@d-1@h-1N, how many would bid 2@d if available as a natural call?|pg||
+qx|o12|st||md|2SKJ5H53DAQT52CK54,SA642HJ4DKJ7CJT86,SQ9HKQT7D9843CQ93,ST873HA9862D6CA72|sv|n|mb|p|mb|p|mb|p|mb|1D|mb|p|mb|1H|mb|p|mb|1N|mb|p|mb|2D|mb|p|mb|p|nt|henryb:	after 1@d-1@h-1N, how many would bid 2@d if available as a natural call?|pg||
 mb|p|pc|cT|pc|c3|nt|Vugraphzfb: Lair checks about leads - Rusinow|pg||
 pc|c2|pc|cK|pg||
 pc|s5|pc|s2|pc|sQ|pc|s3|pg||
@@ -176,7 +176,7 @@ pc|sJ|pc|s4|pc|h7|pc|s7|pg||
 pc|h5|pc|h4|pc|hK|pc|hA|pg||
 mc|8|pg||
 qx|o13|st||md|3SK64HQ96DJCJT9632,SAQ32HJ754DAQCKQ4,ST85HAKT82DT932CA,SJ97H3DK87654C875|sv|b|mb|1H|mb|p|mb|2H|mb|d|nt|henryb:  Would you act over 2@h with West hand?|pg||
-mb|p|mb|2N!|an|Lebensohl - asks partner to bid 3!c|mb|p|mb|3C|mb|p|mb|3D|nt|anamtebha:  i would dbl over 2@h as well.. too strong not to act. you know 2@h is prolly getting passed out |pg||
+mb|p|mb|2N!|an|Lebensohl - asks partner to bid 3!c|mb|p|mb|3C|mb|p|mb|3D|nt|anamtebha:	i would dbl over 2@h as well.. too strong not to act. you know 2@h is prolly getting passed out |pg||
 mb|p|mb|p|mb|p|pc|cJ|pc|cK|pc|cA|pc|c5|pg||
 nt|anamtebha:  especially when you know partner has at most 1@h so AQ tight shouldnt make you think too hard|pg||
 pc|hK|pc|h3|pc|h6|pc|h4|pg||
@@ -205,7 +205,7 @@ pc|s5|pc|s2|pc|sK|pc|s3|pg||
 pc|c9|pc|d3|pc|cJ|pc|c7|pg||
 nt|Vugraphzfb: I think I got this play a little out of order - he actually played a club to dummy to lead the spade and now just ruffed the diamond|pg||
 nt|Vugraphzfb: Now I'm completely confused - sorry - I was trying to do too many things at once :). |pg||
-pc|s6|pc|s4|mc|9|nt|anamtebha:  as always :) thanks for all the effort jan, it's much appreciated|pg||
+pc|s6|pc|s4|mc|9|nt|anamtebha:	as always :) thanks for all the effort jan, it's much appreciated|pg||
 nt|Vugraphzfb: We've run out of boards and have sent a kibitzer to the other room to bring some. Because we weren't planning to show this match, there's only one set of boards and they have to be ...|pg||
 nt|Vugraphzfb: caddied between the tables|pg||
 nt|anamtebha:  I'm not sure where henry went, but I'll have to excuse myself in a couple of minutes|pg||
@@ -235,5 +235,5 @@ pc|d2|pc|dQ|pc|d4|pc|d3|pg||
 pc|d8|pc|dT|pc|dA|pc|d5|pg||
 pc|cQ|pc|cK|pc|c5|pc|c2|pg||
 pc|c4|pc|c8|pc|c3|pc|c9|pg||
-pc|cA|pc|c6|nt|henryb:  Next, please|pg||
+pc|cA|pc|c6|nt|henryb:	Next, please|pg||
 mc|9|pg||
