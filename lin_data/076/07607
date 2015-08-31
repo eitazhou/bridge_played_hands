@@ -2,7 +2,7 @@ vg|12th Cap Gemini World Top Tournament 1998,1998.01.15,P,1,40,Team 1,0,Team 2,0
 rs|2SE+1,,3DW+2,,1NW+1,,2HSx=,,4HN-2,,4SEx-2,,4SE-1,,3SE+1,,2SW-1,,3CE+1,,2SW-1,,2NE+1,,3SW-1,,2SW=,,2SW=,,3CE=,,3NS=,,3NS=,,3NS=,,3NS=,,3NS=,,3NS=,,3NS=,,3NS=,,3NE+1,,3NE=,,3NW+2,,2DNx-6,,3NE=,,3NE=,,5CW=,,3NW+2,,4HE=,,4HE=,,4HE=,,4HE=,,3DW+2,,4HE=,,4SW-1,,5DW=|
 pw|Meckstroth,Blakset,Rodwell,Christiansen,Berkowitz,Chemla,Cohen,Perron,Wang,Hackett,Sun,Hackett,Leufkens,Lanzarotti,Westra,Buratti,Martens,Berkowitz,Szymanowski,Letizia,Versace,Westerhof,Lauria,Jansen,Levy,Helgemo,Mari,Helness,Mahmood,Branco,Forrester,Chagas,Meckstroth,Blakset,Rodwell,Christiansen,Berkowitz,Chemla,Cohen,Perron,Wang,Hackett,Sun,Hackett,Leufkens,Lanzarotti,Westra,Buratti,Martens,Berkowitz,Szymanowski,Letizia,Versace,Westerhof,Lauria,Jansen,Levy,Helgemo,Mari,Helness,Mahmood,Branco,Forrester,Chagas,Meckstroth,Blakset,Rodwell,Christiansen,Berkowitz,Chemla,Cohen,Perron,Wang,Hackett,Sun,Hackett,Leufkens,Lanzarotti,Westra,Buratti,Martens,Berkowitz,Szymanowski,Letizia,Versace,Westerhof,Lauria,Jansen,Levy,Helgemo,Mari,Helness,Mahmood,Branco,Forrester,Chagas,Meckstroth,Blakset,Rodwell,Christiansen,Berkowitz,Chemla,Cohen,Perron,Wang,Hackett,Sun,Hackett,Leufkens,Lanzarotti,Westra,Buratti,Martens,Berkowitz,Szymanowski,Letizia,Versace,Westerhof,Lauria,Jansen,Levy,Helgemo,Mari,Helness,Mahmood,Branco,Forrester,Chagas,Meckstroth,Blakset,Rodwell,Christiansen,Berkowitz,Chemla,Cohen,Perron,Wang,Hackett,Sun,Hackett,Leufkens,Lanzarotti,Westra,Buratti,Martens,Berkowitz,Szymanowski,Letizia,Versace,Westerhof,Lauria,Jansen,Levy,Helgemo,Mari,Helness,Mahmood,Branco,Forrester,Chagas|pg||bn|16,16,16,16,16,16,16,16,17,17,17,17,17,17,17,17,18,18,18,18,18,18,18,18,19,19,19,19,19,19,19,19,20,20,20,20,20,20,20,20|pg||
 mp|,4,,4,,4,10,,,3,10,,3,,,5,3,,,2,3,,,3,3,,,2,,2,,2,0,,0,,0,,0,,0,,0,,0,,0,,0,,1,,,1,,13,1,,1,,1,,,1,,2,,2,,2,,2,9,,,2,12,,,2,|pg||
-pn|Meckstroth,Blakset,Rodwell,Christiansen|qx|o1|md|2S5HQJ9DJ653CA9842,SQ97HA652DKT74CKT,SAT63HK8743D9CQJ7|sv|e|
+pn|Jeff Meckstroth,Blakset,Eric Rodwell,Christiansen|qx|o1|md|2S5HQJ9DJ653CA9842,SQ97HA652DKT74CKT,SAT63HK8743D9CQJ7|sv|e|
 mb|1N|mb|2C|mb|p|mb|2D|mb|p|mb|2H|mb|2S|mb|p|mb|p|mb|p|pg||
 pc|HQ|pc|HA|pc|H3|pc|HT|pg||
 pc|S7|pc|S3|pc|SK|pc|S5|pg||
@@ -109,7 +109,7 @@ pc|D7|pc|CQ|pc|DQ|pc|D6|pg||
 pc|DA|pc|DJ|pc|H6|pc|H8|pg||
 pc|C3|pc|C9|pc|CK|pc|C7|pg||
 mc|10|pg||
-pn|Meckstroth,Blakset,Rodwell,Christiansen|qx|o9|md|3SA9H8542DAT4CA873,SKT8764HQDQ63CT52,SQJ32HJ97D98752CJ|sv|0|
+pn|Jeff Meckstroth,Blakset,Eric Rodwell,Christiansen|qx|o9|md|3SA9H8542DAT4CA873,SKT8764HQDQ63CT52,SQJ32HJ97D98752CJ|sv|0|
 mb|p|mb|1H|mb|p|mb|1N|mb|p|mb|2C|mb|p|mb|2S|mb|p|mb|p|mb|p|pg||
 pc|CJ|pc|CQ|pc|CA|pc|C5|pg||
 pc|C8|pc|C2|pc|S2|pc|C4|pg||
@@ -190,7 +190,7 @@ pc|CT|pc|HJ|pc|C4|pc|C8|pg||
 pc|SK|pc|S2|pc|HA|pc|S9|pg||
 pc|S6|pc|SJ|pc|C6|pc|C7|pg||
 mc|9|pg||
-pn|Meckstroth,Blakset,Rodwell,Christiansen|qx|o17|md|4SAT72HJ8DAJ52CKQJ,SJ943HKQ65D3C9542,S65HA932DKQ974C76|sv|n|
+pn|Jeff Meckstroth,Blakset,Eric Rodwell,Christiansen|qx|o17|md|4SAT72HJ8DAJ52CKQJ,SJ943HKQ65D3C9542,S65HA932DKQ974C76|sv|n|
 mb|p|mb|1N|mb|p|mb|2C|mb|p|mb|2S|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
 pc|C4|pc|C6|pc|CA|pc|CQ|pg||
 pc|C3|pc|CK|pc|C2|pc|C7|pg||
@@ -247,7 +247,7 @@ pc|SQ|pc|S2|pc|S4|pc|S5|pg||
 pc|SK|pc|S7|pc|S3|pc|S6|pg||
 pc|S8|pc|ST|pc|SJ|pc|H2|pg||
 mc|9|pg||
-pn|Meckstroth,Blakset,Rodwell,Christiansen|qx|o25|md|1S762HJT72DA752CT9,SKJ9HA83D3CKQ7653,SQT53HQ964D96CA42|sv|e|
+pn|Jeff Meckstroth,Blakset,Eric Rodwell,Christiansen|qx|o25|md|1S762HJT72DA752CT9,SKJ9HA83D3CKQ7653,SQT53HQ964D96CA42|sv|e|
 mb|p|mb|1C|mb|p|mb|1S|mb|p|mb|2C|mb|p|mb|2S|mb|p|mb|3C|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
 pc|H2|pc|H3|pc|HQ|pc|H5|pg||
 pc|H4|pc|HK|pc|HJ|pc|H8|pg||
@@ -309,7 +309,7 @@ pc|DQ|pc|D7|pc|C3|pc|D9|pg||
 pc|DJ|pc|DA|pc|C5|pc|S5|pg||
 pc|CT|pc|C7|pc|CA|pc|C8|pg||
 mc|11|pg||
-pn|Meckstroth,Blakset,Rodwell,Christiansen|qx|o33|md|2ST6542H3D863CJ873,SQ87H985DAJT75C96,S3HKQ62D92CAKT542|sv|b|
+pn|Jeff Meckstroth,Blakset,Eric Rodwell,Christiansen|qx|o33|md|2ST6542H3D863CJ873,SQ87H985DAJT75C96,S3HKQ62D92CAKT542|sv|b|
 mb|p|mb|2C|mb|d|mb|r|mb|2D|mb|p|mb|2H|mb|p|mb|4H|mb|p|mb|p|mb|p|pg||
 pc|C7|pc|C6|pc|CA|pc|CQ|pg||
 pc|CK|pc|H4|pc|C8|pc|C9|pg||
