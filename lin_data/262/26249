@@ -29,7 +29,7 @@ pc|d5|pc|d2|pc|dK|pc|dA|pg||
 pc|dQ|pc|d8|pc|d3|pc|d9|pg||
 pc|c2|pc|c3|pc|cA|pc|cT|pg||
 mc|8|nt|vugraphzad: dobroiu 112,5 mihai 113 popa 108 david 84 georgescu 85 fica 65 kovacs 77 balita 69|pg||
-nt|vugraphzad: briciu 135 stegaroiu 98 serpoi 80 petculescu 69  marculetiu 88 chisu 88 vartanovici 75,5 barbu 75|pg||
+nt|vugraphzad: briciu 135 stegaroiu 98 serpoi 80 petculescu 69	marculetiu 88 chisu 88 vartanovici 75,5 barbu 75|pg||
 pg||
 qx|c18|st||md|4SKJ85HK5D432CA986,SAT96H73DKJ96CKJT,SQ74H62DAQT7CQ542,S32HAQJT984D85C73|sv|n|mb|4H|mb|p|mb|p|mb|p|pc|s5|pc|sA|pc|s4|pc|s3|pg||
 pc|h3|pc|h2|pc|hQ|pc|hK|pg||
@@ -181,7 +181,7 @@ nt|ady: if north opens|pg||
 mb|1S|mb|1N|mb|2D|mb|p|mb|p|mb|p|pc|c6|pc|cA|pc|c9|pc|c3|pg||
 pc|dQ|pc|dK|pc|dA|pc|d9|pg||
 pc|c5|pc|c2|pc|cK|pc|cJ|pg||
-pc|d2|pc|d4|pc|d6|nt|ady: in CR north opeened 1@S    east passed   south responded 1NT     passed to east who doubled   and south bid 2@D  all pass|pg||
+pc|d2|pc|d4|pc|d6|nt|ady: in CR north opeened 1@S    east passed   south responded 1NT	   passed to east who doubled	and south bid 2@D  all pass|pg||
 pc|dT|pg||
 pc|c4|pc|cT|pc|d5|pc|cQ|pg||
 mc|7|pg||
@@ -212,7 +212,7 @@ qx|c29|st||md|3SJ42H62DJ9873C654,ST9873HJ543DAT4C3,SAHK9DQ65CAKQT972,SKQ65HAQT87
 qx|o30|st||md|4SQ73HAQ3D97CJ6432,ST9HTDAQJ642CAKT9,SAKJ865H862D83CQ7,S42HKJ9754DKT5C85|sv|o|nt|vugraphzad: hello, this is the last round|pg||
 nt|vugraphzad: current standings|pg||
 mb|2D!|mb|p|mb|2H!|mb|2S|mb|p|mb|3S|mb|p|mb|p|mb|p|pc|c8|nt|vugraphzad: briciu 135 stegaroiu 98 serpoi 80 petculescu 69  marculetiu 88 chisu 88 vartanovici 75,5 barbu 75|pg||
-nt|vugraphzad:  dobroiu 112,5 mihai 113 popa 108 david 84 georgescu 85 fica 65 kovacs 77 balita 69|pg||
+nt|vugraphzad:	dobroiu 112,5 mihai 113 popa 108 david 84 georgescu 85 fica 65 kovacs 77 balita 69|pg||
 pc|c2|pc|cK|pc|c7|pg||
 pc|dQ|pc|d8|pc|d5|pc|d7|pg||
 pc|dA|pc|d3|pc|dT|pc|d9|pg||
@@ -256,7 +256,7 @@ pc|d3|pc|dQ|pc|cQ|pc|dT|pg||
 pc|sT|pc|s7|pc|hJ|pc|c4|pg||
 mc|8|pg||
 qx|o32|st||md|2ST73HQ752DT982C93,SAQ95HK3DAJ4CAK72,SKJ64HAJ6DK5CJ865,S82HT984DQ763CQT4|sv|e|mb|2N|mb|p|mb|3C!|mb|p|mb|3D!|mb|p|mb|3S!|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|c5|nt|vugraphzad:  dobroiu 112,5 mihai 113 popa 108 david 84 georgescu 85 fica 65 kovacs 77 balita 69|pg||
-nt|vugraphzad: briciu 135 stegaroiu 98 serpoi 80 petculescu 69  marculetiu 88 chisu 88 vartanovici 75,5 barbu 75|pg||
+nt|vugraphzad: briciu 135 stegaroiu 98 serpoi 80 petculescu 69	marculetiu 88 chisu 88 vartanovici 75,5 barbu 75|pg||
 pc|c4|pc|c9|pc|cK|pg||
 pc|c7|pc|c6|pc|cT|pc|c3|pg||
 pc|d3|pc|d2|pc|dJ|pc|dK|pg||

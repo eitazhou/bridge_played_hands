@@ -178,7 +178,7 @@ nt|CAK1:  east devalued HK and opened 1S|pg||
 pc|dQ|pc|d2|pc|d4|pc|dA|pg||
 pc|s5|pc|s3|pc|sJ|pc|s4|pg||
 nt|CAK1:  kibitzers pointed out south not leading HQ was a big factor that 4S went down last hand|pg||
-pc|h2|nt|CAK1:  declarer can still make this even after a club back and a ruff|pg||
+pc|h2|nt|CAK1:	declarer can still make this even after a club back and a ruff|pg||
 nt|CAK1:  south certainly didn't expect declarer has HK|pg||
 pc|h3|pc|hT|pc|hK|pg||
 pc|dK|pc|d3|pc|c3|pc|d9|pg||
@@ -223,7 +223,7 @@ pc|c2|pc|c5|pc|cQ|pc|cK|pg||
 pc|cJ|pc|c6|pc|c7|pc|cA|pg||
 pc|d2|pc|d9|pc|dJ|pc|d3|pg||
 mc|7|pg||
-qx|o12|st||md|2SK53HT8DJ7CAQT863,S6H632DAQ653CKJ92,SQJT972HJ954DK82C,SA84HAKQ7DT94C754|sv|n|mb|1D|mb|2D!|mb|d|nt|CAK1:  N-S plays Michaels cuebid as 5-4+|pg||
+qx|o12|st||md|2SK53HT8DJ7CAQT863,S6H632DAQ653CKJ92,SQJT972HJ954DK82C,SA84HAKQ7DT94C754|sv|n|mb|1D|mb|2D!|mb|d|nt|CAK1:	N-S plays Michaels cuebid as 5-4+|pg||
 nt|CAK1:  only for 1m-2m, for 1M-2M it is 55+|pg||
 mb|3C|mb|p|nt|CAK1:  board 10 other table chose not to devalue singleton K and got to 3N, so only 3 imps difference now|pg||
 mb|3S|mb|d|mb|p|mb|4D|mb|p|nt|CAK1:  3C seems strange, maybe south was looking for game vs. partner's vul Michaels cuebid|pg||
@@ -272,7 +272,7 @@ pc|sJ|pc|s7|pc|h6|pc|s6|pg||
 mc|8|pg||
 qx|o14|st||md|4SQ98752H63D63C743,SKJT3HQ95DKJ5CAKJ,S64HA874DQT82CQ65,SAHKJT2DA974CT982|sv|o|nt|CAK1:  difficult choice, declarer used a spade for entry which resulted in a ruff|pg||
 nt|CAK1:  maybe ruffing a diamond for an entry would be better?|pg||
-mb|1D|mb|p|mb|1S|mb|p|mb|1N|mb|p|mb|3N|mb|p|mb|p|mb|p|nt|CAK1:  against 11-13 west had no interest in slam|pg||
+mb|1D|mb|p|mb|1S|mb|p|mb|1N|mb|p|mb|3N|mb|p|mb|p|mb|p|nt|CAK1:	against 11-13 west had no interest in slam|pg||
 pc|d6|pc|d5|pc|dT|pc|dA|pg||
 pc|hT|pc|h6|pc|h5|pc|h8|pg||
 pc|h2|pc|h3|pc|h9|pc|hA|pg||
@@ -297,9 +297,9 @@ mc|10|pg||
 qx|o15|st||md|1SAKQ94HKJ4DQ64C93,SJ73H63DK97CKT742,ST6HAQ85DJT2CAQ65,S852HT972DA853CJ8|sv|n|mb|1C!|mb|p|mb|1S!|mb|p|nt|CAK1:  south upgraded his hand to open 1c|pg||
 mb|1N!|mb|p|mb|3C!|nt|CAK1:  i believe 1s is 8-13 or 16+bal|pg||
 mb|p|mb|3N|mb|p|mb|p|mb|p|nt|CAK1:  don't know what is 3c though|pg||
-pc|h6|nt|CAK1:  should be +2|pg||
+pc|h6|nt|CAK1:	should be +2|pg||
 pc|hQ|pc|h7|pc|h4|pg||
-pc|sT|nt|CAK1:  but playing SAKQ is not entirely safe, spades can break 5-1 and west can win first round of diamond and put a club through|pg||
+pc|sT|nt|CAK1:	but playing SAKQ is not entirely safe, spades can break 5-1 and west can win first round of diamond and put a club through|pg||
 pc|s2|pc|s4|pc|sJ|pg||
 nt|CAK1:  so this is a safety play|pg||
 pc|h3|pc|h5|pc|h2|pc|hK|pg||
