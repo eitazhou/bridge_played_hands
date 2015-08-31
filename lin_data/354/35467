@@ -1,7 +1,7 @@
 vg|M1 2014 CNBC Glasgow,F3_4,I,1,12,Chairman's,59,Wales,18|
 rs|2SS+1,3CE+1,6SW=,6CE+1,4HS=,4HSx=,2HW+2,2HW+3,4SW-1,4SW-2,1HE+1,3HE-2,3NW-3,3NE-2,4HS=,5CE-1,3HS=,5CE-1,4HW-2,1NS=,4HE=,4HE=,3NE=,3NE+1|
 pn|MOSSOP,TEDD,HACKETT,SALISBURY,REES,BAKHSHI,JONES,McINTOSH|pg||
-qx|o1|st||md|3SKT643HKT43D96CQJ,SA852H752DKQ75CK3,SQJ9HAQ8DA842C654,S7HJ96DJT3CAT9872|sv|o|mb|1D|nt|yorkbeach:  strong NT NS|pg||
+qx|o1|st||md|3SKT643HKT43D96CQJ,SA852H752DKQ75CK3,SQJ9HAQ8DA842C654,S7HJ96DJT3CAT9872|sv|o|mb|1D|nt|yorkbeach:	strong NT NS|pg||
 nt|vugraphzfs: we should be getting comparisons but they seem to have started at board 3 in the other room. perhaps thats because we caught them up so quickly before.|pg||
 mb|p|mb|1S|mb|p|mb|1N|mb|p|mb|2C|mb|p|nt|yorkbeach:  3@c would show the extremes but Salisbury probably didnt want to overcall 3@c anyway|pg||
 mb|2S|mb|p|mb|p|mb|p|pc|h5|nt|vugraphzfs: min with 3@S's|pg||
@@ -88,7 +88,7 @@ pg||
 qx|o5|st||md|3SJ32HT743DKT7CK92,SQ9876HQJ9D8542C3,SA4H52DJCAJT87654,SKT5HAK86DAQ963CQ|sv|n|mb|1C|mb|d|mb|1H|mb|1S|mb|2C|mb|d|nt|yorkbeach:  some players pass with a balanced hand over the X while others just bid what they would have done anyway|pg||
 mb|p|nt|yorkbeach:  Eat's second X still for TO, extra values and not 4@s|pg||
 mb|2S|nt|yorkbeach:  at a different vulnerability, NS would be bidding more|pg||
-mb|3C|mb|4S|mb|p|mb|p|mb|p|pc|dJ|nt|yorkbeach:  non vul I expect North would open 4@c (assuming that option is available)|pg||
+mb|3C|mb|4S|mb|p|mb|p|mb|p|pc|dJ|nt|yorkbeach:	non vul I expect North would open 4@c (assuming that option is available)|pg||
 pc|dA|pc|d7|nt|yorkbeach:  declarer may read the lead as a singleton, not that doing so helps much|pg||
 pc|d4|pg||
 pc|sT|pc|s2|pc|s6|pc|sA|pg||
@@ -137,7 +137,7 @@ pc|h4|pc|h9|pc|hA|pc|h6|pg||
 pc|sT|nt|vugraphzft: conceding A@c - minus 2|pg||
 mc|7|pg||
 qx|o7|st||md|1SAT5HAQ876DT65C98,S73HT543DAJ8CQJ75,SJ862HJ92DK7CT643,SKQ94HKDQ9432CAK2|sv|b|nt|vugraphzfs: inching slowly back|pg||
-mb|p|mb|p|mb|p|mb|1D|mb|1H|mb|1N|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|h2|nt|yorkbeach:  25 HCP EW but singleton @hK not pulling full weight|pg||
+mb|p|mb|p|mb|p|mb|1D|mb|1H|mb|1N|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|h2|nt|yorkbeach:	25 HCP EW but singleton @hK not pulling full weight|pg||
 pc|hK|pc|hA|pc|h4|pg||
 pc|h7|pc|h3|pc|h9|pc|s4|pg||
 pc|s2|pc|sK|nt|yorkbeach:  declarer tries to block hearts hoping North @sA and South @dK|pg||
