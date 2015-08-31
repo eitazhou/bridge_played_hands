@@ -44,7 +44,7 @@ pc|d3|pc|dA|pc|d6|pc|d8|pg||
 pc|hJ|pc|s2|pc|hT|pc|h5|pg||
 pc|sK|pc|s5|pc|s6|pc|sA|pg||
 pc|sQ|pc|s9|pc|s3|pc|s8|pg||
-pc|cK|nt|8252:  a priori dans l'autre salle on n'a pas toruvÃ© le retour @s, Ã  ce stade|pg||
+pc|cK|nt|8252:	a priori dans l'autre salle on n'a pas toruvÃ© le retour @s, Ã	ce stade|pg||
 nt|8252:  ici Ã§a devrait etre plus naturel, on a vu deux defausses rouges en face, et pas mal de points en Est|pg||
 pc|cA|pc|c6|pc|c3|pg||
 pc|sT|pc|d7|pc|s7|pc|c2|pg||
@@ -62,8 +62,8 @@ pc|c9|pc|h8|pc|s7|pc|c7|pg||
 pc|d8|mc|10|pg||
 qx|c3|st||md|1SAQ5HQ98632D97CK6,SJ87HA74DAK64CA83,ST964HT5DQ53C7542,SK32HKJDJT82CQJT9|sv|e|nt|8252:  ouille|pg||
 mb|1H|mb|d|mb|p|mb|2N|mb|p|mb|3N|nt|8252:  X = cachalot = l'encher de 1 @s|pg||
-nt|8252:  et 3 @c rencontre Ã  @h, apres passe|pg||
-mb|p|mb|p|nt|8252:  et l contre deFouillet montre 3 cartes Ã  @s, dnas un emain agrÃ©able|pg||
+nt|8252:  et 3 @c rencontre Ã  @h, apres passe|pg||
+mb|p|mb|p|nt|8252:  et l contre deFouillet montre 3 cartes Ã  @s, dnas un emain agrÃ©able|pg||
 nt|8252:  bon, maintenant, il faut dÃ©finir ce qu'est une main agrÃ©able :)|pg||
 mb|p|pc|h3|nt|8252:  5 @d est une digne dÃ©fense|pg||
 nt|8252:  dans 300 ou 500|pg||
@@ -71,7 +71,7 @@ pc|h4|pc|hT|pc|hJ|pg||
 pc|cQ|pc|c6|pc|c3|pc|c2|pg||
 pc|cJ|pc|cK|pc|cA|pc|c4|pg||
 pc|c8|pc|c5|nt|8252:  Ã§a peut meme faire 100 si Fouillet s emontre prÃ©cis|pg||
-pc|c9|nt|8252:  il lui fut laisser venir tirer 2 tous d'atout et sortir du J de  @c|pg||
+pc|c9|nt|8252:	il lui fut laisser venir tirer 2 tous d'atout et sortir du J de  @c|pg||
 pc|h2|pg||
 pc|dJ|pc|d7|pc|d4|pc|dQ|pg||
 pc|h5|pc|hK|nt|8252:  ah|pg||
@@ -111,7 +111,7 @@ pc|d9|pc|dJ|pc|hT|pc|d3|pg||
 pc|c9|pc|cA|pc|c8|pc|d2|pg||
 pc|s3|pc|s8|pc|sA|pc|s5|pg||
 mc|8|pg||
-qx|c5|st||md|3SA72HA75DJT8742C6,ST65HQJT986DQC942,SQJ93H3DK63CAKT53,SK84HK42DA95CQJ87|sv|n|mb|1C|mb|p|mb|1D|mb|3H|mb|d|mb|4H|mb|5D|mb|p|mb|p|mb|p|pc|hQ|pc|h3|nt|8252:  ils doivent jouer le 3 rÃ©ponses|pg||
+qx|c5|st||md|3SA72HA75DJT8742C6,ST65HQJT986DQC942,SQJ93H3DK63CAKT53,SK84HK42DA95CQJ87|sv|n|mb|1C|mb|p|mb|1D|mb|3H|mb|d|mb|4H|mb|5D|mb|p|mb|p|mb|p|pc|hQ|pc|h3|nt|8252:	ils doivent jouer le 3 rÃ©ponses|pg||
 nt|8252:  ce qui, on le voit, interdit de faire des "faux" stayman|pg||
 pc|h2|pc|hA|pg||
 pc|dJ|pc|dQ|pc|dK|pc|dA|pg||
@@ -125,7 +125,7 @@ pc|d3|pc|h4|pg||
 pc|sJ|pc|sK|pc|sA|pc|s6|pg||
 mc|11|pg||
 qx|o6|st||md|4SKJH3DAJT9CQT9732,SA8763HKQT7DK5C54,ST952HJ9864D82CKJ,SQ4HA52DQ7643CA86|sv|e|mb|1D|mb|2C|mb|2H!|mb|3C|mb|p|nt|vugraphzcc: 2@h = l'enchère de 2@s dans le std|pg||
-mb|p|mb|4H|mb|p|mb|p|nt|vugraphzcc: 4@h = 5+@s  + 4@h|pg||
+mb|p|mb|4H|mb|p|mb|p|nt|vugraphzcc: 4@h = 5+@s	+ 4@h|pg||
 nt|vugraphzcc: mais pas 5-5|pg||
 mb|p|pc|cK|nt|vugraphzcc: Cédric qui dit " alors pkoi Thierry ne dit pas 4@s?"|pg||
 nt|vugraphzcc: Eric qui dit" oui c'est bizarre, peut être que j'ai oublié qqchose"|pg||
@@ -248,7 +248,7 @@ nt|fokal: il faut que W prenne et en rejoue|pg||
 pc|h5|pg||
 nt|CORN: yes|pg||
 pc|d5|pc|dK|pc|dA|pc|d2|pg||
-pc|h6|nt|8252:  s5 @h vont probabelemnt chuterur cette entame |pg||
+pc|h6|nt|8252:	s5 @h vont probabelemnt chuterur cette entame |pg||
 pc|c4|nt|fokal: nicely done|pg||
 nt|CORN: true|pg||
 nt|fokal: pas si dur en effet|pg||
@@ -266,7 +266,7 @@ pc|cQ|pc|c2|pc|c3|pc|s3|pg||
 pc|sA|pc|s6|pc|h4|pc|sQ|pg||
 pc|s4|pc|sJ|mc|9|pg||
 qx|o10|st||md|4SA642H864DJ84CJT9,SK73HJ2DA9762C742,SJ98HAQT93DT3CAKQ,SQT5HK75DKQ5C8653|sv|b|mb|p|mb|p|mb|p|nt|vugraphzcc: L'arbitre a averti la paire NS pour jeu lent|pg||
-mb|1H|mb|p|mb|2H|mb|p|nt|8252:  en effet, toutes les autres tables ont terminÃ©|pg||
+mb|1H|mb|p|mb|2H|mb|p|nt|8252:	en effet, toutes les autres tables ont terminÃ©|pg||
 mb|2N!|mb|p|mb|3H|mb|p|mb|p|mb|p|pc|c6|pc|c9|pc|c2|pc|cA|pg||
 pc|s9|pc|s5|pc|sA|pc|s3|pg||
 pc|h4|pc|h2|pc|hQ|pc|hK|pg||
@@ -288,7 +288,7 @@ nt|CORN: 3@h now|pg||
 nt|fokal: trop de jeu pour intervenir à 2@h , donc Nord commence par contrer|pg||
 nt|fokal: un peu obligé de dire 3@h maintenant|pg||
 pc|c6|nt|CORN: courage alain|pg||
-pc|c9|nt|8252:  il vaut mieux avoir parlÃ© de la sÃ©quence|pg||
+pc|c9|nt|8252:	il vaut mieux avoir parlÃ© de la sÃ©quence|pg||
 nt|8252:  4 @c = le fit forcing, et 4 @d roprosition chez certaines paires|pg||
 nt|fluff:  with d K of dubious value, south will may pass, but quantin is not afraid to bid :)|pg||
 nt|vugraphzce: il les a en main |pg||
@@ -301,18 +301,18 @@ pc|cQ|pg||
 nt|fluff:  e-w maybe play that pass of cue says pls lead that suit|pg||
 pc|hA|nt|CORN: le @h8 est une remontée pour l'impasse@d|pg||
 nt|fokal: oui, c'est ce que je pense aussi quentin|pg||
-pc|h5|nt|8252:  l'entame @h battait le cheleme|pg||
+pc|h5|nt|8252:	l'entame @h battait le cheleme|pg||
 nt|8252:  les autres non|pg||
-nt|8252:  vugraphhcc tu es lÃ  ?|pg||
-nt|8252:  NS ont manquÃ© d'ambition : chottin va faire 10 levÃ©es en pensant Ã  autres chose|pg||
+nt|8252:  vugraphhcc tu es lÃ  ?|pg||
+nt|8252:  NS ont manquÃ© d'ambition : chottin va faire 10 levÃ©es en pensant Ã	autres chose|pg||
 pc|h4|nt|fokal: notons l'entame de la dame de pique malgré As Roi de @c|pg||
 nt|fokal: un peu intellectuel, mais il doit avoir ses raisons|pg||
 nt|CORN: étrange entame|pg||
 pc|h2|pg||
 nt|8252:  meme 11 d'alleurs |pg||
-nt|8252:  il va donner 1 @h et  @d, |pg||
+nt|8252:  il va donner 1 @h et	@d, |pg||
 pc|hQ|pc|hK|pc|h6|pc|hJ|pg||
-mc|7|nt|fluff:  levy might regret|pg||
+mc|7|nt|fluff:	levy might regret|pg||
 nt|fluff:  will lead AKx of h|pg||
 nt|fluff:  sh go down|pg||
 pg||
@@ -351,13 +351,13 @@ qx|c12|st||md|2SJ863HKJDT72CAKT3,ST54HAQT432DA8CJ8,SAQH95DJ9653C9762,SK972H876DK
 nt|fokal: e|pg||
 nt|fokal: là évidemment, les @d sont 3-3 et il y a V10 de @h secs. Donc on fait 3SA|pg||
 nt|8252:  une donne plate, pour l'apÃ©ro|pg||
-mb|1H|nt|8252:  le SA faible devrait donner du relief a la sÃ©quence|pg||
+mb|1H|nt|8252:	le SA faible devrait donner du relief a la sÃ©quence|pg||
 mb|p|mb|2H|nt|8252:  contre en nord = la valeur maximale|pg||
 mb|p|nt|8252:  XX 5 eme= presence d'une |pg||
 mb|p|nt|8252:  une sorte de CONT|pg||
 nt|8252:  DONT|pg||
 nt|poussin:  Bonjour Gilles|pg||
-nt|8252:  olÃ  Gogo|pg||
+nt|8252:  olÃ  Gogo|pg||
 mb|p|pc|c6|pc|c4|nt|8252:  qui a introduit le SA faible en Ile de France, il fuat le savoir|pg||
 nt|ritong: curieux cas|pg||
 nt|ritong: qui a un souci et pourquoi?|pg||
@@ -370,7 +370,7 @@ pc|s6|pc|s4|nt|CORN: ça vas pas gagner|pg||
 nt|fokal: volcker contemple le mortet se dit "hum, y a du boulot !|pg||
 nt|CORN: ce n'est pas du boulot ces les travaux d'hercule|pg||
 nt|ritong: il va falloir optimiser la chute|pg||
-pc|sA|nt|8252:  300 contre 600 et queslques, |pg||
+pc|sA|nt|8252:	300 contre 600 et queslques, |pg||
 pc|s2|pg||
 pc|sQ|pc|sK|nt|poussin:  "contre les partielles contrÃ©es, entamer atout" est un bon principe|pg||
 nt|8252:  il va s'y rÃ©soudre a jouer atout masi ca va quand meme faire 6 levÃ©es chez Lorenzo|pg||
@@ -389,13 +389,13 @@ nt|fokal: il faut rejouer @h sous l'as , pour prendre un max de chute|pg||
 mc|9|pg||
 qx|o13|st||md|3SKJ6H95DAJ3CQT865,SQ984HQT63DK6CJ42,S52HAJ874DQ7CAK97,SAT73HK2DT98542C3|sv|b|nt|8252:  ces 4  dernieres donnes ne devraient pas voir d'Ã©carts|pg||
 nt|vugraphzcc: Résultats + fréquences&donnes (à rafraîchir) sur : http://www.ffbridge.info/competitions/sel8_2014_O/magiccontestfrance-o-3.htm?r=0.6523139987051757|pg||
-mb|1H|mb|p|mb|1N|mb|p|nt|8252:  je suppose  SA forcing ici|pg||
+mb|1H|mb|p|mb|1N|mb|p|nt|8252:	je suppose  SA forcing ici|pg||
 nt|vugraphzcc: semi forcing|pg||
 mb|2C!|mb|2D|nt|8252:  Ã§a devient interessant|pg||
 nt|vugraphzcc: ca va jusqu'à 11- 12-|pg||
 mb|3N|mb|p|nt|vugraphzcc: 2@c gazzilli: soit du @c soit main forte|pg||
-mb|p|mb|p|nt|8252:  lorenzo va avoir droit Ã  sa levÃ©e cadeau de bien venue, Ã  l'entame, je pense|pg||
-pc|dK|nt|8252:  voilÃ |pg||
+mb|p|mb|p|nt|8252:  lorenzo va avoir droit Ã  sa levÃ©e cadeau de bien venue, Ã  l'entame, je pense|pg||
+pc|dK|nt|8252:	voilÃ |pg||
 pc|d7|pc|d5|pc|dA|pg||
 pc|c6|pc|c2|pc|cA|pc|c3|pg||
 pc|s2|pc|s3|pc|sK|pc|s4|pg||
@@ -405,7 +405,7 @@ qx|c13|st||md|3SKJ6H95DAJ3CQT865,SQ984HQT63DK6CJ42,S52HAJ874DQ7CAK97,SAT73HK2DT9
 mb|1H|mb|p|mb|2C|mb|p|nt|CORN: j'aurait ouvert d'1@h en 3ème position|pg||
 mb|2D|mb|p|mb|2H|nt|CORN: et voilà|pg||
 mb|p|nt|poussin:  meme sÃ©quence que dans l'autre salle|pg||
-nt|poussin:  le contrat est ingagnable mais on pourrait s'en sortir Ã  une de chute|pg||
+nt|poussin:  le contrat est ingagnable mais on pourrait s'en sortir Ã  une de chute|pg||
 mb|3C|nt|fokal: on peu aussi ouvrir de 2 @h d'ailleurs|pg||
 nt|vugraphzce: 5 @d|pg||
 nt|CORN: 2 c charrié|pg||
@@ -419,8 +419,8 @@ nt|vugraphzce: ca ne va pas échapper a notre professeur|pg||
 nt|fokal: non ca marche pas|pg||
 nt|vugraphzce: et mtnt on lui joue trèfle|pg||
 mb|p|mb|p|nt|fokal: le retour @c nous ramène au point de départ|pg||
-pc|s4|nt|8252:  il vitre faire les 2 levÃ©es de @s|pg||
-nt|poussin:  voilÃ , 5 levÃ©es de Coeur, AR de @d et RD de Pique|pg||
+pc|s4|nt|8252:	il vitre faire les 2 levÃ©es de @s|pg||
+nt|poussin:  voilÃ , 5 levÃ©es de Coeur, AR de @d et RD de Pique|pg||
 nt|poussin:  http://www.ffbridge.info/competitions/sel8_2014_O/magiccontestfrance-o.htm for results|pg||
 nt|8252:  je me demande si en ne mettant pas l'as de @s, on fait pas plus de levÃ©es enf lanc, finalement|pg||
 pc|s2|nt|CORN: il y a un contre temps à @c|pg||
@@ -474,7 +474,7 @@ pc|dA|nt|ritong: tom est un peu au dessus de 1@d 2@h, ou alors c est fitté apr�
 pc|d6|pg||
 nt|fokal: rebid à 1SA avec singleton @s...|pg||
 pc|d5|nt|fokal: cela dit , qui a envie de dire 2@d dans le 10 5eme....|pg||
-pc|dK|nt|8252:  a la mauvaise a @d|pg||
+pc|dK|nt|8252:	a la mauvaise a @d|pg||
 nt|8252:  ici, c'est rÃ©glÃ©|pg||
 nt|ritong: il pouvait dire 2@c|pg||
 nt|CORN: personne|pg||
@@ -488,7 +488,7 @@ nt|fokal: sinon ou peut dire 2@c en effet, comme quand ou décidé d'ouvrir d'1@
 pc|d9|pg||
 pc|cQ|pc|c9|nt|8252:  oui, il va falloir etre vigilant|pg||
 nt|ritong: car il n a pas utilisé 1@d 2@h|pg||
-pc|c4|nt|8252:  a bientÃ´t|pg||
+pc|c4|nt|8252:	a bientÃ´t|pg||
 pc|cK|pg||
 pc|h5|pc|hA|nt|fokal: oui, tom et michel jouent la sequence 1@d passe 2 @h = 5 @s 4@h 6-9(10)|pg||
 nt|ritong: qui aurait montré 5@s 4@h 7/9, c est ça?|pg||
@@ -498,7 +498,7 @@ pc|cJ|nt|CORN: jamais le 10@c|pg||
 pc|c8|nt|ritong: il a joué la règle du 9 de la poisse|pg||
 nt|fokal: je crois qu'ils jouent 2 @h =4+@s4@h à l'ouverture |pg||
 pc|c2|pc|cA|pg||
-pc|h2|nt|8252:  une bonne ou une mauvaise  Ã  @d, pour une ou deux de chute|pg||
+pc|h2|nt|8252:	une bonne ou une mauvaise  Ã  @d, pour une ou deux de chute|pg||
 nt|vugraphzce: la bonne |pg||
 nt|vugraphzce: on joue le valet qui ne couvre pas ave l dame|pg||
 pc|hJ|pc|h4|nt|fokal: et donc après passe ils conservent 1 @d 2@h = 5@h + 4 @d|pg||

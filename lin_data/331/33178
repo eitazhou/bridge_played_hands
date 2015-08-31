@@ -165,8 +165,8 @@ pc|d5|pc|h6|nt|athene: ouch!|pg||
 mc|5|nt|athene: declarer was sure that north would hold the @DA|pg||
 nt|athene: now the roof falls in|pg||
 pg||
-qx|c5|st||md|3SJ7H942DAJ874C932,SKQ8HJ85D9652CK76,SA9532HAQT6DTCJ84,ST64HK73DKQ3CAQT5|sv|n|nt|djneill:  North has a minimum opening hand, or is it not enough|pg||
-mb|1S|mb|d|nt|djneill:  both North and East want to bid, not Pass|pg||
+qx|c5|st||md|3SJ7H942DAJ874C932,SKQ8HJ85D9652CK76,SA9532HAQT6DTCJ84,ST64HK73DKQ3CAQT5|sv|n|nt|djneill:	North has a minimum opening hand, or is it not enough|pg||
+mb|1S|mb|d|nt|djneill:	both North and East want to bid, not Pass|pg||
 mb|p|mb|1N|mb|p|mb|p|mb|p|pc|s3|nt|djneill:  on a spade lead, it's more likely North has the @sJ than South|pg||
 pc|sT|nt|djneill:  but West could hook the @s9 alternately|pg||
 pc|sJ|pc|sK|pg||
@@ -250,7 +250,7 @@ pc|c3|pc|cA|pc|c2|pc|cT|pg||
 nt|athene: ok, this will work too :)|pg||
 mc|10|nt|athene: i guess you can trust east's count signal in spades, so you know spades are 3-3|pg||
 pg||
-qx|c7|st||md|1SJ6HAK94DJ6CK9852,SAK9HT8762DT532CT,SQ8543HDAQ7CQ7643,ST72HQJ53DK984CAJ|sv|b|nt|djneill:  as bad as 2@d was, 1NT probably was worse, so West's judgement to bid 2@d was justified|pg||
+qx|c7|st||md|1SJ6HAK94DJ6CK9852,SAK9HT8762DT532CT,SQ8543HDAQ7CQ7643,ST72HQJ53DK984CAJ|sv|b|nt|djneill:	as bad as 2@d was, 1NT probably was worse, so West's judgement to bid 2@d was justified|pg||
 mb|1C|mb|p|mb|1S|nt|djneill:  Garbosi skimming the bottom again|pg||
 mb|p|mb|1N|mb|p|mb|3C|mb|p|mb|p|mb|p|nt|djneill:  reaching a very safe club contract|pg||
 pc|sA|nt|djneill:  if West had just 2 spades it might get interesting but no|pg||
@@ -291,7 +291,7 @@ pc|sQ|pc|c2|pc|s3|pc|s7|pg||
 pc|h9|pc|hQ|pc|h5|pc|hJ|pg||
 pc|dK|pc|d4|pc|dT|pc|c4|pg||
 pc|c6|pc|c7|pc|sJ|pc|c9|pg||
-pc|s8|mc|8|nt|djneill:  North ping-pongs to home|pg||
+pc|s8|mc|8|nt|djneill:	North ping-pongs to home|pg||
 pg||
 qx|o9|st||md|3S754HKQ6D93CKQT62,SA8HJ854DQ62CA985,SKQJH9732DKJ4CJ73,ST9632HATDAT875C4|sv|e|mb|p|mb|p|mb|2C|mb|p|nt|HedyG: ok Bill, here is your 2rd seat everything goes 2@c :)|pg||
 mb|p|nt|athene: right|pg||
@@ -313,7 +313,7 @@ pc|sJ|pc|s3|pc|s4|pc|sA|pg||
 nt|queequeg: live video streaming of the event: http://bridgeditalia.it/diretta/|pg||
 pc|d6|nt|athene: well, he got it right|pg||
 pc|d4|pc|d8|mc|9|pg||
-qx|c9|st||md|3S754HKQ6D93CKQT62,SA8HJ854DQ62CA985,SKQJH9732DKJ4CJ73,ST9632HATDAT875C4|sv|e|nt|djneill:  if Bardin opens this one, I will have to move to Italy, sounds like a fun place|pg||
+qx|c9|st||md|3S754HKQ6D93CKQT62,SA8HJ854DQ62CA985,SKQJH9732DKJ4CJ73,ST9632HATDAT875C4|sv|e|nt|djneill:	if Bardin opens this one, I will have to move to Italy, sounds like a fun place|pg||
 mb|p|mb|p|mb|1C|mb|p|mb|1H|mb|2C|mb|p|mb|3D|mb|p|nt|djneill:  Wests likes the @dQ and @sA|pg||
 mb|p|mb|p|nt|djneill:  good Pass by Bardin|pg||
 pc|c3|pc|c4|pc|cQ|pc|cA|pg||
@@ -455,7 +455,7 @@ mc|8|nt|HedyG: not possible|pg||
 nt|HedyG: that was not the play|pg||
 pg||
 qx|c13|st||md|3SK853H7DQJT743CK8,SAJ964HJT95DCJ643,SQ2HA643DK8652CT7,ST7HKQ82DA9CAQ952|sv|b|nt|djneill:  good defense by North to shift|pg||
-mb|p|mb|1N|mb|p|mb|2C|mb|p|mb|2H|mb|p|mb|4H|mb|p|mb|p|mb|p|nt|djneill:  BessisT flies into game, again hoping for some good randomness|pg||
+mb|p|mb|1N|mb|p|mb|2C|mb|p|mb|2H|mb|p|mb|4H|mb|p|mb|p|mb|p|nt|djneill:	BessisT flies into game, again hoping for some good randomness|pg||
 pc|dQ|nt|djneill:  a most challenging lead to start, allowing N-S to tap |pg||
 pc|h5|pc|d2|pc|d9|pg||
 pc|h9|pc|h3|pc|h2|pc|h7|pg||

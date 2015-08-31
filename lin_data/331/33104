@@ -44,7 +44,7 @@ pc|s8|pc|sK|pc|s2|pc|s3|pg||
 pc|hT|pc|h5|pc|h3|pc|hA|pg||
 pc|s7|pc|s6|pc|sT|pc|sA|pg||
 pc|h7|pc|h4|pc|hK|pc|h6|pg||
-pc|h2|pc|d2|pc|hQ|nt|8252:  a priori dans l'autre salle on n'a pas toruvÃ© le retour @s, Ã  ce stade|pg||
+pc|h2|pc|d2|pc|hQ|nt|8252:  a priori dans l'autre salle on n'a pas toruvÃ© le retour @s, Ã  ce stade|pg||
 nt|8252:  ici Ã§a devrait etre plus naturel, on a vu deux defausses rouges en face, et pas mal de points en Est|pg||
 pc|s4|pg||
 pc|dJ|pc|dQ|pc|dK|pc|dA|pg||
@@ -62,8 +62,8 @@ pc|dJ|pc|dA|pc|d5|pc|d3|pg||
 mc|11|pg||
 qx|c3|st||md|1S62HQTDAT64CQ9754,SA75H74DKQ9875CT6,SJ3HAJ9532D32CJ82,SKQT984HK86DJCAK3|sv|e|nt|8252:  ouille|pg||
 mb|p|mb|p|mb|1N|mb|2H|an|!s|mb|p|mb|2N!|nt|8252:  X = cachalot = l'encher de 1 @s|pg||
-nt|8252:  et 3 @c rencontre Ã  @h, apres passe|pg||
-mb|p|mb|4S|nt|8252:  et l contre deFouillet montre 3 cartes Ã  @s, dnas un emain agrÃ©able|pg||
+nt|8252:  et 3 @c rencontre Ã  @h, apres passe|pg||
+mb|p|mb|4S|nt|8252:  et l contre deFouillet montre 3 cartes Ã  @s, dnas un emain agrÃ©able|pg||
 nt|8252:  bon, maintenant, il faut dÃ©finir ce qu'est une main agrÃ©able :)|pg||
 mb|p|mb|p|nt|8252:  5 @d est une digne dÃ©fense|pg||
 nt|8252:  dans 300 ou 500|pg||
@@ -71,7 +71,7 @@ mb|p|pc|c4|pc|c6|pc|cJ|pc|cA|pg||
 pc|dJ|pc|dA|pc|d5|pc|d3|pg||
 pc|hQ|pc|h7|pc|hA|pc|h6|pg||
 nt|8252:  Ã§a peut meme faire 100 si Fouillet s emontre prÃ©cis|pg||
-pc|c2|nt|8252:  il lui fut laisser venir tirer 2 tous d'atout et sortir du J de  @c|pg||
+pc|c2|nt|8252:	il lui fut laisser venir tirer 2 tous d'atout et sortir du J de  @c|pg||
 pc|cK|pc|c5|pc|cT|pg||
 pc|sK|pc|s2|mc|11|pg||
 qx|o4|st||md|2S8HA2DAQJT7CAQ962,SJHT97D985CJT8743,SA654HKQJ8543DK6C,SKQT9732H6D432CK5|sv|b|nt|voldenuit: belle donne |pg||
@@ -143,7 +143,7 @@ pc|dK|pc|dJ|pc|d5|pc|d3|pg||
 pc|d8|pc|h9|pc|d7|pc|dT|pg||
 mc|11|pg||
 qx|o7|st||md|1SKT532H52DTCT6532,SQ64H86DAKJ93CAJ8,SJ98HAQ43DQ62CK94,SA7HKJT97D8754CQ7|sv|b|mb|p|mb|1N|mb|p|mb|2D|nt|voldenuit: en 6 donnes 0/0 c'est un match très sérrré |pg||
-mb|p|mb|2H|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|s9|nt|CORN: le   2 chez toftof|pg||
+mb|p|mb|2H|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|s9|nt|CORN: le	 2 chez toftof|pg||
 nt|voldenuit: entame une entame difficile |pg||
 pc|s7|nt|voldenuit: mais l'entame @s paraît la moins dangereuse entamer @h est exclus et entamer dans un honneur 3ème sous une dame et un roi avec 12 points d'honneurs est dangereux |pg||
 nt|voldenuit: toffier has to guess now |pg||
@@ -165,7 +165,7 @@ nt|voldenuit: well done |pg||
 pg||
 qx|c7|st||md|1SKT532H52DTCT6532,SQ64H86DAKJ93CAJ8,SJ98HAQ43DQ62CK94,SA7HKJT97D8754CQ7|sv|b|nt|8252:  3 SA - 6 dans l'autre salle, |pg||
 mb|p|mb|1N|nt|8252:  asseviking, comme contratz |pg||
-mb|p|mb|2D|mb|p|mb|2H|mb|p|mb|3N|mb|p|nt|8252:  Lorenzini visualise un paque de levÃ©es en mineure, mais quand meme, le sien n'a pas rÃ©veillÃ© par contre|pg||
+mb|p|mb|2D|mb|p|mb|2H|mb|p|mb|3N|mb|p|nt|8252:	Lorenzini visualise un paque de levÃ©es en mineure, mais quand meme, le sien n'a pas rÃ©veillÃ© par contre|pg||
 mb|p|mb|p|pc|s9|pc|s7|pc|s2|pc|sQ|pg||
 pc|dK|pc|d2|pc|d4|pc|dT|pg||
 pc|dA|pc|d6|nt|8252:  dans l'autre salls, JCQ s'est montrÃ© ambitieux,on va voir si Lorenzini est plus prudent|pg||
@@ -178,7 +178,7 @@ pc|h6|pc|h3|pc|h9|pc|h2|pg||
 pc|hK|pc|c5|nt|8252:  lorenzini, en vieux briscard, fait defausser l'ennemi|pg||
 nt|8252:  toujours bon de faire defausser l'ennemi|pg||
 pc|s6|pc|h4|pg||
-pc|cQ|pc|c6|nt|8252:  Ã§a devrait quand meme s'arreter lÃ |pg||
+pc|cQ|pc|c6|nt|8252:  Ã§a devrait quand meme s'arreter lÃ |pg||
 pc|c8|pc|cK|pg||
 pc|hQ|pc|hT|pc|cT|pc|d3|pg||
 pc|dQ|pc|d7|pc|s5|pc|d9|pg||
@@ -278,9 +278,9 @@ mb|2N!|mb|p|nt|8252:  2 @s @s et mineure|pg||
 nt|8252:  et fouillet ne va pas en croire ses oreilles|pg||
 mb|3N|mb|p|nt|8252:  il vaut mieux avoir parlÃ© de la sÃ©quence|pg||
 nt|8252:  4 @c = le fit forcing, et 4 @d roprosition chez certaines paires|pg||
-mb|p|mb|p|pc|s2|pc|s9|nt|8252:  l'entame @h battait le cheleme|pg||
+mb|p|mb|p|pc|s2|pc|s9|nt|8252:	l'entame @h battait le cheleme|pg||
 nt|8252:  les autres non|pg||
-nt|8252:  vugraphhcc tu es lÃ  ?|pg||
+nt|8252:  vugraphhcc tu es lÃ  ?|pg||
 pc|sA|pc|s7|pg||
 pc|dT|pc|dK|pc|d5|pc|d7|pg||
 pc|sK|pc|s5|pc|sT|pc|s6|pg||
@@ -336,10 +336,10 @@ mc|11|pg||
 qx|c12|st||md|2S84HJ8D874CKT8432,SKT63HA72DAQJT5C5,SAQ5HT943D9632CJ7,SJ972HKQ65DKCAQ96|sv|n|mb|1D|nt|8252:  le SA faible devrait donner du relief a la sÃ©quence|pg||
 mb|p|mb|1H|nt|8252:  contre en nord = la valeur maximale|pg||
 mb|p|nt|8252:  XX 5 eme= presence d'une |pg||
-mb|1S|nt|8252:  une sorte de CONT|pg||
+mb|1S|nt|8252:	une sorte de CONT|pg||
 nt|8252:  DONT|pg||
 nt|poussin:  Bonjour Gilles|pg||
-nt|8252:  olÃ  Gogo|pg||
+nt|8252:  olÃ  Gogo|pg||
 mb|p|mb|2C|mb|p|nt|8252:  qui a introduit le SA faible en Ile de France, il fuat le savoir|pg||
 mb|2H|nt|poussin:  je crois qu'ils jouent XX = deux couleurs|pg||
 nt|8252:  ah oui|pg||
@@ -373,9 +373,9 @@ pc|d3|pc|dQ|pc|d5|pc|d9|pg||
 pc|s3|pc|s4|pc|sA|pc|s6|pg||
 mc|10|pg||
 qx|c13|st||md|3S6HT9DK863CKJ7543,SJ873HA8654DQJ4C8,ST94HJ2DAT5CAT962,SAKQ52HKQ73D972CQ|sv|b|mb|p|mb|1S|mb|p|mb|2N|mb|p|mb|3H|mb|p|mb|4C|nt|poussin:  meme sÃ©quence que dans l'autre salle|pg||
-nt|poussin:  le contrat est ingagnable mais on pourrait s'en sortir Ã  une de chute|pg||
-mb|p|mb|4H|mb|p|mb|p|mb|p|pc|s6|pc|s7|nt|8252:  il vitre faire les 2 levÃ©es de @s|pg||
-nt|poussin:  voilÃ , 5 levÃ©es de Coeur, AR de @d et RD de Pique|pg||
+nt|poussin:  le contrat est ingagnable mais on pourrait s'en sortir Ã  une de chute|pg||
+mb|p|mb|4H|mb|p|mb|p|mb|p|pc|s6|pc|s7|nt|8252:	il vitre faire les 2 levÃ©es de @s|pg||
+nt|poussin:  voilÃ , 5 levÃ©es de Coeur, AR de @d et RD de Pique|pg||
 nt|poussin:  http://www.ffbridge.info/competitions/sel8_2014_O/magiccontestfrance-o.htm for results|pg||
 nt|8252:  je me demande si en ne mettant pas l'as de @s, on fait pas plus de levÃ©es enf lanc, finalement|pg||
 pc|s9|pc|sA|pg||
@@ -383,7 +383,7 @@ pc|hK|pc|h9|pc|h4|pc|h2|pg||
 pc|hQ|pc|hT|pc|h5|pc|hJ|pg||
 pc|s5|pc|c5|pc|sJ|pc|s4|pg||
 pc|s8|nt|poussin:  pas si le dÃ©clarant se rabat sur l'afranchissement des trefles|pg||
-pc|sT|nt|8252:  ah ok|pg||
+pc|sT|nt|8252:	ah ok|pg||
 pc|sK|pc|c3|pg||
 pc|sQ|pc|c4|pc|s3|pc|c2|pg||
 pc|s2|pc|c7|pc|c8|pc|c6|pg||
@@ -416,30 +416,30 @@ nt|poussin:  oui bien sur c'est sa meilleure chance|pg||
 nt|8252:  et aprÃ¨s c'est un 3 de chute|pg||
 mb|p|mb|1S|nt|8252:  bon 2 de chutes ok|pg||
 nt|poussin:  :)|pg||
-mb|p|mb|2N|nt|poussin:  2@h chez Rombaut?|pg||
+mb|p|mb|2N|nt|poussin:	2@h chez Rombaut?|pg||
 nt|poussin:  il joue Ã§a 6 cates 11/14 visiblement|pg||
 nt|vugraphzce: il faut eviter 3 sa|pg||
 nt|poussin:  je croyais qu'il jouait le 2@h bicolore majeur|pg||
-mb|p|mb|3S|nt|poussin:  V/R uniquement me dit-on|pg||
+mb|p|mb|3S|nt|poussin:	V/R uniquement me dit-on|pg||
 nt|vugraphzce: lorenzini alerte 10 14|pg||
 nt|8252:  pkoi Ã§a fait que 9 levÃ©es de l'autre cotÃ© ?|pg||
 nt|vugraphzce: la mauvaise acarreau|pg||
-mb|p|mb|3N|mb|p|mb|4S|nt|8252:  a la mauvaise a @d|pg||
+mb|p|mb|3N|mb|p|mb|4S|nt|8252:	a la mauvaise a @d|pg||
 nt|8252:  ici, c'est rÃ©glÃ©|pg||
 mb|p|nt|poussin:  maintenant il faut encaisser les as noirs sinon 11 levÃ©es|pg||
 mb|p|mb|p|pc|cT|nt|8252:  oui, il va falloir etre vigilant|pg||
-pc|cK|nt|8252:  a bientÃ´t|pg||
+pc|cK|nt|8252:	a bientÃ´t|pg||
 pc|c3|pc|c2|pg||
 pc|s4|pc|s8|pc|sA|pc|s6|pg||
 pc|s2|pc|s9|pc|sJ|pc|sQ|pg||
-nt|8252:  une bonne ou une mauvaise  Ã  @d, pour une ou deux de chute|pg||
+nt|8252:  une bonne ou une mauvaise  Ã	@d, pour une ou deux de chute|pg||
 nt|vugraphzce: la bonne |pg||
 nt|vugraphzce: on joue le valet qui ne couvre pas ave l dame|pg||
 pc|c6|pc|cA|pc|c8|pc|c4|pg||
 pc|s3|pc|sT|pc|sK|pc|d3|pg||
 pc|d6|pc|d5|pc|dT|pc|dQ|pg||
 pc|c9|pc|cQ|pc|c5|pc|c7|pg||
-pc|dJ|nt|8252:  cruel retour, on a bine 1 @d maitre mais on peut pas aller le chercher|pg||
+pc|dJ|nt|8252:	cruel retour, on a bine 1 @d maitre mais on peut pas aller le chercher|pg||
 pc|dA|pc|dK|pc|d2|pg||
 pc|d8|pc|s5|pc|d4|pc|d7|pg||
 mc|8|pg||

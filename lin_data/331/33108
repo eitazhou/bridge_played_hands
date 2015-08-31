@@ -30,7 +30,7 @@ pc|hJ|pc|hA|pc|h6|pc|h2|pg||
 pc|sA|pc|s6|pc|s5|pc|s2|pg||
 pc|s3|pc|s4|pc|sT|pc|s9|pg||
 pc|sQ|pc|dJ|pc|s8|pc|s7|pg||
-nt|8252:  a priori dans l'autre salle on n'a pas toruvÃ© le retour @s, Ã  ce stade|pg||
+nt|8252:  a priori dans l'autre salle on n'a pas toruvÃ© le retour @s, Ã  ce stade|pg||
 nt|8252:  ici Ã§a devrait etre plus naturel, on a vu deux defausses rouges en face, et pas mal de points en Est|pg||
 pc|d8|pc|dA|pc|dQ|pc|d3|pg||
 pc|dT|pc|sJ|pc|d4|pc|d9|pg||
@@ -50,8 +50,8 @@ pc|dK|pc|d5|pc|d7|pc|d8|pg||
 pc|sA|mc|9|pg||
 qx|c3|st||md|1SQ9653HJT54DA7C72,SKT87HA3DT832CQJ6,SAJ2HKQ976DK6CK53,S4H82DQJ954CAT984|sv|e|nt|8252:  ouille|pg||
 mb|p|mb|p|mb|1N|mb|p|mb|2C|mb|p|nt|8252:  X = cachalot = l'encher de 1 @s|pg||
-nt|8252:  et 3 @c rencontre Ã  @h, apres passe|pg||
-mb|2H|mb|p|nt|8252:  et l contre deFouillet montre 3 cartes Ã  @s, dnas un emain agrÃ©able|pg||
+nt|8252:  et 3 @c rencontre Ã  @h, apres passe|pg||
+mb|2H|mb|p|nt|8252:  et l contre deFouillet montre 3 cartes Ã  @s, dnas un emain agrÃ©able|pg||
 nt|8252:  bon, maintenant, il faut dÃ©finir ce qu'est une main agrÃ©able :)|pg||
 mb|p|mb|p|nt|8252:  5 @d est une digne dÃ©fense|pg||
 nt|8252:  dans 300 ou 500|pg||
@@ -185,7 +185,7 @@ pc|sQ|pc|hJ|pc|h3|pc|s8|pg||
 nt|8252:  lorenzini, en vieux briscard, fait defausser l'ennemi|pg||
 nt|8252:  toujours bon de faire defausser l'ennemi|pg||
 pc|h2|pc|hA|pc|h7|pc|hT|pg||
-nt|8252:  Ã§a devrait quand meme s'arreter lÃ |pg||
+nt|8252:  Ã§a devrait quand meme s'arreter lÃ |pg||
 pc|cK|pc|c5|pc|c4|pc|h4|pg||
 mc|8|pg||
 qx|o8|st||md|2SQJ52H3DQT5432CJ8,SA974HK54DA6CK654,SKT8HAQJT96DJCA92,S63H872DK987CQT73|sv|o|mb|1C|mb|1H|mb|p|mb|p|mb|d|mb|2H|mb|3C|mb|p|mb|p|mb|p|pc|dJ|pc|dK|pc|d5|pc|d6|pg||
@@ -266,7 +266,7 @@ mb|1S|nt|CORN: je propose 1@h-2@h-4@h fin|pg||
 nt|fokal: c'est pas prti pour :)|pg||
 mb|p|mb|1N|nt|fluff:  for those not familiar, n-s are prob the best pair in France, and top 10 in the world|pg||
 mb|d|nt|fokal: 2@h  en sud ?|pg||
-mb|2C|nt|8252:  encore beaucoup de levÃ©es dans le camp Nord Sud|pg||
+mb|2C|nt|8252:	encore beaucoup de levÃ©es dans le camp Nord Sud|pg||
 nt|fluff:  levy was multiple world champ in the 90's|pg||
 mb|p|mb|3C|nt|8252:  2 @s @s et mineure|pg||
 nt|8252:  et fouillet ne va pas en croire ses oreilles|pg||
@@ -282,13 +282,13 @@ nt|vugraphzce: il pensait a dire 3 SA |pg||
 nt|fokal: presque :)|pg||
 nt|vugraphzce: peut ete ou 4 @h|pg||
 nt|fokal: avec les @h 2-2 , il aura sa remonté pour faire l'impasse @d|pg||
-mb|p|nt|fluff:  see :)|pg||
-mb|p|nt|fluff:  e-w maybe play that pass of cue says pls lead that suit|pg||
+mb|p|nt|fluff:	see :)|pg||
+mb|p|nt|fluff:	e-w maybe play that pass of cue says pls lead that suit|pg||
 pc|sQ|nt|CORN: le @h8 est une remontée pour l'impasse@d|pg||
 nt|fokal: oui, c'est ce que je pense aussi quentin|pg||
-pc|s2|nt|8252:  l'entame @h battait le cheleme|pg||
+pc|s2|nt|8252:	l'entame @h battait le cheleme|pg||
 nt|8252:  les autres non|pg||
-nt|8252:  vugraphhcc tu es lÃ  ?|pg||
+nt|8252:  vugraphhcc tu es lÃ  ?|pg||
 pc|s4|nt|fokal: notons l'entame de la dame de pique malgré As Roi de @c|pg||
 nt|fokal: un peu intellectuel, mais il doit avoir ses raisons|pg||
 nt|CORN: étrange entame|pg||
@@ -342,7 +342,7 @@ pc|h3|pc|h2|pc|hK|pc|h7|pg||
 nt|CORN: 8@s|pg||
 pc|s8|nt|CORN: 10@d|pg||
 pc|dT|pc|c3|pc|sQ|pg||
-nt|8252:  le reoutr @h aurait assuÃ© un 800, mais lÃ  on va rÃ©duire, si on peut dire, a 500|pg||
+nt|8252:  le reoutr @h aurait assuÃ© un 800, mais lÃ  on va rÃ©duire, si on peut dire, a 500|pg||
 nt|CORN: et @h|pg||
 pc|hA|pc|h8|pc|h4|pc|h6|pg||
 nt|fokal: t'es sûr gilles ?|pg||
@@ -351,7 +351,7 @@ nt|8252:  oui oui|pg||
 nt|fokal: j'ai l'impression que même sur retour @h le déclarant doit pouvoir s'en sortir|pg||
 nt|CORN: a 800|pg||
 nt|8252:  si mauberquez avait jouÃ© @hau lieu de @s, Ã§a aurait fait 800, les uppercut fonctionnaient|pg||
-pc|hT|nt|8252:  lÃ  il faut jouer petite @h, ca fiat 500|pg||
+pc|hT|nt|8252:	lÃ  il faut jouer petite @h, ca fiat 500|pg||
 pc|cA|nt|CORN: bravo|pg||
 pc|d7|pc|h9|pg||
 pc|sA|pc|s6|pc|hJ|pc|c5|pg||
@@ -360,13 +360,13 @@ mc|7|pg||
 qx|c12|st||md|2SJ7HJ976DTCKJ9876,S2HAQT53DAQ9CT532,SAQT3H82DK8632CA4,SK98654HK4DJ754CQ|sv|n|nt|fokal: en revanche la conséquence de cela est que le partenaire doit reparler sur 1SA (par 2@c ou 2SA par exemple) à partir d'un ouverture correct|pg||
 nt|fokal: e|pg||
 nt|fokal: là évidemment, les @d sont 3-3 et il y a V10 de @h secs. Donc on fait 3SA|pg||
-mb|1H|nt|8252:  le SA faible devrait donner du relief a la sÃ©quence|pg||
+mb|1H|nt|8252:	le SA faible devrait donner du relief a la sÃ©quence|pg||
 mb|d|mb|1S|nt|8252:  contre en nord = la valeur maximale|pg||
-mb|2C|nt|8252:  XX 5 eme= presence d'une |pg||
+mb|2C|nt|8252:	XX 5 eme= presence d'une |pg||
 mb|p|nt|8252:  une sorte de CONT|pg||
 nt|8252:  DONT|pg||
 nt|poussin:  Bonjour Gilles|pg||
-nt|8252:  olÃ  Gogo|pg||
+nt|8252:  olÃ  Gogo|pg||
 mb|p|mb|2S|mb|3C|nt|8252:  qui a introduit le SA faible en Ile de France, il fuat le savoir|pg||
 nt|ritong: curieux cas|pg||
 nt|ritong: qui a un souci et pourquoi?|pg||
@@ -378,7 +378,7 @@ mb|p|mb|p|pc|s2|nt|CORN: ça vas pas gagner|pg||
 nt|fokal: volcker contemple le mortet se dit "hum, y a du boulot !|pg||
 nt|CORN: ce n'est pas du boulot ces les travaux d'hercule|pg||
 nt|ritong: il va falloir optimiser la chute|pg||
-pc|sA|nt|8252:  300 contre 600 et queslques, |pg||
+pc|sA|nt|8252:	300 contre 600 et queslques, |pg||
 pc|s6|pc|s7|pg||
 pc|cA|nt|poussin:  "contre les partielles contrÃ©es, entamer atout" est un bon principe|pg||
 nt|8252:  il va s'y rÃ©soudre a jouer atout masi ca va quand meme faire 6 levÃ©es chez Lorenzo|pg||
@@ -398,7 +398,7 @@ pc|h5|pc|h2|pc|hK|pc|h6|pg||
 nt|8252:  il faut refuser de couper le @c|pg||
 pc|sK|pc|sJ|nt|vugraphzce: 6 c de tete|pg||
 pc|h3|pc|s3|pg||
-pc|h4|pc|h7|nt|poussin:  la dÃ©fense doit jouer coupe et dÃ©fausse Ã  un moment|pg||
+pc|h4|pc|h7|nt|poussin:  la dÃ©fense doit jouer coupe et dÃ©fausse Ã  un moment|pg||
 pc|hT|pc|h8|pg||
 pc|hA|pc|d6|nt|8252:  nous y voici|pg||
 pc|d4|pc|h9|pg||
@@ -425,14 +425,14 @@ pc|d8|pc|d4|pc|dK|pc|d9|pg||
 pc|d2|nt|fokal: en nord c'est très dur de jouer @c|pg||
 pc|c3|pc|dA|pc|d5|pg||
 pc|dJ|pc|dQ|pc|d3|mc|9|nt|CORN: égalité|pg||
-nt|8252:  oui, c'est lorenzo qui aurait pu, mais lÃ  aussi c'etait dur|pg||
+nt|8252:  oui, c'est lorenzo qui aurait pu, mais lÃ  aussi c'etait dur|pg||
 nt|fokal: normalement ca commence @h le valer et @h|pg||
 pg||
 qx|c13|st||md|3SJ63HQJ865D9CKT32,SAT95HA932DAJ8CAJ,SQ42HKT74DQ54CQ84,SK87HDKT7632C9765|sv|b|nt|leroumain: :)|pg||
 mb|p|mb|p|mb|p|mb|1D|nt|CORN: j'aurait ouvert d'1@h en 3ème position|pg||
 mb|p|mb|3D|mb|p|nt|CORN: et voilà|pg||
 mb|3N|nt|poussin:  meme sÃ©quence que dans l'autre salle|pg||
-nt|poussin:  le contrat est ingagnable mais on pourrait s'en sortir Ã  une de chute|pg||
+nt|poussin:  le contrat est ingagnable mais on pourrait s'en sortir Ã  une de chute|pg||
 mb|p|nt|fokal: on peu aussi ouvrir de 2 @h d'ailleurs|pg||
 nt|vugraphzce: 5 @d|pg||
 nt|CORN: 2 c charrié|pg||
@@ -448,7 +448,7 @@ nt|vugraphzce: et mtnt on lui joue trèfle|pg||
 pc|c5|pc|hJ|nt|fokal: le retour @c nous ramène au point de départ|pg||
 pc|h2|pg||
 nt|8252:  il vitre faire les 2 levÃ©es de @s|pg||
-nt|poussin:  voilÃ , 5 levÃ©es de Coeur, AR de @d et RD de Pique|pg||
+nt|poussin:  voilÃ , 5 levÃ©es de Coeur, AR de @d et RD de Pique|pg||
 nt|poussin:  http://www.ffbridge.info/competitions/sel8_2014_O/magiccontestfrance-o.htm for results|pg||
 nt|8252:  je me demande si en ne mettant pas l'as de @s, on fait pas plus de levÃ©es enf lanc, finalement|pg||
 pc|h6|nt|CORN: il y a un contre temps à @c|pg||
@@ -519,13 +519,13 @@ nt|CORN: exact|pg||
 nt|CORN: difficile|pg||
 mb|p|mb|p|nt|8252:  bon 2 de chutes ok|pg||
 nt|poussin:  :)|pg||
-mb|1D|mb|p|nt|poussin:  2@h chez Rombaut?|pg||
+mb|1D|mb|p|nt|poussin:	2@h chez Rombaut?|pg||
 nt|poussin:  il joue Ã§a 6 cates 11/14 visiblement|pg||
 nt|vugraphzce: il faut eviter 3 sa|pg||
 nt|poussin:  je croyais qu'il jouait le 2@h bicolore majeur|pg||
 nt|8252:  la  12 a du mal Ãªtre saisie sur le bridge mate|pg||
 nt|CORN: @h|pg||
-mb|1S|mb|p|nt|poussin:  V/R uniquement me dit-on|pg||
+mb|1S|mb|p|nt|poussin:	V/R uniquement me dit-on|pg||
 nt|vugraphzce: lorenzini alerte 10 14|pg||
 nt|8252:  pkoi Ã§a fait que 9 levÃ©es de l'autre cotÃ© ?|pg||
 nt|vugraphzce: la mauvaise acarreau|pg||
@@ -545,7 +545,7 @@ nt|CORN: M doit poser des questions sur le @d d'alain|pg||
 nt|fokal: sinon ou peut dire 2@c en effet, comme quand ou décidé d'ouvrir d'1@d avec avec 5 @c et 4@d :):) |pg||
 mb|3D|mb|p|mb|p|nt|8252:  oui, il va falloir etre vigilant|pg||
 nt|ritong: car il n a pas utilisé 1@d 2@h|pg||
-mb|3H|nt|8252:  a bientÃ´t|pg||
+mb|3H|nt|8252:	a bientÃ´t|pg||
 mb|p|mb|p|mb|p|nt|fokal: oui, tom et michel jouent la sequence 1@d passe 2 @h = 5 @s 4@h 6-9(10)|pg||
 nt|ritong: qui aurait montré 5@s 4@h 7/9, c est ça?|pg||
 nt|ritong: ok|pg||
@@ -553,7 +553,7 @@ pc|s9|pc|sA|pc|sJ|nt|CORN: jamais le 10@c|pg||
 pc|s3|pg||
 nt|ritong: il a joué la règle du 9 de la poisse|pg||
 nt|fokal: je crois qu'ils jouent 2 @h =4+@s4@h à l'ouverture |pg||
-pc|h4|pc|h2|pc|hQ|nt|8252:  une bonne ou une mauvaise  Ã  @d, pour une ou deux de chute|pg||
+pc|h4|pc|h2|pc|hQ|nt|8252:  une bonne ou une mauvaise  Ã  @d, pour une ou deux de chute|pg||
 nt|vugraphzce: la bonne |pg||
 nt|vugraphzce: on joue le valet qui ne couvre pas ave l dame|pg||
 pc|hK|pg||
