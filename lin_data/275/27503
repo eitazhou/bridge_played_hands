@@ -4,8 +4,8 @@ pn|Ellingsen,Jepsen E,Eide,Bilde D,Thomsen S,Skjetne,Jepsen R,Grude|pg||
 qx|o1|st||md|3ST6HK86DKQJ742C95,SAJ983HA95D63CQJ3,SKQ5HJ432DA95CK87,S742HQT7DT8CAT642|sv|o|nt|pelu:  yes - agree with 119 kibs: @D from Bilde best chance|pg||
 mb|1C|mb|p|mb|1S!|an|6-9NT or !d|mb|p|mb|1N|mb|p|mb|2C|an|XY|nt|OleBerg:  here 1@S has a preemptive valu|pg||
 nt|pelu:  1@s = 6-9 no major|pg||
-mb|p|mb|2D|mb|p|mb|3D|mb|p|nt|OleBerg:  West cannot bid 1@H, and a double may not be as clear as a 1@S-overcall|pg||
-mb|3N|mb|p|mb|p|mb|p|pc|c4|nt|OleBerg:  Fourth in your longest and strongest|pg||
+mb|p|mb|2D|mb|p|mb|3D|mb|p|nt|OleBerg:	West cannot bid 1@H, and a double may not be as clear as a 1@S-overcall|pg||
+mb|3N|mb|p|mb|p|mb|p|pc|c4|nt|OleBerg:	Fourth in your longest and strongest|pg||
 pc|c5|pc|cJ|pc|cK|pg||
 pc|d5|pc|d8|pc|dK|pc|d3|pg||
 pc|s6|pc|s3|pc|sK|pc|s7|pg||
@@ -41,13 +41,13 @@ pc|s8|pc|sQ|pc|s7|pc|h6|pg||
 pc|h2|pc|h7|pc|hK|pc|hA|pg||
 pc|h9|pc|h3|pc|hT|pc|h8|pg||
 mc|8|pg||
-qx|o2|st||md|4SQ95HAT643DJCAJT2,ST876H87DK962CQ54,SJ432H5DT753C9863,SAKHKQJ92DAQ84CK7|sv|n|nt|OleBerg:  In the end, the discards were easy for East. Partner simply needed to hold the two aces to beat it.|pg||
+qx|o2|st||md|4SQ95HAT643DJCAJT2,ST876H87DK962CQ54,SJ432H5DT753C9863,SAKHKQJ92DAQ84CK7|sv|n|nt|OleBerg:	In the end, the discards were easy for East. Partner simply needed to hold the two aces to beat it.|pg||
 mb|2C!|mb|p|mb|2D!|mb|p|mb|2H|mb|p|nt|pelu:  3NT a make on a @h-lead|pg||
 nt|OleBerg:  But funnier for NS to be -1 in 3NT, than to be -1 in 3@D :)|pg||
 mb|2S!|mb|p|nt|pelu:  ?? 5@d|pg||
 mb|2N|mb|p|mb|3N|mb|p|mb|p|mb|p|nt|pelu:  2NT = 24-26|pg||
 nt|OleBerg:  Somewhat an overbid, but the hand contains a lot of tricks (expecting hearts to come in)|pg||
-pc|cJ|nt|pelu:  2@H was not alerted - I exp that 2@h-2@S = Kokish - realays to 2NT|pg||
+pc|cJ|nt|pelu:	2@H was not alerted - I exp that 2@h-2@S = Kokish - realays to 2NT|pg||
 nt|vugraphzbf: 2@h nat|pg||
 nt|OleBerg:  Interesting lead (and strange)|pg||
 nt|OleBerg:  Well, strange in my book|pg||
@@ -64,14 +64,14 @@ pc|sA|pc|sQ|pc|s6|pc|s2|pg||
 pc|sK|pc|hT|pc|s7|pc|s3|pg||
 pc|h2|pc|hA|pc|s8|pc|c3|pg||
 mc|10|pg||
-qx|c2|st||md|4SQ95HAT643DJCAJT2,ST876H87DK962CQ54,SJ432H5DT753C9863,SAKHKQJ92DAQ84CK7|sv|n|nt|kaystra:  it should be an exciting finish !|pg||
+qx|c2|st||md|4SQ95HAT643DJCAJT2,ST876H87DK962CQ54,SJ432H5DT753C9863,SAKHKQJ92DAQ84CK7|sv|n|nt|kaystra:	it should be an exciting finish !|pg||
 mb|2C|nt|vugraphzbg: Running scores in all finals found here: http://bridge.no/var/ruter/html/9901/2013-03-30.htm|pg||
 mb|p|mb|2D|mb|p|mb|2H|mb|p|mb|2N|mb|p|nt|STRIK3R: Grude choosed to show his hand as a unbalanced hand with 22+ hcp|pg||
 nt|STRIK3R: according to their cc|pg||
 mb|3D|mb|p|mb|4D|mb|p|nt|kaystra:  looking at e-w cards 6@d looks fine, but the breaks int the reds dooms it|pg||
 nt|STRIK3R: 3NT will be safe on a none @c lead, 5@d will go down on a @h lead it seem|pg||
 nt|kaystra:  srry 5 @d :)|pg||
-mb|4N|mb|p|nt|kaystra:  on their way now|pg||
+mb|4N|mb|p|nt|kaystra:	on their way now|pg||
 nt|STRIK3R: 3NT will be safe no matter lead|pg||
 nt|STRIK3R: sorry|pg||
 nt|kaystra:  commentators curse|pg||
@@ -147,7 +147,7 @@ nt|STRIK3R: true Kay|pg||
 nt|STRIK3R: my fault |pg||
 pc|h3|pc|h5|pc|hK|pg||
 pc|d2|pc|d6|pc|d9|pc|dJ|pg||
-nt|kaystra:  so, 11 imps to denmark on  2, they found the safe  3nt|pg||
+nt|kaystra:  so, 11 imps to denmark on	2, they found the safe	3nt|pg||
 nt|kaystra:  club now ?|pg||
 pc|h4|pc|h2|pc|h6|pc|h7|pg||
 pc|d3|pc|d5|pc|dA|pc|d4|pg||
@@ -163,10 +163,10 @@ pc|cJ|pc|c4|pc|s4|pc|cQ|pg||
 pc|sA|pc|s2|pc|s5|pc|s6|pg||
 mc|8|nt|kaystra:  1 back on  3 when they played 4@h in open|pg||
 pg||
-qx|o5|st||md|3SQJ72HAKT74D43CQ8,ST4HQ53DQJT82C742,SAK3HJ82DK975CA65,S9865H96DA6CKJT93|sv|n|nt|OleBerg:  Lars and his current partner Martin has lots of gadgets|pg||
+qx|o5|st||md|3SQJ72HAKT74D43CQ8,ST4HQ53DQJT82C742,SAK3HJ82DK975CA65,S9865H96DA6CKJT93|sv|n|nt|OleBerg:	Lars and his current partner Martin has lots of gadgets|pg||
 nt|OleBerg:  Sorry, private|pg||
 mb|1N|mb|p|nt|pelu:  so DEN 18 IMP up, but remember that Norway has 2 possible wins in "the box" (B 13+14)|pg||
-mb|2C!|mb|p|mb|2D!|nt|OleBerg:  Ok, bid 2@D for the lead|pg||
+mb|2C!|mb|p|mb|2D!|nt|OleBerg:	Ok, bid 2@D for the lead|pg||
 mb|p|mb|3S!|an|4!s, 5!h, GF|nt|OleBerg:  Well, for the lead vs NT :)|pg||
 mb|p|mb|4H|mb|p|mb|p|mb|p|pc|dA|pc|d3|pc|dQ|pc|d5|pg||
 nt|pelu:  looks like a misunderstanding in CR . over 3@S N forgot that S has 5 card @H and bid 4@s|pg||
@@ -176,7 +176,7 @@ nt|pelu:  No Ole - the line for 500 kibs but not at the table|pg||
 pc|h9|pc|hA|pc|h5|pc|h2|pg||
 nt|OleBerg:  Cant see any dangers in playing clubs first, large enough to make me refrain|pg||
 pc|hK|pc|h3|pc|h8|pc|h6|pg||
-pc|d4|nt|pelu:  I hate to play ungarded A'es|pg||
+pc|d4|nt|pelu:	I hate to play ungarded A'es|pg||
 pc|dT|pc|dK|pc|d6|pg||
 pc|d7|pc|c3|pc|h4|pc|d8|pg||
 pc|s2|pc|s4|nt|OleBerg:  On a spade lead, declarer takes it in hand, and lead a club towards dummy|pg||
@@ -196,7 +196,7 @@ nt|STRIK3R: shwoing GF values and 4@s and 5@H|pg||
 nt|STRIK3R: *Showing|pg||
 nt|kaystra:  so north should bid 4h with almost no values in the minors|pg||
 nt|sverjohn: Grude will have to lead a major suit to beat 4h by north|pg||
-mb|4S|mb|p|mb|p|mb|p|pc|dQ|nt|kaystra:  hmmm|pg||
+mb|4S|mb|p|mb|p|mb|p|pc|dQ|nt|kaystra:	hmmm|pg||
 nt|STRIK3R: was just about to say that North could be thinking of 4@s so he have @h suit to discard minor cards|pg||
 pc|d5|pc|d6|pc|d4|pg||
 nt|kaystra:  well that could be right , but minor ruffs will be taken in the s hand|pg||
@@ -219,7 +219,7 @@ nt|vugraphzbg: 4@h makeable by ducking @Ds twice. not a normal line of play thou
 pc|hJ|pc|h6|pc|h4|pc|hQ|pg||
 pc|h5|pc|h8|pc|s8|pc|h7|pg||
 mc|8|pg||
-qx|o6|st||md|4SATHJT5432DK96CT5,SJHKQ86DAT875CK87,SK98653HDQJ42CQJ3,SQ742HA97D3CA9642|sv|e|nt|OleBerg:  East can the rise with the @Cking, and play more spades, severing communications. But it is still worth a try.|pg||
+qx|o6|st||md|4SATHJT5432DK96CT5,SJHKQ86DAT875CK87,SK98653HDQJ42CQJ3,SQ742HA97D3CA9642|sv|e|nt|OleBerg:	East can the rise with the @Cking, and play more spades, severing communications. But it is still worth a try.|pg||
 mb|p|mb|2H!|an|8-11 6!h|mb|p|mb|p|nt|OleBerg:  EW has 8 tricks in NT. And when there is 8, there is nine. :)|pg||
 nt|OleBerg:  A double and a pass would come in handy, but not realy that realistic|pg||
 nt|OleBerg:  And they may run to 2@S|pg||
@@ -245,7 +245,7 @@ pc|h3|pc|h8|pc|s6|pc|c6|pg||
 mc|4|nt|vugraphzbf: short toilet break|pg||
 nt|OleBerg:  But I don't have to go again. :)|pg||
 pg||
-qx|c6|st||md|4SATHJT5432DK96CT5,SJHKQ86DAT875CK87,SK98653HDQJ42CQJ3,SQ742HA97D3CA9642|sv|e|nt|kaystra:  well 4h would be played by n, so grude would need to lead a major not to give it away then|pg||
+qx|c6|st||md|4SATHJT5432DK96CT5,SJHKQ86DAT875CK87,SK98653HDQJ42CQJ3,SQ742HA97D3CA9642|sv|e|nt|kaystra:	well 4h would be played by n, so grude would need to lead a major not to give it away then|pg||
 nt|vugraphzbg: NS arguing about 3@S bid. Don't think they agreed on anything. But N definately assumed S had 5@S and 4@H|pg||
 mb|p|mb|2H|mb|p|mb|p|mb|p|nt|kaystra:  so south played smolen and north did not. shld think they had an agreement on this ?|pg||
 nt|STRIK3R: their cc is rather "blanc" after 1NT opening, stayman/transfer, 2@s=minors GF is what it state|pg||
@@ -299,7 +299,7 @@ pc|h9|pc|hA|pc|s3|pc|h8|pg||
 pc|d5|nt|OleBerg:  Unless he exits in diamonds|pg||
 pc|dA|pc|d9|pc|d3|pg||
 pc|s6|pc|s2|mc|7|pg||
-qx|c7|st||md|1SA763HK3DA87CQJ98,S52H865DQT964CKT3,SQT8HJT974DK32CA5,SKJ94HAQ2DJ5C7642|sv|b|nt|kaystra:  even with a passed pd ?|pg||
+qx|c7|st||md|1SA763HK3DA87CQJ98,S52H865DQT964CKT3,SQT8HJT974DK32CA5,SKJ94HAQ2DJ5C7642|sv|b|nt|kaystra:	even with a passed pd ?|pg||
 mb|1C|mb|p|mb|1H|mb|p|mb|1N|mb|p|nt|LarsArthur: @sAxx @hxxxx @dKxx @cKxx and game is reasonable|pg||
 mb|2C|mb|p|mb|2D|mb|p|mb|2H|nt|vugraphzbg: this is xyNT|pg||
 nt|STRIK3R: N/S using xy NT|pg||
@@ -327,12 +327,12 @@ pc|cQ|pc|cK|pc|cA|pg||
 pc|hT|pc|hQ|pc|s3|pc|h8|pg||
 nt|kaystra:  well played for 9|pg||
 pc|sK|pc|sA|pc|s2|pc|s8|pg||
-nt|kaystra:  norway also played 2@h on   6! for a push|pg||
+nt|kaystra:  norway also played 2@h on	 6! for a push|pg||
 pc|s7|pc|s5|pc|sT|pc|sJ|pg||
 mc|9|pg||
 qx|o8|st||md|2SQJ983HK5DK9CAK54,ST654HJ93DJ863C93,SA7HAQ842DAT742CQ,SK2HT76DQ5CJT8762|sv|o|nt|ritong: 7 comparisons left|pg||
 nt|ritong: and a big board here|pg||
-mb|p|mb|1H|mb|p|mb|1S|mb|p|nt|OleBerg:  6NT seems fair, and is a winner.|pg||
+mb|p|mb|1H|mb|p|mb|1S|mb|p|nt|OleBerg:	6NT seems fair, and is a winner.|pg||
 mb|2D|mb|p|nt|ritong: 16 and 16 always tough|pg||
 mb|3N|mb|p|mb|p|nt|ritong: no one has really enough material to go on|pg||
 mb|p|nt|ritong: although i find 3NT quite wild there|pg||
@@ -373,7 +373,7 @@ mb|3D|nt|ritong: i don t like trump xxx|pg||
 mb|p|nt|OleBerg:  To strong for 2@H in my book, unless they play something like "Immidiate drury"|pg||
 nt|ritong: let s make it " supermax"|pg||
 mb|3H|mb|p|mb|p|mb|p|nt|OleBerg:  2@H = 8-11, I am informed, which makes it fair|pg||
-pc|s4|nt|pelu:  2@D = @h and 3-7|pg||
+pc|s4|nt|pelu:	2@D = @h and 3-7|pg||
 nt|vugraphzbf: and XX max for a good raise|pg||
 pc|sA|pc|sQ|pc|s3|pg||
 pc|s2|pc|sT|pc|s6|pc|sK|pg||
@@ -393,7 +393,7 @@ nt|OleBerg:  No, but I think so|pg||
 pc|h8|pc|cK|pc|c3|pg||
 pc|hK|pc|c2|pc|hT|pc|h6|pg||
 mc|8|pg||
-qx|c9|st||md|3SA2HT73D963CAQ753,SQJT7HQJ64DKQ8C84,S963HAK985DA754C9,SK854H2DJT2CKJT62|sv|e|nt|kaystra:  depends on agreement i guess, but this should be strong in most partnerships|pg||
+qx|c9|st||md|3SA2HT73D963CAQ753,SQJT7HQJ64DKQ8C84,S963HAK985DA754C9,SK854H2DJT2CKJT62|sv|e|nt|kaystra:	depends on agreement i guess, but this should be strong in most partnerships|pg||
 nt|kaystra:  knowing no good fits, 3nt should be enough|pg||
 mb|1H|mb|p|nt|sverjohn: Norway in 1NT on hand 7 so Denmark  will gain 10 imp. Maybe Norway can strike back on 8|pg||
 mb|2H|mb|p|mb|p|mb|p|nt|kaystra:  down 15 with just 7 boards left they certainly need something good to happen|pg||
