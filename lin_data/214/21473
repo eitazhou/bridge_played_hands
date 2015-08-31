@@ -1,4 +1,4 @@
-vg|A World Mind Games 2011,Women Final  S2_3,I,17,32,USA,58,GREAT BRITAIN ,27|
+vg|A World Mind Games 2011,Women Final	S2_3,I,17,32,USA,58,GREAT BRITAIN ,27|
 rs|1NN-1,1NN-1,3NE+1,3NE+1,4SE+1,3NW+3,1NW=,3NW-1,3NN=,3NN=,4SN-1,2DEx=,2DW-1,1DW+1,5SWx-1,5SEx-2,4HN+1,4HN+1,2DE=,2SW=,4SE+2,4SW+2,2SW-1,4CW-2,4SE=,4SE+1,3HW=,4HE=,6DW=,4DW+2,5CS-3,4SN-1|
 pn|SEAMON MOL,DHONDY Hea,SOKOLOW To,SENIOR Nev,SMITH Nico,DEAS Lynn,BROCK Sara,PALMER Mar|pg||
 qx|o17|st||md|3ST4H987D7642CQ953,SK7HJ652DK853CT87,SA95HAKT3DAQ9CJ64,SQJ8632HQ4DJTCAK2|sv|o|mb|1C|mb|1S|mb|p|mb|p|mb|1N|mb|p|mb|p|mb|p|pc|sQ|pc|s4|pc|sK|pc|sA|pg||
@@ -157,7 +157,7 @@ nt|marlowepi: S fell from grace. should play spade honor under ace|pg||
 pc|hJ|pc|hT|pc|h5|pc|hK|pg||
 pc|d9|mc|8|nt|marlowepi: make declarer think she has guessed right and is about to get a big score|pg||
 pg||
-qx|o21|st||md|3SAQ8H8742DA43CQ84,ST542HTDJ9865C765,SJ76HAK95DKT7CAJ2,SK93HQJ63DQ2CKT93|sv|n|mb|1N|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|h3|nt|penseur9:  what will the lead be here? a @H yes|pg||
+qx|o21|st||md|3SAQ8H8742DA43CQ84,ST542HTDJ9865C765,SJ76HAK95DKT7CAJ2,SK93HQJ63DQ2CKT93|sv|n|mb|1N|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|h3|nt|penseur9:	what will the lead be here? a @H yes|pg||
 pc|h2|pc|hT|pc|hK|pg||
 pc|s7|pc|s3|pc|sQ|pc|s2|pg||
 pc|c4|pc|c7|pc|cJ|pc|cK|pg||
@@ -168,7 +168,7 @@ pc|d7|pc|d2|pc|dA|pc|d6|pg||
 pc|d3|pc|d8|pc|dT|pc|dQ|pg||
 pc|c9|pc|d4|pc|d5|pc|h5|pg||
 nt|penseur9:  will he try @S9 here?|pg||
-pc|sK|pc|sA|pc|s4|nt|penseur9:  she sorry|pg||
+pc|sK|pc|sA|pc|s4|nt|penseur9:	she sorry|pg||
 pc|s6|pg||
 pc|s8|pc|s5|pc|sJ|pc|s9|pg||
 pc|dK|pc|h6|pc|h4|pc|d9|pg||
@@ -372,7 +372,7 @@ nt|marlowepi: not that she would necessarily get it right with more thought|pg||
 mc|9|pg||
 qx|o25|st||md|3SK83HK53DQJ4CA532,SQ94HJ864DAT76CQ6,SJT72HAQT972DCKJ8,SA65HDK98532CT974|sv|e|nt|penseur9:  sems a good sacrifice|pg||
 mb|1H|mb|p|mb|2C|nt|penseur9:  4@H seems to make N/S here|pg||
-mb|p|mb|2H|mb|p|mb|3H|mb|p|mb|3N!|mb|p|mb|4H|mb|p|mb|p|mb|p|pc|d5|nt|penseur9:  should make but has to be carreful|pg||
+mb|p|mb|2H|mb|p|mb|3H|mb|p|mb|3N!|mb|p|mb|4H|mb|p|mb|p|mb|p|pc|d5|nt|penseur9:	should make but has to be carreful|pg||
 pc|dQ|pc|dA|pc|h2|pg||
 pc|hA|pc|d9|pc|h3|pc|h4|pg||
 pc|h7|pc|d2|pc|hK|pc|h6|pg||
@@ -516,7 +516,7 @@ pc|d9|pc|d5|pc|dK|pc|dA|pg||
 pc|cA|pc|cQ|pc|c7|pc|c3|pg||
 pc|c2|pc|c6|pc|cK|pc|c8|pg||
 mc|10|pg||
-qx|c29|st||md|3SJ85HQ73D7542CK74,S763HAKT6DKQ6CJ83,SH942DAJT83CAT952,SAKQT942HJ85D9CQ6|sv|b|mb|p|mb|1S|mb|p|mb|2C!|mb|2D|nt|sybarra: hi Steve,  welcome|pg||
+qx|c29|st||md|3SJ85HQ73D7542CK74,S763HAKT6DKQ6CJ83,SH942DAJT83CAT952,SAKQT942HJ85D9CQ6|sv|b|mb|p|mb|1S|mb|p|mb|2C!|mb|2D|nt|sybarra: hi Steve,	welcome|pg||
 nt|kiwi_joker: hi shirley|pg||
 nt|sybarra: wonder what 1 nt was |pg||
 nt|kiwi_joker: That was a great effort by declarer on the previous ..kinda sums up the way the whole segment's gone.|pg||
@@ -547,7 +547,7 @@ mb|d|mb|2C|mb|2H|mb|p|mb|4H|nt|bernix: north has no clue that partner has a good
 nt|sybarra: not easy with N hand |pg||
 nt|sybarra: yuk |pg||
 nt|kiwi_joker: 1@C opening and so @D contract will be played from the other side.|pg||
-mb|p|nt|sybarra: pass,  1 sp and pass |pg||
+mb|p|nt|sybarra: pass,	1 sp and pass |pg||
 mb|p|nt|kiwi_joker: No, North not out of it yet.|pg||
 mb|p|nt|sybarra: and then back in the @D bye e/w |pg||
 nt|sybarra: oh well what do we know |pg||
@@ -577,7 +577,7 @@ pc|c4|pc|c2|pc|c9|pc|cQ|pg||
 pc|d5|pc|d8|pc|dQ|pc|d4|pg||
 mc|12|nt|penseur9:  quick claim comming|pg||
 pg||
-qx|c31|st||md|1SKQT42HK432D43C93,SAHJ75DAKT9765CQ7,SJ96HAQ986DJ8C654,S8753HTDQ2CAKJT82|sv|n|mb|p|mb|1D!|mb|1H|nt|sybarra: I have known n/s here for some time,  and neat young guys,  playing very well  |pg||
+qx|c31|st||md|1SKQT42HK432D43C93,SAHJ75DAKT9765CQ7,SJ96HAQ986DJ8C654,S8753HTDQ2CAKJT82|sv|n|mb|p|mb|1D!|mb|1H|nt|sybarra: I have known n/s here for some time,	and neat young guys,  playing very well  |pg||
 mb|1S|mb|3D!|mb|4D|nt|bernix: a 20/20 deal usually leads to a partscore battle (or a pass-out)|pg||
 nt|sybarra: this would not be everyones choice to open 2 @S |pg||
 mb|p|mb|p|mb|p|pc|hA|nt|bernix: with no long suits this will be passed out on 1-level|pg||
@@ -615,7 +615,7 @@ nt|jaapfr: true specs 3nt has more chance here (but too DD for me not to be in 4
 pc|d4|nt|ahollan1: i don't know their response structure :(|pg||
 pc|d3|pc|dA|pc|s2|pg||
 nt|bernix: this has no play now|pg||
-nt|sybarra: undoubled,   "only 50's"\\|pg||
+nt|sybarra: undoubled,	 "only 50's"\\|pg||
 nt|ahollan1: even better    other room was also minus|pg||
 nt|sybarra: yep |pg||
 nt|jaapfr: this first session usa pretty unlucky as well imo (not only the Dutch were so strong)|pg||
