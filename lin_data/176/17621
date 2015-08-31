@@ -11,7 +11,7 @@ mc|9|pg||
 qx|c2|st||md|4S9HQJ72DT4CAK9752,SA3HAT654DAKQ32CJ,SKQJ84HK98DJ9CT83,ST7652H3D8765CQ64|sv|n|nt|cmule: »¶Ó­´ó¼Ò¹Û¿´¡°¹ã¶«ÇÅÅÆ¾ãÀÖ²¿¾«Ó¢Èü¡±|pg||
 mb|p|mb|2C|nt|cmule: ±ÕÊÒÄÏ±±·½Ê¹ÓÃ¾«È·½ÐÅÆ·¨£¬¶«Î÷Ê¹ÓÃ¶þ¸ÇÒ»ÌåÏµ|pg||
 mb|d|mb|r|mb|2S|mb|p|nt|wwy0813:    Î÷Ñ¡Ôñ¼Ó±¶³öÌ×   ÕâÒ²Ðí³öÊÂ|pg||
-mb|3H|mb|p|nt|wwy0813:    ÏÖÔÚËûÃ÷ÖÇµÄ°ì·¨±¾À´ÊÇ½Ð3D |pg||
+mb|3H|mb|p|nt|wwy0813:	  ÏÖÔÚËûÃ÷ÖÇµÄ°ì·¨±¾À´ÊÇ½Ð3D |pg||
 mb|p|mb|d|mb|p|mb|p|mb|p|pc|c3|pc|c4|pc|cK|pc|cJ|pg||
 pc|s9|nt|cmule: ¿ªÊÒÏàÍ¬µÄ½ÐÅÆ½ø³Ì£¬ÓÉÎ÷¼ÒÖ÷´ò3H-4|pg||
 pc|sA|nt|wwy0813: ¶Ô·½ÔÙ¼Ó±¶±íÊ¾Ç¿ÅÆÒÔºó   ËûÓ¦¸ÃÑ¡Ôñ´òÒ»¸ö±È½ÏÇ¿µÄ»¨É«. ºÃÔÚ3HÃ»±»¼Ó±¶|pg||
@@ -25,8 +25,8 @@ pc|dK|pc|dJ|pc|d7|pc|dT|pg||
 pc|dQ|pc|hK|pc|d8|pc|c2|pg||
 nt|cmule: ÏÖÔÚÎ÷¼ÒÖ÷´ò3HX£¬ÁíÒ»×ÀÓÉÈ´ÊÇÓÉÄÏ¼ÒÖ÷´ò3H|pg||
 mc|6|pg||
-qx|c3|st||md|1SKQ98H62DKQ985CAT,SAJ4HKQ95DJ73CQ96,S52HA874D4CKJ7532,ST763HJT3DAT62C84|sv|e|nt|wwy0813:   Å¶  »¹ÊÇ±»¼Ó±¶ÁË  |pg||
-mb|1D|mb|p|mb|1H|mb|p|mb|1S|mb|p|nt|wwy0813:     Èç¹ûÃ»ÓÐÔÙ¼Ó±¶   ½Ð3HÊÇÕý³£µÄ  ±»ÔÙ¼Ó±¶ÒÔºó  3D±È3H°²È«|pg||
+qx|c3|st||md|1SKQ98H62DKQ985CAT,SAJ4HKQ95DJ73CQ96,S52HA874D4CKJ7532,ST763HJT3DAT62C84|sv|e|nt|wwy0813:	 Å¶  »¹ÊÇ±»¼Ó±¶ÁË  |pg||
+mb|1D|mb|p|mb|1H|mb|p|mb|1S|mb|p|nt|wwy0813:	 Èç¹ûÃ»ÓÐÔÙ¼Ó±¶   ½Ð3HÊÇÕý³£µÄ	±»ÔÙ¼Ó±¶ÒÔºó  3D±È3H°²È«|pg||
 mb|1N|mb|p|mb|2D|mb|p|mb|p|mb|p|nt|wwy0813: ¾²ÐñµÄ2DÊ®·ÖÖµµÃ»³ÒÉ.|pg||
 pc|hK|pc|hA|pc|h3|pc|h2|pg||
 pc|s2|pc|s6|pc|s8|pc|sA|pg||
@@ -66,7 +66,7 @@ pc|h5|pc|h7|nt|kiwibridge: 3@H was X's on 2 but only 500 vs the 400 here|pg||
 mc|10|nt|patricck: yes 3NT would be very awkward if the Q@D turned out not to be an entry to the long hearts|pg||
 pg||
 qx|c4|st||md|2SKQJT852HA7D2CQT2,S3HKT864DAJT5C965,S76H32DK9843CAKJ8,SA94HQJ95DQ76C743|sv|b|mb|p|mb|p|mb|p|mb|3S|nt|wwy0813:  ²»ÉÙ±±¼Ò»á¿ª1D |pg||
-mb|p|mb|4S|mb|p|mb|p|mb|p|pc|c5|pc|c8|pc|c3|nt|wwy0813: µÚ4¼ÒµÄ3ºÚÌÒ¿ª½Ð  ÕâÅÆ»¹ÊÇ±È½Ï±ê×¼µÄ    ¿ª½ÐÊµÁ¦ÒÔ¼°Ïàµ±ºÃµÄ7ÕÅÌ×|pg||
+mb|p|mb|4S|mb|p|mb|p|mb|p|pc|c5|pc|c8|pc|c3|nt|wwy0813: µÚ4¼ÒµÄ3ºÚÌÒ¿ª½Ð  ÕâÅÆ»¹ÊÇ±È½Ï±ê×¼µÄ	¿ª½ÐÊµÁ¦ÒÔ¼°Ïàµ±ºÃµÄ7ÕÅÌ×|pg||
 pc|cT|pg||
 pc|sK|pc|s3|pc|s6|pc|sA|pg||
 pc|hQ|pc|hA|pc|h4|pc|h2|pg||
@@ -111,7 +111,7 @@ nt|suketbombi: worried of @C ruf declerar refuses to finese @S and plays it safe
 pc|d2|pc|dQ|nt|suketbombi: press the claim Button pl operator|pg||
 pc|s7|pc|h5|pg||
 nt|hawe45: - or...?|pg||
-mc|7|nt|andyv:  that play is hard to follow|pg||
+mc|7|nt|andyv:	that play is hard to follow|pg||
 pg||
 qx|c5|st||md|3SQ974HQJ9D74CJ932,SJTHKT852DJ5CQT86,S85HA74DAK982CK75,SAK632H63DQT63CA4|sv|n|mb|1N|mb|2S!|mb|p|mb|p|mb|p|pc|hQ|pc|h2|nt|cmule: 2S´øÒ»µÍ»¨ºó£¬H¶¨Ô¼¼¸ºõ²»¿ÉÄÜÕÒµ½|pg||
 pc|h4|pc|h3|pg||
@@ -119,7 +119,7 @@ pc|s4|pc|sT|pc|s5|pc|s2|pg||
 pc|sJ|pc|s8|pc|s3|pc|sQ|pg||
 pc|d7|pc|d5|pc|dK|pc|d3|pg||
 pc|dA|pc|d6|pc|d4|pc|dJ|pg||
-pc|d9|pc|dT|pc|s7|nt|wwy0813:    ¹À¼Æ¿´ÎÞ¾ÖÕù½ÐÁË2S    5422²»ÊÇÀíÏëµÄÐÎ×´|pg||
+pc|d9|pc|dT|pc|s7|nt|wwy0813:	 ¹À¼Æ¿´ÎÞ¾ÖÕù½ÐÁË2S    5422²»ÊÇÀíÏëµÄÐÎ×´|pg||
 pc|h5|pg||
 mc|6|pg||
 qx|o6|st||md|4S32HJT732DT75CAKQ,SAQ74HK8DAQJ6CT53,SJT6HQ954D42CJ964,SK985HA6DK983C872|sv|e|mb|p|nt|hawe45: I learned in 1975 in Munich: One down is good bridge - but nott HERE...|pg||
@@ -198,7 +198,7 @@ nt|snorre: kan nesten ikke passe. Har vist 11hp og har 16...|pg||
 nt|skjaeran:  han har ikke nok ekstra til Ã¥ gÃ¥ videre etter min mening|pg||
 nt|bmbkno: Altså, loven sier at når Geir eller jeg hopper til 3NT i en slik sekvens er det bare pass som gjelder om du ikke har en ekstremhånd og det har han ikke :)|pg||
 nt|hawe45: 3 @H X on a trump-lead - count your losers, if |pg||
-mb|p|mb|p|nt|skjaeran:  5@c nÃ¥?|pg||
+mb|p|mb|p|nt|skjaeran:	5@c nÃ¥?|pg||
 pc|cA|nt|andyv:  how did N's hand improve so much to compete at the 3 level?|pg||
 nt|hawe45: Best defence against 4 ! must be @C to the King and SMALL @C back, which is impossible to find|pg||
 pc|c8|pc|c6|pc|c7|pg||
@@ -207,7 +207,7 @@ nt|Walddk2: Ikke lett at kontrollere meldingerne med de hender|pg||
 nt|hawe45: Sorry - now small@C|pg||
 nt|hawe45: But North will play @H - I bet|pg||
 nt|hawe45: One danish crown|pg||
-pc|d8|nt|snorre: som jeg sa...  Fort gjort å rote seg bort på slike spill|pg||
+pc|d8|nt|snorre: som jeg sa...	Fort gjort å rote seg bort på slike spill|pg||
 nt|jbgood: må være på flyet til Trondheim det, PO|pg||
 nt|Walddk2: Kanskje man skal melde 2@C første gang|pg||
 nt|po-s: absolut|pg||
@@ -281,7 +281,7 @@ pc|sT|pg||
 pc|h3|pc|h9|pc|hQ|pc|h5|pg||
 pc|hA|pc|h2|pc|hT|pc|hK|pg||
 mc|11|pg||
-qx|c8|st||md|2SK942HAQJ864DCJ82,SA873H52DK32C7654,SQ6HT73DQT974CAQ9,SJT5HK9DAJ865CKT3|sv|o|mb|p|mb|p|mb|1D|mb|1H|mb|d|mb|2H|mb|p|nt|wwy0813:     ±±´óÖÂ2D  Ò²Ðí±£ÊØµÄ2H|pg||
+qx|c8|st||md|2SK942HAQJ864DCJ82,SA873H52DK32C7654,SQ6HT73DQT974CAQ9,SJT5HK9DAJ865CKT3|sv|o|mb|p|mb|p|mb|1D|mb|1H|mb|d|mb|2H|mb|p|nt|wwy0813:	 ±±´óÖÂ2D  Ò²Ðí±£ÊØµÄ2H|pg||
 mb|3H|nt|wwy0813: ¿´ÆðÀ´±±ÈÏÎªDµã·ÑÁË|pg||
 mb|p|mb|3N|mb|p|mb|4H|mb|p|mb|p|mb|p|pc|d2|pc|d4|nt|wwy0813:   ÄÏÈç¹ûÔÚ2HÒÔºó½Ð2S Ó¦¸Ã¸üÈÝÒ×½Ðµ½¾Ö|pg||
 pc|dA|pc|h4|pg||
@@ -304,7 +304,7 @@ nt|andyv:  and a pretty strong one|pg||
 mb|p|nt|Walddk2: 4@H next door|pg||
 nt|rnmalik: Thanks.:)|pg||
 nt|andyv:  stop at the 3 level?|pg||
-mb|2S|mb|p|mb|p|mb|p|nt|andyv:  a lot of smoke thrown up by NS|pg||
+mb|2S|mb|p|mb|p|mb|p|nt|andyv:	a lot of smoke thrown up by NS|pg||
 nt|andyv:  not even there|pg||
 pc|h9|nt|andyv:  vul was wrong for E to venture 3@h|pg||
 pc|hT|nt|snorre: Jeg antar Jørgen og Børre på det andre bordet tror de leder. 1100 og 800 inn er ofte bra i lagkamper...   :)|pg||
@@ -376,7 +376,7 @@ pc|d5|nt|patricck: I guess bridge happened here.... partner's don't always make 
 nt|andyv:  he has good @h support and short @s, but the rest of his hand is very anemic.|pg||
 pc|dA|nt|hawe45: But NO entry for the @D-tricks|pg||
 pc|s3|pg||
-nt|suketbombi: on some lucky day he would find  AQ od @D with pd and a singleton @C to boot :)|pg||
+nt|suketbombi: on some lucky day he would find	AQ od @D with pd and a singleton @C to boot :)|pg||
 nt|patricck: hard for east to know that there are 2 heart tricks for the defence... quite conceivable that 4@S was making|pg||
 pc|h2|nt|snorre: damenes Jens denne helgemo. To av dem var svært verdifulle|pg||
 nt|kiwibridge: could slip to J@S|pg||
@@ -393,7 +393,7 @@ pc|h5|pg||
 nt|rnmalik: National titles would be better.|pg||
 mc|8|pg||
 qx|c10|st||md|4SAQ7HQT53DJ8CAKT9,SK64HAK84DQT95C43,SJ82H962DAK6432C2,ST953HJ7D7CQJ8765|sv|b|mb|p|mb|1C|mb|p|mb|2D|mb|p|mb|2N|mb|p|nt|cmule: Õý³£½Ðµ½3NT£¬²»ÐÒµØÓöµ½DÍá·Ö|pg||
-mb|3N|mb|p|mb|p|mb|p|pc|hA|nt|wwy0813:  ¿´Ò»¿´¹¥·À|pg||
+mb|3N|mb|p|mb|p|mb|p|pc|hA|nt|wwy0813:	¿´Ò»¿´¹¥·À|pg||
 pc|h2|pc|hJ|pc|h3|pg||
 pc|h4|pc|h9|pc|h7|pc|h5|pg||
 pc|d2|pc|d7|nt|wwy0813:   ÏÖÔÚÄÜÍê³É  ²»¹ý×¯¼Ò²»ÈÝÒ×ÕÒµ½»Ø¼ÒµÄÂ·|pg||
@@ -428,7 +428,7 @@ mb|p|nt|vugraphzcq: Bjørn skulle spilt, sjuk|pg||
 nt|andyv:  not finding their 4-4 fit can be very costly|pg||
 mb|4N|mb|p|mb|5D|nt|snorre: ok.. En liten pluss til Jessheim her.. |pg||
 nt|bmbkno: Jeg trodde ikke man tok hensyn til rullering i 6 runde, da topper man eller hva?|pg||
-mb|p|nt|andyv:  have to admire E's optimism|pg||
+mb|p|nt|andyv:	have to admire E's optimism|pg||
 mb|6H|mb|p|mb|p|nt|hawe45: NO - always 12 tricks|pg||
 mb|p|pc|dK|nt|hawe45: @H-lead, pls - that´s faster|pg||
 pc|dA|pc|d2|pc|d7|pg||
@@ -474,7 +474,7 @@ mb|1N|mb|p|nt|hawe45: E/W having a nice @H-fit here...!|pg||
 mb|2C|nt|patricck: The 2@D overcall will be showing one major and the 2NT Lebensol style|pg||
 mb|p|mb|2D|mb|p|nt|kiwibridge: what no xfer?|pg||
 mb|2H|mb|p|mb|4H|nt|andyv:  2!n leb and dbl by S bid your suit|pg||
-mb|d|nt|andyv:  helpful lead|pg||
+mb|d|nt|andyv:	helpful lead|pg||
 mb|p|mb|p|mb|p|nt|andyv:  right play is to duck @h to K, later play @h to Ace and if no Q, play 3rd @h|pg||
 pc|c9|pc|c2|pc|cA|pc|c5|pg||
 nt|andyv:  S is home now|pg||
@@ -499,7 +499,7 @@ pc|sT|pc|sA|pc|s2|pc|s3|pg||
 nt|patricck: North appears to have played for the lead to be 109 doubleton to establish a discard|pg||
 nt|andyv:  spec tells me invite hand with 5+@hs... all invites are bid thru 2@c and all game force thru 2@d so EW must play a 12-14 NT also|pg||
 nt|hawe45: The invitation also explains South´s double|pg||
-mc|8|nt|andyv:  wow, our first push|pg||
+mc|8|nt|andyv:	wow, our first push|pg||
 nt|andyv:  13-15 as per another spec|pg||
 nt|rnmalik: and they dont play transfers as 2@D would be GF.|pg||
 pg||
@@ -516,7 +516,7 @@ pc|dJ|pc|s4|pc|s7|pc|h3|pg||
 pc|c9|pc|cK|pc|cA|pc|c5|pg||
 pc|cJ|pc|cT|pc|s8|pc|c2|pg||
 pc|sK|pc|h7|pc|sQ|pc|s6|pg||
-nt|wwy0813: ¿´À´ÄÏÃ»ÅªÇå³þ¾ÖÊÆ  ÉÙ-1|pg||
+nt|wwy0813: ¿´À´ÄÏÃ»ÅªÇå³þ¾ÖÊÆ	ÉÙ-1|pg||
 mc|8|pg||
 qx|o13|st||md|3SAHQJ7653DAQ7C932,S876HAK9842D653C4,SJ542HDKJT9CKJT75,SKQT93HTD842CAQ86|sv|b|nt|jbgood: Geir vet han har den... dobbel!|pg||
 nt|snorre: Hvis 3@h var invitt, var det tamt å gå ned i utgang. Et par ess er ofte nok..|pg||
@@ -559,7 +559,7 @@ mc|6|nt|kiwibridge: oh E let the side down here|pg||
 pg||
 qx|c13|st||md|3SAHQJ7653DAQ7C932,S876HAK9842D653C4,SJ542HDKJT9CKJT75,SKQT93HTD842CAQ86|sv|b|mb|p|mb|1S|mb|2H|mb|p|mb|p|mb|d|mb|p|mb|p|mb|2N|nt|wwy0813: ¶«ÒåÎñÐÔµÄ¼Ó±¶ÁË|pg||
 mb|p|mb|p|mb|d|mb|p|mb|p|mb|p|pc|hT|pc|hJ|pc|hK|pc|c5|pg||
-nt|wwy0813:      Ò»°ã-1|pg||
+nt|wwy0813:	 Ò»°ã-1|pg||
 pc|c4|pc|cJ|pc|cQ|pc|c2|pg||
 pc|s3|pc|sA|pc|s6|pc|s5|pg||
 pc|c3|pc|h4|pc|cK|pc|c6|pg||
@@ -569,11 +569,11 @@ mc|7|pg||
 qx|o14|st||md|4S92H764DJT876CKJ6,SQJ64H82DKQ92C984,S873HAKQJ53D4CQT5,SAKT5HT9DA53CA732|sv|o|nt|hawe45: And playing strong @C, East hax about maximum|pg||
 mb|1N|nt|vugraphzcq: kan inneholde 6M sier Lars|pg||
 mb|p|nt|jbgood: andre gangen i kveld geir har hatt 6 hjerter i grandåpningen|pg||
-mb|p|nt|andyv:  3@s max for this hand|pg||
+mb|p|nt|andyv:	3@s max for this hand|pg||
 nt|andyv:  N will bid|pg||
 mb|d|mb|p|nt|hawe45: With the lead of the @D Jack, 1 NT is easy|pg||
-mb|p|nt|andyv:  dbl probably single suiter|pg||
-mb|p|nt|andyv:  probably 12-14 NT|pg||
+mb|p|nt|andyv:	dbl probably single suiter|pg||
+mb|p|nt|andyv:	probably 12-14 NT|pg||
 nt|andyv:  wow|pg||
 pc|d7|nt|andyv:  N needs to work a bit more on this one|pg||
 nt|hawe45: @S-led likely then - or?|pg||
@@ -639,7 +639,7 @@ mb|p|mb|p|mb|1S|nt|andyv:  this should be the last board of this set|pg||
 mb|3D|nt|andyv:  also ty to Hans, Patrick and Roland as well as all the specs who have joined us.|pg||
 mb|p|nt|hawe45: 5 @D now will finish the bidding|pg||
 nt|hawe45: Maybe doubled, OK|pg||
-mb|p|nt|andyv:  if 2@s is preemptive, it appears to be a bit strong although playing precision it may be ok.|pg||
+mb|p|nt|andyv:	if 2@s is preemptive, it appears to be a bit strong although playing precision it may be ok.|pg||
 mb|d|nt|Walddk2: Hei igen|pg||
 mb|p|mb|4H|mb|5D|nt|hawe45: Let´n s say it this way. If you vote for E/W, pass over 3 @D from North is a fabolous bid|pg||
 mb|p|mb|p|nt|snorre: velkommen tilbake... dette gleder vi oss til|pg||
@@ -666,7 +666,7 @@ pc|cJ|pc|c3|nt|andyv:  making one more|pg||
 pc|cA|nt|snorre: selvsagt gjør har det...  AK i ruter og claimings|pg||
 nt|skjaeran:  En junioreurpamester gÃ¥r ikke bet i denne.|pg||
 pc|c8|pg||
-mc|8|nt|andyv:  ty Rashed, Hans, Operator and all the specs for joining us|pg||
+mc|8|nt|andyv:	ty Rashed, Hans, Operator and all the specs for joining us|pg||
 nt|rnmalik: Thanks all.|pg||
 pg||
 qx|c16|st||md|2ST63H9DAJ98764CK8,S98HAQJ82D5CJT972,S742HKT4DKQ32CQ53,SAKQJ5H7653DTCA64|sv|e|nt|wwy0813:  ±±Ò²Ðí²»ÊìÏ¤ÕâÖÖ·½Ê½  Ïëµ±È»µÄ¾õµÃÍ¬°éÃ·»¨¶Ì  ÆäÊµËû×Ô¼ºµ¥ÓÐ¾Ö  ½Ðµ½3·çÏÕ²»Ð¡|pg||
