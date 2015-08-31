@@ -72,7 +72,7 @@ pc|h5|pc|c4|pc|hT|pc|hK|pg||
 pc|d3|pc|d6|pc|d8|pc|h8|pg||
 nt|bagman:  There is a strip squeeze coming|pg||
 pc|dQ|pc|c6|pc|d7|pc|sT|pg||
-pc|d9|pc|s8|nt|bagman:  @Sk cannot be blank behind|pg||
+pc|d9|pc|s8|nt|bagman:	@Sk cannot be blank behind|pg||
 nt|bagman:  must discard a spade now|pg||
 nt|kaapo: East would lead 9 from QT9 so North is sure West has the Q|pg||
 pc|s4|pc|sK|pg||
@@ -119,7 +119,7 @@ pc|dT|pc|d8|pg||
 pc|c7|pc|s7|pc|h2|pc|h9|pg||
 nt|bagman:  @H9 scores|pg||
 mc|8|pg||
-qx|o95|st||md|1ST63HAK852D5CQT65,SAQJ97H73DA96CA73,SK542HT96DQ843CK8,S8HQJ4DKJT72CJ942|sv|n|nt|bagman:  NS were really lucky here|pg||
+qx|o95|st||md|1ST63HAK852D5CQT65,SAQJ97H73DA96CA73,SK542HT96DQ843CK8,S8HQJ4DKJT72CJ942|sv|n|nt|bagman:	NS were really lucky here|pg||
 mb|p|mb|1S|mb|p|mb|1N|an|F1|mb|p|mb|2C!|an|!c:s or strong|nt|bagman:  brb|pg||
 mb|p|mb|3C|an|bad hand w !c:s|mb|p|mb|p|mb|p|pc|hT|pc|hQ|pc|hK|pc|h3|pg||
 nt|kaapo: Apparently 2@C was something in the Gazilli-style, but 3@C looks a bit odd then|pg||
@@ -139,7 +139,7 @@ qx|o96|st||md|2S8754HQ85432DTC82,SAKHK6DQ8643CQT95,SQJT63HAJ97DJ2C63,S92HTDAK975
 mb|1S|mb|2S|an|inv+ raise in !d|mb|3S|mb|p|mb|p|mb|4C|mb|p|nt|kaapo: Some Souths might bid 4@S here, and I quite expected West to bid 3NT with some extras and double stop|pg||
 mb|5D|mb|p|mb|p|mb|p|nt|kaapo: Our operator considers 3@H from South, but I think she should have a little more cards for that|pg||
 pc|sQ|pc|s2|pc|s4|pc|sA|pg||
-pc|d3|pc|d2|nt|bagman:  this round might give the title to NS|pg||
+pc|d3|pc|d2|nt|bagman:	this round might give the title to NS|pg||
 pc|dA|pc|dT|pg||
 pc|dK|pc|h2|pc|d4|pc|dJ|pg||
 pc|hT|pc|hQ|pc|hK|pc|hA|pg||
@@ -291,7 +291,7 @@ nt|cenglund: 11 tricks on correct defence|pg||
 pc|sA|nt|bagman:  Now declarer might get only 10 tricks|pg||
 pc|c5|pc|s6|pc|s7|pg||
 pc|c8|pc|c6|pc|cQ|pc|s8|pg||
-pc|d7|pc|dA|nt|bagman:  South needs to ruff and play a diamond|pg||
+pc|d7|pc|dA|nt|bagman:	South needs to ruff and play a diamond|pg||
 nt|cenglund: I guess the score is yet good for E-W|pg||
 pc|d2|pc|d4|pg||
 nt|bagman:  6NT makes|pg||
@@ -305,7 +305,7 @@ mb|4H|mb|p|mb|p|mb|p|nt|bagman:  The raise was unnecessary|pg||
 pc|c8|nt|kaapo: They had 2121 MPs after R34 vs 2042 of Niemi - Valta|pg||
 pc|cQ|pc|cA|pc|c4|pg||
 nt|cenglund: Not necessarily if S pulls a double|pg||
-pc|c5|pc|c9|nt|bagman:  NS are probaly scoring well on this one, too|pg||
+pc|c5|pc|c9|nt|bagman:	NS are probaly scoring well on this one, too|pg||
 pc|cK|pc|c3|pg||
 nt|cenglund: 3Sp is cold|pg||
 pc|sA|pc|s3|pc|s6|pc|s5|pg||
@@ -337,7 +337,7 @@ nt|cenglund: Now it's 11 tricks, for sure|pg||
 pc|h2|pc|hT|pc|hK|pc|h6|pg||
 pc|cT|pc|sK|pc|c8|pc|c3|pg||
 pc|h8|pc|h4|pc|s5|pc|h3|pg||
-pc|s7|pc|sQ|nt|bagman:  ???|pg||
+pc|s7|pc|sQ|nt|bagman:	???|pg||
 pc|s3|pc|s2|pg||
 pc|c9|pc|d2|nt|cenglund: Now, this went beyond my imagination|pg||
 pc|h5|pc|cK|pg||
