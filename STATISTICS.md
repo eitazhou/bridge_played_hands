@@ -141,3 +141,6 @@ Analysis of the opening lead is a common way to detect cheating, but it is easie
 The ability of a pair to consistently find the correct opening lead is warning that the pairs may be cheating.
 
 In this case, a specific set of criteria may be drawn up. For example, how often does the opening leader manage to find an Ace or King in his partner's hand. These are complex queries to create and may need to be customized based on suspected patterns.
+
+Last updated:
+Mon Aug 31 14:55:21 EDT 2015

@@ -4,6 +4,12 @@ Status
 Monday, August 31, 2015
 ===
 
+Pushed to Internet.
+
+List of files needing changes because of missing commas created.
+
+Levin was changed in ./lin_data as a text example of working needed.
+
 The raw files were pushed out to Github.
 
 There are approximately 40,600 LIN files. There are over 600,000 individual hands within these files.

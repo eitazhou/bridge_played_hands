@@ -28,3 +28,6 @@ Arguably practice games should be excluded from all statistical analysis.
 
 Although comparing against all data can be useful, if we are looking for cheating allegations, then the comparison set should only include similar type of events.
 cheating allegations, then the comparison set should only include similar type of events.
+
+Last updated:
+Mon Aug 31 14:55:21 EDT 2015

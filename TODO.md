@@ -48,3 +48,5 @@ See file [NAMES.txt]NAMES.txt for how each case is fixed.
 The preferred naming convention is "First Last", e.g. "Jill Levin"
 
 
+Last updated:
+Mon Aug 31 14:55:21 EDT 2015

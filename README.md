@@ -48,3 +48,6 @@ file [STATUS.md](STATUS.md).
 ## Detecting Cheating
 
 Some information on detecting cheating is in a separate file [DETECTING_CHEATING.md](DETECTING_CHEATING.md).
+
+Last updated:
+Mon Aug 31 14:55:21 EDT 2015

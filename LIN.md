@@ -56,3 +56,6 @@ In order to identify specific players, it is necessary to go through all the LIN
 This is going to take some effort.
 
 There are more details on the LIN file format on the BBO web site.
+
+Last updated:
+Mon Aug 31 14:55:21 EDT 2015

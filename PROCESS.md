@@ -48,3 +48,6 @@ Before I merge the repository into my 'master' files, I check to make sure that 
 For example, cleaning up spelling mistakes is fine, but changes to the contents of the file will be caught.
 
 I keep a master copy of the raw LIN files and have scripts that can check for changes to the files in this repository.
+
+Last updated:
+Mon Aug 31 14:55:21 EDT 2015

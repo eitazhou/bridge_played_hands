@@ -43,3 +43,6 @@ I then make changes to my local copy of the files, then
 git commit my_changed_files
 git push origin
 '''
+
+Last updated:
+Mon Aug 31 14:55:21 EDT 2015
