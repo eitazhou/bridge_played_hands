@@ -31,7 +31,7 @@ pg||
 qx|o12|st||md|2SQ98764H95D76CA93,SAT532HKT832DTCQ4,SKJHQJ4DJ98542CT7,SHA76DAKQ3CKJ8652|sv|n|nt|vugraphzcv: Table 1 : Bimal Sicca 113.22 Vs Hemant Jalan 106.79|pg||
 nt|vugraphzcv: Table 2: Bangur cement 103-39 Vs Arnab Kolkata  100.85|pg||
 nt|vugraphzcv: Table 3 : Shree Cement 99.98 Vs A K Bose 98.98|pg||
-nt|vugraphzcv: Table 4 : Top Flight 99.29 Vs Alok Daga  97.04|pg||
+nt|vugraphzcv: Table 4 : Top Flight 99.29 Vs Alok Daga	97.04|pg||
 mb|p|mb|p|mb|1C|mb|1S|mb|d|mb|2C|mb|d|mb|2S|mb|4H|mb|p|mb|p|mb|p|pc|sK|pc|h6|pc|s4|pc|s2|pg||
 pc|c2|pc|cA|pc|c4|pc|c7|pg||
 pc|s6|pc|sA|pc|sJ|pc|d3|pg||
@@ -72,7 +72,7 @@ pc|cA|pc|c3|pc|c2|pc|c6|pg||
 pc|cQ|pc|c5|pc|c9|pc|sT|pg||
 pc|dQ|pc|dK|pc|dA|pc|d2|pg||
 mc|9|pg||
-qx|o14|st||md|4SK2HKT76D98CAKQ97,SQ9HA843D72CJT654,SAJ84HJDKQJT63C82,ST7653HQ952DA54C3|sv|o|nt|Henryb:  If you bid 2@h the first time you can then bid 3@h when partner tries with 3@c|pg||
+qx|o14|st||md|4SK2HKT76D98CAKQ97,SQ9HA843D72CJT654,SAJ84HJDKQJT63C82,ST7653HQ952DA54C3|sv|o|nt|Henryb:	If you bid 2@h the first time you can then bid 3@h when partner tries with 3@c|pg||
 mb|p|mb|1N|nt|Henryb:  Should South open 1@c or 1N?|pg||
 mb|p|nt|Henryb:  I would choose 1@c ...|pg||
 mb|2N!|mb|p|mb|3C|mb|p|mb|3S|mb|p|mb|3N|mb|p|mb|p|mb|p|nt|vugraphzcv: 3@s alerted as @d and @s|pg||
@@ -124,7 +124,7 @@ pc|cJ|pc|c3|nt|vugraphzdc: 2>hemant jalan 106.79|pg||
 pc|cK|pc|cA|pg||
 pc|c6|mc|7|nt|vugraphzdc: 3>bangur cement 103.39|pg||
 pg||
-qx|o16|st||md|2SKJ43H2DAQCAKJ876,SA98HAKQJT64D5CT3,SQT2H953DKT32CQ92,S765H87DJ98764C54|sv|e|mb|1H|mb|p|mb|p|mb|d|mb|3H|mb|p|mb|p|mb|4C|mb|p|nt|Henryb:  Surely worth 5@c with three working cards.|pg||
+qx|o16|st||md|2SKJ43H2DAQCAKJ876,SA98HAKQJT64D5CT3,SQT2H953DKT32CQ92,S765H87DJ98764C54|sv|e|mb|1H|mb|p|mb|p|mb|d|mb|3H|mb|p|mb|p|mb|4C|mb|p|nt|Henryb:	Surely worth 5@c with three working cards.|pg||
 mb|5C|mb|p|mb|p|mb|p|pc|hA|pc|h3|pc|h8|pc|h2|pg||
 pc|hQ|pc|h5|pc|h7|nt|WRIK18: hi henry|pg||
 mc|11|pg||
@@ -164,7 +164,7 @@ pc|sK|pc|s3|pc|s5|pc|s2|pg||
 pc|sT|pc|s4|mc|10|pg||
 qx|o18|st||md|4S9H62DKQ854CKT854,SAT6HJT94DJCAJ962,SKJ53HAKQ75DT97C7,SQ8742H83DA632CQ3|sv|n|nt|WRIK18: last board |pg||
 nt|Henryb:  Declarer had a safer LOP with a high Xruff|pg||
-mb|p|mb|p|mb|1C|mb|1H|mb|1S|mb|p|mb|2S|mb|p|mb|p|mb|p|pc|h6|nt|Henryb:  Would you bid 2@d as S over 1@s? I would.|pg||
+mb|p|mb|p|mb|1C|mb|1H|mb|1S|mb|p|mb|2S|mb|p|mb|p|mb|p|pc|h6|nt|Henryb:	Would you bid 2@d as S over 1@s? I would.|pg||
 pc|h4|pc|hK|pc|h3|pg||
 pc|hA|pc|h8|pc|h2|pc|h9|pg||
 nt|psridhar: snap dragon might be more appropriate|pg||
@@ -228,7 +228,7 @@ mc|11|pg||
 qx|o20|st||md|2SAK6HAJ832D98CAT4,SQT73HK95DT73CKJ3,SJ984HT7DQJ52CQ86,S52HQ64DAK64C9752|sv|b|nt|vugraphzcv: Table 1 : Bimal Sicca 113.22 Vs Hemant Jalan 106.79|pg||
 nt|vugraphzcv: Table 2: Bangur cement 103-39 Vs Arnab Kolkata  100.85|pg||
 nt|vugraphzcv: Table 3 : Shree Cement 99.98 Vs A K Bose 98.98|pg||
-nt|vugraphzcv: Table 4 : Top Flight 99.29 Vs Alok Daga  97.04|pg||
+nt|vugraphzcv: Table 4 : Top Flight 99.29 Vs Alok Daga	97.04|pg||
 mb|p|mb|p|mb|p|mb|1N|mb|p|mb|p|mb|p|pc|s3|pc|sJ|pc|s5|pc|s6|pg||
 pc|hT|pc|hQ|pc|hA|pc|h5|pg||
 pc|hJ|pc|hK|pc|h7|pc|h6|pg||
