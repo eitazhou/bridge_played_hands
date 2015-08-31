@@ -6,6 +6,7 @@ Some of the information is useful as an individual, some of it is useful for a p
 
 Knowing the strengths of each part of your game can help improve your game. It can also be used to detect cheating.
 
+***
 
 ## Bidding
 
@@ -33,6 +34,7 @@ Knowing the strengths of each part of your game can help improve your game. It c
 
 2. A pair that avoids bidding unmakeable games/slams with a typical HCP for bidding games/slams may be transmitting unauthorized information about the hand. For example, knowledge that you are missing honors and length in a suit may be a reason not to bid 3NT even though the partnership has the HCP to bid game.
 
+***
 
 ## Declarer Play
 
@@ -79,6 +81,8 @@ Statistically tracking this type of information is useful for determining how go
 
 2. If you never make fewer tricks than double dummy, this indicates knowledge of the hand records.
 
+*** 
+
 ## Defensive Play
 
 This is similar to declarer play
@@ -108,6 +112,8 @@ This is similar to declarer play
 ### Cheating Notes
 
 If a pair is cheating, and exchanging information about their hands, then we would expect to see significant deviation in results for a cheating pair compared to the norm.
+
+***
 
 ## Opening Lead
 
