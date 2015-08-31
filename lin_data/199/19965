@@ -45,7 +45,7 @@ pc|d8|pc|d3|nt|figo:  4333 , empty spades and just about enough values |pg||
 nt|panja: what did 3@H show Meenal?|pg||
 pc|dJ|pc|d9|pg||
 pc|dK|pc|dT|pc|h8|pc|dQ|pg||
-pc|c9|nt|figo:  3H must be choice of contracts |pg||
+pc|c9|nt|figo:	3H must be choice of contracts |pg||
 nt|panja: possibly 4333...|pg||
 nt|figo:  spade agreed|pg||
 nt|mathat: 3 @h = limit in @s|pg||
@@ -117,7 +117,7 @@ pc|h8|pc|h9|pc|hQ|pc|h6|pg||
 pc|hA|pc|hJ|pc|h7|nt|figo:  systemic benefit for Manyavar|pg||
 pc|s4|pg||
 pc|hT|pc|c7|pc|s8|pc|c4|pg||
-pc|h2|nt|figo:  other room  precision for NS |pg||
+pc|h2|nt|figo:	other room  precision for NS |pg||
 pc|d3|pc|c6|pc|c5|pg||
 pc|c8|pc|cJ|pc|cQ|pc|cA|pg||
 pc|cK|pc|c2|pc|c9|pc|c3|pg||
@@ -211,7 +211,7 @@ pc|cQ|pc|c6|pc|c7|pc|c3|pg||
 nt|figo:  NOW D 8|pg||
 nt|vugraphzmt: Raju da touched the magic card twice|pg||
 pc|d8|nt|vugraphzmt: finally played|pg||
-pc|h2|nt|figo:  5 imps more for Manyavar|pg||
+pc|h2|nt|figo:	5 imps more for Manyavar|pg||
 pc|s4|pc|d9|pg||
 pc|h7|pc|hA|nt|figo:  next board looks ominous for Manyavar though............. lets see|pg||
 pc|hK|pc|h3|pg||
@@ -230,7 +230,7 @@ pc|d2|pc|dA|pc|c7|pc|d4|pg||
 pc|h2|pc|h3|pc|hQ|pc|hA|pg||
 mc|8|pg||
 qx|o52|st||md|2SAQ7HQJ732D853CT9,SHK985DKT7642CAQ5,SKJT9652H6DJ9CJ82,S843HAT4DAQCK7643|sv|b|nt|figo:  he had long minor alright but suit was bad and entries thin|pg||
-mb|1D|nt|figo:  well , now that we can see the hands , it may be ominous for DSM :)|pg||
+mb|1D|nt|figo:	well , now that we can see the hands , it may be ominous for DSM :)|pg||
 mb|2S!|mb|d|mb|3S|mb|d|mb|p|nt|figo:  bidding lot easy when u see all hands |pg||
 mb|p|mb|p|pc|s3|pc|s7|pc|d4|pc|s2|pg||
 pc|cT|pc|c5|pc|c8|pc|cK|pg||
@@ -273,7 +273,7 @@ qx|c53|st||md|3SKT7H73DQJ986CK72,SQ653HQ86D72CJT64,SJ92HAK5DA53CQ983,SA84HJT942D
 mb|1H|mb|2D|nt|thak: a bit of surprise, given that both teams have famous operators in the form of NK and Anil|pg||
 nt|thak: sry, private|pg||
 mb|2H|nt|thak: 1@H = @S|pg||
-mb|p|nt|sunit:  1h is 4 or more spades|pg||
+mb|p|nt|sunit:	1h is 4 or more spades|pg||
 nt|psridhar: in spite of the weak e hand 4@h is an exellent contract-shows the power of controls in W hand|pg||
 mb|p|mb|p|pc|dQ|pc|d2|nt|vugraphzmu: no hopes|pg||
 pc|d3|nt|thak: perhaps best result for EW wd've been to pass the dbl :)|pg||
@@ -296,7 +296,7 @@ nt|thak: this 2@S is going to romp home|pg||
 pc|dJ|mc|7|pg||
 qx|o54|st||md|4S7HJ643D75CA97654,SAKQ652HQ8DKQ3CK2,S843H9752DT986CQJ,SJT9HAKTDAJ42CT83|sv|e|mb|1D|mb|p|mb|1S|mb|p|mb|1N|mb|2C|mb|3C!|mb|d|mb|3S|mb|p|mb|4C!|mb|p|mb|4N|mb|p|mb|5S!|mb|p|mb|6S|mb|p|mb|p|mb|p|pc|cQ|pc|c3|pc|cA|pc|c2|pg||
 pc|c6|pc|cK|pc|cJ|pc|c8|pg||
-mc|12|nt|figo:  ?|pg||
+mc|12|nt|figo:	?|pg||
 nt|figo:  break ?|pg||
 pg||
 qx|c54|st||md|4S7HJ643D75CA97654,SAKQ652HQ8DKQ3CK2,S843H9752DT986CQJ,SJT9HAKTDAJ42CT83|sv|e|nt|vugraphzmu: east have 6@S on favourbly plaed @C a|pg||
@@ -363,7 +363,7 @@ pc|d8|pc|d4|pc|s7|mc|11|pg||
 qx|o56|st||md|2SA42HJ83DKT72CQJ4,SKJT7HKQ95DA8CT53,S865H764D9543CA72,SQ93HAT2DQJ6CK986|sv|o|nt|figo:  curtains for sure now |pg||
 mb|1H|mb|p|nt|figo:  dubious line by Raju |pg||
 mb|2C|mb|p|mb|2D|mb|p|mb|3N|mb|p|mb|p|mb|p|nt|figo:  similar line other table says a kib but not entirely |pg||
-pc|d2|nt|figo:  cashing DK proved fatal|pg||
+pc|d2|nt|figo:	cashing DK proved fatal|pg||
 pc|d8|pc|d9|pc|dQ|pg||
 pc|s9|pc|s2|pc|s7|pc|s5|pg||
 pc|s3|pc|sA|pc|sT|pc|s6|pg||
@@ -380,7 +380,7 @@ pc|dT|pc|cT|pc|d5|pc|cK|pg||
 pg||
 qx|c56|st||md|2SA42HJ83DKT72CQJ4,SKJT7HKQ95DA8CT53,S865H764D9543CA72,SQ93HAT2DQJ6CK986|sv|o|mb|1C|mb|p|mb|3N|nt|nsriram: I see|pg||
 mb|p|nt|thak: trbl..|pg||
-mb|p|nt|sunit:  serious trouble here|pg||
+mb|p|nt|sunit:	serious trouble here|pg||
 mb|p|nt|thak: very aggressive dbl|pg||
 pc|d2|nt|nsriram: 3N will probably be reached|pg||
 pc|d8|nt|nsriram: 1@H was 5+@S 8+points|pg||
@@ -421,7 +421,7 @@ nt|figo:  :)|pg||
 nt|nsriram: Good that you are here|pg||
 pc|c3|pc|d5|pg||
 pc|dT|pc|c5|pc|c2|pc|c8|pg||
-pc|cQ|nt|figo:  will catch up after this deal |pg||
+pc|cQ|nt|figo:	will catch up after this deal |pg||
 pc|cT|pc|cA|pc|c9|pg||
 mc|9|pg||
 qx|o57|st||md|3SA2HQ8765DKJ9CJ52,SQJT64HAJT3D83C96,SK985H92DAQ754CKQ,S73HK4DT62CAT8743|sv|e|nt|vugraphzmt: Last Board of the match|pg||
@@ -445,7 +445,7 @@ mb|1D|nt|thak: indeed, it costed them 10 on 44|pg||
 nt|figo:  2 things in favour of DSM though|pg||
 nt|nsriram: very rare to see so much pushes|pg||
 mb|p|nt|vugraphzmu: precision now|pg||
-mb|1H|nt|figo:  3 regular pairs while Manywar 4 member team and this is 4th day ; DSM also shown strong performance frm day 1 |pg||
+mb|1H|nt|figo:	3 regular pairs while Manywar 4 member team and this is 4th day ; DSM also shown strong performance frm day 1 |pg||
 nt|psridhar: last Bd declarer made a winning play trick 1-after that he wd hv succeeded guessing right , but he was not tested|pg||
 mb|1S|mb|1N|mb|p|mb|3N|mb|p|mb|p|mb|p|nt|psridhar: this will end in 3N |pg||
 pc|s7|nt|nsriram: will pass quickly|pg||
@@ -468,7 +468,7 @@ pc|s2|pc|sT|pc|sK|pg||
 pc|cK|nt|sunit:  only losing option is if declarer tries to set up clubs and misguesses spade queen|pg||
 pc|c3|pc|c5|pc|c9|pg||
 nt|mackulky: With last board to be scored and no swing expected Well Done Manvyavar|pg||
-pc|d5|nt|figo:  relatively very quiet board after lot of action on 9 and 10 !|pg||
+pc|d5|nt|figo:	relatively very quiet board after lot of action on 9 and 10 !|pg||
 nt|nsriram: now cannot enjoy high @S and ruff|pg||
 pc|d6|pc|dJ|pc|d8|pg||
 pc|cJ|pc|h3|pc|h2|pc|c4|pg||
@@ -496,7 +496,7 @@ nt|figo:  India |pg||
 nt|vugraphzmu: yes corrected sry all|pg||
 nt|psridhar: np|pg||
 nt|psridhar: game usually goes on aat breakneck speed ....and operator's job is unenviable|pg||
-mb|p|mb|p|mb|1S|mb|p|mb|2C|mb|d|mb|4C|nt|figo:  I am sorry , u r right :) its Veldhoven |pg||
+mb|p|mb|p|mb|1S|mb|p|mb|2C|mb|d|mb|4C|nt|figo:	I am sorry , u r right :) its Veldhoven |pg||
 mb|p|mb|4S|nt|mackulky: great we have two very able players in Sunit Chosey and Sandeep Thakral to provide the expert comments and analysis |pg||
 nt|nsriram: veldhoven, holland dont know ponzan|pg||
 mb|p|nt|figo:  corrected |pg||
@@ -560,7 +560,7 @@ nt|sunit:  only heart lead can beat 3nt|pg||
 nt|thak: expect some action with 65 reds with north. Sunit, will you open N hand?|pg||
 nt|sunit:  no not at this vulnerability|pg||
 nt|nsriram: not so bad if you have a major misunderstanding and your opponents start fighting|pg||
-mb|1D|nt|figo:  sry operator , had to attend to something else for last 15 minutes |pg||
+mb|1D|nt|figo:	sry operator , had to attend to something else for last 15 minutes |pg||
 mb|2C|mb|d|nt|nsriram: might be another swing if E-W can get to 4H here|pg||
 mb|3C|nt|nsriram: and looks like they will|pg||
 mb|3D|nt|thak: tough choice to make.. if you pass and hear 1N-3N or 1S-4S, will be tough to decide at that point whether to enter|pg||
@@ -599,7 +599,7 @@ pc|dA|pc|d6|pg||
 pc|dT|pc|dK|pc|h9|pc|hT|pg||
 pg||
 qx|o60|st||md|2S93HAJTDK763CT753,SAQHK76DT852CK842,ST52H9853DAJ94CAJ,SKJ8764HQ42DQCQ96|sv|n|mb|1D|mb|p|mb|1S|mb|p|mb|1N|mb|p|mb|2S|mb|p|mb|p|mb|p|pc|c5|pc|c2|pc|cJ|pc|cQ|pg||
-pc|s4|nt|figo:  sumit escaped in 1NT contract last deal ; Manyavar had a chance to pick up some imps|pg||
+pc|s4|nt|figo:	sumit escaped in 1NT contract last deal ; Manyavar had a chance to pick up some imps|pg||
 pc|s9|pc|sA|pc|s2|pg||
 pc|sQ|pc|s5|pc|s6|pc|s3|pg||
 pc|h6|pc|h8|pc|hQ|pc|hA|pg||
@@ -617,7 +617,7 @@ mb|p|nt|thak: 2@C = @D|pg||
 mb|1N|nt|vugraphzmu: last brd|pg||
 mb|p|nt|mackulky: good transfer auction :)|pg||
 nt|thak: EW make 3N or 5@D|pg||
-mb|2C|nt|figo:  last board of 1st set |pg||
+mb|2C|nt|figo:	last board of 1st set |pg||
 mb|p|mb|2D|nt|figo:  30 imps is preety good lead against good team |pg||
 nt|psridhar: this bd helps -so 50 in 15 bds -they will play|pg||
 mb|p|nt|thak: problems on @C lead?|pg||
