@@ -18,12 +18,12 @@ nt|Walddk2: men fordi det frigør andre meldingerne til andre formål|pg||
 nt|vugraphzas: så er alle tilbage igen|pg||
 nt|pelu:  sÃ¥dan at 1 x - 1 y 2 ut betyder noget helt andet|pg||
 nt|Walddk2: ja|pg||
-mb|p|mb|p|mb|2C!|mb|p|nt|pelu:  sÃ¥ brugerne erkender at det er dÃ¥rligt, men mÃ¥ske tjener de andre steder|pg||
+mb|p|mb|p|mb|2C!|mb|p|nt|pelu:	sÃ¥ brugerne erkender at det er dÃ¥rligt, men mÃ¥ske tjener de andre steder|pg||
 nt|Walddk2: Balanceret støtte til  y  eller for stærk til 3x|pg||
 mb|2D!|mb|p|mb|2H!|mb|p|nt|vugraphzas: 2@h viser 18-19 nt|pg||
 mb|2S!|mb|p|mb|2N!|mb|p|nt|vugraphzas: 2@s er overføring til 2nt (=Kokish relay)|pg||
 mb|p|mb|p|pc|h2|nt|vugraphzas: så identisk meldeforløb ved de to borde|pg||
-pc|h8|nt|pelu:  pÃ¥ den mÃ¥de mistede begge borde ogsÃ¥ den bedste kontrakt: 2@s :)|pg||
+pc|h8|nt|pelu:	pÃ¥ den mÃ¥de mistede begge borde ogsÃ¥ den bedste kontrakt: 2@s :)|pg||
 pc|hT|pc|hQ|pg||
 pc|sQ|pc|sK|pc|s2|pc|s4|pg||
 nt|Walddk2: Den er nu svær at komme i uanset hvad man spiller|pg||
@@ -69,7 +69,7 @@ mb|1N|mb|p|mb|p|mb|d|nt|Walddk2: 11-14 i zonen i 3. hånd har jeg aldrig forstå
 nt|vugraphzas: DBL fra Nord er en "Kelsey-dobling" siger HC til Øst -- ved nogen hvad det viser?|pg||
 nt|Walddk2: Ja|pg||
 mb|p|mb|p|nt|pelu:  det er han Roland - kun de der ikke laver noget, laver ikke fejl :)|pg||
-nt|Walddk2: 2@C  rød singleton  2@D  sort singleton   dobler = naturligt, jævn|pg||
+nt|Walddk2: 2@C  rød singleton	2@D  sort singleton   dobler = naturligt, jævn|pg||
 nt|vugraphzas: Det ligner "Århus-stil" at åbne Ø's hånd med 1nt -- Steen Schou gjorde det samme ved det andet bord|pg||
 mb|r!|mb|p|mb|2C|mb|d|mb|r!|mb|p|nt|Walddk2: Det er hul i hovedet, hvis du spørger mig. 3. hånd i zonen 1UT på 11?!|pg||
 nt|Walddk2: Jeg tror jeg har Peter med mig|pg||
@@ -85,7 +85,7 @@ pc|dJ|pc|c2|pc|c9|pc|d9|pg||
 pc|s9|pc|s7|pc|s4|pc|sA|pg||
 pc|c4|pc|cK|nt|Walddk2: 800 mod ingenting|pg||
 pc|c5|pc|c3|pg||
-pc|h8|nt|pelu:  KrÃ¸jgard er tidligere i kampen gÃ¥et -1400 - sÃ¥ er det her da bedre |pg||
+pc|h8|nt|pelu:	KrÃ¸jgard er tidligere i kampen gÃ¥et -1400 - sÃ¥ er det her da bedre |pg||
 nt|vugraphzas: ikke længere Roland |pg||
 nt|Walddk2: Nu slap han med 500|pg||
 nt|vugraphzas: nu er det vel "kun" 500?|pg||
@@ -157,7 +157,7 @@ mb|d|mb|2H|mb|d|nt|MolvaM: if 2@d showed dimonds why did west run to 2@h?|pg||
 mb|p|nt|MolvaM: maybe 2@d showed a major?|pg||
 mb|3H!|mb|p|nt|MolvaM: sme pairs play 2@d as a "non-serious" overcall in one of the majors|pg||
 nt|MolvaM: reserving the 2M overcall for real seriou overcalling hands|pg||
-mb|3N|mb|p|nt|Luffe12:  2@d = Multi|pg||
+mb|3N|mb|p|nt|Luffe12:	2@d = Multi|pg||
 nt|MolvaM: ok|pg||
 mb|p|nt|Luffe12:  Good / Bad|pg||
 nt|MolvaM: 3nt seems to be a better contract with this layout, in spite of the 4-4 @s fit|pg||
@@ -204,7 +204,7 @@ nt|vugraphzas: ellers?|pg||
 pc|d2|pc|dQ|pc|d5|pc|d6|pg||
 pc|dT|nt|Walddk2: ups|pg||
 pc|d4|pc|d7|pc|d3|pg||
-pc|c6|nt|pelu:  jeg ville hellere vÃ¦re i storslem - bÃ¥de 6@d og 7@d hÃ¦nger pÃ¥ @hK i plads med @s ud|pg||
+pc|c6|nt|pelu:	jeg ville hellere vÃ¦re i storslem - bÃ¥de 6@d og 7@d hÃ¦nger pÃ¥ @hK i plads med @s ud|pg||
 pc|c5|nt|Walddk2: Jeg var sikker på et sparudspil|pg||
 pc|cQ|pc|c2|pg||
 pc|dA|pc|d8|pc|s6|pc|d9|pg||
@@ -216,7 +216,7 @@ mc|12|pg||
 qx|c22|st||md|4SQJT74H65D832CT42,SA96HAJT72DQTCK76,SK53HK943D954C985,S82HQ8DAKJ76CAQJ3|sv|e|nt|MolvaM: a slammish hand|pg||
 nt|Luffe12:  but which?|pg||
 mb|1D|nt|MolvaM: that spade lead could defeat|pg||
-mb|p|mb|1H|nt|Luffe12:  it appears that @s-lead kills them all :9|pg||
+mb|p|mb|1H|nt|Luffe12:	it appears that @s-lead kills them all :9|pg||
 nt|Luffe12:  :)|pg||
 mb|p|mb|2C|mb|p|nt|MolvaM: EW play mini nt so I guess they have to take the slow route?|pg||
 mb|2S!|mb|p|mb|3H|mb|p|mb|4H|mb|p|mb|p|nt|Luffe12:  4@h looks decent|pg||
@@ -256,7 +256,7 @@ nt|Walddk2: Peter, Jan og jeg har også 'spillet' alle 108 spil, men det er lige
 nt|vugraphzas: så det er nogle rutinerede folk -- rutinerede=ældre :)|pg||
 pc|h2|pc|hJ|pc|h6|pc|hA|pg||
 pc|cJ|pc|c3|pc|c4|pc|c6|pg||
-pc|dJ|nt|pelu:  +?????|pg||
+pc|dJ|nt|pelu:	+?????|pg||
 pc|d2|pc|d3|pc|d6|pg||
 pc|d9|pc|d4|pc|dK|pc|dT|pg||
 pc|d7|pc|dA|pc|d8|pc|d5|pg||
@@ -296,7 +296,7 @@ pg||
 qx|o24|st||md|2SQ32H4D6542CT8632,SAK4HA97532DK9CKQ,SJT987HKQ6DA73C97,S65HJT8DQJT8CAJ54|sv|o|nt|pelu:  tak Ib (Lundby)|pg||
 mb|1H|mb|1S|nt|pelu:  ja men du er jo en ung flot mand Jan|pg||
 mb|2H|mb|p|mb|4H|mb|p|mb|p|mb|p|nt|Walddk2: "giv aldrig op, de gamle bukke har de stiveste horn", fik jeg fra en tilskuer. Det luner, tak for det :)|pg||
-nt|pelu:  sÃ¥ sprang kÃ¦den af for ÃV i lukket: frivillig 5@h 1 ned|pg||
+nt|pelu:  sÃ¥ sprang kÃ¦den af for ÃV i lukket: frivillig 5@h 1 ned|pg||
 nt|vugraphzas: Alder er jo noget subjektivt noget -- man er jo kun så gammel som man selv gør sig til|pg||
 pc|sJ|nt|Walddk2: Men lidt uheldigt at have to trumftabere|pg||
 nt|pelu:  ja m,en jeg mÃ¥ alligevel ikke spille i junior-turneringerne - Ã¸v :)|pg||
@@ -363,7 +363,7 @@ pc|c8|pc|cT|pc|cJ|nt|pelu:  Nej - lÃ¦ngdemarkering har prioritet, men har har 
 pc|cQ|pg||
 pc|s7|pc|sT|pc|s3|pc|s5|pg||
 pc|s6|pc|s8|pc|sK|pc|s4|pg||
-pc|c9|nt|pelu:  hvis du i en farve sidder med 8-6-4-2, sÃ¥ lÃ¦gger du fÃ¸rst 2'eren = lige antal, men derefter er de tre Ã¸vrige kort i farven "frie"|pg||
+pc|c9|nt|pelu:	hvis du i en farve sidder med 8-6-4-2, sÃ¥ lÃ¦gger du fÃ¸rst 2'eren = lige antal, men derefter er de tre Ã¸vrige kort i farven "frie"|pg||
 pc|c2|pc|s2|pc|c5|pg||
 pc|hT|pc|c7|pc|sJ|pc|hK|pg||
 pc|sQ|pc|c3|pc|s9|pc|sA|pg||
@@ -446,12 +446,12 @@ pc|h8|pc|h6|pc|hK|pc|hT|pg||
 mc|12|pg||
 qx|o27|st||md|1SQJ8HA2DK753CQ754,S432HJ654DAJTCKJT,S95HK987D98642C93,SAKT76HQT3DQCA862|sv|o|nt|pelu:  PH har tjent 30 IMP tilbage de sidste 6 spil|pg||
 nt|smoller:  Det blev opfundet i Studenterforeningen for 4--50 nÃ¥r siden. Sidste stik pÃ¥ @D7 koster Ã¸l for makkeren|pg||
-mb|1C|mb|p|nt|smoller:  *40-50 Ã¥r|pg||
+mb|1C|mb|p|nt|smoller:	*40-50 Ã¥r|pg||
 mb|1D|mb|1S|mb|2D|nt|vugraphzas: hvis Steen Møller har været med til at opfinde @d7, så må han også være en ældre herre :)|pg||
-mb|2S|mb|p|nt|smoller:  Blev isÃ¦r modtaget godt i Ã¸lglade Holland|pg||
+mb|2S|mb|p|nt|smoller:	Blev isÃ¦r modtaget godt i Ã¸lglade Holland|pg||
 nt|pelu:  mange stedet i europa er @d/ i dag kendt som "beer-card" - hollÃ¦nderne var de fÃ¸rste til at tage ideen op|pg||
-mb|3C!|nt|smoller:  @D7 kaldes nu mange steder for "Ãl-kortet"|pg||
-mb|p|mb|4S|mb|p|mb|p|mb|p|pc|d5|nt|smoller:  Ãst kan nÃ¦ppe gÃ¦tte forkert i klÃ¸r|pg||
+mb|3C!|nt|smoller:  @D7 kaldes nu mange steder for "Ãl-kortet"|pg||
+mb|p|mb|4S|mb|p|mb|p|mb|p|pc|d5|nt|smoller:  Ãst kan nÃ¦ppe gÃ¦tte forkert i klÃ¸r|pg||
 nt|vugraphzas: Skriver du ikke lige en kort "opsamling" til Flemming og Charlotte -- |pg||
 nt|Walddk2: Især fordi Syd nok ikke har @HEK, når man ikke trækker en honnør|pg||
 pc|dA|pc|d9|pc|dQ|pg||
@@ -498,7 +498,7 @@ nt|sommer: now, they realy MUST bid slam in 26:)|pg||
 nt|MolvaM: 5@h was unlucky to be sure with the bad trump layout, but unfaroble layouts are waiting round the next corner for your next poor contract to defeat you|pg||
 nt|sommer: ...|pg||
 pg||
-qx|o28|st||md|2ST8543HQDT75CAJ97,SAQ6HA53DKQJ93CK8,SJ972HT974DA2CT43,SKHKJ862D864CQ652|sv|n|mb|2C!|nt|smoller:  Jeg sÃ¥ 1. halvleg, det mÃ¥ glÃ¦ade Jan, at de to senorpar spiller pÃ¦nt|pg||
+qx|o28|st||md|2ST8543HQDT75CAJ97,SAQ6HA53DKQJ93CK8,SJ972HT974DA2CT43,SKHKJ862D864CQ652|sv|n|mb|2C!|nt|smoller:	Jeg sÃ¥ 1. halvleg, det mÃ¥ glÃ¦ade Jan, at de to senorpar spiller pÃ¦nt|pg||
 nt|Walddk2: Det gjorde de nu ikke i runde 6 og 7|pg||
 mb|p|mb|2D!|mb|p|nt|Walddk2: Skrækkelkige Multihold-resultater'|pg||
 mb|2N!|mb|p|mb|3D!|mb|p|nt|smoller:  Jan var som bekendt en god kaptajn for det danske seniorhold i Lille (world Minds Sport Games)|pg||
@@ -598,11 +598,11 @@ nt|Walddk2: Syd og Vest skulle have været makkere her; de kunne nok klare en st
 nt|pelu:  Ns hÃ¥nd er i 1ut = stuik vÃ¦rd - mens den i spar er mindst 2 stik vÃ¦rd - han risikerer at makker kun har doubleton i spar og en god 5-farve i minor, men jeg ville overfÃ¸re til 2@s hver gang|pg||
 mb|p|nt|smoller:  ja 14 topstik W/S|pg||
 mb|1N|mb|d|nt|vugraphzas: Ville I også passe Syds 1nt åbning med den Vest hånd -- som man gjorde i det lukkede rum?|pg||
-nt|smoller:  Som Matti fra Finland siger, sÃ¥ kan Ã/V vinde mang hjerter|pg||
+nt|smoller:  Som Matti fra Finland siger, sÃ¥ kan Ã/V vinde mang hjerter|pg||
 mb|2S|mb|p|mb|p|mb|p|nt|Walddk2: D = straf står der på systemkortet|pg||
 nt|Walddk2: for Bilde og Jørgen Hansen, og det er det, ØV spiller|pg||
 nt|vugraphzas: åhhh -- Frederik Mørk og Steen Schou spiller Woolsey -- så W kan ikke doble styrkevisende ved det andet bord|pg||
-nt|pelu:  D er - ogsÃ¥ af en stÃ¦rk ut - straf for ÃV - usÃ¦dvcanligt men det burde fungere her - og dog...:)|pg||
+nt|pelu:  D er - ogsÃ¥ af en stÃ¦rk ut - straf for ÃV - usÃ¦dvcanligt men det burde fungere her - og dog...:)|pg||
 pc|d3|pc|dA|pc|dQ|pc|d5|pg||
 pc|sK|pc|s6|nt|Walddk2: Nej, strafdoblingen af en stærk sans har de fleste opgivet|pg||
 pc|s2|pc|s5|pg||
@@ -675,9 +675,9 @@ mb|2H|mb|4S|mb|p|nt|Walddk2: Jo da|pg||
 nt|smoller:  At the other table @DQ was led against 6@S|pg||
 nt|vugraphzas: og nu spiller HC Nielsen vel @s ud -- hvis ØV da kommer i 6@s|pg||
 nt|vugraphzas: @h ud naturligvis !!|pg||
-nt|pelu:  i lukket rum kunne V krÃ¦ve ved at springe til 3@S - det gav plads til at par cue bids (kontrolmeldinger) og fÃ¸rte ÃV i slem|pg||
+nt|pelu:  i lukket rum kunne V krÃ¦ve ved at springe til 3@S - det gav plads til at par cue bids (kontrolmeldinger) og fÃ¸rte ÃV i slem|pg||
 nt|vugraphzas: men Krøjgaard har en "kanin" i ærmet |pg||
-mb|6C|mb|p|nt|smoller:  Ja, nu er 6@S ikke lngere en vinder . N/S spiller stort set altid ud i makkers farve|pg||
+mb|6C|mb|p|nt|smoller:	Ja, nu er 6@S ikke lngere en vinder . N/S spiller stort set altid ud i makkers farve|pg||
 mb|p|mb|p|nt|Walddk2: Der ser I, 6@C var også en mulighed|pg||
 pc|d7|nt|smoller:  Her er to trumftabere|pg||
 nt|Walddk2: Nu kan man vinde med åbne kort, men gør det ikke i praksis|pg||
@@ -883,7 +883,7 @@ pc|h5|pc|h9|pc|hT|pc|hA|pg||
 nt|sommer: 14 imps in the slam.. E played 6@C-1|pg||
 mc|7|pg||
 qx|o36|st||md|2SK75HA962DKTCAT94,ST642HKQ54DQ8C762,SQ98HJDJ9542CKQ85,SAJ3HT873DA763CJ3|sv|b|mb|p|nt|vugraphzas: hvis man ikke må spille ud fra Qx i makkers farve når makker melder ind alene i zonen ... såhhhhhh |pg||
-nt|pelu:  det kan blive et godt resultat til Sxchou - 2@s vinder vel i ÃV|pg||
+nt|pelu:  det kan blive et godt resultat til Sxchou - 2@s vinder vel i ÃV|pg||
 mb|p|mb|p|mb|1C|mb|p|mb|1D|nt|Walddk2: http://bridge.dk/0009/Klub2/Turneringer/Resultat1273.html  halvlegsstillinger i alle seks kampe|pg||
 mb|p|nt|Walddk2: De er alle meget lige|pg||
 nt|pelu:  nogle ville mÃ¥ske i fÃ¸rste runde melde 2@s i Vest|pg||

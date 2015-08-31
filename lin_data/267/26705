@@ -51,7 +51,7 @@ qx|c3|st||md|1SA2H654D8643CQT83,SK86HT972DQ9752C7,ST9543HA3DAKCAJ94,SQJ7HKQJ8DJT
 mb|p|mb|p|mb|1C!|an|16+|nt|KingCur: NS play a slightly less standard system, so let's see how EW can cope with that|pg||
 nt|ahollan1: 1@C=16+ unbal or 17+bal|pg||
 mb|p|mb|1D!|an|0-7|mb|p|nt|ahollan1: 1@D=0-7|pg||
-mb|1S|an|4+!S forcing, can be canape|mb|p|mb|2C!|an|5-7 no 3!S, no 5!H|nt|ahollan1: 1@S=4+suit  forcing|pg||
+mb|1S|an|4+!S forcing, can be canape|mb|p|mb|2C!|an|5-7 no 3!S, no 5!H|nt|ahollan1: 1@S=4+suit	forcing|pg||
 mb|p|nt|ahollan1: 2@C=5-7 hcp, no @S fit|pg||
 mb|p|mb|p|nt|ahollan1: not 5+@H or 6+@C/@D|pg||
 nt|KingCur: good moment to throw the towel for N|pg||
@@ -131,7 +131,7 @@ nt|ahollan1: 3N or 4@S?|pg||
 mb|p|mb|4D|mb|p|nt|ahollan1: nope  didn't think about 4@D|pg||
 mb|4S|mb|p|mb|p|mb|p|nt|KingCur: Jaap will take into account that Simon did a lot of underbidding so far, so his 3@S may show a lot more maybe|pg||
 pc|cA|pc|c7|pc|c3|pc|c9|pg||
-nt|ahollan1: good choice not to bid 3N  but i confess that would be my bid at the table|pg||
+nt|ahollan1: good choice not to bid 3N	but i confess that would be my bid at the table|pg||
 pc|hT|pc|h3|pc|h6|pc|hQ|pg||
 pc|s7|pc|sA|pc|s5|pc|s2|pg||
 pc|h8|pc|hJ|pc|h5|pc|h2|pg||
@@ -186,7 +186,7 @@ pc|cQ|pc|c6|pc|h2|pc|c9|pg||
 pc|d8|pc|c7|pc|d6|pc|d7|pg||
 pc|h7|pc|h5|pc|hJ|pc|h3|pg||
 mc|8|pg||
-qx|c7|st||md|1SAKQ94H43DQT8CQ42,SJ65HAT7D94CAKJ76,S87HQ9852DKJ632C5,ST32HKJ6DA75CT983|sv|b|mb|1S!|an|10-15 4+!S can be canape|nt|ahollan1: 1@S=10-15 hcp, 4+@S  if 2nd suit it is LONGER  [canape]|pg||
+qx|c7|st||md|1SAKQ94H43DQT8CQ42,SJ65HAT7D94CAKJ76,S87HQ9852DKJ632C5,ST32HKJ6DA75CT983|sv|b|mb|1S!|an|10-15 4+!S can be canape|nt|ahollan1: 1@S=10-15 hcp, 4+@S	if 2nd suit it is LONGER  [canape]|pg||
 mb|2C|nt|KingCur: we'll remember that for when the match gets really tight again, Gerbrand|pg||
 mb|d!|mb|3C|mb|p|an|Normally no 5!D/!H|mb|p|mb|p|pc|s8|nt|ahollan1: DBL = values  not normal negative dbl for other suits|pg||
 pc|s2|pc|sQ|pc|s6|pg||
@@ -238,7 +238,7 @@ pc|c9|pc|sJ|pc|h6|pc|h3|pg||
 pc|sK|pc|s4|pc|h4|nt|KingCur: plus @HK will be ruffed by E, avoiding the @D discard|pg||
 pc|sA|pg||
 pc|cQ|pc|s2|pc|hT|pc|d2|pg||
-pc|sT|pc|hJ|pc|h7|nt|ahollan1:  4[2@SN+1]  Drijver playing 4@S north|pg||
+pc|sT|pc|hJ|pc|h7|nt|ahollan1:	4[2@SN+1]  Drijver playing 4@S north|pg||
 pc|s5|pg||
 pc|s9|pc|d3|pc|d6|pc|sQ|pg||
 pc|s7|pc|s8|pc|d7|pc|h8|pg||
@@ -271,7 +271,7 @@ nt|ahollan1: over 1@C  1N would show 4@H/@S & 5+@D|pg||
 pc|d9|nt|Vugraphzbd: @D9= 0 or 2 higher|pg||
 nt|Vugraphzbd: West thinks 0 :)|pg||
 nt|ahollan1: i never liked description of 0 or 2 higher|pg||
-nt|ahollan1: learned hard way when student led  9 from JT9  [2 higher]|pg||
+nt|ahollan1: learned hard way when student led	9 from JT9  [2 higher]|pg||
 nt|KingCur: declarer will not be thinking about how to play @D after this lead, but is probably considering his extra chances should clubs present a foul break|pg||
 pc|dJ|pc|dQ|pc|d6|pg||
 nt|ahollan1: i think better to describe as top or low from interior sequence|pg||
@@ -312,7 +312,7 @@ pc|d2|pc|s9|pc|s8|pg||
 pc|c5|pc|h3|pc|c8|pc|h2|pg||
 pc|sT|pc|h6|pc|h7|pc|d5|pg||
 mc|9|nt|vugraphzbc: he ducked it|pg||
-nt|sybarra: think it was mis shown by operator   |pg||
+nt|sybarra: think it was mis shown by operator	 |pg||
 nt|sybarra: he did duck |pg||
 nt|vugraphzbc: was thinking what to switch, but then played the wrong 1c|pg||
 pg||
@@ -340,7 +340,7 @@ pc|cQ|nt|KingCur:  4 was 6 to Onstein2, NS one off in 4@S|pg||
 pc|cK|pc|cA|pc|c2|pg||
 nt|KingCur: (Brink-Drijver in other room)|pg||
 pc|c9|pc|c3|pc|c5|pc|cT|pg||
-nt|ahollan1: i was wrong on  4   over the 1@S opener Ton sitting east found DBL|pg||
+nt|ahollan1: i was wrong on  4	 over the 1@S opener Ton sitting east found DBL|pg||
 pc|d8|pc|s7|pc|s2|pc|c7|pg||
 pc|d7|pc|c6|pc|s3|pc|sQ|pg||
 nt|KingCur: 3 off now|pg||
@@ -377,7 +377,7 @@ nt|vugraphzbc: that is in 35 minutes from now|pg||
 nt|vugraphzbc: and Onstein 2 actually has 1 imp less (I misentered their score)|pg||
 mb|4C|mb|p|nt|vugraphzbc: 2 aces missing but they need to be cashed, else the @hs provide discards|pg||
 mb|4S!|an|rkc !c |mb|p|nt|sybarra: Ton pushing hard |pg||
-mb|4N!|an|1/4|mb|p|mb|5C|mb|p|mb|p|nt|ahollan1: the science of bidding solid 8-baggers    on your bookshelf ......... never :(|pg||
+mb|4N!|an|1/4|mb|p|mb|5C|mb|p|mb|p|nt|ahollan1: the science of bidding solid 8-baggers	  on your bookshelf ......... never :(|pg||
 mb|p|nt|sybarra: 4 @S was rkk  for clubs |pg||
 pc|sA|pc|s7|pc|s2|pc|s8|pg||
 pc|d5|pc|dT|pc|dA|pc|d6|pg||
