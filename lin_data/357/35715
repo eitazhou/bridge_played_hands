@@ -151,10 +151,10 @@ mb|1C|mb|p|mb|1S|nt|paulg:  1@c is natural or balanced|pg||
 nt|yo_yo: 5@C  by N  -1,  an ambitious contract|pg||
 mb|p|nt|yo_yo: 1@S = @D?|pg||
 mb|1N|nt|paulg:  1@s is limited with no major or game forcing with diamonds|pg||
-mb|p|nt|paulg:  1NT shows a weak no-trump|pg||
+mb|p|nt|paulg:	1NT shows a weak no-trump|pg||
 mb|2C|an|something that take a lot of writing|nt|Clinch: In the other room, NS reached 5@c, too high|pg||
 nt|Clinch: Oh sorry Kath, didn't notice you'd said that|pg||
-mb|p|nt|paulg:  2@c is probably weak with diamonds or some invitational hands|pg||
+mb|p|nt|paulg:	2@c is probably weak with diamonds or some invitational hands|pg||
 nt|Clinch: Hard to stop low though|pg||
 mb|2D|mb|p|mb|p|mb|d|nt|Clinch: So much for being hard to stop low|pg||
 nt|paulg:  Hinden will pass and Myers will be forced to bid 2@h|pg||
@@ -176,7 +176,7 @@ mc|8|pg||
 qx|o10|st||md|4SKT643HQ7DK863CA8,S982H632DJ94CT965,SA75H985DT7CKJ743|sv|b|nt|yo_yo: 3@H - 1 by East|pg||
 nt|yo_yo: in other room|pg||
 mb|1H|mb|1S|mb|p|mb|2S|nt|paulg:  3@s very close to making|pg||
-mb|d|mb|p|mb|3H|mb|p|mb|p|mb|p|pc|s3|nt|paulg:  although this is the reason that 3@h fails, with everything favourable for NS|pg||
+mb|d|mb|p|mb|3H|mb|p|mb|p|mb|p|pc|s3|nt|paulg:	although this is the reason that 3@h fails, with everything favourable for NS|pg||
 pc|s2|pc|sA|pc|sJ|pg||
 pc|dT|pc|d2|nt|paulg:  in fact down one looks a good result in the other room|pg||
 pc|dK|pc|d4|pg||
@@ -255,7 +255,7 @@ nt|paulg:  looks trivially one down for 5 IMP to Hinden|pg||
 pc|h2|pc|h3|pc|hK|pc|h9|pg||
 pc|cA|pc|c8|pc|c6|pc|c9|pg||
 pc|h6|pc|hQ|pc|h4|pc|h8|pg||
-mc|9|nt|paulg:  Chris Jagger made a quiet raise to 3@d and let NS get overboard in the other room|pg||
+mc|9|nt|paulg:	Chris Jagger made a quiet raise to 3@d and let NS get overboard in the other room|pg||
 pg||
 qx|o15|st||md|1SA8HQ73DJ973CT976,SKT3HAKT4DQ65CAJ5,SQ72HJ96DAT84CQ42|sv|n|mb|p|mb|1C|mb|p|mb|1S|mb|p|mb|1N|mb|p|mb|p|mb|p|pc|h6|pc|h2|pc|hQ|pc|hA|pg||
 pc|sK|pc|s2|pc|s4|pc|sA|pg||
@@ -308,9 +308,9 @@ pc|d6|pc|d7|pc|dQ|pc|d3|pg||
 pc|dA|pc|d9|pc|d2|pc|d8|pg||
 pc|d4|pc|dT|pc|dK|mc|9|pg||
 qx|o19|st||md|1SKTHA5DAKJ875C952,S954HQJ9863D3C876,SJ82HKTDQT642CJ43|sv|e|mb|1N|mb|p|mb|p|mb|2S|an|!S+m|mb|3D|mb|p|nt|paulg:  hi everyone, match seven of the English Premier League from Manchester Bridge Club |pg||
-mb|p|mb|d|mb|p|mb|3H|nt|paulg:  Brock leading after the first weekend, Hinden in bottom place after finishing second last season|pg||
+mb|p|mb|d|mb|p|mb|3H|nt|paulg:	Brock leading after the first weekend, Hinden in bottom place after finishing second last season|pg||
 nt|paulg:  Current ranking at http://www.ebu.co.uk/documents/results-data/live/Ranks22.htm|pg||
-mb|4D|mb|p|mb|p|mb|p|nt|paulg:  and all the results at http://www.ebu.co.uk/node/1757|pg||
+mb|4D|mb|p|mb|p|mb|p|nt|paulg:	and all the results at http://www.ebu.co.uk/node/1757|pg||
 nt|paulg:  A 20-board match.|pg||
 pc|s4|nt|paulg:  Hopefully we'll get the other table linked up at some point.|pg||
 pc|s2|pc|sA|pc|sT|pg||
