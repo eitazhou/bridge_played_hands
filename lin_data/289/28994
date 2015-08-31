@@ -79,7 +79,7 @@ pc|s4|pc|s6|pc|s3|pc|sA|pg||
 pc|cJ|pc|cA|pc|c5|pc|h2|pg||
 pc|s8|pc|s9|pc|sJ|pc|d9|pg||
 mc|11|pg||
-qx|c25|st||md|3SK84HA7DAQJ32CA73,S9765HKQ6D75CT654,SJT32HT98432DK8CK,SAQHJ5DT964CQJ982|sv|e|mb|2H!|mb|p|mb|3C!|mb|p|mb|3S!|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|c5|nt|cbergek:  Hi! Found a CC for NS: 2@H shows 4+@S and 4+@H and 2-8 HCP. 3@C artificial.|pg||
+qx|c25|st||md|3SK84HA7DAQJ32CA73,S9765HKQ6D75CT654,SJT32HT98432DK8CK,SAQHJ5DT964CQJ982|sv|e|mb|2H!|mb|p|mb|3C!|mb|p|mb|3S!|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|c5|nt|cbergek:	Hi! Found a CC for NS: 2@H shows 4+@S and 4+@H and 2-8 HCP. 3@C artificial.|pg||
 pc|cK|pc|c2|pc|c3|pg||
 pc|sJ|pc|sA|pc|s4|pc|s5|pg||
 pc|cQ|pc|c7|pc|c4|pc|s2|pg||
@@ -121,7 +121,7 @@ pc|c2|pc|c8|pc|cA|pc|s9|pg||
 pc|dQ|pc|dK|pc|dA|pc|d7|pg||
 pc|c5|pc|cQ|pc|c4|pc|hT|pg||
 pc|s2|pc|s8|pc|sQ|pc|h7|pg||
-pc|s6|mc|7|nt|cbergek:  Ok, so he hoped for the @D10 to fall instead, but before that tried for @Cs to be 2-2|pg||
+pc|s6|mc|7|nt|cbergek:	Ok, so he hoped for the @D10 to fall instead, but before that tried for @Cs to be 2-2|pg||
 pg||
 qx|o28|st||md|2SKJ4HDAQJ742CKT83,SAQ97HK4D98CQJ654,ST32HA98732DKT6C9,S865HQJT65D53CA72|sv|n|mb|1C!|mb|1H|mb|p|mb|2D!|mb|p|mb|p|mb|p|pc|cQ|pc|c9|pc|cA|pc|c3|pg||
 pc|s8|pc|sJ|pc|sQ|pc|s2|pg||
@@ -133,7 +133,7 @@ pc|hA|pc|h5|pc|cT|mc|10|pg||
 qx|c28|st||md|2SKJ4HDAQJ742CKT83,SAQ97HK4D98CQJ654,ST32HA98732DKT6C9,S865HQJT65D53CA72|sv|n|mb|2C!|mb|p|mb|2H|mb|3D|mb|3H|mb|p|mb|p|nt|bt:  3@H, wow :)|pg||
 mb|d!|mb|p|mb|p|mb|p|pc|s4|pc|sQ|pc|s2|pc|s6|pg||
 pc|hK|pc|hA|pc|h5|pc|d7|pg||
-nt|bt:  luckily ew just got married, in a longer marriage I think this hand would cause some friction|pg||
+nt|bt:	luckily ew just got married, in a longer marriage I think this hand would cause some friction|pg||
 pc|h9|pc|hT|pc|d2|pc|h4|pg||
 pc|d3|pc|dQ|pc|d8|pc|dK|pg||
 pc|dT|pc|d5|pc|dJ|pc|d9|pg||
@@ -170,15 +170,15 @@ qx|c30|st||md|4SQ2HKQ7542DACKQ32,SAJ6HJT98DJ954CA9,SK543HA63DK873C84,ST987HDQT62
 mb|p|mb|2H|mb|p|mb|3H|nt|sybarra: so why were they in the sky?|pg||
 mb|p|nt|bt:  do not ask for aces with hearts as trumps when you have one ace and no queen!|pg||
 nt|Rodal F: Results by turneys played and running scores for open - ladies - senior: http://www.eurobridge.org/Repository/competitions/13OOstende/Microsite/Results.htm|pg||
-nt|bt:  as or the rest of the bidding i have no clue, i think north had done his stuff after 4@H|pg||
+nt|bt:	as or the rest of the bidding i have no clue, i think north had done his stuff after 4@H|pg||
 mb|4C|mb|p|mb|4D|mb|p|mb|4H|mb|p|nt|sybarra: this feels like we may go off the rails here also|pg||
-nt|bt:  let us se about the common trap|pg||
+nt|bt:	let us se about the common trap|pg||
 mb|p|mb|p|nt|bt:  in the other room north had shown @SK and cuebid diamonds|pg||
-nt|bt:  nicely done by north here|pg||
+nt|bt:	nicely done by north here|pg||
 nt|sybarra: 4 @H is not exactly easy either |pg||
 pc|hJ|nt|bt:  looks like ruffing a club will suffice|pg||
 pc|h3|pc|sT|pc|hK|pg||
-nt|sybarra: 4 is fine,  and some what easy|pg||
+nt|sybarra: 4 is fine,	and some what easy|pg||
 nt|sybarra: can we get to dummy?|pg||
 pc|dA|pc|d4|pc|d3|pc|d2|pg||
 pc|s2|pc|sA|pc|s3|pc|s7|pg||
@@ -186,7 +186,7 @@ pc|hT|nt|bt:  after @S T discard it was easy|pg||
 nt|sybarra: W is trying his best to mess up all plans declarer had|pg||
 pc|h6|pc|c7|pc|hQ|pg||
 pc|sQ|pc|s6|pc|s4|pc|s8|pg||
-nt|bt:  nicely bid by the norwegian team|pg||
+nt|bt:	nicely bid by the norwegian team|pg||
 nt|sybarra: this is best defense I have seen for this hand |pg||
 nt|sybarra: so far |pg||
 pc|cK|pc|cA|pc|c4|pc|c5|pg||
