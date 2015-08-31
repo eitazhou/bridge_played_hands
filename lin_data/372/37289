@@ -2,7 +2,7 @@ vg|BBO1-2015 SFB Canberra,Women SF4_4,I,17,32,Travis,159,Fallon,72|
 rs|3SE-1,2NS+1,4HE-1,1NW+2,2SN-2,1NS=,4SS=,4SS+1,3DE=,3SS-2,2HN+1,2HS+1,3CN=,3NS-3,6CW=,4HW+2,1NN+3,1NS+1,3NE+3,4HW+2,,5CSx-1,5HW-2,4HW+1,2SN+2,4SNx=,4HS-1,4HN-2,5CE=,5CE=,3NN+1,4HN=|
 pn|LUSK,MARRETT,BOURKE,FALLON,C HERDEN,L TRAVIS,M GINSBERG,B TRAVIS|pg||
 qx|o17|st||md|3SKHKJ4DQ974CJ9765,ST976HAT9763DCQ43,SAJ5H852DKJ8CKT82,SQ8432HQDAT6532CA|sv|o|mb|1N|mb|2S!|nt|0  frans: hi all|pg||
-mb|d|mb|p|nt|0  frans: N weak NT|pg||
+mb|d|mb|p|nt|0	frans: N weak NT|pg||
 mb|2N|mb|p|mb|p|mb|3S|mb|p|mb|p|mb|p|nt|0  frans: 4S can make|pg||
 pc|sK|pc|s6|pc|s5|pc|s2|pg||
 pc|c6|pc|c3|pc|cT|pc|cA|pg||
@@ -87,10 +87,10 @@ pc|h7|pc|h9|pc|s3|pc|c8|pg||
 pc|cJ|pc|cQ|pc|cA|pc|c2|pg||
 pc|s7|mc|7|pg||
 qx|o20|st||md|2SK865HAQ3DAQJCAJ5,S94HJT7DK76532C96,SAT73H9654D94CQ42,SQJ2HK82DT8CKT873|sv|b|nt|0  frans: NS 4S easy|pg||
-mb|p|mb|p|mb|p|mb|2N|mb|p|nt|0  frans: open 2NT|pg||
+mb|p|mb|p|mb|p|mb|2N|mb|p|nt|0	frans: open 2NT|pg||
 mb|3C!|mb|p|mb|3D!|mb|p|nt|0  frans: 3C sty|pg||
 mb|4D!|mb|p|mb|4S|mb|p|nt|0  frans: 4D both major|pg||
-mb|p|mb|p|nt|0  frans: lous 1S,1H and 1D|pg||
+mb|p|mb|p|nt|0	frans: lous 1S,1H and 1D|pg||
 pc|c9|pc|c2|pc|cT|pc|cJ|pg||
 pc|sK|pc|s4|pc|s3|pc|s2|pg||
 pc|s5|pc|s9|pc|sA|pc|sJ|pg||
@@ -113,7 +113,7 @@ pc|dT|pc|dA|pc|d3|pc|d9|pg||
 pc|dJ|pc|dK|pc|sT|pc|c3|pg||
 mc|11|pg||
 qx|o21|st||md|3SAKQ95H7532D97CK5,SJT7HA9DA5CAT9642,S43HKQJ64DJ4CQJ87,S862HT8DKQT8632C3|sv|n|nt|0  frans: NS 3H|pg||
-mb|p|mb|3D|mb|p|mb|p|mb|p|nt|0  frans: 3D made|pg||
+mb|p|mb|3D|mb|p|mb|p|mb|p|nt|0	frans: 3D made|pg||
 pc|sA|pc|s7|pc|s4|pc|s2|pg||
 pc|sK|pc|sT|pc|s3|pc|s6|pg||
 pc|sQ|pc|sJ|pc|h4|pc|s8|pg||
@@ -131,7 +131,7 @@ pc|c6|pc|cJ|pc|s2|pc|s5|pg||
 pc|sA|pc|sT|pc|s3|pc|s8|pg||
 pc|sK|pc|sJ|pc|s4|mc|7|pg||
 qx|o22|st||md|4SQ874HT98654DJTCA,S9632HK3DQ9CKJT93,SAKT5HAQD832C8752,SJHJ72DAK7654CQ64|sv|e|nt|0  frans: NS 4H|pg||
-mb|p|mb|p|mb|p|mb|1N|mb|p|nt|0  frans: 1nt and res 4D|pg||
+mb|p|mb|p|mb|p|mb|1N|mb|p|nt|0	frans: 1nt and res 4D|pg||
 mb|2D!|mb|p|mb|2H|mb|p|mb|p|mb|p|pc|dA|pc|dT|pc|d9|pc|d3|pg||
 pc|dK|pc|dJ|pc|dQ|pc|d8|pg||
 nt|0  frans: 4 made|pg||
