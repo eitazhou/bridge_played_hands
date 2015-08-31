@@ -67,7 +67,7 @@ pc|sJ|pc|s6|nt|cuttysark: Playing spades this way in case there is a ruff availa
 pc|sA|pc|s8|pg||
 mc|10|pg||
 qx|c18|st||md|4SKQT8HDKQJT75C987,SJ3HA654D9842CKJ3,S962HKQT73DA6CQT5,SA754HJ982D3CA642|sv|n|mb|p|nt|henryb:  N-S cannot quite make game|pg||
-mb|1D|mb|p|mb|1H|mb|p|mb|1S|mb|p|mb|2N|mb|p|nt|henryb:  3N is defeated by a @c lead|pg||
+mb|1D|mb|p|mb|1H|mb|p|mb|1S|mb|p|mb|2N|mb|p|nt|henryb:	3N is defeated by a @c lead|pg||
 nt|henryb:  no other game has a chance|pg||
 mb|3D|mb|p|mb|p|mb|p|nt|gambit: stopping on a dime|pg||
 pc|c3|pc|c5|pc|cA|pc|c7|pg||
@@ -390,7 +390,7 @@ nt|cuttysark: Sure - I have spades|pg||
 mb|1C!|nt|snorris: no!!|pg||
 mb|p|mb|1H!|an|!S|nt|tez: 2@h=transfer to 2@s=good 2@s hand|pg||
 nt|tez: nice convention|pg||
-mb|1S!|an|to|nt|andyv:  W raised on his ruffing powers|pg||
+mb|1S!|an|to|nt|andyv:	W raised on his ruffing powers|pg||
 nt|mdgraham: 2@S by North..|pg||
 mb|2S|nt|snorris: double would show @s?|pg||
 mb|p|mb|p|nt|snorris: ah..1@h IS @ss|pg||
@@ -400,7 +400,7 @@ nt|athene: 1@S is obviously t/o of spades|pg||
 mb|3C|nt|cuttysark: May as well be in 3NT as 3@C with this North hand|pg||
 nt|snorris: yes|pg||
 mb|p|mb|p|nt|Walddk2: And JS on the board at long last|pg||
-mb|p|nt|andyv:  EW can gain a couple of imps here|pg||
+mb|p|nt|andyv:	EW can gain a couple of imps here|pg||
 nt|Walddk2: Here you see that Sævar takes his time although there is a singleton in dummy|pg||
 nt|athene: some people play after nebulous 1@C - 1red transfer response, that X = @C+other major and cue = @D+other major|pg||
 pc|c6|nt|athene: but i think the norm is for cue to be general t/o and double to show the transfer suit|pg||
@@ -507,7 +507,7 @@ nt|snorris: looks like it :)|pg||
 mb|p|nt|vugraphzhn: yes it is|pg||
 nt|athene: i suppose 3@D could show diamonds :) interesting treatment|pg||
 mb|5D|an|shows 1|nt|Walddk2: Thanks Björgvin|pg||
-mb|p|nt|andyv:  opening bid certainly made it more difficult for N to enter the picture|pg||
+mb|p|nt|andyv:	opening bid certainly made it more difficult for N to enter the picture|pg||
 mb|5S|nt|marlowepi: 50 km/litre|pg||
 nt|marlowepi: this is a getsilly contract though|pg||
 mb|p|nt|athene: i guess in practice this is less than 50%|pg||
@@ -555,7 +555,7 @@ pc|sA|pc|s5|pc|s6|pc|sT|pg||
 pc|s2|pc|s7|pc|sK|pc|h5|pg||
 pc|sJ|pc|h6|pc|s3|pc|s9|pg||
 pc|dA|pc|d2|pc|d4|pc|d3|pg||
-pc|dQ|pc|d7|nt|henryb:  Of course, there would be a good slam opposite AQxxx Axx xxx Ax|pg||
+pc|dQ|pc|d7|nt|henryb:	Of course, there would be a good slam opposite AQxxx Axx xxx Ax|pg||
 pc|d9|pc|d5|pg||
 pc|h4|pc|h7|pc|s4|pc|h8|pg||
 pc|c8|pc|c7|pc|cQ|pc|cA|pg||
@@ -578,7 +578,7 @@ nt|cuttysark: That was this room - they got to slam on the same board in the CR 
 nt|mdgraham: even though we are looking at the deal, I think you have to double with the East hand over 2NT |pg||
 nt|athene: ok, if partner has @SAK i suppose 6@S isn't so bad - but on a probable diamond lead it's isn't that great|pg||
 nt|snorris: and his 2 @s I was going to say..|pg||
-mb|p|nt|andyv:  beside the pass out, our first part score in OR|pg||
+mb|p|nt|andyv:	beside the pass out, our first part score in OR|pg||
 nt|Walddk2: Balanced minimum hands bypass a major to show 12-14|pg||
 pc|d5|nt|cuttysark: I thought they played a weak NT?|pg||
 nt|Walddk2: Advantages and disadvantages. You don't get anything for nothing|pg||
@@ -597,7 +597,7 @@ nt|Walddk2: I prefer to show the nature of my hand, balanced/unbalanced|pg||
 nt|cuttysark: Generally a sound strategy, Roland|pg||
 nt|athene: maybe he was planning to double if 3@S came round to him but that carries more risk than doubling 2nt|pg||
 nt|mdgraham: so a big swing for the leaders - and board 32 to come as well |pg||
-pc|dK|pc|d7|nt|tez: .5  5= 1/32|pg||
+pc|dK|pc|d7|nt|tez: .5	5= 1/32|pg||
 nt|Walddk2: No-one outside Iceland can pronounce that vulcano, but here is some help|pg||
 pc|d4|pc|dA|pg||
 pc|sQ|nt|Walddk2:  Eyjafjallajökull, pronounced "ay-uh-fyat-luh-yoe-kuutl"  ...  no wonder people have problems with the pronunciation. It's three words in one: eyja (island,) fjalla (mountain), ...|pg||
@@ -616,7 +616,7 @@ pc|dJ|pc|s7|pc|h3|pc|h5|pg||
 pc|hQ|pc|hA|pc|s6|pc|h2|pg||
 pc|sK|pc|sT|pc|c3|pc|s4|pg||
 mc|9|pg||
-qx|c27|st||md|1SKJ9863H5D987C854,ST52HJ98762DJ654C,SQ7HKQDA32CAK9632,SA4HAT43DKQTCQJT7|sv|o|nt|henryb:  3@d as we were alerted showed 12-14 balanced|pg||
+qx|c27|st||md|1SKJ9863H5D987C854,ST52HJ98762DJ654C,SQ7HKQDA32CAK9632,SA4HAT43DKQTCQJT7|sv|o|nt|henryb:	3@d as we were alerted showed 12-14 balanced|pg||
 mb|2S|mb|p|mb|2N|mb|d|nt|roswolf: this might fet interesting after a multi opening|pg||
 mb|3S|nt|gambit: surprised E didn't double ....|pg||
 nt|gambit: ah...................|pg||
@@ -725,7 +725,7 @@ mb|3D!|mb|p|nt|andyv:  N's bidding a bit sterile|pg||
 mb|3N|mb|p|nt|andyv:  3N certainly safe as cards lie|pg||
 nt|Walddk2: Sævar can't know that Karl has all those controls, so 4@D now is not clear at all in my view|pg||
 mb|p|nt|snorris: s is looking for a 1s support with 3 @cs|pg||
-mb|p|nt|andyv:  finally the support comes|pg||
+mb|p|nt|andyv:	finally the support comes|pg||
 nt|Walddk2: He did it anyway|pg||
 nt|mdgraham: with the marked diamond posiiton, this has chances |pg||
 nt|snorris: yes  a @h lead gives it away|pg||
@@ -780,7 +780,7 @@ pc|hQ|pc|hK|nt|mdgraham: West has thrown a club...|pg||
 pc|s8|pc|sQ|pg||
 pg||
 qx|c29|st||md|3SK8765HT43DKT98CT,SQT432HJ87DCJ9872,S9HAQ5DQ542CAKQ64,SAJHK962DAJ763C53|sv|b|nt|roswolf: a more mixed hand|pg||
-mb|1C|mb|1D|nt|henryb:  1@c-(1@d) will keep N-S out of their best fit|pg||
+mb|1C|mb|1D|nt|henryb:	1@c-(1@d) will keep N-S out of their best fit|pg||
 mb|1H|mb|p|nt|gambit: xfer to spades (1@H)|pg||
 nt|henryb:  2N?|pg||
 nt|henryb:  1@h was a transfer showing 4 or 5 spades|pg||
