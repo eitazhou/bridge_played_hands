@@ -19,7 +19,7 @@ pc|s2|pc|s4|pc|sJ|pc|s3|pg||
 pc|s5|mc|9|pg||
 qx|c1|st||md|3SQ62HAKJTDAT8CQJ2,SA974H863DJ5CK963,SKJT85HQ2DQ973C74,S3H9754DK642CAT85|sv|o|nt|ady: good day all|pg||
 nt|SFoxa:  hello David, hi to all|pg||
-mb|2S|an|5-4|nt|SFoxa:  last Swiss match for all 20 teams|pg||
+mb|2S|an|5-4|nt|SFoxa:	last Swiss match for all 20 teams|pg||
 mb|p|mb|4S|mb|p|mb|p|mb|p|pc|h5|nt|ady: n/s may get to 4@S   which looks to be down   3NT can make with clubs 4-4|pg||
 nt|SFoxa:  with this start declarer has chances|pg||
 pc|hA|pc|h3|pc|h2|pg||
@@ -43,8 +43,8 @@ nt|vugraphzkx: we are waiting for him|pg||
 nt|ahollan1: on board  1|pg||
 nt|vugraphzkx: ok, he came back|pg||
 mb|p|mb|p|mb|1H|mb|1S|mb|2S|mb|p|nt|bjacobs: The vulnerability will dampen N/S |pg||
-mb|4H|mb|p|mb|p|mb|p|nt|ahollan1: Helgemo in 4@H west   Hellness bid 3@H instead of 2@S|pg||
-pc|sK|nt|ahollan1: oh   2@S overcall in other room|pg||
+mb|4H|mb|p|mb|p|mb|p|nt|ahollan1: Helgemo in 4@H west	Hellness bid 3@H instead of 2@S|pg||
+pc|sK|nt|ahollan1: oh	2@S overcall in other room|pg||
 nt|bjacobs: Yes, mildly interesting (very mildly!) on whether 1@S or 2@S is the better choice|pg||
 nt|ritong: yes, i think even straightforward bidders like H&H play 3@h preempt over 1@s|pg||
 pc|s2|pc|s9|pc|sA|pg||
@@ -62,8 +62,8 @@ nt|pelu:  yes and the other 18 teams play on in the swiis - for money-prices|pg|
 mc|10|pg||
 qx|c2|st||md|4S965H6DKT984CQ942,SA7HKQ984DA732CK3,SKQJT84HJ75DQCJT8,S32HAT32DJ65CA765|sv|n|nt|SFoxa:  hi Dan|pg||
 mb|p|mb|p|mb|1H|mb|2S|mb|3H|nt|djneill:  what a swing on 1|pg||
-mb|p|nt|SFoxa:  normal @h game for EW|pg||
-mb|4H|mb|p|mb|p|mb|p|nt|SFoxa:  yes, in  1, N decided for unlucky play|pg||
+mb|p|nt|SFoxa:	normal @h game for EW|pg||
+mb|4H|mb|p|mb|p|mb|p|nt|SFoxa:	yes, in  1, N decided for unlucky play|pg||
 pc|sK|pc|s2|pc|s5|pc|sA|pg||
 pc|hK|pc|h5|pc|h2|pc|h6|pg||
 pc|h4|pc|h7|pc|hA|pc|s6|pg||
@@ -74,7 +74,7 @@ nt|SFoxa:  and next door in 3NT NS were happy to find @c splitted 4-4|pg||
 pc|d3|mc|10|pg||
 qx|o3|st||md|1SJ9754H97DKQ62C84,S2HT83DA875CAJ953,SQT86H6542DJT4CQ7,SAK3HAKQJD93CKT62|sv|e|mb|p|mb|p|nt|bjacobs: On reflection, my question did look pretty stupid|pg||
 mb|p|mb|2N|mb|p|nt|pelu:  impossible - if this match 15-15 then 128 and max for no 3 is 127|pg||
-nt|bjacobs: This is one of those 5-or-7 hands.  On a diamond lead, you make 11 or 13 tricks depending on the club situation|pg||
+nt|bjacobs: This is one of those 5-or-7 hands.	On a diamond lead, you make 11 or 13 tricks depending on the club situation|pg||
 nt|pelu:  1. price: 54.000 Euro, 2. 33.750, 3. 20.250, 4. and 5 13.500 - Total 135.000 Euro|pg||
 mb|4H|an| |mb|p|nt|bjacobs: Looking at West's hand, perhaps it's one of those major suit jumps that show 13(54) shape|pg||
 nt|pelu:  but Israel can go in top with 25 win = 131 |pg||
@@ -95,7 +95,7 @@ pc|c2|pc|c4|pc|cA|pc|c7|pg||
 pc|c3|pc|cQ|pc|cK|pc|c8|pg||
 mc|12|nt|bjacobs: Hope he doesn't play this out to the bitter end|pg||
 pg||
-qx|c3|st||md|1SJ9754H97DKQ62C84,S2HT83DA875CAJ953,SQT86H6542DJT4CQ7,SAK3HAKQJD93CKT62|sv|e|nt|djneill:  right sveta, even @c split = happy campers|pg||
+qx|c3|st||md|1SJ9754H97DKQ62C84,S2HT83DA875CAJ953,SQT86H6542DJT4CQ7,SAK3HAKQJD93CKT62|sv|e|nt|djneill:	right sveta, even @c split = happy campers|pg||
 mb|2S|mb|p|nt|SFoxa:  let's see either the good luck will be with EW this board|pg||
 mb|3S|mb|4H|nt|SFoxa:  1) bid 6@c, 2) find the @cQ|pg||
 mb|p|nt|djneill:  whoa 4@h|pg||
@@ -119,14 +119,14 @@ pc|cA|pc|c4|pc|c3|pc|c6|pg||
 nt|pelu:  best defense : take both Aces and the play @D|pg||
 nt|ritong: mentioned @hs once, just in case, then kept quiet|pg||
 nt|bjacobs: It looks like South has encouraged both diamonds and clubs, so North is scratching his head wondering which one to play|pg||
-pc|d3|nt|pelu:  @D will "only" setup 1 trick :)|pg||
+pc|d3|nt|pelu:	@D will "only" setup 1 trick :)|pg||
 pc|dJ|pc|dK|pc|h3|pg||
 nt|pelu:  @H to Q and a cxhance - use @S and reserve - but thats DD|pg||
 nt|ritong: http://www.cavendishmonaco.com/files/miniram1/miniram1.html|pg||
 nt|bjacobs: If De Teissie makes this, he has an automatic "best played hand of the tournament" award|pg||
 pc|h4|pc|h5|pc|h9|pc|hJ|pg||
 nt|bjacobs: next year|pg||
-pc|d6|nt|pelu:  the Cronier team in deep trouble now|pg||
+pc|d6|nt|pelu:	the Cronier team in deep trouble now|pg||
 pc|s5|pc|d9|pc|dQ|pg||
 nt|ritong: the full name is godefroy de tessieres|pg||
 pc|sJ|pc|s6|pc|s4|pc|s2|pg||
@@ -144,7 +144,7 @@ mb|1S|mb|d|mb|p|nt|djneill:  i guess 3NT seemed difficult without partner having
 mb|2D|nt|SFoxa:  especially without @d start|pg||
 mb|2H|mb|p|nt|ady: re  sorry  my connection bad to-day|pg||
 nt|djneill:  rehi david|pg||
-mb|p|nt|SFoxa:  W has great hand - minimum help from partner is necessary for major game|pg||
+mb|p|nt|SFoxa:	W has great hand - minimum help from partner is necessary for major game|pg||
 mb|3C|mb|p|mb|3D|mb|p|mb|p|mb|p|pc|sA|nt|djneill:  Helness not sure if 2@h is 4 or 5, goes for the likely plus in 3@d|pg||
 pc|s2|pc|sJ|pc|s6|pg||
 pc|sK|pc|s3|pc|c4|pc|s9|pg||
@@ -238,7 +238,7 @@ nt|pelu:  lucky Nunes - but same distrbution in CR - but in CR EW helped decl by
 pc|s8|mc|11|pg||
 qx|c6|st||md|4ST76HQ6DK965CAJ98,SQ9HKJ84DJ8432CK2,SAKJ85HAT93DA7C65,S432H752DQTCQT743|sv|e|mb|p|nt|djneill:  brd 3 other room missed slam too, on an unopposed auction|pg||
 mb|p|mb|p|mb|1S|mb|p|nt|ady: yes  diamond ruff would have been available|pg||
-mb|2C!|mb|p|mb|2H|mb|p|mb|2S|mb|p|mb|4S|mb|p|mb|p|mb|p|pc|c3|nt|SFoxa:  one more easy game|pg||
+mb|2C!|mb|p|mb|2H|mb|p|mb|2S|mb|p|mb|4S|mb|p|mb|p|mb|p|pc|c3|nt|SFoxa:	one more easy game|pg||
 pc|c8|pc|cK|pc|c5|pg||
 nt|SFoxa:  relatively easy - 2@h to ruff or establish @h|pg||
 nt|SFoxa:  good move in the first trick - @c finess may serve as a last resort now|pg||
@@ -278,9 +278,9 @@ nt|ritong: nah|pg||
 mc|7|nt|ritong: easy and plain common sense|pg||
 pg||
 qx|c7|st||md|1SAT96HQTDQ654CQJT,SQJ74H75DK93CAK65,S8532HA92DAJTC982,SKHKJ8643D872C743|sv|b|mb|1D|mb|p|mb|1S|mb|p|mb|2S|mb|p|nt|djneill:  South has a powerhouse|pg||
-mb|p|mb|p|pc|c3|nt|ady: tight    5 losers for sure|pg||
+mb|p|mb|p|pc|c3|nt|ady: tight	 5 losers for sure|pg||
 pc|cT|pc|cK|pc|c8|pg||
-nt|ady: should keep this to the 5 obvious losers   with diamond finesse right   |pg||
+nt|ady: should keep this to the 5 obvious losers   with diamond finesse right	|pg||
 pc|h7|pc|h2|pc|hK|pc|hT|pg||
 pc|h3|pc|hQ|pc|h5|pc|h9|pg||
 pc|cJ|pc|cA|pc|c9|pc|c7|pg||
@@ -293,7 +293,7 @@ pc|s7|pc|s8|pc|h8|pc|s9|pg||
 pc|d5|pc|d9|pc|dT|pc|d7|pg||
 mc|8|pg||
 qx|o8|st||md|2S983H764D6543C854,SA7HJT3DKT97CQJT3,SJT65HDAQJ82C9762,SKQ42HAKQ9852DCAK|sv|o|nt|ritong: was visual, as said|pg||
-mb|1D|nt|pelu:  here we see - for the first time - a very serius biddingmistake by HH|pg||
+mb|1D|nt|pelu:	here we see - for the first time - a very serius biddingmistake by HH|pg||
 nt|ritong: i mean it did not need a deep and long analyze|pg||
 mb|p|mb|1H|mb|p|mb|1N|mb|p|mb|3H|an| |mb|p|nt|pelu:  Cronier back in the match - they even dont need to bid the grand|pg||
 nt|ahollan1: Mollo would have setup hand so that 4-2 fit was the ONLY making grand slam|pg||
@@ -314,7 +314,7 @@ pc|c2|nt|SFoxa:  seemingly, misunderstanding, yes|pg||
 nt|SFoxa:  good case to improve even HH system |pg||
 nt|vugraphzky: Helness just realized he made a mistake|pg||
 nt|djneill:  even I could set this|pg||
-mc|12|nt|ady: 17 imps possibly     new leader|pg||
+mc|12|nt|ady: 17 imps possibly	   new leader|pg||
 pg||
 qx|o9|st||md|3S96HJ54DQT84CQ976,SK32HKT86DK5CJ854,SAT874H73DA2CKT32,SQJ5HAQ92DJ9763CA|sv|e|mb|1N|an| |nt|ahollan1: that should put an end to chances for the teams battling to move into 2nd place|pg||
 mb|d|mb|p|an| |nt|bjacobs: The Pass says: "I'm happy at this stage with 1NTX"|pg||
@@ -329,12 +329,12 @@ nt|bjacobs: And 4@H does seem to not quite fetch|pg||
 mb|3H|mb|p|mb|4H|mb|p|mb|p|mb|p|pc|s9|pc|s2|nt|bjacobs: I agree with the French methods here.  I think it's best to play takeout doubles after opponents rescue themselves from 1NTX|pg||
 pc|s4|pc|sQ|pg||
 nt|ritong: not sure he can gather more than 8 tricks|pg||
-nt|ahollan1: in partner's suit  leads are  high = even     low=odd    i think that is adjustment to normal Slawinski Leads|pg||
+nt|ahollan1: in partner's suit	leads are  high = even	   low=odd    i think that is adjustment to normal Slawinski Leads|pg||
 pc|hA|pc|h4|pc|h6|pc|h3|pg||
 pc|h2|pc|h5|pc|hK|pc|h7|pg||
 pc|h8|pc|s7|pc|hQ|pc|hJ|pg||
 pc|d7|pc|d8|pc|dK|pc|dA|pg||
-pc|c2|nt|pelu:  http://www.cavendishmonaco.com/files/miniram1/miniram1.html|pg||
+pc|c2|nt|pelu:	http://www.cavendishmonaco.com/files/miniram1/miniram1.html|pg||
 pc|cA|nt|ritong: boom|pg||
 pc|c6|pc|c4|pg||
 pc|dJ|pc|dQ|pc|d5|pc|d2|pg||
@@ -350,7 +350,7 @@ pc|sT|pc|s5|pg||
 pc|c5|pc|c3|pc|sJ|pc|cQ|pg||
 pc|c9|pc|c8|pc|cT|pc|h9|pg||
 mc|8|pg||
-qx|c9|st||md|3S96HJ54DQT84CQ976,SK32HKT86DK5CJ854,SAT874H73DA2CKT32,SQJ5HAQ92DJ9763CA|sv|e|mb|1S|mb|d|mb|1N|mb|d|mb|2C|mb|2D|mb|p|mb|3H|mb|p|mb|4H|mb|p|nt|ady: e/w may stretchto 4@H    but will have difficulty|pg||
+qx|c9|st||md|3S96HJ54DQT84CQ976,SK32HKT86DK5CJ854,SAT874H73DA2CKT32,SQJ5HAQ92DJ9763CA|sv|e|mb|1S|mb|d|mb|1N|mb|d|mb|2C|mb|2D|mb|p|mb|3H|mb|p|mb|4H|mb|p|nt|ady: e/w may stretchto 4@H	 but will have difficulty|pg||
 mb|p|mb|p|pc|c3|pc|cA|pc|c7|pc|c5|pg||
 nt|ady: spade lead    if drawing 3 trumps  then may lose 3 diamonds|pg||
 pc|d7|pc|d8|pc|dK|pc|dA|pg||
@@ -408,13 +408,13 @@ pg||
 qx|c10|st||md|4SJ98763HQJ4DAQJ2C,SAHA6D53CQJT98642,SQ52HK982DK9876CK,SKT4HT753DT4CA753|sv|b|nt|ady: last hand of the session ?|pg||
 nt|vugraphzky: yes|pg||
 nt|SFoxa:  and lunch break thereafter|pg||
-mb|p|nt|ady: thx Greg  thx all  and specks|pg||
+mb|p|nt|ady: thx Greg  thx all	and specks|pg||
 mb|1S|mb|4C|mb|d|nt|SFoxa:  final match and Swiss for next places starts at 2:45 local time |pg||
-nt|ady: n/s can make up 20 11 tricks in spades  if playing spades from south hand|pg||
+nt|ady: n/s can make up 20 11 tricks in spades	if playing spades from south hand|pg||
 nt|SFoxa:  it means, a little bit less than 2 hours from now|pg||
 mb|5C|nt|ady: good club save for e/w   even 6@C|pg||
 nt|SFoxa:  http://www.cavendishmonaco.com/files/miniram1/miniram1.html|pg||
-mb|p|nt|SFoxa:  for overall score|pg||
+mb|p|nt|SFoxa:	for overall score|pg||
 mb|p|mb|p|pc|s2|pc|s4|nt|ady: sorry only 10 tricks for n/s in spades|pg||
 mc|11|nt|SFoxa:  and 5@s as a save vs. 5@c|pg||
 pg||
