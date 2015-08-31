@@ -55,7 +55,7 @@ mb|p|mb|4S|mb|p|mb|p|mb|p|nt|sibuea: a push board|pg||
 pc|cT|nt|0  frans: 10C led|pg||
 pc|cA|pc|c6|pc|c4|pg||
 pc|sA|pc|sT|pc|s6|pc|s3|pg||
-pc|sJ|pc|cJ|pc|s7|nt|0  frans: no way|pg||
+pc|sJ|pc|cJ|pc|s7|nt|0	frans: no way|pg||
 pc|s2|pg||
 pc|s5|pc|h4|pc|sK|pc|s4|pg||
 mc|10|pg||
@@ -113,7 +113,7 @@ pc|h2|pc|hT|pc|hK|pc|h6|pg||
 pc|h4|pc|h7|pc|hJ|pc|h9|pg||
 pc|cA|mc|12|pg||
 qx|c16|st||md|2SAT9864HK43D4C952,SJ3H765DQ8532CT64,SHQJ82DKTCAKQJ873,SKQ752HAT9DAJ976C|sv|e|mb|p|mb|1C|mb|1S|mb|p|mb|p|mb|2C|mb|3D|nt|0  frans: 5c NS|pg||
-mb|4D|mb|5D|mb|6C|nt|0  frans: 6d|pg||
+mb|4D|mb|5D|mb|6C|nt|0	frans: 6d|pg||
 mb|d|mb|p|mb|p|nt|sibuea: trouble making, and N/S will 1 off|pg||
 mb|p|pc|sK|pc|sA|pc|s3|pc|dT|pg||
 pc|s4|pc|sJ|pc|c8|pc|s2|pg||
@@ -129,7 +129,7 @@ pc|sK|pc|s5|pc|h5|pc|sQ|pg||
 mc|12|pg||
 qx|c17|st||md|3SQ2H8DQT42C987653,SAKT9876HKTD63CQJ,SJ53HQJ6432DJ75CT,S4HA975DAK98CAK42|sv|o|nt|0  frans: W 6s|pg||
 nt|0  frans: N 2d multy|pg||
-mb|p|mb|1C|mb|p|mb|1S|mb|p|mb|2C|mb|p|mb|2S|mb|p|mb|2N|mb|p|mb|3S|mb|p|mb|4S|mb|p|nt|0  frans: 4nt|pg||
+mb|p|mb|1C|mb|p|mb|1S|mb|p|mb|2C|mb|p|mb|2S|mb|p|mb|2N|mb|p|mb|3S|mb|p|mb|4S|mb|p|nt|0	frans: 4nt|pg||
 mb|4N|mb|p|mb|5D|nt|0  frans: 5c 03|pg||
 mb|p|nt|0  frans: 6s|pg||
 mb|5H|mb|d|mb|5S|mb|p|mb|6S|mb|p|mb|p|mb|p|nt|0  frans: claim|pg||

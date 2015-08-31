@@ -20,7 +20,7 @@ qx|c1|st||md|3S8HT865DT865CK653,SQJ9753HAKD97CAQ4,STHJ974DKJ42CJT72,SAK642HQ32DA
 pc|s7|pc|sT|pc|sA|pc|s8|pg||
 mc|13|pg||
 qx|o2|st||md|4SQJT7HQT432D8CQ76,SAK96HAKJ9DJ92CK3,S542H85DQ543CAJ52,S83H76DAKT76CT984|sv|n|nt|0  frans: easy bid and ply|pg||
-mb|p|mb|p|nt|0  frans: 1c|pg||
+mb|p|mb|p|nt|0	frans: 1c|pg||
 mb|1C|mb|p|mb|1D|nt|0  frans: Prec|pg||
 mb|p|mb|1N|mb|p|nt|0  frans: 3nt|pg||
 mb|3N|mb|p|mb|p|mb|p|nt|0  frans: led 2c|pg||
@@ -33,7 +33,7 @@ pc|h7|pc|h3|pc|hJ|pc|h5|pg||
 pc|hA|pc|h8|pc|h6|pc|hT|pg||
 pc|hK|pc|s4|pc|s3|pc|hQ|pg||
 pc|h9|pc|s5|pc|s8|pc|c6|pg||
-pc|sA|pc|c2|pc|c4|nt|0  frans: put of the lampu|pg||
+pc|sA|pc|c2|pc|c4|nt|0	frans: put of the lampu|pg||
 pc|sJ|pg||
 pc|sK|pc|c5|pc|c8|pc|sQ|pg||
 pc|cK|pc|cA|pc|cT|pc|c7|pg||
@@ -44,7 +44,7 @@ mb|2S|nt|0  frans: 3c|pg||
 mb|3C|mb|3S|nt|0  frans: 3s made|pg||
 mb|4H|nt|0  frans: 5C lous 2d and 1H|pg||
 mb|p|mb|p|mb|p|nt|0  frans: blooding|pg||
-pc|sT|pc|sJ|pc|sK|nt|0  frans: Kiki bad led|pg||
+pc|sT|pc|sJ|pc|sK|nt|0	frans: Kiki bad led|pg||
 pc|h3|pg||
 pc|c3|pc|cK|pc|cA|pc|cT|pg||
 pc|h2|pc|hT|pc|hK|pc|hA|pg||

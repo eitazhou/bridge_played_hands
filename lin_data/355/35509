@@ -4,7 +4,7 @@ pn|SANDERS,D KANE,PETERKIN,H KANE,GILLIS,PUNCH,HENNEBERGE,McGOWAN|pg||
 qx|o13|st||md|3SKQHT97DQ943CK952,SAJT63HQ864DCJ763,S542HK3DAJ75CAQ84,S987HAJ52DKT862CT|sv|b|nt|paulg:  NS playing weak no-trump|pg||
 nt|paulg:  and 4-card 1@h, 5-card 1@s|pg||
 mb|1N|mb|p|mb|p|mb|2C!|an|majors|nt|paulg:  EW 5-card majors and a strong no-trump|pg||
-mb|p|mb|2H|mb|d|mb|p|nt|paulg:  Sanders will want to compete, so this double will be takeout|pg||
+mb|p|mb|2H|mb|d|mb|p|nt|paulg:	Sanders will want to compete, so this double will be takeout|pg||
 mb|3C|mb|p|mb|p|mb|p|pc|hA|pc|h7|pc|h6|pc|h3|pg||
 pc|h2|pc|h9|pc|hQ|pc|hK|pg||
 nt|paulg:  you might consider it an unfortunate opening lead, but a spade looks normal|pg||
@@ -31,9 +31,9 @@ pc|sJ|pc|d5|pc|s8|nt|vugraphzft: declarer is claiming|pg||
 nt|vugraphzft: she will play @s throwing @c, and can ruff a @c in dummy and cash K1d = 10 tricks|pg||
 mc|10|pg||
 qx|o14|st||md|4SAKQ65HAQ983D3CT4,ST94H6DKT9842CJ87,SJ7HT74DA65CAKQ65,S832HKJ52DQJ7C932|sv|o|nt|paulg:  Looks like the dealing machine certainly had its caffeine boost in the break|pg||
-mb|p|mb|1S|mb|p|mb|2C|mb|p|mb|2H|mb|p|mb|3D!|nt|paulg:  slam is excellent but not necessarily easy to bid|pg||
+mb|p|mb|1S|mb|p|mb|2C|mb|p|mb|2H|mb|p|mb|3D!|nt|paulg:	slam is excellent but not necessarily easy to bid|pg||
 mb|p|mb|4H|nt|paulg:  that may make it easier for North who has his own source of tricks|pg||
-mb|p|mb|p|mb|p|pc|dT|nt|paulg:  whether you are playing 2/1 or not, hands where both have extras can be tricky|pg||
+mb|p|mb|p|mb|p|pc|dT|nt|paulg:	whether you are playing 2/1 or not, hands where both have extras can be tricky|pg||
 pc|dA|pc|d7|pc|d3|pg||
 pc|h4|nt|paulg:  and since so few of us have our bid these days, let alone extras, we tend to be conservative|pg||
 pc|h2|pc|hA|pc|h6|pg||
@@ -97,7 +97,7 @@ pc|h9|pc|h7|pc|hT|pc|c5|pg||
 nt|paulg:  accurate defence but to no avail|pg||
 nt|vugraphzfs: running @s's|pg||
 mc|10|pg||
-qx|c16|st||md|2ST632HQDAQT73CJ52,S85HAJ94D9864CK43,S74HK752D52CQT986,SAKQJ9HT863DKJCA7|sv|e|mb|p|mb|p|mb|1S|mb|p|mb|1N|mb|p|mb|2H|mb|p|mb|2N|an| |mb|p|mb|3N|mb|p|mb|4C|an| |mb|p|mb|4D|mb|d|mb|4H|mb|p|mb|p|mb|p|nt|vugraphzft: 2N is EITHER good @h raise OR minors.  Now it is former|pg||
+qx|c16|st||md|2ST632HQDAQT73CJ52,S85HAJ94D9864CK43,S74HK752D52CQT986,SAKQJ9HT863DKJCA7|sv|e|mb|p|mb|p|mb|1S|mb|p|mb|1N|mb|p|mb|2H|mb|p|mb|2N|an| |mb|p|mb|3N|mb|p|mb|4C|an| |mb|p|mb|4D|mb|d|mb|4H|mb|p|mb|p|mb|p|nt|vugraphzft: 2N is EITHER good @h raise OR minors.	Now it is former|pg||
 pc|dA|pc|d4|pc|d2|pc|dJ|pg||
 pc|d7|pc|d6|pc|d5|pc|dK|pg||
 pc|h3|pc|hQ|pc|hA|pc|h2|pg||
@@ -138,7 +138,7 @@ pc|sQ|pc|s7|pc|s3|pc|s9|pg||
 pc|sT|pc|sA|pc|s4|pc|d5|pg||
 pc|c5|pc|c6|pc|cJ|pc|c2|pg||
 pc|c3|pc|c4|pc|cA|pc|c8|pg||
-mc|9|nt|paulg:  nine tricks with the spades 4-4|pg||
+mc|9|nt|paulg:	nine tricks with the spades 4-4|pg||
 pg||
 qx|c18|st||md|4S98HAK3DKT875CJ93,SKQJTH764DA62CT42,SA72HQ98DJ3CAKQ75,S6543HJT52DQ94C86|sv|n|mb|p|mb|1D|mb|1S|mb|2C|an|forcing to 2N|mb|p|mb|3C|mb|p|mb|3H|mb|p|mb|3S|an| |mb|p|mb|3N|mb|p|mb|p|mb|p|pc|s6|pc|s8|pc|sT|pc|s2|pg||
 pc|sQ|pc|s7|pc|s3|pc|s9|pg||
@@ -156,8 +156,8 @@ pc|d3|pc|dQ|pc|dK|pc|dA|pg||
 pc|sK|pc|dJ|pc|d4|pc|dT|pg||
 pg||
 qx|o19|st||md|1SQJT6H94DT7CQJT64,SA543HA7D983CA873,SK7HKQJDAKQ5CK952,S982HT86532DJ642C|sv|e|nt|vugraphzfs: 2 very tight matches|pg||
-mb|p|mb|1C!|mb|d|mb|1H|mb|1S|nt|paulg:  the President's team seems to attract them|pg||
-mb|p|mb|2N|mb|p|mb|3N|mb|p|mb|p|mb|p|nt|paulg:  disciplined bidding from Peterkin and they reach the normal game|pg||
+mb|p|mb|1C!|mb|d|mb|1H|mb|1S|nt|paulg:	the President's team seems to attract them|pg||
+mb|p|mb|2N|mb|p|mb|3N|mb|p|mb|p|mb|p|nt|paulg:	disciplined bidding from Peterkin and they reach the normal game|pg||
 pc|d2|nt|vugraphzfs: Peterkin sucking a lollipop|pg||
 nt|paulg:  he's no Kojak|pg||
 pc|dT|pc|d3|pc|d5|pg||
@@ -209,7 +209,7 @@ pc|s6|pc|h7|pc|d9|pc|dQ|pg||
 nt|vugraphzft: sorry - that was making exactly - East didn't throw her @s|pg||
 pg||
 qx|o21|st||md|3SQJ86HT73DJ982C94,SA5H642DQ74CQJ763,ST74HAJ8DAKT5CAT8,SK932HKQ95D63CK52|sv|n|nt|paulg:  No surprise that we are well ahead of the other table, Peterkin and Sanders always a quick pair|pg||
-mb|1D|mb|p|mb|p|mb|p|nt|paulg:  I think Helen Kane should double on the East hand|pg||
+mb|1D|mb|p|mb|p|mb|p|nt|paulg:	I think Helen Kane should double on the East hand|pg||
 pc|hK|pc|h3|pc|h2|pc|hA|pg||
 pc|h8|pc|hQ|pc|h7|pc|h4|pg||
 pc|h5|pc|hT|pc|h6|pc|hJ|pg||
@@ -219,7 +219,7 @@ pc|sA|pc|s4|pc|s2|pc|s6|pg||
 pc|s5|pc|s7|pc|sK|pc|s8|pg||
 pc|s3|pc|sJ|pc|d7|pc|sT|pg||
 pc|c3|pc|cA|pc|c5|pc|c4|pg||
-mc|8|nt|paulg:  so the final board of the semi-final, although four still to be scored|pg||
+mc|8|nt|paulg:	so the final board of the semi-final, although four still to be scored|pg||
 pg||
 qx|c21|st||md|3SQJ86HT73DJ982C94,SA5H642DQ74CQJ763,ST74HAJ8DAKT5CAT8,SK932HKQ95D63CK52|sv|n|mb|1N|mb|p|mb|p|mb|p|pc|hQ|pc|h3|pc|h6|pc|hA|pg||
 pc|dA|pc|d3|pc|d2|pc|d4|pg||
@@ -252,7 +252,7 @@ pc|hJ|pc|s7|pc|sJ|pc|h9|pg||
 pc|d4|pc|dK|pc|d9|pc|d6|pg||
 nt|paulg:  although this hand could be a nail in the coffin, the line was not bad but unsuccessful|pg||
 nt|vugraphzfs: West appologising on butchering hand|pg||
-mc|7|nt|paulg:  yes, i didn't want to use the word butchering but it is a fair summary|pg||
+mc|7|nt|paulg:	yes, i didn't want to use the word butchering but it is a fair summary|pg||
 nt|paulg:  thanks everyone|pg||
 nt|paulg:  thanks Sandie|pg||
 nt|vugraphzfs: his words not mine :)|pg||
@@ -321,7 +321,7 @@ pc|cK|pc|c5|pc|c3|pc|cQ|pg||
 pc|c4|pc|cJ|pc|c9|pc|s4|pg||
 pc|d5|pc|dT|pc|dJ|pc|d2|pg||
 pc|sK|pc|s8|pc|s2|pc|s3|pg||
-nt|paulg:  The other semi-final has finished as a tie on BBO, so they need to check scores, see if the  carry over was an exact number of imps and possibly play an extra four boards.|pg||
+nt|paulg:  The other semi-final has finished as a tie on BBO, so they need to check scores, see if the	carry over was an exact number of imps and possibly play an extra four boards.|pg||
 pc|h5|pc|hK|pc|h2|pc|h3|pg||
 pc|c7|pc|h8|pc|hT|pc|dQ|pg||
 pc|s9|pc|sA|pc|sQ|pc|s5|pg||
