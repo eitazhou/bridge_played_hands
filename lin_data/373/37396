@@ -232,12 +232,12 @@ pc|s5|pc|s7|pc|sJ|pc|s9|pg||
 nt|H_Poirot:  I would pass |pg||
 pc|c2|pc|cA|pc|cJ|pc|c3|pg||
 nt|ahollan1: what would you pass?|pg||
-pc|sT|pc|sK|pc|c8|nt|H_Poirot:  years ago I  played strong clubs and in an auction like this pass is the better bid|pg||
+pc|sT|pc|sK|pc|c8|nt|H_Poirot:	years ago I  played strong clubs and in an auction like this pass is the better bid|pg||
 pc|s8|pg||
 pc|hA|pc|h5|pc|h2|pc|h3|pg||
 pc|hK|pc|hT|pc|d2|pc|h7|pg||
 pc|d5|nt|H_Poirot:  p has 6+ hearts|pg||
-nt|ahollan1: 2@C-P  or  2@C-2@H-P|pg||
+nt|ahollan1: 2@C-P  or	2@C-2@H-P|pg||
 nt|vugraphzbj: 2@h could have been 5-card|pg||
 nt|H_Poirot:  yes my p might have passed 2 cl|pg||
 pc|dA|pc|d3|pc|d4|pg||
@@ -248,7 +248,7 @@ pc|cT|pc|dJ|pc|h6|pc|c4|pg||
 mc|8|pg||
 qx|c7|st||md|1ST92H2DK32CAQT765,SAK543H973DJ984CJ,S76HAKJ864DQ65C83,SQJ8HQT5DAT7CK942|sv|b|nt|sybarra: its teams,  "we" made our contract,  "sorry for missing an imp p" |pg||
 nt|sybarra: no apologies for making |pg||
-mb|3C|mb|p|mb|p|mb|p|nt|sybarra: at MP or BAM,  you might play it differently |pg||
+mb|3C|mb|p|mb|p|mb|p|nt|sybarra: at MP or BAM,	you might play it differently |pg||
 pc|sK|pc|s6|pc|sQ|pc|s2|pg||
 pc|d9|pc|d5|nt|vugraphzbk: 2@H 1@D so he needs to take 6@C that seems quite difficult|pg||
 pc|dA|pc|d2|pg||
@@ -276,7 +276,7 @@ pc|cA|pc|s4|pg||
 mc|7|pg||
 qx|o8|st||md|2SJ73HT874D53CT843,S42H532D872CAJ975,SAQ986HKJDKQ64CK6,SKT5HAQ96DAJT9CQ2|sv|o|mb|p|nt|H_Poirot:  earning 3 imp anyway|pg||
 mb|1C!|an|15+|mb|p|mb|1D!|an|0-8|mb|p|mb|1H!|an|18+|mb|p|mb|1S!|an|0-4|mb|p|mb|1N|an|18-19|mb|p|nt|vugraphzbj: 1NT 18-19 now, could be slightly unbal|pg||
-mb|p|mb|p|nt|H_Poirot:  what  about 1 spade in S?|pg||
+mb|p|mb|p|nt|H_Poirot:	what  about 1 spade in S?|pg||
 nt|H_Poirot:  transer to NT?|pg||
 nt|ahollan1: 1@C-1@D-1@S = 15-17, 4+@S|pg||
 pc|h6|nt|ahollan1: 1@C-1@D-1@H-1@S = a) 0-5 HCP  b) 6-8, 0 controls|pg||
@@ -296,7 +296,7 @@ pc|dK|pg||
 pc|s6|pc|s5|pc|s7|nt|ahollan1: @S7 is an entry so gets another chance|pg||
 pc|c5|pg||
 pc|c3|nt|ahollan1: Hop should hop |pg||
-pc|cA|pc|c6|nt|ahollan1: sorry  somebody had to say it|pg||
+pc|cA|pc|c6|nt|ahollan1: sorry	somebody had to say it|pg||
 pc|c2|pg||
 pc|d7|pc|d4|pc|d9|pc|c4|pg||
 pc|dT|pc|c8|pc|c7|pc|d6|pg||
@@ -341,14 +341,14 @@ pc|h3|pc|h7|pc|hK|pc|h4|pg||
 nt|ahollan1: so  1N can't have 5-card Major -- or  5m(332) ???|pg||
 pc|hT|pc|hQ|pc|hA|pc|h9|pg||
 nt|ahollan1: system hint --  non-vul  Tarzan 1@D opener = unbal|pg||
-pc|cQ|pc|c3|nt|ahollan1: in other room  1N  1st/2nd @@favorable  was 10-2|pg||
+pc|cQ|pc|c3|nt|ahollan1: in other room	1N  1st/2nd @@favorable  was 10-2|pg||
 nt|ahollan1: 10-12|pg||
 pc|c4|pc|cA|pg||
 pc|c2|pc|c5|pc|cJ|pc|cK|pg||
 nt|vugraphzbj: good defense again by Hop-Wortel|pg||
 nt|vugraphzbj: @dJ now|pg||
 nt|vugraphzbj: for -3|pg||
-pc|dJ|pc|c6|pc|s9|nt|H_Poirot:  yes -3 down now|pg||
+pc|dJ|pc|c6|pc|s9|nt|H_Poirot:	yes -3 down now|pg||
 pc|d5|pg||
 pc|sT|mc|5|pg||
 qx|c9|st||md|3S863HQ8542DKCA762,SKQ9HAJ63DT76CQT5,SA42H97DAQ532CJ83,SJT75HKTDJ984CK94|sv|e|mb|1N|an|9-12|mb|p|mb|2H|an|to play|nt|sybarra: may still end up in 2 @H  |pg||
@@ -437,7 +437,7 @@ mb|p|nt|ahollan1: 1@S = 11-15, 5+@S, NOT 5+@H|pg||
 mb|2D!|an|!h|nt|ahollan1: or what Dennis said|pg||
 nt|ahollan1: 2@D = @H  a) 5@H, 8+ HCP "with rebid"  b) 6+@H |pg||
 mb|p|nt|vugraphzbj: tomorrow also the celebrate all the 2014 medals scored by the Dutch teams, right after the final|pg||
-nt|ahollan1: i think 2@H now -  denying 3/4 fit and exceptional distribution|pg||
+nt|ahollan1: i think 2@H now -	denying 3/4 fit and exceptional distribution|pg||
 mb|2H!|mb|p|mb|3D|an|inv 5+5+|mb|p|nt|ahollan1: seems to me there have been a large number of singleton K and singleton A today|pg||
 nt|vugraphzbj: Muller would be very interested to find out how many @c North has|pg||
 nt|ahollan1: i've never seen the auction progress this way - don't know if they have tools to find slam|pg||
@@ -479,7 +479,7 @@ nt|vugraphzbj: ah, no, it's more of a positional aspect|pg||
 nt|ahollan1: if just saying 1@C-1N = desire to declar NT   then i understand|pg||
 nt|vugraphzbj: but this hand qualifies for 1NT, i think|pg||
 nt|vugraphzbj: 2nd/4th switch through declarer, also from honors|pg||
-pc|hJ|pc|h2|pc|h7|nt|ahollan1: maybe gambling that Wortel had the strong balanced hand [18-20]  so she could declarer NT & protect @D cards|pg||
+pc|hJ|pc|h2|pc|h7|nt|ahollan1: maybe gambling that Wortel had the strong balanced hand [18-20]	so she could declarer NT & protect @D cards|pg||
 nt|vugraphzbj: rather interesting bidding for Dutch Doubleton pairs|pg||
 nt|ahollan1: too deep for me|pg||
 nt|vugraphzbj: as Hop might have 4-4 Majors with some 9-10 hcp here|pg||
