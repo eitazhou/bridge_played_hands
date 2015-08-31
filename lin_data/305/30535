@@ -60,7 +60,7 @@ nt|Ziff:  This is going to be a tough choice for S, he has no indication whether
 mb|p|mb|7N|mb|p|mb|p|mb|p|pc|h6|nt|Ziff:  Looks like there are only 1 tricks in 7NT|pg||
 nt|Ziff:  12|pg||
 nt|Ziff:  The only chance is a @C/@S squeeze, but each player holds one suit, so the squeeze does not work|pg||
-pc|h4|nt|Ziff:  Kibitzer tells me that the other room has reached 7NT after a similar sequence, too|pg||
+pc|h4|nt|Ziff:	Kibitzer tells me that the other room has reached 7NT after a similar sequence, too|pg||
 pc|d8|pc|hA|pg||
 pc|hK|pc|h3|pc|h8|pc|d5|pg||
 pc|h2|pc|hT|pc|hQ|pc|c5|pg||
@@ -136,7 +136,7 @@ pc|cJ|pc|c2|pc|c5|pc|cQ|pg||
 pc|hT|pc|hA|pc|h8|pc|h7|pg||
 pc|c8|pc|c9|pc|cT|pc|c4|pg||
 pc|cA|pc|d3|pc|c3|pc|cK|pg||
-pc|dK|nt|Ziff:  @CJ was needed to establish the @C tricks before declarer can get a discard on the 4th @H|pg||
+pc|dK|nt|Ziff:	@CJ was needed to establish the @C tricks before declarer can get a discard on the 4th @H|pg||
 pc|dA|pc|d5|pc|d9|pg||
 pc|d6|pc|dT|pc|s5|pc|d2|pg||
 pc|sA|pc|s2|pc|d7|pc|s8|pg||
@@ -165,10 +165,10 @@ nt|Ziff:  Now it might be attractive to cash two trumps before dicarding a @C, t
 pc|h5|pc|h4|pc|hA|pc|h2|pg||
 pc|hT|pc|h3|pc|hK|pc|hQ|pg||
 pc|hJ|pc|s4|pc|c3|pc|h6|pg||
-pc|h9|nt|Ziff:  Making 4 now|pg||
+pc|h9|nt|Ziff:	Making 4 now|pg||
 pc|d6|pc|s7|pc|d2|pg||
 pc|d9|nt|vugraphzcj: dec claim, 10 tricks|pg||
-mc|10|nt|Ziff:  At the other table a @C was led, the @S ruff taken, second @C cashed, then @H misguess for 1 down|pg||
+mc|10|nt|Ziff:	At the other table a @C was led, the @S ruff taken, second @C cashed, then @H misguess for 1 down|pg||
 pg||
 qx|c9|st||md|3SA3H632DJT532CAK9,SQJ5HKJ9875DK9C65,SK8642HQ4D76CQ872,ST97HATDAQ84CJT43|sv|e|mb|p|mb|1D|mb|p|mb|1H|mb|p|mb|1N|mb|p|mb|2C|mb|p|mb|2D|mb|p|mb|2H|mb|p|mb|p|mb|p|pc|c8|pc|cT|pc|cK|pc|c5|pg||
 pc|sA|pc|sJ|pc|s2|pc|s7|pg||
@@ -213,13 +213,13 @@ nt|Ziff:  Same sequence at the other table|pg||
 mb|4S|mb|p|mb|p|mb|p|nt|Ziff:  Looks like W mistrusted his @C holding opposite a partner who holds only 4 minor suit cards|pg||
 pc|c2|pc|cA|pc|c4|pc|c5|pg||
 pc|s4|pc|s5|pc|sA|pc|s2|pg||
-pc|s3|nt|Ziff:  With the @S finesse and the ruffing finesse in @D working this can result in 11 tricks and an IMP for Germany|pg||
+pc|s3|nt|Ziff:	With the @S finesse and the ruffing finesse in @D working this can result in 11 tricks and an IMP for Germany|pg||
 pc|s8|pc|sT|pc|s7|pg||
 nt|Ziff:  Declarer will go for the ruffing finesse, he does not want N to get the lead to play a @H through the king|pg||
 pc|d8|pc|d2|pc|dA|pc|d5|pg||
 pc|dQ|pc|dK|pc|s6|pc|d7|pg||
 pc|cQ|pc|cJ|pc|c6|pc|sQ|pg||
-pc|hJ|nt|Ziff:  Looks like he wanted to make @SJ by ruffing another @D. 6-1 @C is a bit awkward now|pg||
+pc|hJ|nt|Ziff:	Looks like he wanted to make @SJ by ruffing another @D. 6-1 @C is a bit awkward now|pg||
 pc|hK|pc|h4|pc|h5|pg||
 pc|sK|pc|s9|pc|h8|pc|d3|pg||
 pc|sJ|pc|cT|pc|h7|pc|h3|pg||
@@ -249,7 +249,7 @@ pc|cT|pc|c3|pc|c2|pc|cA|pg||
 pc|sA|pc|sT|pc|s4|pc|d9|pg||
 pc|hK|pc|h6|pc|hT|pc|hA|pg||
 pc|d4|pc|d8|pc|dQ|pc|d3|pg||
-mc|10|nt|Ziff:  9 out of 12, and counting...|pg||
+mc|10|nt|Ziff:	9 out of 12, and counting...|pg||
 nt|Ziff:  Those seniors play a pretty tough Bridge|pg||
 pg||
 qx|c12|st||md|2SQT6H632DKQ752CT6,SK43HQJT8DA3CK743,S98HA54DJT94CQJ52,SAJ752HK97D86CA98|sv|n|mb|1D|mb|p|mb|1S|mb|p|mb|1N|mb|p|mb|2C|mb|p|mb|2D|mb|p|mb|2S|mb|p|mb|4S|mb|p|mb|p|mb|p|pc|cT|pc|c3|pc|c2|pc|cA|pg||
@@ -274,7 +274,7 @@ nt|granguru:  btw tell me Matthias What is more popular in Germany, Skat or Brid
 pc|s9|pc|sQ|pc|sK|nt|Ziff:  Sorry, that would be 5 down, so no swing in an unusual  way|pg||
 pc|c2|pg||
 pc|sJ|pc|c3|pc|s4|pc|s8|pg||
-pc|sT|nt|Ziff:  I cannot honestly say|pg||
+pc|sT|nt|Ziff:	I cannot honestly say|pg||
 pc|c7|pc|s3|pc|c4|pg||
 pc|s5|nt|granguru:  got it.....10-0 for Skat|pg||
 pc|c8|pc|h3|nt|Ziff:  Very little common ground between the practioners of both games|pg||
@@ -303,7 +303,7 @@ pc|hQ|pc|hT|pc|hK|pc|d8|pg||
 pc|s6|pc|sT|pc|cQ|pc|s4|pg||
 pc|sK|pc|hJ|pc|s9|pc|sQ|pg||
 pg||
-qx|o14|st||md|4SAQ875HADAJ543CT2,S642HKQJ2DKQ82C87,SK93HT84D976C9543,SJTH97653DTCAKQJ6|sv|o|nt|riccho:  but the rules are known in Germany by about 20.000.000 people... |pg||
+qx|o14|st||md|4SAQ875HADAJ543CT2,S642HKQJ2DKQ82C87,SK93HT84D976C9543,SJTH97653DTCAKQJ6|sv|o|nt|riccho:	but the rules are known in Germany by about 20.000.000 people... |pg||
 nt|granguru:  I think Bridge lawmakers should take a look at this game|pg||
 mb|1C|mb|1S|mb|d|mb|p|mb|4H|mb|p|mb|p|mb|p|nt|Ziff:  One level too high, but who can resist here?|pg||
 nt|granguru:  W showed 4 @Hcard so we are soon in a 4@H contract|pg||
@@ -337,7 +337,7 @@ qx|c15|st||md|1SAK76HT54DAKJ73C5,SJ32HK987D98C7642,SQ54H63DQT642CAT9,ST98HAQJ2D5
 pc|hQ|pc|h4|pc|h7|pc|h6|pg||
 mc|11|pg||
 qx|o16|st||md|2SKQ95H76DK9CAK654,S8HJT9432DQ8CJ973,SJHA85DAJT742CQ82,SAT76432HKQD653CT|sv|e|nt|Ziff:  One board to go for today|pg||
-mb|p|mb|1D|an| |mb|2S|nt|Ziff:  The Americans lost 1100 here. Lets see how high Kratz is willing to go, vulnerable|pg||
+mb|p|mb|1D|an| |mb|2S|nt|Ziff:	The Americans lost 1100 here. Lets see how high Kratz is willing to go, vulnerable|pg||
 mb|p|mb|p|nt|riccho:  high eonugh to get punished it seems|pg||
 mb|d|mb|p|mb|p|nt|diana_eva:  webcam was moved to this room for the last couple of deals http://new.livestream.com/accounts/5339416/WBTC-Bali|pg||
 mb|3H|mb|p|mb|p|mb|3S|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|hK|pc|h6|nt|Ziff:  3@H would have cost at least 800, and maybe @H8 could have been promoted, but that danger for Germany has passed now|pg||
@@ -350,7 +350,7 @@ pc|cA|pc|c3|pc|c2|pc|cT|pg||
 pc|c4|pc|c9|pc|cQ|pc|s7|pg||
 pc|dJ|pc|d5|pc|c5|pc|h3|pg||
 pc|sJ|pc|s4|pc|s5|pc|s8|pg||
-mc|11|nt|Ziff:  So Germany wins the segment at the last minute. Thanks all for watching, John for elping me with the commentary, and BBO for making this possible|pg||
+mc|11|nt|Ziff:	So Germany wins the segment at the last minute. Thanks all for watching, John for elping me with the commentary, and BBO for making this possible|pg||
 nt|Ziff:  And our operator, of course :)|pg||
 pg||
 qx|c16|st||md|2SKQ95H76DK9CAK654,S8HJT9432DQ8CJ973,SJHA85DAJT742CQ82,SAT76432HKQD653CT|sv|e|mb|p|mb|2N|mb|p|mb|3C|mb|p|mb|3D|mb|3S|mb|d|mb|p|mb|p|mb|p|pc|cA|pc|c3|pc|c2|pc|cT|pg||
