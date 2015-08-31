@@ -1,0 +1,16 @@
+YOU SHOULD NOT EDIT ANYTHING IN THIS DIRECTORY OR BELOW!!
+
+This directory contains the original files downloaded from Bridge Base Online (BBO).
+
+They are provided as reference.
+
+All changes should be made in the ./lin_data directory.
+
+Each directory is the first three digits of the LIN file.
+Each directory contains 100 files.
+For example, the directory 289 contains all LIN files 28900-28999.
+
+To view the original file from BBO:
+
+
+

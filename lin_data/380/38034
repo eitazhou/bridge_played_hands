@@ -1,0 +1,49 @@
+vg|Event,mecz 1,I,1,4,HOME,0,AWAY,0|
+rs|4SN-1,4SN-1,2SS-1,1NE+1,4HN=,4HN=,4HS-1,4HS-1|
+pn|Harat,Smieszek,Wróblewski,Wujków,Mazurkiewi,Prasek,Jassem,Krawczyk|pg||
+qx|o1|st||md|3SAT5HK2DKJ7CQJT93,SQ92HQT8D5432CAK5,SKJ743HAJ95DQ8C86,S86H7643DAT96C742|sv|o|mb|1S|mb|p|mb|2C!|mb|p|mb|2H|mb|p|mb|2S|mb|p|mb|4S|mb|p|mb|p|mb|p|pc|c4|pc|c3|pc|cK|pc|c8|pg||
+pc|cA|pc|c6|pc|c2|pc|c9|pg||
+pc|d4|pc|d8|pc|dA|pc|d7|pg||
+pc|c7|pc|cT|pc|c5|pc|h5|pg||
+mc|9|pg||
+qx|c1|st||md|3SAT5HK2DKJ7CQJT93,SQ92HQT8D5432CAK5,SKJ743HAJ95DQ8C86,S86H7643DAT96C742|sv|o|mb|4S|mb|p|mb|p|mb|p|pc|c4|mc|9|pg||
+qx|o2|st||md|4SA7654H3DT83C9543,SK3HJ964DKQ5CKJT2,SQJTHKQT8DJ64CA87,S982HA752DA972CQ6|sv|n|mb|1N|an|8-11|mb|p|mb|p|mb|d|mb|p|mb|2S|mb|p|mb|p|mb|p|pc|h4|pc|hK|pc|hA|pc|h3|pg||
+pc|cQ|pc|c3|pc|c2|pc|cA|pg||
+pc|sT|pc|s8|pc|s4|pc|sK|pg||
+pc|cK|pc|c7|pc|c6|pc|c4|pg||
+pc|cJ|pc|c8|pc|s9|pc|c5|pg||
+pc|d2|pc|d3|pc|dQ|pc|d4|pg||
+pc|s3|pc|sJ|pc|s2|pc|s5|pg||
+pc|hQ|pc|h2|pc|d8|pc|h6|pg||
+pc|h8|pc|h5|pc|s6|pc|h9|pg||
+pc|c9|pc|cT|pc|sQ|pc|d7|pg||
+pc|hT|pc|h7|pc|s7|pc|hJ|pg||
+pc|sA|pc|d5|pc|d6|pc|d9|pg||
+pc|dT|pc|dK|pc|dJ|pc|dA|pg||
+pg||
+qx|c2|st||md|4SA7654H3DT83C9543,SK3HJ964DKQ5CKJT2,SQJTHKQT8DJ64CA87,S982HA752DA972CQ6|sv|n|mb|p|mb|p|mb|1C|mb|d|mb|r|mb|p|mb|p|mb|1H|mb|p|mb|1S|mb|p|mb|p|mb|1N|mb|p|mb|p|mb|p|pc|s5|pc|sK|pc|sQ|pc|s2|pg||
+pc|c2|pc|c7|pc|cQ|pc|c3|pg||
+pc|c6|pc|c4|mc|8|pg||
+qx|o3|st||md|1SJ3HAQT7D82CQJT64,S9865HK8DQT43CK32,SA72HJ96543DAK9C8,SKQT4H2DJ765CA975|sv|e|mb|p|mb|p|mb|1H|mb|p|mb|2C!|mb|p|mb|2D!|mb|p|mb|4H|mb|p|mb|p|mb|p|pc|sK|pc|s3|pc|s5|pc|sA|pg||
+pc|h3|pc|h2|pc|hQ|pc|hK|pg||
+pc|d3|pc|dA|pc|d5|pc|d2|pg||
+mc|10|pg||
+qx|c3|st||md|1SJ3HAQT7D82CQJT64,S9865HK8DQT43CK32,SA72HJ96543DAK9C8,SKQT4H2DJ765CA975|sv|e|mb|p|mb|p|mb|1H|mb|d|mb|3C|an|kolor + fit|mb|p|mb|4H|mb|p|mb|p|mb|p|pc|sK|pc|s3|pc|s5|pc|sA|pg||
+pc|h4|pc|h2|pc|hQ|pc|hK|pg||
+pc|d3|pc|dA|pc|d5|pc|d2|pg||
+pc|h3|mc|10|pg||
+qx|o4|st||md|2SQJ2HAT862DJ87CAK,SK984HK5DA942C982,ST76HQJ973DKQT3CJ,SA53H4D65CQT76543|sv|b|nt|vugraphzqr: Gramy 9 meczy eliminacyjnych po 4 rozdania..|pg||
+mb|p|mb|p|mb|3C|mb|3H|nt|vugraphzqr: Okazuje siê, ¿e usiedli na tych samych liniach....|pg||
+mb|p|mb|4H|mb|p|mb|p|mb|p|pc|c8|pc|cJ|pc|cQ|pc|cA|pg||
+pc|d7|pc|dA|pc|d3|pc|d6|pg||
+pc|s4|pc|s6|pc|sA|pc|s2|pg||
+pc|s5|pc|sJ|pc|sK|pc|s7|pg||
+pc|s8|pc|sT|pc|s3|pc|sQ|pg||
+mc|9|nt|vugraphzqr: Kilka minut przerwy...|pg||
+pg||
+qx|c4|st||md|2SQJ2HAT862DJ87CAK,SK984HK5DA942C982,ST76HQJ973DKQT3CJ,SA53H4D65CQT76543|sv|b|mb|p|mb|p|mb|3C|mb|3N|mb|p|mb|4D|mb|p|mb|4H|mb|p|mb|p|mb|p|pc|c8|pc|cJ|pc|cQ|pc|cA|pg||
+pc|cK|pc|c2|pc|h3|pc|c3|pg||
+pc|hJ|pc|h4|pc|h2|pc|hK|pg||
+pc|s4|pc|s6|pc|sA|pc|s2|pg||
+pc|s5|pc|sJ|pc|sK|pc|s7|pg||
+mc|9|pg||

@@ -1,0 +1,381 @@
+vg|41st WBTC-BBO6-VC,RR17,I,1,16,SWEDEN,0,USA1,0|
+rs|4HS+1,4HS+1,2NW+1,2SE+1,1NS+1,3NS-2,4HN=,4HN=,4SE+1,4SE+1,6DE+1,6HE+1,1NW+1,2NW-1,3HE-1,3HE-1,1NE+3,1NE+2,4SW=,4SW-1,3DE-1,2HN=,4SE+1,4SE+1,2CN+1,3NN+1,5HN-2,4SE=,4SEx=,4SE=,3NW=,3NW+1|
+pn|RIMSTEDT,SANBORN,SJOBERG,LEVITINA,B PALMER,LARSSON,DEAS,BERTHEAU|pg||
+qx|o1|st||md|3SK42H9743DQT85CA8,SJTHT65D942CJ9764,SA97HAKJ2DAJ3CT32,SQ8653HQ8DK76CKQ5|sv|o|mb|1C!|mb|p|mb|1H!|mb|p|mb|1N|mb|p|mb|2C!|mb|p|mb|2H|mb|p|mb|4H|mb|p|mb|p|mb|p|pc|sJ|pc|sA|pc|s5|pc|s2|pg||
+pc|hA|pc|h8|pc|h3|pc|h6|pg||
+pc|hK|pc|hQ|pc|h4|pc|h5|pg||
+pc|hJ|pc|s3|pc|h7|pc|hT|pg||
+pc|dA|pc|d6|pc|d5|pc|d2|pg||
+pc|dJ|pc|dK|pc|d8|pc|d4|pg||
+mc|11|pg||
+qx|c1|st||md|3SK42H9743DQT85CA8,SJTHT65D942CJ9764,SA97HAKJ2DAJ3CT32,SQ8653HQ8DK76CKQ5|sv|o|mb|1C|mb|p|mb|1H|mb|p|mb|1N|mb|p|mb|2C|mb|p|mb|2H|mb|p|mb|4H|mb|p|mb|p|mb|p|pc|sJ|pc|sA|pc|s6|pc|s4|pg||
+pc|hA|pc|h8|pc|h3|pc|h5|pg||
+pc|hK|pc|hQ|pc|h4|pc|h6|pg||
+pc|hJ|pc|s5|pc|h7|pc|hT|pg||
+pc|dA|pc|d7|pc|d5|pc|d4|pg||
+pc|dJ|pc|dK|pc|d8|pc|d2|pg||
+mc|11|pg||
+qx|o2|st||md|4SK87HJT3DQJ876CT3,SJHK95DAT9CK98642,ST62HAQ762DK32CQJ,SAQ9543H84D54CA75|sv|n|mb|1S|mb|p|mb|1N|mb|p|mb|2S|mb|p|mb|2N|mb|p|mb|p|mb|p|pc|h2|pc|h4|pc|hT|pc|hK|pg||
+pc|c2|pc|cJ|pc|cA|pc|c3|pg||
+pc|c5|pc|cT|pc|cK|pc|cQ|pg||
+pc|c9|pc|d2|pc|c7|pc|s7|pg||
+pc|c8|pc|sT|pc|h8|pc|d6|pg||
+pc|c6|pc|s6|pc|s3|pc|hJ|pg||
+pc|c4|pc|d3|pc|d4|pc|d7|pg||
+pc|sJ|pc|s2|pc|sA|pc|s8|pg||
+pc|d5|pc|d8|pc|dA|pc|dK|pg||
+pc|d9|pc|h6|pc|s4|pc|dJ|pg||
+mc|9|pg||
+qx|c2|st||md|4SK87HJT3DQJ876CT3,SJHK95DAT9CK98642,ST62HAQ762DK32CQJ,SAQ9543H84D54CA75|sv|n|mb|2S|mb|p|mb|p|mb|p|pc|hJ|pc|h5|pc|h2|pc|h4|pg||
+pc|hT|pc|h9|pc|hQ|pc|h8|pg||
+pc|hA|pc|s5|pc|h3|pc|hK|pg||
+pc|s4|pc|s7|pc|sJ|pc|s2|pg||
+pc|c2|pc|cJ|pc|cA|pc|c3|pg||
+pc|sA|pc|s8|pc|c4|pc|s6|pg||
+pc|c5|pc|cT|pc|cK|pc|cQ|pg||
+pc|c9|pc|sT|pc|c7|pc|d6|pg||
+mc|9|pg||
+qx|o3|st||md|1SQJ4HA4D764CAJ752,SK65HQ86DJ852CK96,SA832HJT5DAQT3CT3,ST97HK9732DK9CQ84|sv|e|mb|1N!|mb|p|mb|p|mb|p|pc|d2|pc|dT|pc|dK|pc|d4|pg||
+pc|d9|pc|d7|pc|d5|pc|dQ|pg||
+pc|s2|pc|s7|pc|sJ|pc|sK|pg||
+pc|dJ|pc|dA|pc|h3|pc|d6|pg||
+pc|s3|pc|s9|pc|sQ|pc|s5|pg||
+pc|s4|pc|s6|pc|sA|pc|sT|pg||
+pc|s8|pc|h2|pc|c5|pc|c6|pg||
+pc|d3|pc|h7|pc|c2|pc|d8|pg||
+pc|h8|pc|hT|pc|hK|pc|hA|pg||
+pc|h4|pc|hQ|pc|h5|pc|h9|pg||
+pc|cK|pc|c3|pc|c4|pc|cA|pg||
+pc|c7|pc|c9|pc|cT|pc|cQ|pg||
+pc|c8|pc|cJ|pc|h6|pc|hJ|pg||
+pg||
+qx|c3|st||md|1SQJ4HA4D764CAJ752,SK65HQ86DJ852CK96,SA832HJT5DAQT3CT3,ST97HK9732DK9CQ84|sv|e|mb|1D|mb|p|mb|1S|mb|p|mb|1N|mb|p|mb|2N|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|d5|pc|dT|pc|dK|pc|d4|pg||
+pc|h3|pc|h4|pc|hQ|pc|h5|pg||
+pc|h8|pc|hT|pc|h2|pc|hA|pg||
+pc|sQ|pc|s6|pc|s2|pc|sT|pg||
+pc|sJ|pc|sK|pc|sA|pc|s7|pg||
+pc|s3|pc|s9|pc|s4|pc|s5|pg||
+pc|hK|pc|c2|pc|h6|pc|hJ|pg||
+pc|h9|pc|c5|pc|c6|pc|c3|pg||
+pc|h7|pc|c7|pc|d2|pc|d3|pg||
+mc|7|pg||
+qx|o4|st||md|2ST62HKT643D84CK97,SK84HJ5D965CAT543,SAQJ9HA982DKQTCJ8,S753HQ7DAJ732CQ62|sv|b|mb|p|mb|1C!|mb|p|mb|1D!|mb|p|mb|1N|mb|p|mb|2D!|mb|p|mb|2H|mb|p|mb|3N|mb|p|mb|4H|mb|p|mb|p|mb|p|pc|s3|pc|s2|pc|sK|pc|sA|pg||
+pc|h9|pc|h7|pc|hK|pc|h5|pg||
+pc|h3|pc|hJ|pc|hA|pc|hQ|pg||
+pc|s9|pc|s5|pc|sT|pc|s4|pg||
+pc|d4|pc|d5|pc|dK|pc|dA|pg||
+pc|s7|pc|s6|pc|s8|pc|sQ|pg||
+pc|sJ|pc|d3|pc|c7|pc|c3|pg||
+pc|dQ|pc|d2|pc|d8|pc|d6|pg||
+pc|c8|pc|c2|pc|cK|pc|cA|pg||
+pc|c4|pc|cJ|pc|cQ|pc|c9|pg||
+mc|10|pg||
+qx|c4|st||md|2ST62HKT643D84CK97,SK84HJ5D965CAT543,SAQJ9HA982DKQTCJ8,S753HQ7DAJ732CQ62|sv|b|mb|p|mb|1C|mb|p|mb|1D!|mb|p|mb|1N|mb|p|mb|2D!|mb|p|mb|2H|mb|p|mb|2N|mb|p|mb|4H|mb|p|mb|p|mb|p|pc|s3|pc|sT|pc|sK|pc|sA|pg||
+pc|hA|pc|h7|pc|h3|pc|h5|pg||
+pc|h8|pc|hQ|pc|hK|pc|hJ|pg||
+pc|d4|pc|d9|pc|dK|pc|dA|pg||
+pc|s7|pc|s2|pc|s4|pc|sJ|pg||
+pc|dQ|pc|d2|pc|d8|pc|d5|pg||
+pc|dT|pc|dJ|pc|h4|pc|d6|pg||
+pc|s6|pc|s8|pc|sQ|pc|s5|pg||
+pc|s9|pc|d7|pc|c7|pc|c3|pg||
+pc|c8|pc|c2|pc|cK|pc|cA|pg||
+pc|c4|pc|cJ|pc|cQ|pc|c9|pg||
+mc|10|pg||
+qx|o5|st||md|3SJTHKJT943D953C87,SA64HQ62DAQ762C94,S872H85DJT84CAQJ6,SKQ953HA7DKCKT532|sv|n|mb|p|mb|1S|mb|p|mb|2D|mb|p|mb|3C|mb|p|mb|3S|mb|p|mb|3N|mb|p|mb|4S|mb|p|mb|p|mb|p|pc|sJ|nt|vugraphzdn: ga menarik lg nih|pg||
+pc|s4|pc|s2|pc|sK|pg||
+pc|c2|pc|c8|pc|c9|pc|cQ|pg||
+pc|s8|pc|s9|pc|sT|pc|sA|pg||
+pc|c4|pc|c6|pc|cT|pc|c7|pg||
+pc|c3|pc|h3|pc|s6|pc|cJ|pg||
+pc|dA|pc|d4|pc|dK|pc|d3|pg||
+pc|dQ|pc|d8|pc|h7|pc|d5|pg||
+pc|h2|pc|h5|pc|hA|pc|h9|pg||
+pc|sQ|pc|h4|pc|h6|pc|s7|pg||
+pc|c5|pc|d9|pc|d2|pc|cA|pg||
+pc|h8|pc|s5|pc|hT|pc|hQ|pg||
+mc|11|pg||
+qx|c5|st||md|3SJTHKJT943D953C87,SA64HQ62DAQ762C94,S872H85DJT84CAQJ6,SKQ953HA7DKCKT532|sv|n|mb|p|mb|1S|mb|p|mb|2D|mb|p|mb|3C|mb|p|mb|4S|mb|p|mb|p|mb|p|pc|hJ|pc|h2|pc|h5|pc|hA|pg||
+pc|dK|pc|d3|pc|d2|pc|d4|pg||
+pc|s3|pc|sT|pc|sA|pc|s2|pg||
+pc|dA|pc|d8|pc|h7|pc|d5|pg||
+pc|c4|pc|cA|pc|c2|pc|c7|pg||
+pc|s7|pc|sK|pc|sJ|pc|s4|pg||
+pc|cK|pc|c8|pc|c9|pc|c6|pg||
+pc|c3|pc|h4|pc|s6|pc|cJ|pg||
+pc|h6|pc|h8|pc|s5|pc|h3|pg||
+pc|sQ|pc|h9|pc|d6|pc|s8|pg||
+pc|c5|pc|d9|pc|d7|pc|cQ|pg||
+mc|11|pg||
+qx|o6|st||md|4S643HJT5D754CAJ96,S2HAKQ762DAQJT6CT,SKJT875H843D8CQ52,SAQ9H9DK932CK8743|sv|e|mb|1D|mb|p|mb|2H|mb|2S|mb|p|mb|3S|mb|4C!|mb|p|mb|4D!|mb|p|mb|4N!|mb|p|mb|5H!|mb|p|mb|6D|mb|p|mb|p|mb|p|pc|s3|pc|s2|pc|sK|pc|sA|pg||
+pc|d2|pc|d4|pc|dA|pc|d8|pg||
+pc|dQ|pc|s5|pc|d3|pc|d5|pg||
+pc|hA|pc|h3|pc|h9|pc|h5|pg||
+pc|h2|pc|h4|pc|dK|pc|hT|pg||
+mc|13|pg||
+qx|c6|st||md|4S643HJT5D754CAJ96,S2HAKQ762DAQJT6CT,SKJT875H843D8CQ52,SAQ9H9DK932CK8743|sv|e|mb|1C|mb|p|mb|1D|mb|1S|mb|p|mb|2S|mb|3S|mb|p|mb|3N|mb|p|mb|4D|mb|p|mb|4S!|mb|d|mb|4N!|mb|p|mb|5H!|mb|p|mb|5N!|mb|p|mb|6C|mb|d|mb|6H|mb|p|mb|p|mb|p|pc|s6|pc|s2|pc|sT|pc|sQ|pg||
+pc|sA|pc|s3|pc|cT|pc|s5|pg||
+pc|h9|pc|h5|pc|hA|pc|h3|pg||
+pc|hK|pc|h4|pc|c3|pc|hT|pg||
+pc|hQ|pc|h8|pc|c4|pc|hJ|pg||
+mc|13|pg||
+qx|o7|st||md|1SAT4HK8432DQT64C9,SQ75HQ9DKJ87CAKQ5,SKJ93HA65D932C432,S862HJT7DA5CJT876|sv|b|mb|p|mb|1N|mb|p|mb|p|mb|p|pc|s3|pc|s2|pc|sA|pc|s5|pg||
+pc|h3|pc|h9|pc|hA|pc|h7|pg||
+pc|h6|pc|hT|pc|h2|pc|hQ|pg||
+pc|cA|pc|c2|pc|c6|pc|c9|pg||
+pc|cK|pc|c3|pc|c7|pc|sT|pg||
+pc|cQ|pc|c4|pc|c8|pc|d4|pg||
+pc|c5|pc|d9|pc|cJ|pc|h4|pg||
+pc|cT|pc|h8|pc|d7|pc|s9|pg||
+pc|dA|pc|d6|pc|d8|pc|d2|pg||
+pc|d5|pc|dT|pc|dK|pc|d3|pg||
+pc|dJ|pc|h5|pc|s6|pc|dQ|pg||
+mc|8|pg||
+qx|c7|st||md|1SAT4HK8432DQT64C9,SQ75HQ9DKJ87CAKQ5,SKJ93HA65D932C432,S862HJT7DA5CJT876|sv|b|mb|p|mb|1C|mb|p|mb|1S|mb|p|mb|2D!|mb|p|mb|2S|mb|p|mb|2N!|mb|p|mb|p|mb|p|pc|s3|pc|s2|pc|sA|pc|s5|pg||
+pc|sT|pc|sQ|pc|sK|pc|s6|pg||
+pc|sJ|pc|s8|pc|s4|pc|s7|pg||
+pc|s9|pc|c6|pc|h8|pc|d7|pg||
+pc|d9|pc|d5|pc|d4|pc|dJ|pg||
+pc|d8|pc|d2|pc|dA|pc|d6|pg||
+pc|cJ|pc|c9|pc|c5|pc|c2|pg||
+pc|hJ|pc|h2|pc|h9|pc|hA|pg||
+pc|d3|pc|c7|pc|dT|pc|dK|pg||
+pc|cA|pc|c3|pc|c8|pc|h3|pg||
+pc|cQ|pc|c4|pc|cT|pc|h4|pg||
+pc|cK|pc|h5|pc|h7|pc|dQ|pg||
+pc|hQ|pc|h6|pc|hT|pc|hK|pg||
+pg||
+qx|o8|st||md|2SQJHQ4DQ98762CKQ5,SA632HKT86DJ3CJ84,ST954HJ92DAT54C76,SK87HA753DKCAT932|sv|o|mb|p|mb|p|mb|1C|mb|2D|mb|d|mb|3D|mb|3H|mb|p|mb|p|mb|p|pc|d6|pc|d3|pc|dA|pc|dK|pg||
+pc|s4|pc|s8|pc|sQ|pc|sA|pg||
+pc|cJ|pc|c7|pc|c2|pc|cQ|pg||
+pc|sJ|pc|s2|pc|s5|pc|sK|pg||
+pc|hA|pc|h4|pc|h6|pc|h2|pg||
+pc|h3|pc|hQ|pc|hK|pc|h9|pg||
+pc|c8|pc|c6|pc|c3|pc|cK|pg||
+pc|c5|pc|c4|pc|hJ|pc|c9|pg||
+pc|sT|pc|s7|pc|d2|pc|s3|pg||
+mc|8|pg||
+qx|c8|st||md|2SQJHQ4DQ98762CKQ5,SA632HKT86DJ3CJ84,ST954HJ92DAT54C76,SK87HA753DKCAT932|sv|o|mb|p|mb|p|mb|1C|mb|1D|mb|d|mb|2D|mb|2H|mb|3D|mb|p|mb|p|mb|3H|mb|p|mb|p|mb|p|pc|sQ|pc|s2|pc|s4|pc|sK|pg||
+pc|hA|pc|h4|pc|h6|pc|h2|pg||
+pc|h3|pc|hQ|pc|hK|pc|h9|pg||
+pc|c8|pc|c6|pc|c3|pc|cQ|pg||
+nt|newmoon: hi all   :)    Hi Diana|pg||
+pc|sJ|pc|sA|pc|s5|pc|s7|pg||
+nt|diana_eva:  hi Sid, welcome :)|pg||
+pc|cJ|pc|c7|pc|c2|pc|cK|pg||
+nt|newmoon: unusually low-scoring match, cf Monaco or Italy matches in BB|pg||
+pc|d6|pc|d3|pc|dA|pc|dK|pg||
+pc|hJ|pc|h5|pc|d2|pc|h8|pg||
+pc|sT|pc|s8|pc|d7|pc|s3|pg||
+mc|8|pg||
+qx|o9|st||md|3S73HA9DAQJ32CK872,SQJ6HQ72DK986C543,ST954HJ654D54CQ96,SAK82HKT83DT7CAJT|sv|e|mb|p|mb|1N|mb|p|mb|p|mb|p|pc|d2|pc|d6|pc|d4|pc|dT|pg||
+pc|h3|pc|hA|pc|h2|pc|h4|pg||
+pc|dJ|pc|dK|pc|d5|pc|d7|pg||
+pc|sQ|pc|s4|pc|s2|pc|s3|pg||
+pc|sJ|pc|s5|pc|s8|pc|s7|pg||
+pc|s6|pc|sT|pc|sA|pc|c2|pg||
+pc|sK|pc|c7|pc|c3|pc|s9|pg||
+pc|h8|pc|h9|pc|hQ|pc|h5|pg||
+pc|h7|pc|h6|pc|hT|pc|d3|pg||
+pc|hK|pc|dQ|pc|d8|pc|hJ|pg||
+pc|cA|pc|c8|pc|c4|pc|c6|pg||
+pc|cT|pc|cK|pc|c5|pc|c9|pg||
+pc|dA|pc|d9|pc|cQ|pc|cJ|pg||
+pg||
+qx|c9|st||md|3S73HA9DAQJ32CK872,SQJ6HQ72DK986C543,ST954HJ654D54CQ96,SAK82HKT83DT7CAJT|sv|e|nt|newmoon: comments welcome from kibs  :)|pg||
+mb|p|mb|1N|nt|newmoon: do you compete with South?|pg||
+nt|newmoon: capp is ok if 2@C---2@D, but most play 2@C = majors now|pg||
+mb|p|mb|p|mb|p|nt|newmoon: loathe to lead away from honours, may try @S7?|pg||
+pc|dA|pc|d6|pc|d5|pc|dT|pg||
+pc|d3|pc|d8|pc|d4|pc|d7|pg||
+pc|hQ|pc|h4|pc|h3|nt|newmoon: this hand gives u all time for making a cup of coffee  :)|pg||
+pc|hA|pg||
+pc|dQ|pc|dK|pc|sT|pc|cT|pg||
+pc|sQ|pc|s4|pc|s2|pc|s3|pg||
+pc|s6|pc|s5|pc|sA|pc|s7|pg||
+pc|s8|pc|c2|pc|sJ|pc|s9|pg||
+pc|h2|pc|h6|pc|hT|pc|h9|pg||
+pc|hK|pc|c7|pc|h7|pc|h5|pg||
+mc|9|pg||
+qx|o10|st||md|4S8HT962DA3CKJ9872,SAKT32HAKQ4DJT5CQ,SQ76H75DKQ864CT43,SJ954HJ83D972CA65|sv|b|mb|p|mb|p|mb|1S|mb|p|mb|2S|mb|3C|mb|3H|mb|p|mb|4S|mb|p|mb|p|mb|p|pc|c3|pc|cA|pc|c2|pc|cQ|pg||
+pc|s4|pc|s8|pc|sA|pc|s6|pg||
+pc|sK|pc|s7|pc|s5|pc|c7|pg||
+pc|hA|pc|h5|pc|h3|pc|h2|pg||
+pc|hK|pc|h7|pc|h8|pc|h6|pg||
+pc|h4|pc|d4|pc|hJ|pc|h9|pg||
+pc|c5|pc|c8|pc|s2|pc|c4|pg||
+pc|hQ|pc|d6|pc|d2|pc|hT|pg||
+mc|10|pg||
+qx|c10|st||md|4S8HT962DA3CKJ9872,SAKT32HAKQ4DJT5CQ,SQ76H75DKQ864CT43,SJ954HJ83D972CA65|sv|b|mb|p|mb|p|mb|1S|mb|p|mb|2S|mb|3C|mb|4S|nt|newmoon: will reach 4@S, and doomed to -1 |pg||
+mb|p|mb|p|mb|p|pc|c3|pc|cA|pc|c2|pc|cQ|pg||
+pc|s4|pc|s8|pc|sA|pc|s6|pg||
+pc|sK|pc|s7|pc|s5|nt|newmoon: Declarer unlucky, because if North had THREE @Hs with the 3@Ss, she can pitch a @D on 4th @H|pg||
+nt|newmoon: but North will ruff in|pg||
+pc|c8|pg||
+pc|h4|pc|h5|pc|hJ|pc|h2|pg||
+pc|h3|pc|h6|pc|hK|pc|h7|pg||
+pc|hA|pc|sQ|pc|h8|pc|h9|pg||
+pc|d4|pc|d2|pc|dA|pc|d5|pg||
+pc|d3|pc|dT|pc|dK|pc|d7|pg||
+pc|dQ|pc|d9|pc|c7|pc|dJ|pg||
+mc|9|pg||
+qx|o11|st||md|1SA8432HQ2DQJ9C874,SKT97H4DT7643CQT2,SJHJT9873DK5CAJ63,SQ65HAK65DA82CK95|sv|o|mb|p|mb|p|mb|2H|mb|2N|mb|p|mb|3C!|mb|p|mb|3D|mb|p|mb|p|mb|p|pc|hQ|pc|h4|pc|h3|pc|hA|pg||
+pc|dA|pc|d9|pc|d3|pc|d5|pg||
+pc|d2|pc|dJ|pc|d4|pc|dK|pg||
+pc|h7|pc|hK|pc|h2|pc|c2|pg||
+pc|s5|pc|s4|pc|s9|pc|sJ|pg||
+pc|h8|pc|h6|pc|s2|pc|d6|pg||
+pc|s7|pc|h9|pc|sQ|pc|sA|pg||
+pc|dQ|pc|d7|pc|c3|pc|d8|pg||
+pc|c4|pc|cT|pc|cA|pc|c5|pg||
+mc|8|pg||
+qx|c11|st||md|1SA8432HQ2DQJ9C874,SKT97H4DT7643CQT2,SJHJT9873DK5CAJ63,SQ65HAK65DA82CK95|sv|o|mb|p|mb|p|mb|1H|mb|1N|mb|p|nt|newmoon: in OR, she played @HA-@HK then SMALL to @HJ   North did not ruff|pg||
+mb|2C|mb|p|mb|2D!|mb|p|mb|p|mb|2H|mb|p|mb|p|mb|p|pc|dA|nt|newmoon: gutsy 2@H bid, and finds a good dummy.   from the bidding, she KNEW had a few points|pg||
+pc|d9|nt|newmoon: and 2@H should make with ease on that lead|pg||
+pc|d6|pc|d5|pg||
+pc|s5|pc|sA|pc|s7|pc|sJ|pg||
+pc|h2|pc|h4|nt|newmoon: she blocked the @D?|pg||
+pc|h9|pc|hK|pg||
+pc|sQ|pc|s2|nt|newmoon: tsk  tsk|pg||
+pc|s9|pc|h3|pg||
+pc|h7|pc|hA|pc|hQ|pc|d7|pg||
+pc|s6|pc|s3|pc|sT|pc|h8|pg||
+pc|hJ|pc|h5|pc|c4|pc|d3|pg||
+pc|hT|pc|h6|nt|vugraphzdp: no , she already unblock the D|pg||
+nt|vugraphzdp: sorry|pg||
+nt|newmoon: oh, ok|pg||
+nt|newmoon: then will make 2@H, else -1|pg||
+mc|8|nt|vugraphzdp: yes|pg||
+pg||
+qx|o12|st||md|2SJHQJ6543DJT3CJ54,SQ874HT98DA952C87,S6532HK7DK764CK96,SAKT9HA2DQ8CAQT32|sv|n|mb|p|mb|p|mb|2N|mb|p|mb|3C|mb|p|mb|3S|mb|p|mb|4S|mb|p|mb|p|mb|p|pc|hQ|pc|h8|pc|h7|pc|h2|pg||
+pc|h3|pc|h9|pc|hK|pc|hA|pg||
+pc|d8|pc|dT|pc|dA|pc|d4|pg||
+pc|c8|pc|c6|pc|cQ|pc|c4|pg||
+pc|cA|pc|c5|pc|c7|pc|c9|pg||
+pc|c2|pc|cJ|pc|s8|pc|cK|pg||
+pc|s4|pc|s2|pc|sA|pc|sJ|pg||
+mc|11|pg||
+qx|c12|st||md|2SJHQJ6543DJT3CJ54,SQ874HT98DA952C87,S6532HK7DK764CK96,SAKT9HA2DQ8CAQT32|sv|n|nt|newmoon: thx Andre|pg||
+mb|p|mb|p|mb|1C|nt|vugraphzdp: ur wlc|pg||
+nt|newmoon: contemplating 2@HG, but red|pg||
+mb|p|mb|1H|mb|p|nt|newmoon: 1@H = 4@Ss|pg||
+mb|3D!|mb|p|nt|newmoon: @CK is onside as we can see, and @Cs 3-3              will make 11 or 12|pg||
+nt|newmoon: in @Ss|pg||
+mb|3H!|mb|p|mb|4S|mb|p|mb|p|mb|p|pc|hQ|pc|h8|pc|h7|pc|hA|pg||
+pc|sA|pc|sJ|pc|s4|pc|s2|pg||
+nt|newmoon: trumps are 4-1, and that spoils the party|pg||
+pc|sT|pc|h6|pc|sQ|pc|s3|pg||
+pc|c7|pc|c6|pc|cQ|pc|c4|pg||
+pc|cA|pc|c5|pc|c8|pc|c9|pg||
+pc|c2|pc|cJ|pc|s8|pc|cK|pg||
+pc|s7|pc|s5|pc|s9|nt|newmoon: well played !|pg||
+pc|h3|pg||
+pc|sK|pc|h4|pc|d2|pc|s6|pg||
+pc|cT|nt|newmoon: North should unblock @HK?    then declarer can force another @H-winner with 10-9|pg||
+pc|dJ|pc|d5|pc|d4|pg||
+pc|c3|pc|d3|pc|h9|pc|d6|pg||
+pc|d8|pc|dT|pc|dA|pc|d7|pg||
+mc|11|pg||
+qx|o13|st||md|3S5H862D754CAK6532,ST432HQT9DKJ62CJT,SKQ976HAJ5DA93CQ7,SAJ8HK743DQT8C984|sv|b|mb|1S|mb|p|mb|1N!|mb|p|mb|2C!|mb|p|mb|p|mb|p|pc|c9|pc|c2|pc|cJ|pc|cQ|pg||
+pc|c7|pc|c4|pc|cA|pc|cT|pg||
+pc|cK|pc|d2|pc|d3|pc|c8|pg||
+pc|s5|pc|s4|pc|sK|pc|sA|pg||
+pc|h3|pc|h2|pc|hQ|pc|hA|pg||
+pc|sQ|pc|s8|pc|d4|pc|s2|pg||
+pc|s6|pc|sJ|pc|c3|pc|s3|pg||
+pc|h6|pc|h9|pc|hJ|pc|hK|pg||
+pc|h7|pc|h8|pc|hT|pc|h5|pg||
+mc|9|pg||
+qx|c13|st||md|3S5H862D754CAK6532,ST432HQT9DKJ62CJT,SKQ976HAJ5DA93CQ7,SAJ8HK743DQT8C984|sv|b|mb|1C!|mb|p|nt|newmoon: in 6, North will be thrown in with @HK - only chance - and endplayed in @Ds|pg||
+mb|1H!|mb|p|mb|1S|mb|p|nt|newmoon: Sweden are lying 9th in standings, so this match will be crucial |pg||
+mb|2D!|mb|p|mb|2N|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|h4|pc|h2|pc|hQ|pc|hA|pg||
+pc|cQ|pc|c8|pc|c2|pc|cT|pg||
+pc|c7|pc|c4|pc|cA|pc|cJ|pg||
+pc|cK|pc|hT|pc|s6|pc|c9|pg||
+pc|c6|pc|d6|pc|s7|pc|h3|pg||
+pc|c5|pc|s4|pc|d3|pc|h7|pg||
+pc|c3|pc|h9|pc|d9|pc|d8|pg||
+nt|newmoon: n/s play a strong club system|pg||
+pc|h8|pc|d2|pc|h5|pc|hK|pg||
+pc|s8|pc|s5|pc|sT|pc|sQ|pg||
+pc|hJ|pc|dT|pc|h6|pc|s2|pg||
+pc|dA|pc|dQ|pc|d4|pc|dJ|pg||
+pc|sK|pc|sA|pc|d5|pc|s3|pg||
+pc|sJ|pc|d7|pc|dK|pc|s9|pg||
+pg||
+qx|o14|st||md|4ST643HKQJTDJ82CQ4,SA9752HDQ73CKT863,SQHA87642DA6CJ972,SKJ8H953DKT954CA5|sv|o|mb|1D|mb|p|mb|1S|mb|2H|mb|d!|mb|4H|mb|4S|mb|5H|mb|p|mb|p|mb|p|pc|s8|pc|s3|pc|sA|pc|sQ|pg||
+pc|d3|pc|dA|pc|d4|pc|d2|pg||
+pc|h2|pc|h3|pc|hT|pc|s2|pg||
+pc|c4|pc|c3|pc|c9|pc|cA|pg||
+pc|dK|pc|d8|pc|d7|pc|d6|pg||
+pc|d5|pc|dJ|pc|dQ|pc|h4|pg||
+pc|h6|pc|h5|pc|hJ|pc|s5|pg||
+pc|hK|pc|s7|pc|h7|pc|h9|pg||
+pc|cQ|pc|cK|pc|c2|pc|c5|pg||
+mc|9|pg||
+qx|c14|st||md|4ST643HKQJTDJ82CQ4,SA9752HDQ73CKT863,SQHA87642DA6CJ972,SKJ8H953DKT954CA5|sv|o|mb|1C|mb|p|nt|newmoon: previous hand, Hamman went 3NT directly after Lev opened 1NT with North|pg||
+mb|1H!|mb|2H|mb|p|mb|3H|nt|newmoon: anyone, plse tell me what 1@D opening would be by East?|pg||
+mb|4C|nt|newmoon: defense need to get their @D-trick early to beat 4@H|pg||
+mb|p|mb|4S|nt|newmoon: 1@D =- unbalanced, someone says          |pg||
+mb|p|mb|p|nt|newmoon: another:  "4+ but unbalanced"|pg||
+mb|p|nt|vugraphzdp: http://livebridge.net/player.php?wbf=6400|pg||
+pc|hK|pc|s2|pc|h6|pc|h5|pg||
+pc|d3|pc|d6|pc|dK|pc|d8|pg||
+pc|dT|pc|dJ|pc|dQ|pc|dA|pg||
+pc|h2|pc|h9|pc|hT|pc|s5|pg||
+pc|sA|pc|sQ|pc|s8|pc|s3|pg||
+nt|newmoon: now play on @Ds?|pg||
+pc|s7|pc|h4|pc|sK|pc|s4|pg||
+pc|d9|pc|d2|pc|d7|pc|c7|pg||
+pc|d5|pc|sT|pc|c3|pc|h7|pg||
+nt|newmoon: will be a great result for Sweden!    10 or 11 tricks|pg||
+pc|s6|pc|s9|nt|newmoon: partners were -2 undoubled in OR|pg||
+pc|h8|pc|sJ|pg||
+mc|10|pg||
+qx|o15|st||md|1S854HAKJ9D62C6543,ST962HQ5DAT98CQJT,SAHT87643DQJ4CK97,SKQJ73H2DK753CA82|sv|n|mb|p|mb|p|mb|1H|mb|1S|mb|2H|mb|3S|mb|p|mb|4S|mb|d|mb|p|mb|p|mb|p|pc|s8|pc|sT|pc|sA|pc|sQ|pg||
+pc|h6|pc|h2|pc|hA|pc|h5|pg||
+pc|hK|pc|hQ|pc|h3|pc|sK|pg||
+pc|sJ|pc|s4|pc|s2|pc|h4|pg||
+pc|s3|pc|s5|pc|s6|pc|h7|pg||
+pc|cQ|pc|c7|pc|c2|pc|c3|pg||
+pc|cJ|pc|c9|pc|c8|pc|c4|pg||
+pc|cT|pc|cK|pc|cA|pc|c5|pg||
+pc|d3|pc|d2|pc|d8|pc|dJ|pg||
+mc|10|pg||
+qx|c15|st||md|1S854HAKJ9D62C6543,ST962HQ5DAT98CQJT,SAHT87643DQJ4CK97,SKQJ73H2DK753CA82|sv|n|mb|p|mb|p|mb|1H|mb|1S|mb|3H|mb|3S|nt|newmoon: 2@S would be a good high-card raise, 3@H = 4-bagger weaker|pg||
+mb|p|mb|4S|mb|p|mb|p|mb|p|pc|hK|nt|newmoon: OR:  4@Sx made         |pg||
+pc|h5|pc|h4|pc|h2|pg||
+pc|hA|pc|hQ|pc|h3|pc|s7|pg||
+pc|sK|pc|s4|pc|s2|pc|sA|pg||
+pc|c9|pc|c2|pc|c3|pc|cT|pg||
+pc|s6|pc|h6|pc|sQ|pc|s5|pg||
+pc|s3|pc|s8|pc|sT|pc|h7|pg||
+pc|cQ|pc|cK|pc|cA|pc|c4|pg||
+pc|c8|pc|c5|pc|cJ|pc|c7|pg||
+nt|newmoon: strip @Cs then run @D|pg||
+pc|dA|pc|d4|pc|d3|pc|d2|pg||
+pc|d8|pc|dJ|pc|dK|pc|d6|pg||
+pc|d5|pc|c6|pc|d9|pc|dQ|pg||
+mc|10|pg||
+qx|o16|st||md|2SK75HQ983D6CT8764,SQJT6H2DKQJ95CQJ5,SA9843HT76DAT4CK3,S2HAKJ54D8732CA92|sv|e|mb|1D|mb|1S|mb|2H|mb|2S|mb|p|mb|p|mb|3D|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|s3|pc|s2|pc|sK|pc|s6|pg||
+pc|s7|pc|sQ|pc|s4|pc|h4|pg||
+pc|dK|pc|dA|pc|d2|pc|d6|pg||
+pc|h6|pc|hA|pc|h8|pc|h2|pg||
+pc|d3|pc|h3|pc|dQ|pc|d4|pg||
+pc|cQ|pc|cK|pc|cA|pc|c4|pg||
+pc|hK|pc|h9|pc|c5|pc|h7|pg||
+pc|d7|pc|c6|pc|dJ|pc|dT|pg||
+pc|d9|pc|c3|pc|d8|pc|c7|pg||
+pc|d5|pc|s8|pc|c2|pc|hQ|pg||
+pc|cJ|mc|9|pg||
+qx|c16|st||md|2SK75HQ983D6CT8764,SQJT6H2DKQJ95CQJ5,SA9843HT76DAT4CK3,S2HAKJ54D8732CA92|sv|e|mb|1D|mb|1S|mb|d|nt|newmoon: last hand of this set. thx all for listening, viewing, and enjoying|pg||
+mb|2S|mb|p|mb|p|mb|3H|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|s3|pc|s2|pc|sK|pc|s6|pg||
+pc|s7|pc|sJ|pc|s4|pc|h4|pg||
+pc|dQ|pc|d4|pc|d2|pc|d6|pg||
+pc|dJ|pc|dA|pc|d3|pc|c8|pg||
+pc|h6|pc|hA|pc|h3|pc|h2|pg||
+pc|d7|pc|c4|pc|dK|pc|dT|pg||
+pc|cJ|pc|c3|pc|c2|pc|c6|pg||
+pc|sT|pc|sA|pc|h5|pc|s5|pg||
+pc|h7|pc|hK|pc|h8|pc|c5|pg||
+mc|10|pg||

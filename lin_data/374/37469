@@ -1,0 +1,926 @@
+vg|Scottish Cup Final,1,I,1,32,KANE,0,SHORT,0|
+rs|1NN-1,2HS-1,3NE+1,3NE=,4HE+1,4HW=,3NW+1,3NW+1,6NS+1,6NS=,4HS+1,4HS+1,3NN+3,4DS+2,3NS+2,3NS+2,3CN-1,2HN=,6HW-1,6HW-2,2SN=,3CW-2,5SS=,5SS=,4HE=,4HE+1,3SE-2,3SE-2,2SW=,2SW=,3CE+1,1NE+3,6HS-1,6HS=,4SE+1,4SE+1,5DS=,6DS-1,6DN=,6SS+1,3NE=,3NE+3,4CSx-1,4HW-3,3NW=,3NW-2,4NW+3,6SE+1,3SS-1,2NE=,3NE+2,3NE-1,5DW=,4SNx-1,4SW-1,4SW=,4HW+1,3NE+1,3HN-2,3NW-1,3NS-1,3NS-1,1NE+4,3CN-3|
+pn|GILLIS,STEEL,H KANE,MATHESON,WALKER,KANE D,SHORT,MACDONALD|pg||
+qx|o1|st||md|3SKJTHQ943DT96CJ63,S984HT872DAJ5CAK5,SAQ3HAJ65DK73C982,S7652HKDQ842CQT74|sv|o|mb|1N|mb|p|mb|p|mb|p|pc|s7|pc|sT|pc|s9|pc|s3|pg||
+pc|h3|pc|h2|pc|hJ|pc|hK|pg||
+pc|s2|pc|sJ|pc|s4|pc|sA|pg||
+pc|hA|pc|c7|pc|h4|pc|h7|pg||
+pc|c2|pc|c4|pc|c6|pc|cK|pg||
+pc|s8|pc|sQ|pc|s5|pc|sK|pg||
+pc|cJ|pc|cA|pc|c8|pc|cT|pg||
+pc|dA|pc|d3|pc|d2|pc|d6|pg||
+pc|d5|pc|dK|pc|d4|pc|d9|pg||
+pc|h6|pc|d8|pc|hQ|pc|h8|pg||
+pc|c3|pc|c5|mc|6|pg||
+qx|c1|st||md|3SKJTHQ943DT96CJ63,S984HT872DAJ5CAK5,SAQ3HAJ65DK73C982,S7652HKDQ842CQT74|sv|o|mb|1C|an|could be short|mb|p|mb|1H|mb|p|mb|2H!|mb|p|mb|p|mb|p|pc|s8|pc|s3|pc|s7|pc|sJ|pg||
+pc|h3|pc|h2|pc|hJ|pc|hK|pg||
+pc|c4|pc|c6|pc|cK|pc|c2|pg||
+pc|s9|pc|sA|pc|s2|pc|sT|pg||
+pc|hA|pc|d4|pc|h4|pc|h7|pg||
+pc|sQ|pc|s5|pc|sK|pc|s4|pg||
+pc|c3|pc|cA|pc|c8|pc|c7|pg||
+pc|c5|pc|c9|pc|cQ|pc|cJ|pg||
+pc|s6|pc|d6|pc|h8|pc|d3|pg||
+pc|d5|pc|dK|pc|d2|pc|dT|pg||
+pc|h5|pc|cT|pc|hQ|pc|hT|pg||
+pc|h9|pc|dJ|pc|h6|pc|d8|pg||
+pc|d9|pc|dA|pc|d7|pc|dQ|pg||
+pg||
+qx|o2|st||md|4SQJT4H532DK74C862,SK962HT6DA653CAJ3,S53HJ9874DJ8CKQ97,SA87HAKQDQT92CT54|sv|n|mb|1N|mb|p|mb|2C!|mb|p|mb|2D|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|sQ|pc|s2|pc|s3|pc|sA|pg||
+pc|d9|pc|d4|pc|d3|pc|dJ|pg||
+pc|h7|pc|hK|pc|h2|pc|h6|pg||
+pc|dT|pc|d7|pc|d5|pc|d8|pg||
+pc|s7|pc|sT|pc|sK|pc|s5|pg||
+pc|s6|pc|c7|pc|s8|pc|sJ|pg||
+pc|h5|pc|hT|pc|hJ|pc|hA|pg||
+pc|d2|pc|dK|pc|dA|pc|h4|pg||
+pc|s9|pc|c9|pc|c4|pc|s4|pg||
+pc|d6|pc|h8|pc|dQ|pc|h3|pg||
+pc|hQ|pc|c2|pc|c3|pc|h9|pg||
+mc|10|pg||
+qx|c2|st||md|4SQJT4H532DK74C862,SK962HT6DA653CAJ3,S53HJ9874DJ8CKQ97,SA87HAKQDQT92CT54|sv|n|mb|1N|an|15-17|mb|p|mb|2C|an| |mb|p|mb|2D|an| |mb|p|mb|3N|mb|p|mb|p|mb|p|pc|sQ|pc|s2|pc|s5|pc|sA|pg||
+pc|dQ|pc|d4|pc|d3|pc|d8|pg||
+pc|d2|pc|d7|pc|dA|pc|dJ|pg||
+pc|d5|pc|h9|pc|dT|pc|dK|pg||
+pc|c8|pc|c3|pc|cQ|pc|c4|pg||
+pc|h4|pc|hA|pc|h5|pc|h6|pg||
+pc|s8|pc|sT|pc|s6|pc|s3|pg||
+pc|c6|pc|cA|pc|c7|pc|c5|pg||
+pc|d6|pc|c9|pc|d9|pc|c2|pg||
+pc|hK|pc|h3|pc|hT|pc|h7|pg||
+pc|hQ|pc|h2|pc|cJ|pc|h8|pg||
+pc|s7|pc|s4|pc|sK|pc|hJ|pg||
+pc|s9|pc|cK|pc|cT|pc|sJ|pg||
+pg||
+qx|o3|st||md|1S72HKJ3DKT95CAQT2,SKJT94HA982DAQ4C5,S65H74DJ82CK98743,SAQ83HQT65D763CJ6|sv|e|mb|1N|mb|2C!|mb|p|mb|2D!|mb|p|mb|2S|mb|p|mb|3H|mb|p|mb|4H|mb|p|mb|p|mb|p|pc|dT|pc|dQ|pc|d2|pc|d7|pg||
+pc|h9|pc|h4|pc|h5|pc|hJ|pg||
+pc|dK|pc|dA|pc|d8|pc|d6|pg||
+pc|s4|pc|s6|pc|sA|pc|s2|pg||
+pc|hT|pc|h3|pc|h2|pc|h7|pg||
+pc|h6|pc|hK|pc|hA|pc|c7|pg||
+mc|11|pg||
+qx|c3|st||md|1S72HKJ3DKT95CAQT2,SKJT94HA982DAQ4C5,S65H74DJ82CK98743,SAQ83HQT65D763CJ6|sv|e|mb|1D|mb|1S|mb|p|mb|2D|an| |mb|p|mb|2H|mb|p|mb|3H|mb|p|mb|4H|mb|p|mb|p|mb|p|pc|d2|pc|d3|pc|dK|pc|dA|pg||
+pc|hA|pc|h4|pc|h5|pc|h3|pg||
+pc|h2|pc|h7|pc|hT|pc|hJ|pg||
+pc|cA|pc|c5|pc|c3|pc|c6|pg||
+pc|cQ|pc|h8|pc|c4|pc|cJ|pg||
+pc|h9|pc|c7|pc|h6|pc|hK|pg||
+pc|dT|pc|dQ|pc|d8|pc|d6|pg||
+mc|10|pg||
+qx|o4|st||md|2SJ72H6532DKT6C852,SQ3HKQ8DAJ52CQT93,SK965HAJ97D943C76,SAT84HT4DQ87CAKJ4|sv|b|mb|1D|mb|d|mb|1S|mb|p|mb|1N|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|h7|pc|hT|pc|h3|pc|h8|pg||
+pc|d7|pc|d6|pc|dA|pc|d3|pg||
+pc|d2|pc|d4|pc|dQ|pc|dK|pg||
+pc|h2|pc|hQ|pc|hA|pc|h4|pg||
+pc|hJ|pc|s4|pc|h5|pc|hK|pg||
+pc|cT|pc|c7|pc|c4|pc|c2|pg||
+pc|c3|pc|c6|pc|cA|pc|c5|pg||
+pc|cK|pc|c8|pc|cQ|pc|s5|pg||
+mc|10|pg||
+qx|c4|st||md|2SJ72H6532DKT6C852,SQ3HKQ8DAJ52CQT93,SK965HAJ97D943C76,SAT84HT4DQ87CAKJ4|sv|b|mb|1C|an|2+|mb|p|mb|1S|mb|p|mb|1N|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|h7|pc|hT|pc|h2|pc|h8|pg||
+pc|dQ|pc|dK|pc|d2|pc|d3|pg||
+pc|h3|pc|hK|pc|hA|pc|h4|pg||
+pc|h9|pc|s4|pc|h5|pc|hQ|pg||
+pc|c3|pc|c7|pc|cK|pc|c2|pg||
+pc|cA|pc|c5|pc|c9|pc|c6|pg||
+pc|cJ|pc|c8|pc|cQ|pc|s5|pg||
+pc|cT|pc|d4|pc|c4|pc|h6|pg||
+pc|dA|pc|d9|pc|d7|pc|d6|pg||
+pc|dJ|pc|s6|pc|d8|pc|dT|pg||
+pc|d5|pc|hJ|pc|s8|pc|s2|pg||
+pc|sQ|pc|sK|pc|sA|pc|s7|pg||
+pc|sT|pc|sJ|pc|s3|pc|s9|pg||
+pg||
+qx|o5|st||md|3SAJTHAKTDAKQ5CAJ6,SQ864HQJ65DJ9742C,SK952H987DT8CKQ42,S73H432D63CT98753|sv|n|mb|p|mb|p|mb|2D!|mb|p|mb|2H!|mb|p|mb|2N|an|25-26|mb|p|mb|6N|mb|p|mb|p|mb|p|pc|d4|pc|dT|pc|d3|pc|d5|pg||
+pc|d8|pc|d6|pc|dA|pc|dJ|pg||
+pc|sJ|pc|s4|pc|s2|pc|s3|pg||
+mc|13|pg||
+qx|c5|st||md|3SAJTHAKTDAKQ5CAJ6,SQ864HQJ65DJ9742C,SK952H987DT8CKQ42,S73H432D63CT98753|sv|n|mb|p|mb|p|mb|2C|an| |mb|p|mb|2D|an| |mb|p|mb|3N|mb|p|mb|5N|mb|p|mb|6N|mb|p|mb|p|mb|p|pc|d4|pc|dT|pc|d6|pc|d5|pg||
+pc|s2|pc|s3|pc|sJ|pc|sQ|pg||
+mc|12|pg||
+qx|o6|st||md|4S83HKQT54DA863C97,ST754H76DKJ94CQT8,SQHAJ98DQT5CAKJ64,SAKJ962H32D72C532|sv|e|mb|2S|mb|p|mb|3S|mb|d|mb|p|mb|4H|mb|p|mb|p|mb|p|pc|s7|pc|sQ|pc|sA|pc|s3|pg||
+pc|d7|pc|d6|pc|dK|pc|d5|pg||
+pc|d4|pc|dT|pc|d2|pc|d3|pg||
+pc|hA|pc|h2|pc|h4|pc|h6|pg||
+mc|11|pg||
+qx|c6|st||md|4S83HKQT54DA863C97,ST754H76DKJ94CQT8,SQHAJ98DQT5CAKJ64,SAKJ962H32D72C532|sv|e|mb|p|mb|p|mb|p|mb|1C|mb|1S|mb|2H|mb|2S|mb|4H|mb|p|mb|p|mb|p|pc|s7|pc|sQ|pc|sA|pc|s8|pg||
+pc|d7|pc|d8|pc|dK|pc|d5|pg||
+pc|d4|pc|dT|pc|d2|pc|d3|pg||
+pc|hA|pc|h2|pc|h4|pc|h6|pg||
+pc|h8|pc|h3|pc|hK|pc|h7|pg||
+mc|11|pg||
+qx|o7|st||md|1SJ98H63DKJT7652C2,S5HAJ742DQ4CA9653,SAKQ2HKT9DA93CKQT,ST7643HQ85D8CJ874|sv|b|mb|p|mb|1H|mb|d|mb|2H|mb|3D|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|h5|pc|h3|pc|hA|pc|h9|pg||
+pc|h4|pc|hK|pc|hQ|pc|h6|pg||
+pc|dA|pc|d8|pc|d2|pc|d4|pg||
+pc|d9|pc|s7|pc|dK|pc|dQ|pg||
+mc|12|pg||
+qx|c7|st||md|1SJ98H63DKJT7652C2,S5HAJ742DQ4CA9653,SAKQ2HKT9DA93CKQT,ST7643HQ85D8CJ874|sv|b|mb|p|mb|1H|mb|d|mb|2H|mb|2N|an|Lebensohl|mb|p|mb|3N|mb|p|mb|4D|mb|p|mb|p|mb|p|pc|hA|pc|h9|pc|h5|pc|h6|pg||
+pc|h4|pc|hK|pc|h8|pc|h3|pg||
+pc|dA|pc|d8|pc|d6|pc|d4|pg||
+pc|d3|pc|s3|pc|dK|pc|dQ|pg||
+mc|12|pg||
+qx|o8|st||md|2SKQHQJ9DKQ52CAQJ9,SJ7H85DA63C875432,SA8652HK74D9874CT,ST943HAT632DJTCK6|sv|o|mb|p|mb|p|mb|p|mb|2N|mb|p|mb|3H!|mb|p|mb|3S|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|d3|pc|d9|pc|dT|pc|dQ|pg||
+pc|dK|pc|dA|pc|d4|pc|dJ|pg||
+pc|c8|pc|cT|pc|cK|pc|cA|pg||
+pc|hQ|pc|h5|pc|h4|pc|h6|pg||
+pc|hJ|pc|h8|pc|h7|pc|hA|pg||
+mc|11|pg||
+qx|c8|st||md|2SKQHQJ9DKQ52CAQJ9,SJ7H85DA63C875432,SA8652HK74D9874CT,ST943HAT632DJTCK6|sv|o|mb|p|mb|p|mb|1H|mb|d|mb|p|mb|2S|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|h8|pc|h4|pc|h2|pc|h9|pg||
+pc|sK|pc|s7|pc|s2|pc|s3|pg||
+pc|sQ|pc|sJ|pc|s5|pc|s4|pg||
+pc|c9|pc|c5|pc|cT|pc|cK|pg||
+pc|c6|pc|cA|pc|c2|pc|s6|pg||
+pc|dK|pc|dA|pc|d7|pc|dJ|pg||
+pc|h5|pc|h7|pc|hT|pc|hQ|pg||
+pc|cQ|pc|c3|pc|hK|pc|h3|pg||
+pc|dQ|pc|d3|pc|d4|pc|dT|pg||
+pc|cJ|pc|c4|pc|s8|mc|11|pg||
+qx|o9|st||md|3SQJ5HKJT984DCQT53,ST86H72DT854CKJ94,SA93H6DAKJ93C8762,SK742HAQ53DQ762CA|sv|e|mb|1D|mb|p|mb|1H|mb|p|mb|2C|mb|p|mb|3C|mb|p|mb|p|mb|p|pc|s4|pc|sQ|pc|sT|pc|s9|pg||
+pc|h4|pc|h2|pc|h6|pc|hQ|pg||
+pc|d2|pc|s5|pc|dT|pc|dJ|pg||
+pc|dA|pc|d6|pc|h8|pc|d8|pg||
+pc|dK|pc|d7|pc|h9|pc|d5|pg||
+pc|sA|pc|s2|pc|sJ|pc|s6|pg||
+pc|s3|pc|s7|pc|c3|pc|s8|pg||
+pc|hT|pc|h7|pc|c6|pc|h3|pg||
+pc|d3|pc|dQ|pc|cT|pc|d4|pg||
+pc|hJ|pc|cJ|pc|d9|pc|h5|pg||
+pc|c4|pc|c2|pc|cA|pc|c5|pg||
+mc|8|pg||
+qx|c9|st||md|3SQJ5HKJT984DCQT53,ST86H72DT854CKJ94,SA93H6DAKJ93C8762,SK742HAQ53DQ762CA|sv|e|mb|1D|mb|1N|mb|2D|an|long major|mb|p|mb|2H|an|pass or correct|mb|p|mb|p|mb|p|pc|cA|pc|c3|pc|c4|pc|c7|pg||
+pc|d2|pc|s5|pc|dT|pc|dJ|pg||
+pc|h6|pc|h3|pc|hK|pc|h2|pg||
+pc|h8|pc|h7|pc|d3|pc|hQ|pg||
+pc|hA|pc|h4|pc|s8|pc|s3|pg||
+pc|h5|pc|hJ|pc|d4|pc|c2|pg||
+pc|hT|pc|d5|pc|c6|pc|s7|pg||
+pc|sQ|pc|s6|pc|sA|pc|s2|pg||
+pc|dA|pc|d6|pc|sJ|pc|d8|pg||
+pc|dK|pc|d7|pc|c5|pc|c9|pg||
+pc|c8|pc|s4|mc|8|pg||
+qx|o10|st||md|4SQT4HJT97DQ853CT8,S9HAKQ64DAT6CAQ72,S8653H8DJ742CKJ63,SAKJ72H532DK9C954|sv|b|mb|1S|mb|p|mb|2H|an|gf|mb|p|mb|3H|mb|p|mb|3S!|an|any serious slam try|mb|p|mb|4H|mb|p|mb|6H|mb|p|mb|p|mb|p|pc|c3|pc|c4|pc|c8|pc|cQ|pg||
+pc|hK|pc|h8|pc|h2|pc|h7|pg||
+pc|d6|pc|d4|pc|dK|pc|d3|pg||
+pc|d9|pc|d5|pc|dA|pc|d2|pg||
+pc|dT|pc|d7|pc|h3|pc|d8|pg||
+pc|h5|pc|h9|pc|hQ|pc|c6|pg||
+pc|hA|pc|dJ|pc|c5|pc|hT|pg||
+pc|h6|pc|s5|pc|s2|pc|hJ|pg||
+pc|cT|pc|cA|pc|cJ|pc|c9|pg||
+pc|h4|pc|cK|pc|s7|pc|dQ|pg||
+pc|s9|pc|s3|pc|sJ|pc|sQ|pg||
+mc|11|pg||
+qx|c10|st||md|4SQT4HJT97DQ853CT8,S9HAKQ64DAT6CAQ72,S8653H8DJ742CKJ63,SAKJ72H532DK9C954|sv|b|mb|1S|mb|p|mb|2H|mb|p|mb|2S|an| |mb|p|mb|3C|mb|p|mb|4H|mb|p|mb|6H|mb|p|mb|p|mb|p|pc|d2|pc|d9|pc|dQ|pc|dA|pg||
+pc|s9|pc|s3|pc|sJ|pc|sQ|pg||
+pc|c8|pc|cQ|pc|cK|pc|c4|pg||
+pc|d4|pc|dK|pc|d3|pc|d6|pg||
+pc|h2|pc|h7|pc|hA|pc|h8|pg||
+pc|hK|pc|c3|pc|h3|pc|h9|pg||
+pc|dT|pc|dJ|pc|h5|pc|d5|pg||
+pc|sA|pc|s4|pc|c2|pc|s5|pg||
+pc|sK|pc|sT|pc|c7|pc|s6|pg||
+pc|s2|pc|cT|pc|h4|pc|s8|pg||
+mc|10|pg||
+qx|o11|st||md|1SATHAQT2DKT43CK92,SKQ865H53D96CT854,SJ97432H97DJ87CJ6,SHKJ864DAQ52CAQ73|sv|o|mb|1H|mb|p|mb|1S|mb|d|mb|1N|mb|2C|mb|2S|mb|p|mb|p|mb|p|pc|cA|pc|c2|pc|c8|pc|c6|pg||
+pc|cQ|pc|cK|pc|c4|pc|cJ|pg||
+pc|c9|pc|cT|pc|s2|pc|c3|pg||
+pc|h7|pc|h4|pc|hQ|pc|h3|pg||
+pc|hA|pc|h5|pc|h9|pc|h6|pg||
+pc|h2|pc|d6|pc|s3|pc|h8|pg||
+pc|d7|pc|dA|pc|d3|pc|d9|pg||
+pc|d2|pc|d4|pc|s5|pc|d8|pg||
+pc|s6|pc|s4|pc|hJ|pc|sT|pg||
+pc|hT|mc|8|pg||
+qx|c11|st||md|1SATHAQT2DKT43CK92,SKQ865H53D96CT854,SJ97432H97DJ87CJ6,SHKJ864DAQ52CAQ73|sv|o|mb|1N|an|15-17|mb|p|mb|2H|an|transfer|mb|2S|mb|p|mb|3C|mb|p|mb|p|mb|p|pc|h9|pc|hJ|pc|hQ|pc|h3|pg||
+pc|sT|pc|sK|pc|s2|pc|d2|pg||
+pc|h5|pc|h7|pc|h8|pc|hT|pg||
+pc|h2|pc|d6|pc|c6|pc|h4|pg||
+pc|d7|pc|dA|pc|d3|pc|d9|pg||
+pc|d5|pc|dT|pc|c4|pc|d8|pg||
+pc|s5|pc|s3|pc|c3|pc|sA|pg||
+pc|dQ|pc|dK|pc|c5|pc|dJ|pg||
+pc|sQ|pc|s4|pc|h6|pc|c2|pg||
+pc|hA|pc|c8|pc|cJ|pc|hK|pg||
+pc|sJ|pc|cQ|pc|cK|pc|s6|pg||
+mc|7|pg||
+qx|o12|st||md|2SAKQ743H4DAK5C752,ST9HAJT7653DJCAQ9,SJ862H8DQ97CKJ864,S5HKQ92DT86432CT3|sv|n|mb|1H|mb|p|mb|4H|mb|4S|mb|5C|mb|5S|mb|p|mb|p|mb|p|pc|hA|pc|h8|pc|h2|pc|h4|pg||
+pc|cA|pc|c4|pc|c3|pc|c2|pg||
+pc|c9|pc|cJ|pc|cT|pc|c5|pg||
+mc|11|pg||
+qx|c12|st||md|2SAKQ743H4DAK5C752,ST9HAJT7653DJCAQ9,SJ862H8DQ97CKJ864,S5HKQ92DT86432CT3|sv|n|mb|1H|mb|p|mb|4H|mb|4S|mb|5H|mb|5S|mb|p|mb|p|mb|p|pc|hA|pc|h8|pc|h9|pc|h4|pg||
+pc|dJ|pc|dQ|pc|d8|pc|d5|pg||
+pc|s6|pc|s5|pc|sA|pc|s9|pg||
+pc|sK|pc|sT|pc|s8|pc|d2|pg||
+pc|dA|pc|h7|pc|d7|pc|d3|pg||
+pc|dK|pc|h6|pc|d9|pc|d4|pg||
+pc|c5|pc|cA|pc|c4|pc|cT|pg||
+pc|c9|pc|cJ|pc|c3|pc|c2|pg||
+mc|11|pg||
+qx|o13|st||md|3S98743HKQDA52CT94,S2HJT98654DJ8643C,SJT65HADT7CJ87653,SAKQH732DKQ9CAKQ2|sv|b|mb|p|mb|2C!|mb|p|mb|2D!|mb|p|mb|2N|mb|p|mb|3D!|mb|p|mb|3H|mb|p|mb|4H!|mb|p|mb|p|mb|p|pc|s8|pc|s2|pc|sT|pc|sK|pg||
+pc|h2|pc|hQ|pc|h4|pc|hA|pg||
+pc|dT|pc|dK|pc|dA|mc|10|pg||
+qx|c13|st||md|3S98743HKQDA52CT94,S2HJT98654DJ8643C,SJT65HADT7CJ87653,SAKQH732DKQ9CAKQ2|sv|b|mb|p|mb|2C|an| |mb|p|mb|2D|mb|p|mb|2N|mb|p|mb|3D|an| |mb|p|mb|3H|an|transfer|mb|p|mb|4H|mb|p|mb|p|mb|p|pc|c9|pc|d3|pc|c3|pc|cA|pg||
+pc|cK|pc|c4|pc|d4|pc|c5|pg||
+pc|cQ|pc|cT|pc|d6|pc|c6|pg||
+pc|sA|pc|s9|pc|s2|pc|s6|pg||
+pc|sK|pc|s3|pc|d8|pc|s5|pg||
+pc|sQ|pc|s4|pc|dJ|pc|sT|pg||
+pc|h2|pc|hK|pc|hJ|pc|hA|pg||
+mc|11|pg||
+qx|o14|st||md|4SK5HA53DK73CA7654,SQT9HK9872DT92CJ8,S83HQT64DA854CKT3,SAJ7642HJDQJ6CQ92|sv|o|mb|1S|mb|d|mb|2S!|mb|3H|mb|3S|mb|p|mb|p|mb|p|pc|hA|pc|h2|pc|h4|pc|hJ|pg||
+pc|cA|pc|c8|pc|cT|pc|c2|pg||
+pc|c5|pc|cJ|pc|cK|pc|c9|pg||
+pc|d4|pc|dQ|pc|dK|pc|d2|pg||
+pc|d7|pc|d9|pc|dA|pc|dJ|pg||
+pc|d5|pc|d6|pc|d3|pc|dT|pg||
+pc|s9|pc|s3|pc|s2|pc|sK|pg||
+pc|c4|pc|sT|pc|c3|pc|cQ|pg||
+pc|sQ|pc|s8|pc|s4|pc|s5|pg||
+mc|7|pg||
+qx|c14|st||md|4SK5HA53DK73CA7654,SQT9HK9872DT92CJ8,S83HQT64DA854CKT3,SAJ7642HJDQJ6CQ92|sv|o|mb|1S|mb|d|mb|2S|mb|d|mb|3S|mb|p|mb|p|mb|p|pc|d3|pc|d2|pc|dA|pc|dQ|pg||
+pc|s3|pc|s2|pc|sK|pc|s9|pg||
+pc|s5|pc|sT|pc|s8|pc|sA|pg||
+pc|hJ|pc|hA|pc|h2|pc|h4|pg||
+pc|dK|pc|d9|pc|d4|pc|dJ|pg||
+pc|d7|pc|dT|pc|d5|pc|d6|pg||
+pc|hK|pc|h6|pc|c2|pc|h5|pg||
+pc|h8|pc|hT|pc|s4|pc|h3|pg||
+pc|c9|pc|c7|pc|cJ|pc|cK|pg||
+pc|c3|pc|cQ|pc|cA|pc|c8|pg||
+mc|7|pg||
+qx|o15|st||md|1S5HA32DQT8542CA96,SAQJ942HJDJCJ8732,SK763HK9876DK9CQT,ST8HQT54DA763CK54|sv|n|mb|p|mb|1S|mb|p|mb|1N|mb|p|mb|2S|mb|p|mb|p|mb|p|pc|h7|pc|h4|pc|hA|pc|hJ|pg||
+pc|d5|pc|dJ|pc|dK|pc|dA|pg||
+pc|d3|pc|dQ|pc|s2|pc|d9|pg||
+pc|c2|pc|cT|pc|cK|pc|cA|pg||
+pc|d8|pc|s4|pc|s6|pc|d6|pg||
+pc|cQ|pc|c4|pc|c9|pc|c8|pg||
+pc|hK|pc|h5|pc|h3|pc|sJ|pg||
+pc|sA|pc|s3|pc|s8|pc|s5|pg||
+pc|s9|pc|s7|pc|sT|pc|d2|pg||
+mc|8|pg||
+qx|c15|st||md|1S5HA32DQT8542CA96,SAQJ942HJDJCJ8732,SK763HK9876DK9CQT,ST8HQT54DA763CK54|sv|n|mb|p|mb|1S|mb|p|mb|1N|an|forcing|mb|p|mb|2C|an| |mb|p|mb|2S|mb|p|mb|p|mb|p|pc|h7|pc|h4|pc|hA|pc|hJ|pg||
+pc|d5|pc|dJ|pc|dK|pc|dA|pg||
+pc|sT|pc|s5|pc|s2|pc|s3|pg||
+pc|s8|pc|d2|pc|s9|pc|sK|pg||
+pc|d9|pc|d3|pc|dT|pc|s4|pg||
+pc|c2|pc|cT|pc|cK|pc|cA|pg||
+pc|d8|pc|sJ|pc|h6|pc|d6|pg||
+pc|c3|pc|cQ|pc|c5|pc|c6|pg||
+pc|hK|pc|h5|pc|h3|pc|c7|pg||
+pc|s6|pc|d7|mc|8|pg||
+qx|o16|st||md|2SKQ5H87532DQ6C852,SA986HQJTDA9874CQ,S7432HAKDKJ32CT74,SJTH964DT5CAKJ963|sv|e|mb|1D|mb|p|mb|1N|mb|p|mb|p|mb|2S|mb|3C|mb|p|mb|p|mb|p|pc|sK|pc|sA|pc|s4|pc|sT|pg||
+pc|cQ|pc|c4|pc|cA|pc|c2|pg||
+pc|cK|mc|10|pg||
+qx|c16|st||md|2SKQ5H87532DQ6C852,SA986HQJTDA9874CQ,S7432HAKDKJ32CT74,SJTH964DT5CAKJ963|sv|e|mb|1D|mb|p|mb|1N|an| |mb|p|mb|p|mb|p|pc|h7|pc|hT|pc|hA|pc|h4|pg||
+pc|hK|pc|h6|pc|h2|pc|hJ|pg||
+pc|c7|pc|cA|pc|c5|pc|cQ|pg||
+pc|cK|pc|c2|pc|d4|pc|c4|pg||
+pc|cJ|pc|c8|pc|d7|pc|cT|pg||
+pc|c9|pc|h5|pc|d8|pc|d2|pg||
+pc|c6|pc|h8|pc|s6|pc|s2|pg||
+pc|c3|pc|h3|pc|d9|pc|d3|pg||
+pc|sJ|pc|sK|pc|sA|pc|s3|pg||
+pc|s9|pc|s4|pc|sT|pc|sQ|pg||
+mc|10|pg||
+qx|o17|st||md|3SAQ85HAQ92DCA6432,S32HJ4D7432CKJT97,ST4HK863DAKQ95CQ5,SKJ976HT75DJT86C8|sv|o|nt|paulg:  2 or 3 imps away|pg||
+mb|1D|mb|p|mb|1H|mb|p|mb|2H|mb|p|mb|6H|mb|p|mb|p|mb|p|nt|paulg:  Cliff Gillis and I disagree on many system aspects, for example it would never occur to me to respond 1@h|pg||
+nt|paulg:  but I'm sure we'd end up in the same spot|pg||
+nt|paulg:  just not as quickly|pg||
+pc|s3|nt|paulg:  the problem with this hand is how to play it and cope when trumps are 4-1|pg||
+pc|sT|pc|sJ|pc|sQ|pg||
+pc|hA|pc|h4|pc|h3|pc|h5|pg||
+pc|hQ|pc|hJ|pc|h6|pc|h7|pg||
+pc|c2|pc|cK|pc|c5|pc|c8|pg||
+pc|c7|pc|cQ|pc|hT|pc|c3|pg||
+mc|11|nt|paulg:  unfortunately this is the way to go down when hearts are 3-2, a little unlucky of course that clubs are 5-1|pg||
+pg||
+qx|c17|st||md|3SAQ85HAQ92DCA6432,S32HJ4D7432CKJT97,ST4HK863DAKQ95CQ5,SKJ976HT75DJT86C8|sv|o|nt|vugraphzed: hi and welcome back|pg||
+mb|1D|mb|1S|nt|cuttysark:  Ok, we are off again, playig boards 17-32|pg||
+mb|2C|mb|p|nt|cuttysark:  nice close match|pg||
+mb|2D|mb|p|mb|2H|mb|p|mb|4H|mb|p|nt|cuttysark:  i predict hat they will eventually find the heart fit, but will not bid slam (this one makes!)|pg||
+nt|vugraphzed: South in the tank|pg||
+mb|6H|mb|p|nt|cuttysark:  Rightly so, but a void in partner's rebid suit is not usually an asset|pg||
+mb|p|mb|p|nt|cuttysark:  Oh - wrong again!|pg||
+pc|s3|nt|cuttysark:  leading partner's suit - I guess the overcall made this finesse a virtual certainty|pg||
+nt|vugraphzed: South surveying dummy|pg||
+pc|s4|pc|sK|pc|sA|pg||
+pc|hA|pc|h4|pc|h3|nt|cuttysark:  can play to ruff 2 spades in dummy, or for @CK onside, or establish long diamond|pg||
+pc|h5|pg||
+nt|cuttysark:  Never thought of drawing trump!|pg||
+pc|hQ|pc|hJ|pc|h6|pc|h7|pg||
+pc|h2|nt|cuttysark:  Very few entries to dummy|pg||
+pc|s2|pc|hK|pc|hT|pg||
+pc|dA|pc|d8|nt|cuttysark:  May be considering a black suit squeeze gainst East|pg||
+pc|c2|pc|d2|pg||
+pc|dK|pc|d6|pc|c3|pc|d3|pg||
+nt|vugraphzed: I watched Walker in first set, he plays fast normalu|pg||
+pc|dQ|pc|dJ|nt|vugraphzed: taken longer on this hand than all the 3NTs he made in first set|pg||
+nt|cuttysark:  Wow - people must change after all|pg||
+pc|c4|pc|d4|pg||
+pc|d5|pc|dT|pc|h9|pc|d7|pg||
+pc|sQ|pc|c7|pc|sT|pc|s6|pg||
+pc|s5|pc|c9|pc|h8|pc|s7|pg||
+pc|d9|pc|s9|pc|s8|pc|cT|pg||
+nt|cuttysark:  And he would have squeezed |pg||
+pc|c5|pc|c8|pc|cA|pc|cJ|pg||
+pc|c6|pc|cK|pc|cQ|pc|sJ|pg||
+nt|cuttysark:  if he had @CK|pg||
+nt|vugraphzed: 12 tricks agreed|pg||
+nt|cuttysark:  Good start for Short - a no lose board|pg||
+pg||
+qx|o18|st||md|4S93HK87DQJ93CA765,SAJTHQJ2DT654CK98,S862H54DK872CQJT4,SKQ754HAT963DAC32|sv|n|mb|1S|mb|p|nt|paulg:  a shakey start for Gillis and Kane in this set, but plenty of boards to play|pg||
+mb|3C!|mb|p|mb|4S|mb|p|mb|p|mb|p|nt|paulg:  3@c will be a limit raise, they may not distinguish between 3- and 4-card raises|pg||
+nt|paulg:  11 tricks with the @cA onside|pg||
+pc|dQ|pc|d4|pc|d2|pc|dA|pg||
+nt|paulg:  may make 12 if Gillis switches to a small club on winning the @hK|pg||
+pc|s4|pc|s3|pc|sA|pc|s2|pg||
+pc|sJ|pc|s6|pc|s5|pc|s9|pg||
+pc|sT|pc|s8|pc|s7|pc|c7|pg||
+pc|hQ|pc|h5|pc|h3|pc|hK|pg||
+mc|11|pg||
+qx|c18|st||md|4S93HK87DQJ93CA765,SAJTHQJ2DT654CK98,S862H54DK872CQJT4,SKQ754HAT963DAC32|sv|n|mb|1S|mb|p|mb|2D|nt|cuttysark:  This time slam on 2 finesses. one works, one doesn't|pg||
+nt|vugraphzed: not sure if 2@D is game forcing for this pair|pg||
+mb|p|mb|2H|mb|p|nt|cuttysark:  I believe it is, unless 3@D rebid|pg||
+mb|3S|mb|p|mb|4S|nt|cuttysark:  Or, having another look, maybe not :)|pg||
+mb|p|mb|p|mb|p|nt|vugraphzed: West explaining now "2@D is forcing to at least 2@S"|pg||
+nt|cuttysark:  maybe just F2NT. anyway, they have stopped out of trouble|pg||
+nt|vugraphzed: South also asking about other East-West openings "for future reference"|pg||
+nt|vugraphzed: I think some of the Kane pairs are changed from usual partnerships (someone will know)|pg||
+pc|s3|nt|vugraphzed: East explaining "if I was 4-4 in majors I'd open 1@H"|pg||
+pc|sT|pc|s6|pc|s4|pg||
+pc|sA|pc|s2|pc|s5|pc|s9|pg||
+pc|sJ|pc|s8|pc|s7|pc|c7|pg||
+pc|hQ|pc|h4|pc|h3|pc|hK|pg||
+pc|dQ|pc|d4|pc|d2|pc|dA|pg||
+pc|c2|nt|cuttysark:  Helen and Danny normally play together, but they have lined up this way for the Scottish cup|pg||
+pc|cA|pc|c8|pc|c4|pg||
+mc|11|nt|vugraphzed: 11 tricks agreed|pg||
+pg||
+qx|o19|st||md|1S875HKT82DAKJ65CT,ST9HAQ6DQ74C98632,SAK2HJ5DT932CAKQJ,SQJ643H9743D8C754|sv|e|mb|1D|mb|p|mb|2D!|an|GF|mb|p|nt|paulg:  6@d looks a good contract but you need to pick both heart and diamond positions, so well against the odds|pg||
+mb|2H|mb|p|nt|paulg:  2@d is an inverted raise and I expect that it denies a 4-card major, so 2@h is a no-trump probe|pg||
+nt|paulg:  as they play better minor, I think I'd respond 2@c rather than show a poor diamond suit|pg||
+mb|2N|mb|p|mb|3N|mb|p|nt|paulg:  Gillis might bid 3NT now, because he is such a minimum hand|pg||
+mb|4D|mb|p|nt|paulg:  if wonder if Cliff can be 4432 without a club stop?|pg||
+mb|5D|mb|p|nt|paulg:  Cliff is actually quite good for his reluctant bidding, but I think Helen is forced to pass as they could be missing the top two hearts|pg||
+nt|paulg:  Cliff could be  xx Q1098 AKQxx xx |pg||
+mb|p|mb|p|pc|sT|pc|sA|pc|s6|pc|s7|pg||
+nt|paulg:  even to make 5@d declarer has to endplay West|pg||
+pc|d2|pc|d8|pc|dA|pc|d4|pg||
+pc|dK|nt|paulg:  but this should not be a problem|pg||
+pc|d7|pc|d3|pc|s3|pg||
+pc|cT|pc|c8|pc|cJ|pc|c4|pg||
+pc|cQ|pc|c5|pc|s5|pc|c9|pg||
+pc|cK|pc|c7|pc|h2|pc|c6|pg||
+pc|cA|pc|s4|pc|h8|pc|c3|pg||
+pc|sK|pc|sJ|pc|s8|pc|s9|pg||
+pc|s2|pc|sQ|pc|d5|pc|h6|pg||
+pc|d6|pc|dQ|nt|paulg:  well played for a deserved swing|pg||
+pc|d9|pc|h3|pg||
+mc|11|nt|paulg:  now they'll feel like some things are going their way|pg||
+pg||
+qx|o20|st||md|2SA86432HQ3DKT76C9,ST75H96DJCQT87643,SKQJHAT7DAQ9853C5,S9HKJ8542D42CAKJ2|sv|b|mb|p|mb|1D|mb|1H|nt|paulg:  another slam and a fit jump in spades would probably get them there|pg||
+mb|2S|an| |mb|p|nt|paulg:  so 2@s should be 5@s and 4+@d|pg||
+nt|paulg:  I might just use key-card now|pg||
+nt|paulg:  as I would not expect partner to have five small spades|pg||
+nt|paulg:  and if partner is good enough to hold three key cards then you can count 13 tricks|pg||
+nt|paulg:  of course, some play that 2@s is a weak bid, but this hand looks far too good for that|pg||
+mb|3H!|mb|d|nt|paulg:  Matheson's double means do NOT lead hearts|pg||
+mb|p|mb|p|nt|paulg:  Pass will be a stronger call than bidding by Gillis|pg||
+mb|r|mb|p|nt|paulg:  the problem with Kane's 3@h call is that there is confusion about the trump suit|pg||
+mb|4S|mb|p|mb|6D|mb|p|nt|paulg:  Gillis' 4@s certainly denies the @cA, so Helen Kane can rescue the auction|pg||
+nt|paulg:  I'd be worried to see Gillis thinking at this point.|pg||
+mb|p|mb|p|nt|paulg:  They are not a regular partnership, so I think you have to avoid reading too much into subtly different auctions|pg||
+pc|cK|pc|c9|pc|cT|pc|c5|pg||
+nt|paulg:  they will lose an imp or two, but knew more than the pair at the other table|pg||
+pc|d2|pc|d6|pc|dJ|pc|dA|pg||
+pc|dQ|pc|d4|pc|d7|pc|c3|pg||
+mc|12|pg||
+qx|c20|st||md|2SA86432HQ3DKT76C9,ST75H96DJCQT87643,SKQJHAT7DAQ9853C5,S9HKJ8542D42CAKJ2|sv|b|nt|vugraphzed: South: "We should stop bidding bad slams"|pg||
+nt|cuttysark:  Very profound - so should we all|pg||
+nt|vugraphzed: sorry because I never claimed the tricks we've lost play record for Board 19, but have entered the result|pg||
+mb|p|mb|1D|mb|1H|mb|1S|nt|cuttysark:  fortunately the play is easy to reconstruct|pg||
+mb|p|nt|vugraphzed: a chance for Kane to catch up their 8 IMP deficit if they stay out of slam on that one|pg||
+mb|2H|an| |mb|p|nt|cuttysark:  This may be a good raise where 2S would be a bad one|pg||
+nt|vugraphzed: will South be put off bidding a slam on this one, after playing 6@D-1 last hand?|pg||
+nt|cuttysark:  Might South have chosen a Fit Jump rather than the simple 1@S?|pg||
+nt|cuttysark:  This one is huge|pg||
+nt|vugraphzed: looks like EW have lost their Club fit|pg||
+nt|cuttysark:  Or 2@H may just be an game-forcing hand|pg||
+nt|vugraphzed: 2@H was alerted by both N and S but don't know what it was described as|pg||
+nt|vugraphzed: South is in the tank now|pg||
+mb|3S|mb|p|nt|cuttysark:  7@C is certainly a good save, particuarly if you guess hearts|pg||
+nt|vugraphzed: Was 3@S forcing? Guess North will bid on anyway|pg||
+nt|vugraphzed: North holding on tightly to the 4NT card but not putting it on the table yet|pg||
+mb|4N|an| |mb|p|mb|5D|an|1 keycard|nt|cuttysark:  Not clear what 3@S shows - is this suit good eough?|pg||
+nt|cuttysark:  Once more with the blackwood|pg||
+mb|p|nt|cuttysark:  No doubts this time|pg||
+nt|vugraphzed: South holds up one finger after 5@D bid|pg||
+nt|vugraphzed: his k@D pretty useful too|pg||
+mb|6S|mb|p|mb|p|mb|p|nt|vugraphzed: North: "if we keep on bidding 'em [slams] we'll make one eventually"|pg||
+nt|cuttysark:  wow - I am not convinced that North knows about the king of diamonds..... but any try would take him to the 6-level anyway|pg||
+nt|vugraphzed: North: "may need some luck, may have no play"|pg||
+pc|h9|pc|hA|pc|h5|pc|h3|pg||
+pc|sJ|pc|s9|pc|s2|pc|s5|pg||
+pc|sK|pc|h2|pc|s3|pc|s7|pg||
+pc|sQ|pc|h4|pc|s4|pc|sT|pg||
+nt|cuttysark:  We seem to ahve lost the link between the 2 tables - will try to get results typed in|pg||
+nt|vugraphzed: North claims them all "I'll skilfully not block the Diamond suit"|pg||
+mc|13|pg||
+qx|o21|st||md|3SKT987HAT9DK7CT42,SQJ5HK4DA643CA853,S432HJ7632D95CQ76,SA6HQ85DQJT82CKJ9|sv|n|mb|p|mb|1D|mb|1S|mb|2S!|mb|p|mb|2N|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|sT|pc|sQ|pc|s2|pc|s6|pg||
+nt|paulg:  i doubt Matheson will make three overtricks|pg||
+nt|paulg:  although perhaps he cannot avoid doing so|pg||
+nt|paulg:  it's not clear that he can afford the club finesse|pg||
+nt|paulg:  the club finesse winning is not a lot of use if the diamond finesse is wrong|pg||
+nt|vugraphzeb: sorry- lost the play when I lost connection|pg||
+nt|vugraphzeb: after the club here, matheson played a heart to the Ace, then ace and another diamond|pg||
+pc|c3|pc|c6|mc|9|pg||
+qx|c21|st||md|3SKT987HAT9DK7CT42,SQJ5HK4DA643CA853,S432HJ7632D95CQ76,SA6HQ85DQJT82CKJ9|sv|n|mb|p|mb|1N|mb|p|mb|3N|nt|cuttysark:  No - they are still playing 18|pg||
+nt|cuttysark:  Seems like it took a long time|pg||
+mb|p|mb|p|mb|p|pc|sT|nt|vugraphzed: instant lead from South|pg||
+nt|cuttysark:  maybe they played some more out of order to let the CR catch up|pg||
+nt|vugraphzed: North: "if @ST from length he will usually have a higher honour"|pg||
+nt|vugraphzed: declarer could take 12 tricks now if he can see all the cards (like I can)|pg||
+nt|vugraphzed: East in the tank|pg||
+nt|cuttysark:  Good board for the weak 1NT. No messing|pg||
+nt|vugraphzed: might be thinking of ducking in dummy in case Spades are 6-2?|pg||
+nt|cuttysark:  Wants to be in hand to finesse diamonds|pg||
+nt|cuttysark:  Much easier if he knew the finesse was working|pg||
+nt|vugraphzed: they say the time to think is at trick one|pg||
+nt|vugraphzed: East now rifling through his cards with his thumb|pg||
+pc|sQ|pc|s4|nt|cuttysark:  If he wins @SA he has a second stopper, but if @D finesse loses they might switch to hearts|pg||
+pc|s6|pg||
+pc|c3|pc|c6|pc|cJ|pc|c4|pg||
+pc|dJ|pc|d7|pc|d3|pc|d5|pg||
+pc|dQ|pc|dK|pc|dA|pc|d9|pg||
+nt|cuttysark:  Don't think i would have risked the club finesse, but all's well that ends well|pg||
+pc|c5|pc|c7|pc|cK|pc|c2|pg||
+pc|h5|pc|hT|pc|hK|pc|h3|pg||
+nt|cuttysark:  lots of tricks! worried? moi?|pg||
+pc|s5|pc|s3|pc|sA|pc|s7|pg||
+pc|dT|pc|h9|pc|d6|pc|s2|pg||
+pc|d8|pc|cT|pc|d4|pc|h2|pg||
+pc|d2|pc|s8|pc|h4|pc|cQ|pg||
+mc|12|nt|vugraphzed: South: "I gave up at the end. Twelve tricks"|pg||
+pg||
+qx|o22|st||md|4SQT6H6DJ75CQ98642,SA9742HAT97DA92C7,SK3HKJ84DK863CKJ3,SJ85HQ532DQT4CAT5|sv|e|nt|paulg:  the club finesse does help as he can make that avoidance play in hearts|pg||
+nt|paulg:  a nice line to lose three imps :)|pg||
+nt|vugraphzeb: *heart to the king sorry|pg||
+mb|p|mb|3C|mb|d|nt|paulg:  Unsurprisingly Walker did not open 3@c in the other room|pg||
+mb|4C|mb|d|mb|p|nt|paulg:  4@s will play better than 4@h|pg||
+nt|paulg:  Steel might consider passing opposite a passed hand|pg||
+mb|p|mb|p|pc|c7|nt|paulg:  but still the danger of getting a small return |pg||
+nt|paulg:  If Matheson returns a trump then declarer will escape for one down, but he can switch to a diamond to get 300|pg||
+pc|c3|pc|c5|pc|c9|pg||
+nt|paulg:  even so, it will be at least 9 imps to the Short team|pg||
+pc|h6|pc|hA|pc|h4|pc|h2|pg||
+pc|h7|pc|hJ|pc|hQ|pc|c2|pg||
+pc|s6|pc|s7|pc|sK|pc|s8|pg||
+pc|hK|pc|h3|pc|d7|pc|h9|pg||
+pc|s3|pc|sJ|pc|sQ|pc|sA|pg||
+pc|hT|pc|h8|pc|h5|pc|c4|pg||
+pc|c6|pc|s2|pc|cK|pc|cA|pg||
+pc|cT|pc|cQ|pc|d2|pc|cJ|pg||
+pc|sT|pc|s4|pc|d3|pc|s5|pg||
+pc|d5|pc|dA|pc|d6|pc|d4|pg||
+mc|9|pg||
+qx|c22|st||md|4SQT6H6DJ75CQ98642,SA9742HAT97DA92C7,SK3HKJ84DK863CKJ3,SJ85HQ532DQT4CAT5|sv|e|mb|p|nt|vugraphzed: not getting many comparions this set (apart from slam swing to SHORT)|pg||
+mb|p|mb|1S|nt|vugraphzed: but the rest feel quite flat, wth possible gain to KANE if they stay out of a failing 6@D|pg||
+mb|d|nt|cuttysark:  I think they are still on 19 in the other room.|pg||
+mb|r|nt|vugraphzed: getting quiite warm in here, could be snowing outside but heaters on at the Glasgow Bridge Centre and South taken jumper off|pg||
+mb|2C|nt|vugraphzed: Redouble described just as "normal"|pg||
+mb|2H|mb|p|nt|cuttysark:  Nothing normal that I can see :)|pg||
+mb|3H|mb|p|nt|vugraphzed: might already be a bit high|pg||
+mb|4H|mb|p|mb|p|mb|p|nt|cuttysark:  This needs a lot of luck - or some awful defence, which it will not get|pg||
+pc|c3|nt|vugraphzed: East: "Sorry partner, I didn't bid this very well, wasn't sure what to do"|pg||
+nt|cuttysark:  East had nowhere near as good as 9 points suggest - very quacky|pg||
+nt|vugraphzed: yes, and 4333|pg||
+nt|cuttysark:  Kane gets 10 imps back by avoiding 6@D on Board 19|pg||
+nt|vugraphzed: First hand declaring for Danny Kane|pg||
+pc|cA|pc|c2|pc|c7|pg||
+nt|cuttysark:  can they duplicate the result on board 20 to retain their narrow lead?|pg||
+pc|s5|pc|s6|pc|sA|pc|s3|pg||
+pc|h7|pc|h8|pc|hQ|pc|h6|pg||
+pc|s8|pc|sT|pc|s2|pc|sK|pg||
+nt|cuttysark:  Expect them to lose a few here|pg||
+pc|cK|pc|c5|pc|c4|pc|h9|pg||
+pc|s4|pc|d3|pc|sJ|pc|sQ|pg||
+nt|cuttysark:  Danny will probably not want to declare any more after this :)|pg||
+nt|vugraphzed: it's not going well|pg||
+pc|d5|pc|dA|pc|d6|pc|d4|pg||
+pc|hA|pc|h4|pc|h2|pc|c6|pg||
+pc|s7|pc|hJ|pc|cT|nt|cuttysark:  One more trick for -3|pg||
+pc|c8|pg||
+pc|hK|pc|h3|pc|c9|pc|hT|pg||
+pc|cJ|pc|h5|pc|cQ|pc|d2|pg||
+pc|dQ|pc|d7|pc|d9|pc|dK|pg||
+pc|d8|pc|dT|pc|dJ|pc|s9|pg||
+nt|vugraphzed: three off agreed|pg||
+nt|vugraphzed: East: "sorry partner"|pg||
+pg||
+qx|o23|st||md|1SJ86HQ7DQ983CKT83,SK7HA984DK6542CAJ,SA94HKT6532DJ7C75,SQT532HJDATCQ9642|sv|b|mb|p|mb|1N|mb|p|mb|2H!|mb|p|mb|2S|mb|p|mb|3C|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|h5|pc|hJ|pc|hQ|pc|h4|pg||
+nt|paulg:  Steel considering ducking as he can then maintain control of the suit|pg||
+pc|h7|pc|h9|pc|hT|pc|s2|pg||
+pc|hK|pc|s3|nt|paulg:  @hK is strange when she knows that declarer has @hA8|pg||
+pc|s8|pc|hA|pg||
+nt|paulg:  not that it is easy to decide what switch to make|pg||
+pc|cA|pc|c5|pc|c2|pc|c3|pg||
+pc|cJ|pc|c7|pc|c4|pc|cK|pg||
+pc|s6|pc|s7|pc|sA|pc|s5|pg||
+nt|paulg:  Helen Kane needs to play a diamond now, other Cliff will get squeezed|pg||
+nt|paulg:  otherwise ...|pg||
+pc|s9|pc|sT|pc|sJ|pc|sK|pg||
+nt|paulg:  this is the sort of defence that the world-class players on vugraph get right more often than not|pg||
+pc|h8|pc|h2|pc|c6|pc|d3|pg||
+nt|paulg:  and is the small difference between the top players and the next group down|pg||
+pc|d6|pc|d7|pc|dA|pc|d8|pg||
+pc|cQ|pc|c8|pc|d2|pc|h3|pg||
+pc|sQ|pc|d9|pc|d4|pc|s4|pg||
+pc|dT|pc|dQ|pc|dK|pc|dJ|pg||
+pc|d5|pc|h6|pc|c9|pc|cT|pg||
+nt|paulg:  Steel takes advantage of the friendly defence|pg||
+pg||
+qx|c23|st||md|1SJ86HQ7DQ983CKT83,SK7HA984DK6542CAJ,SA94HKT6532DJ7C75,SQT532HJDATCQ9642|sv|b|mb|p|mb|1D|nt|vugraphzed: this is the Scottish Cup Final|pg||
+nt|vugraphzed: 2nd segment (out of 4), although still says "1" in table header as we have kept it going|pg||
+nt|cuttysark:  Awkward hand for West playing strong no-trump, but this is the weak NT pair|pg||
+mb|1H|mb|1S|mb|p|nt|vugraphzed: East shaknig his head, maybe thinking about the -300 from the last baord|pg||
+mb|1N|mb|p|mb|3N|nt|vugraphzed: East enquring if we are using the STOP card, North says no|pg||
+mb|p|mb|p|mb|p|nt|vugraphzed: "but you can do it if you want"|pg||
+nt|vugraphzed: EW play weak NT, so 1NT rebid 15-17|pg||
+nt|cuttysark:  Another bold effort from East- this will not end well either, it seems|pg||
+nt|vugraphzed: East confirms his 1@S bid shows 5 spades|pg||
+nt|vugraphzed: as long as North doesn't lead a Heart :)|pg||
+pc|h5|nt|vugraphzed: West inspects the dummy; East gazes at the trophies on the wall of the club|pg||
+pc|hJ|pc|hQ|pc|hA|pg||
+pc|d4|pc|d7|pc|dA|pc|d3|pg||
+nt|cuttysark:  I thought he might try for clubs first|pg||
+pc|c2|pc|c3|pc|cJ|pc|c5|pg||
+nt|cuttysark:  That was the only dummy entry...|pg||
+pc|dK|pc|dJ|pc|dT|pc|d8|pg||
+pc|d2|nt|vugraphzed: another awkward hand for Kane|pg||
+nt|cuttysark:  if Diamonds were 3-3 he had a good chance|pg||
+nt|vugraphzed: North: "sorry" as he thinks what to discard|pg||
+nt|cuttysark:  A very apologetic table, it seems|pg||
+pc|h3|pc|s2|pc|d9|pg||
+nt|cuttysark:  could the discard put South off the heart return?|pg||
+pc|h7|pc|h9|pc|hT|pc|c4|pg||
+nt|cuttysark:  North might have thrown his club|pg||
+pc|c7|pc|c6|pc|c8|pc|cA|pg||
+pc|sK|nt|cuttysark:  communications are now very poor|pg||
+nt|vugraphzed: North thinking whether to take this|pg||
+pc|sA|pc|s3|pc|s6|pg||
+pc|s4|nt|vugraphzed: in trouble. Will he improve on the -3 from last hand?|pg||
+pc|sQ|pc|s8|pc|s7|pg||
+nt|cuttysark:  Yes, I think he can manage -2 now|pg||
+pc|s5|pc|sJ|nt|vugraphzed: yes|pg||
+mc|7|nt|vugraphzed: North: "couldn't cash my @HK in case he had more Spades"|pg||
+pg||
+qx|o24|st||md|2S63HKT85DT9842CT9,SKTHA732DAKJ75C52,SJ75HQ94D63CQJ643,SAQ9842HJ6DQCAK87|sv|o|nt|paulg:  As I said earlier, Helen and Cliff are not a regular partnership and defending often exposes this|pg||
+mb|1N|mb|p|mb|2H!|mb|p|mb|2S|mb|p|mb|3C|mb|p|mb|3N|nt|paulg:  a good slam found in the other room|pg||
+mb|p|nt|paulg:  Matheson could bid 4@s now to imply slam values|pg||
+nt|paulg:  perhaps he is too good for this opposite a sttrong no-trump|pg||
+mb|4N|mb|p|mb|p|mb|p|nt|paulg:  so the Kane team outbid Short in the slam zone again|pg||
+pc|d6|pc|dQ|pc|d2|pc|d5|pg||
+pc|s2|pc|s3|pc|sK|pc|s5|pg||
+pc|sT|nt|paulg:  although I think Matheson explored the slam more thoroughly than Macdonald, who just bid 6@s directly over a strong no-trump|pg||
+pc|s7|pc|sA|pc|s6|pg||
+nt|paulg:  hoping not to lose the first two hearts or two aces|pg||
+mc|13|pg||
+qx|c24|st||md|2S63HKT85DT9842CT9,SKTHA732DAKJ75C52,SJ75HQ94D63CQJ643,SAQ9842HJ6DQCAK87|sv|o|nt|vugraphzed: South: "We need to make up some time somewhere"|pg||
+nt|cuttysark:  Kane did bid slam on 20, but in diamonds, so losing 3 imps when @CA was cashed|pg||
+mb|1D|nt|vugraphzed: we are on our 8th out of 16 Board for this segment|pg||
+nt|vugraphzed: which goes up to and including Board 32|pg||
+mb|p|mb|1S|mb|p|mb|1N|nt|vugraphzed: looks like Open Room has some connection problem, welcome if joining from there|pg||
+mb|p|nt|vugraphzed: EW play a weak NT so 1NT rebid is strong|pg||
+nt|cuttysark:  Another slam - coming thick and fast|pg||
+nt|vugraphzed: East has had a couple of punts, here's another one:|pg||
+mb|6S|mb|p|nt|vugraphzed: that's one way of making up some time|pg||
+nt|cuttysark:  Missing the Grand|pg||
+nt|vugraphzed: West is giving it some thought|pg||
+nt|vugraphzed: my rule: "always top up a jump to 6 to 7"|pg||
+mb|p|mb|p|nt|cuttysark:  As well he might - some big cards there|pg||
+nt|vugraphzed: suppose they'll be hoping for trumps 4-1 now|pg||
+nt|vugraphzed: Kane has retaken the lead, very low-scoring and close match|pg||
+pc|cT|nt|vugraphzed: West has "the right" 15 points|pg||
+nt|cuttysark:  Heart lead takes out the entry, and diamonds are 5-2, so 6 is the limit on a heart lead, i think|pg||
+nt|vugraphzed: North "excuse me" and straightens up the DIamonds in dummy, South shakes his head|pg||
+nt|vugraphzed: East puts his card face down and goes into the tank|pg||
+nt|cuttysark:  Board 21 where Macdonald made the maximum posible number of tricks|pg||
+nt|vugraphzed: South takes opportunity to tidy up his score card, East giving this due care |pg||
+nt|vugraphzed: and no chance of a Club ruff|pg||
+pc|c2|pc|c3|pc|cA|pg||
+pc|s2|pc|s3|pc|sK|pc|s5|pg||
+pc|sT|pc|s7|pc|sA|pc|s6|pg||
+nt|vugraphzed: but don't people always lead a trump against 7@S?|pg||
+pc|sQ|nt|cuttysark:  East may perk up when he sees the diamond break|pg||
+pc|h5|pc|h2|pc|sJ|pg||
+pc|dQ|pc|d4|pc|d5|pc|d3|pg||
+pc|h6|nt|vugraphzed: claiming now with good Diamonds "thirteen"|pg||
+mc|13|pg||
+qx|o25|st||md|3SKQ765HQT5D654CKQ,ST9HKJ2DKQJT8CT94,SJ842H987D9CAJ765,SA3HA643DA732C832|sv|e|mb|p|mb|1D|mb|1S|mb|2S!|mb|3S|mb|p|mb|p|mb|p|pc|dK|pc|d9|pc|dA|pc|d6|pg||
+pc|h3|pc|h5|pc|hJ|pc|h7|pg||
+pc|hK|pc|h8|pc|h4|pc|hT|pg||
+pc|h2|pc|h9|pc|hA|pc|hQ|pg||
+pc|h6|pc|d5|pc|sT|pc|sJ|pg||
+pc|s2|pc|s3|pc|sK|pc|s9|pg||
+mc|8|pg||
+qx|c25|st||md|3SKQ765HQT5D654CKQ,ST9HKJ2DKQJT8CT94,SJ842H987D9CAJ765,SA3HA643DA732C832|sv|e|nt|cuttysark:  Re trump lead v grand- i certainly don't, but i have an aversion to leading trump at all!|pg||
+mb|p|mb|1N|an|12-14|mb|p|nt|vugraphzed: Weak NT|pg||
+mb|2C|an| |mb|p|mb|2H|nt|vugraphzed: North not tempted to double 2@C|pg||
+nt|cuttysark:  a 3-ace yarborough|pg||
+mb|p|mb|2N|nt|vugraphzed: 'Aces and Spaces'|pg||
+mb|p|mb|p|mb|p|nt|cuttysark:  Not sure Alistair can ever bring himself to pass - can't have been easy|pg||
+nt|vugraphzed: I guess 2@C is 5-card?|pg||
+nt|vugraphzed: South asking if West denies 4 Spades, EW not sure|pg||
+nt|cuttysark:  Easy 9 tricks on the normal spade lead, but he won't take the heart finesse in 2NT|pg||
+nt|vugraphzed: South (joking): "Have you two played together before"|pg||
+nt|vugraphzed: "is this the first round of the Scottish Cup"|pg||
+pc|s6|nt|cuttysark:  answer - not a lot:)|pg||
+nt|vugraphzed: East: "I'm 99% sure he dones't have four Spades" (and indeed he doesn't)|pg||
+pc|s9|pc|sJ|pc|sA|pg||
+pc|dA|pc|d6|pc|d8|pc|d9|pg||
+nt|cuttysark:  West certainly has impressive intermediates, but not many would raise 1N to 2n on a 10 count|pg||
+pc|d2|pc|d5|pc|dK|pc|c5|pg||
+pc|dQ|pc|s2|pc|d3|pc|d4|pg||
+pc|dJ|pc|s4|pc|d7|pc|s5|pg||
+pc|dT|pc|c6|pc|s3|nt|vugraphzed: defenders hanging on to HEarts|pg||
+pc|s7|pg||
+pc|h2|pc|h7|pc|hA|pc|h5|pg||
+pc|h3|pc|hT|pc|hK|pc|h8|pg||
+pc|hJ|pc|h9|pc|h4|pc|hQ|pg||
+mc|8|pg||
+qx|o26|st||md|4SKQ76H943DK62C643,ST9HJT5DA85CAQT85,SAJ832H86DJT93C97,S54HAKQ72DQ74CKJ2|sv|b|mb|1N|mb|p|mb|3N|mb|p|mb|p|mb|p|nt|paulg:  A poor auction in the other room, where West had the opportunity to show 3 hearts on the way to 3NT|pg||
+nt|paulg:  as they were playing a weak no-trump and opened 1@h|pg||
+pc|h4|nt|paulg:  I'm not sure if Steel has puppet available, but it is a good hand for it|pg||
+pc|hJ|pc|h8|nt|paulg:  but all's well that ends well|pg||
+pc|h7|pg||
+pc|c5|pc|c7|pc|cK|pc|c3|pg||
+pc|cJ|pc|c4|pc|c8|pc|c9|pg||
+pc|c2|pc|c6|pc|cA|pc|s2|pg||
+pc|cQ|pc|s3|pc|d4|pc|d2|pg||
+pc|cT|pc|d9|pc|s4|pc|s7|pg||
+pc|hT|pc|h6|pc|h2|pc|h3|pg||
+pc|h5|pc|s8|pc|hA|pc|h9|pg||
+pc|hK|pc|s6|pc|s9|pc|sJ|pg||
+pc|hQ|pc|sQ|pc|sT|pc|d3|pg||
+pc|s5|pc|sK|pc|d5|pc|sA|pg||
+pc|dJ|pc|dQ|pc|dK|pc|dA|pg||
+pc|d8|pc|dT|pc|d7|pc|d6|pg||
+nt|paulg:  the only consoling factor for Gillis after this set will be that his beloved Celtic has beaten Rangers in the cup|pg||
+pg||
+qx|c26|st||md|4SKQ76H943DK62C643,ST9HJT5DA85CAQT85,SAJ832H86DJT93C97,S54HAKQ72DQ74CKJ2|sv|b|mb|1H|mb|p|mb|2C|nt|vugraphzed: SHORT back into the lead|pg||
+nt|vugraphzed: I would guess they are the favourites|pg||
+nt|vugraphzed: more experience, and team KANE have some new partnerships|pg||
+mb|p|mb|2N|mb|p|mb|3N|mb|p|mb|p|mb|p|nt|vugraphzed: MACDONALD declarer again, third hand in a row (sixth in a row for East-West)|pg||
+pc|s6|nt|vugraphzed: another Spade lead from South|pg||
+nt|cuttysark:  A big 9 imps (in context of this match) to short on board 22 when kane played the contract with no success at both tables|pg||
+pc|s9|pc|sA|pc|s4|pg||
+nt|vugraphzed: you'd rather be in 4@H here|pg||
+pc|s3|pc|s5|pc|sQ|pc|sT|pg||
+pc|sK|pc|d5|nt|cuttysark:  Oh dear - NS did well to keep quiet|pg||
+pc|s2|pc|d4|pg||
+pc|s7|pc|c5|pc|sJ|pc|d7|pg||
+nt|vugraphzed: yes South could ahve overcalled 1@S|pg||
+pc|s8|mc|8|nt|vugraphzed: North: "we didn't block the suit" East: "yes, unfortunately!"|pg||
+nt|vugraphzed: Players agree 4@H was the contract|pg||
+nt|vugraphzed: West says he could have bid 3@H over 2NT|pg||
+pg||
+qx|o27|st||md|1SQ9432HKT965D54C5,SK5HQ732DAQJT7CAJ,SAJT76H8D82CQ9863,S8HAJ4DK963CKT742|sv|o|nt|vugraphzeb: yes, I had to google the result for him :)|pg||
+nt|paulg:  At the other table South was able to open with 2@d, showing a weak hand with both majors|pg||
+mb|p|mb|1D|mb|1S|mb|2S!|nt|paulg:  but I doubt that Cliff will hold back with his second go|pg||
+mb|4S|mb|5D|mb|p|mb|p|nt|paulg:  Steel winning more imps here|pg||
+mb|p|pc|h8|nt|paulg:  but some play to the hand|pg||
+pc|hA|pc|h5|pc|h2|pg||
+pc|d3|pc|d4|pc|dA|pc|d2|pg||
+nt|paulg:  would be more interesting if diamonds were not 2-2|pg||
+pc|dQ|pc|d8|pc|d6|pc|d5|pg||
+pc|cA|pc|c3|pc|c2|pc|c5|pg||
+pc|cJ|pc|c6|pc|cK|pc|h6|pg||
+pc|hJ|pc|hK|pc|h3|nt|paulg:  so another 8 imps to Short|pg||
+mc|11|nt|paulg:  or maybe 7|pg||
+pg||
+qx|c27|st||md|1SQ9432HKT965D54C5,SK5HQ732DAQJT7CAJ,SAJT76H8D82CQ9863,S8HAJ4DK963CKT742|sv|o|mb|2D|an|majors|nt|vugraphzed: 2@D written as "both majors, weak, 5-9"|pg||
+mb|2N|nt|cuttysark:  Aha - been waiting for the weak major 2-suiter. it finaly arrive|pg||
+nt|vugraphzed: since we were a bit behind after first segment these pairs started playing almost striaght away with no discussion, so  not sure what defence EW have|pg||
+mb|4S|nt|vugraphzed: North further explaining the 2@D: "not vulnerable could be 5-4"|pg||
+mb|d|mb|p|mb|p|mb|p|nt|vugraphzed: East about the 2NT: "strongish"|pg||
+pc|s8|nt|vugraphzed: South departs, leaving North to play the doubled contract|pg||
+nt|cuttysark:  This would be the time to lead trump but it looks like 4 losers only|pg||
+pc|s2|pc|sK|pc|sA|pg||
+nt|vugraphzed: can maybe get rid of a Diamond on the @HK?|pg||
+pc|h8|pc|hA|pc|h5|pc|h2|pg||
+pc|dK|pc|d4|pc|dA|pc|d8|pg||
+pc|dQ|pc|d2|pc|d3|pc|d5|pg||
+nt|vugraphzed: not now|pg||
+pc|cA|pc|c3|pc|c7|pc|c5|pg||
+pc|cJ|pc|cQ|pc|cK|pc|s3|pg||
+pc|sQ|pc|s5|pc|s6|pc|d6|pg||
+pc|hK|pc|h3|pc|c6|pc|h4|pg||
+mc|9|nt|vugraphzed: North: "they make 5@D"|pg||
+pg||
+qx|o28|st||md|2SAQ62HQ62DQ94CJT4,SJ975H953DAJ7CA85,STH874DKT6532C976,SK843HAKJTD8CKQ32|sv|n|nt|paulg:  Last hand of the first half and thanks to Yvonne who is operating|pg||
+mb|p|mb|p|mb|1C|mb|p|mb|1S|mb|p|nt|paulg:  I suspect that there will be a short refreshment break before the second half of the match commences|pg||
+mb|3D!|mb|p|nt|paulg:  it is scheduled to restart in 15 minutes, but I guess it might be a little longer than that|pg||
+mb|4C|mb|p|nt|paulg:  Steel is a passed hand, so no problem making a cue bid here|pg||
+nt|vugraphzeb: I'm pretty sure they're stopping for food now|pg||
+nt|paulg:  this will probably go 4@h, 4@s, pass|pg||
+mb|4S|mb|p|mb|p|mb|p|nt|paulg:  Matheson decides that slam is improbable|pg||
+pc|h7|pc|hA|pc|h2|pc|h3|pg||
+nt|paulg:  Kane will have to make a big effort in the next set otherwise this match will just slip away|pg||
+nt|paulg:  The Short team has more experienced and practised partnerships, so they will need some spark of inspiration|pg||
+pc|d8|pc|d4|pc|dA|pc|d5|pg||
+pc|d7|pc|d2|pc|s3|pc|d9|pg||
+pc|c2|pc|c4|pc|cA|pc|c6|pg||
+pc|dJ|pc|d3|pc|s4|pc|dQ|pg||
+pc|s8|pc|s2|pc|s5|pc|sT|pg||
+pc|h8|pc|hJ|pc|hQ|pc|h5|pg||
+pc|sA|pc|s7|pc|d6|pc|sK|pg||
+pc|cJ|pc|c5|pc|c7|pc|cK|pg||
+pc|hK|pc|h6|pc|h9|pc|h4|pg||
+nt|paulg:  but they finish with a good swing, so plenty to play for|pg||
+mc|9|nt|paulg:  see you all later, perhaps 15 minutes|pg||
+pg||
+qx|c28|st||md|2SAQ62HQ62DQ94CJT4,SJ975H953DAJ7CA85,STH874DKT6532C976,SK843HAKJTD8CKQ32|sv|n|mb|p|nt|vugraphzed: SHORT made 3NT on Board 23, so opening up a lead now|pg||
+mb|p|mb|1C|nt|vugraphzed: that last board might have been a victory for the weak 2@D both majors|pg||
+mb|p|mb|1S|mb|p|nt|cuttysark:  More imps to Short on Board 23 where Les Steel made 3N. he held up the 1st heart, then played clubs|pg||
+mb|4S|mb|p|mb|p|mb|p|pc|h7|nt|cuttysark:  The defenders got busy, set up spades - magic!|pg||
+nt|cuttysark:  Danny having another go - still the 4-1 break, but better chances this time|pg||
+pc|hA|pc|h6|pc|h3|pg||
+pc|c2|pc|cJ|pc|cA|pc|c9|pg||
+pc|s5|pc|sT|pc|sK|pc|sA|pg||
+pc|d9|pc|dA|pc|d2|pc|d8|pg||
+pc|s7|pc|d3|pc|s3|nt|cuttysark:  With clubs breaking he needs just one ruff|pg||
+nt|vugraphzed: East has dashed off, Kane playing his own dummy|pg||
+nt|cuttysark:  Steel/matheson had been having a good run, but mis sl 10 impsam on board 24 to lose a surprising|pg||
+nt|vugraphzed: South pondering whether to take this, and what to do next|pg||
+nt|vugraphzed: yes on Board 24 we though a grand slam had been missed, but in Open Room they played 4NT+3|pg||
+nt|cuttysark:  East a little short of entries to hand.|pg||
+pc|s2|pg||
+nt|cuttysark:  @SQ and another might be annoying|pg||
+pc|c5|pc|c7|pc|cK|pc|c4|pg||
+nt|cuttysark:  maybe he should duck the first spade|pg||
+pc|cQ|pc|cT|pc|c8|pc|c6|pg||
+pc|c3|pc|s6|pc|s9|pc|d5|pg||
+pc|h5|nt|cuttysark:  need to play @HK, J now|pg||
+pc|h8|pc|hT|pc|hQ|pg||
+pc|sQ|pc|sJ|nt|cuttysark:  This will do|pg||
+pc|h4|pc|s4|pg||
+mc|10|nt|vugraphzed: South saying something, didn't catch it|pg||
+pg||
+qx|o29|st||md|3S654H852DJCJT8642,SQT2HKT643D7543CA,SJ973HJ9DKT98CKQ7,SAK8HAQ7DAQ62C953|sv|b|mb|p|mb|1D|mb|p|mb|1H|mb|p|mb|2N|mb|p|mb|3H|mb|p|mb|4D!|mb|p|nt|paulg:  Steel will not be interested in slam|pg||
+nt|paulg:  although they've been in worse, this just needs 3-2 diamonds and the king onside|pg||
+mb|4H|mb|p|mb|p|mb|p|nt|paulg:  If he had a diamond honour then he'd be more interested|pg||
+pc|cK|pc|c3|pc|c8|pc|cA|pg||
+pc|h3|pc|h9|pc|hA|pc|h2|pg||
+pc|hQ|pc|h5|pc|h4|pc|hJ|pg||
+pc|h7|pc|h8|pc|hK|pc|s7|pg||
+nt|paulg:  I expect diamond to the ace|pg||
+pc|s2|pc|s3|pc|sA|pc|s4|pg||
+pc|d2|pc|dJ|pc|d3|pc|d8|pg||
+pc|s6|pc|sQ|pc|s9|pc|s8|pg||
+pc|d4|pc|d9|pc|dQ|pc|c2|pg||
+pc|sK|pc|s5|pc|sT|pc|sJ|pg||
+pc|c5|pc|c4|pc|h6|pc|cQ|pg||
+pc|hT|pc|c7|mc|11|pg||
+qx|c29|st||md|3S654H852DJCJT8642,SQT2HKT643D7543CA,SJ973HJ9DKT98CKQ7,SAK8HAQ7DAQ62C953|sv|b|nt|vugraphzed: Four boards to go on this table|pg||
+nt|vugraphzed: I can smell the half-time soup warming up |pg||
+mb|p|mb|1D|mb|p|mb|1H|mb|p|mb|3N|nt|vugraphzed: straight-forward bidding from MACDONALD again|pg||
+mb|p|mb|p|mb|p|nt|vugraphzed: West: "It's either a minor or it's a 19 count"|pg||
+nt|vugraphzed: they've eschewed the 5-3 major fit again in favour of 3NT|pg||
+nt|vugraphzed: although this is teams scoring|pg||
+pc|cJ|nt|cuttysark:  most weak notrumpers settle for 2NT here and investigate other possible games |pg||
+nt|vugraphzed: I play bidding 3NT (like this) shows exactly 4333, then partner can correct to 4@H if they have five (like here)|pg||
+pc|cA|pc|cK|pc|c3|pg||
+pc|h3|nt|vugraphzed: but other table East rebid 2NT|pg||
+nt|cuttysark:  i play 3N as  long running diamonds plus stoppers|pg||
+pc|h9|pc|hA|pc|h8|pg||
+pc|hQ|pc|h2|pc|h4|pc|hJ|pg||
+pc|h7|pc|h5|pc|hK|nt|vugraphzed: North thinking what to discard|pg||
+nt|cuttysark:  10 on top but he might lose an imp. 6@H on the @D finesse and break|pg||
+nt|vugraphzed: But East is preparing a claim - five Hearts, three Spades, one Club, one Diamond = 10|pg||
+mc|10|pg||
+qx|o30|st||md|4SA95HAJ97D8CAT972,SJ42HQT6DAJ6CKQ84,S83HK542DQ9532C63,SKQT76H83DKT74CJ5|sv|o|mb|p|mb|1C!|mb|p|mb|1H|mb|1S|mb|2H|mb|2S|mb|p|mb|p|nt|paulg:  Helen Kane responding 1@h, "Walsh" style where you respond a 4-card major rather than a longer diamond suit when you do not have a game-forcing hand|pg||
+nt|paulg:  Gillis' 2@h will promise four-card support|pg||
+mb|3H|mb|p|nt|paulg:  as does 3@h|pg||
+mb|p|mb|p|pc|sK|nt|paulg:  declarer only has four losers, unfortunately she does not seem to have 9 winners|pg||
+pc|s5|pc|s4|pc|s3|pg||
+pc|sQ|pc|sA|pc|s2|pc|s8|pg||
+pc|c2|nt|paulg:  dummy and declarer's play suggests that a cross ruff is planned|pg||
+pc|cK|pc|c3|pc|c5|pg||
+pc|sJ|pc|h2|pc|s7|pc|s9|pg||
+pc|c6|pc|cJ|pc|cA|pc|c4|pg||
+pc|cT|nt|paulg:  we can see it's easy for declarer to cash two hearts and take the ruffing finesse in clubs, but she cannot see the layout|pg||
+pc|c8|pc|h4|pc|h8|pg||
+pc|d4|pc|d8|pc|dA|pc|d2|pg||
+pc|cQ|pc|hK|pc|s6|pc|c7|pg||
+pc|h5|pc|h3|pc|hJ|pc|hQ|pg||
+pc|dJ|mc|7|pg||
+qx|c30|st||md|4SA95HAJ97D8CAT972,SJ42HQT6DAJ6CKQ84,S83HK542DQ9532C63,SKQT76H83DKT74CJ5|sv|o|nt|cuttysark:  margin down to 8 imps, but, as i speak, 13 imps change hands on Board 26 where kane macdonald played in the wrong game|pg||
+nt|vugraphzed: A few IMPs flying around now|pg||
+mb|1S|nt|vugraphzed: or rather, they got the wrong lead :)|pg||
+mb|2C|mb|3N|nt|vugraphzed: EW overboard again here|pg||
+nt|cuttysark:  Yes - 24 imps changed hands on 1-16, we have already reached 77 this half|pg||
+mb|p|mb|p|mb|p|nt|vugraphzed: that's right, it was 9-15 after the first segment|pg||
+pc|c6|nt|vugraphzed: West: "thank you partner?" North: "risky"|pg||
+pc|c5|nt|cuttysark:  At least there is no makeable game this time|pg||
+nt|vugraphzed: if he guesses Diamonds, and defence don't play Hearts, this could make|pg||
+pc|cA|pc|c4|pg||
+pc|h7|pc|hT|pc|hK|pc|h3|pg||
+nt|cuttysark:  Well, they have plenty of chances to play hearts!|pg||
+pc|h2|pc|h8|pc|hA|pc|h6|pg||
+pc|hJ|pc|hQ|nt|cuttysark:  I think, to open the bidding, one should have an opening bid|pg||
+pc|h5|pc|d4|pg||
+pc|s2|pc|s3|pc|sK|pc|sA|pg||
+pc|h9|pc|d6|pc|h4|pc|d7|pg||
+mc|8|nt|vugraphzed: part score swing to SHORT, and game swing for that hand where here WALKER had a 2@D both majors opening|pg||
+pg||
+qx|o31|st||md|1SA3HJT94DKQ75CKQJ,S87HAQ853DA832C96,SQT962HK7DJ64CA84,SKJ54H62DT9CT7532|sv|n|mb|1N|mb|p|mb|2H!|mb|p|mb|2S|mb|p|nt|paulg:  welcome back|pg||
+mb|3N|mb|p|mb|p|mb|p|pc|h5|pc|hK|pc|h2|pc|h4|pg||
+pc|sT|pc|s4|pc|sA|pc|s7|pg||
+pc|s3|pc|s8|pc|s9|pc|sJ|pg||
+nt|paulg:  the spade position better odds than the 3-3 diamond break, but you are never happy when you go down in these contracts even though it was a reasonable line|pg||
+pc|c5|pc|cK|pc|c6|pc|c4|pg||
+pc|d7|pc|d3|pc|dJ|pc|d9|pg||
+nt|paulg:  although running the @sQ is probably the percentage play|pg||
+pc|sQ|pc|sK|pc|d5|pc|c9|pg||
+pc|h6|pc|hT|pc|hQ|pc|h7|pg||
+pc|hA|pc|d4|pc|s5|pc|h9|pg||
+pc|dA|pc|d6|pc|dT|pc|dQ|pg||
+mc|8|pg||
+qx|c31|st||md|1SA3HJT94DKQ75CKQJ,S87HAQ853DA832C96,SQT962HK7DJ64CA84,SKJ54H62DT9CT7532|sv|n|nt|cuttysark:  The 2D opener on Board 27 did gain 7 imps - 5@D was bid and made in the other room|pg||
+mb|1N|mb|2H|an|Hearts and a  minor|nt|cuttysark:  East has no difficulty in deciding which minor partner has.|pg||
+mb|3S|mb|p|nt|vugraphzed: not sure how strong 3@S is|pg||
+nt|cuttysark:  I think it should be forcing - presumably they play lebensohl for invitational hands|pg||
+mb|3N|mb|p|mb|p|mb|p|nt|vugraphzed: 3NT was defeated on the other table - not sure how, but began with West leading low Heart|pg||
+nt|vugraphzed: South about the 3@S "I think it's game forcing" but not sure how differs from going through Lebensohl|pg||
+nt|cuttysark:  South does not know which minor West has, but he doesn't really care|pg||
+nt|vugraphzed: North: "bidding 3@S this way shows a Heart stop"|pg||
+pc|h5|nt|vugraphzed: South had head on hands, wondering what to play|pg||
+nt|vugraphzed: in the other room it went down when declarer played on Spades |pg||
+nt|vugraphzed: but I think that if declarer plays on Diamonds it might make (because it takes away West's entry)|pg||
+pc|hK|pc|h6|pc|h4|pg||
+nt|cuttysark:  Quite tricky - needs to make a ninth trick from spades|pg||
+nt|vugraphzed: he can't get 4 from Diamonds?|pg||
+pc|s2|pc|s5|pc|sA|nt|cuttysark:  Better remove the diamond entry, but West can continue diamonds|pg||
+pc|s8|pg||
+pc|s3|pc|s7|pc|sQ|pc|sK|pg||
+nt|cuttysark:  This does not work...|pg||
+pc|h2|pc|h9|pc|hQ|pc|h7|pg||
+nt|vugraphzed: West resettling in chair, what to do now?|pg||
+nt|cuttysark:  Clear hearts while still has diamond entry|pg||
+pc|hA|nt|vugraphzed: Open Room has finished, penultimate board here|pg||
+nt|vugraphzed: a very good set for SHORT|pg||
+pc|s6|pc|c2|pc|hT|pg||
+pc|h8|pc|c4|pc|s4|pc|hJ|pg||
+pc|d5|pc|dA|pc|d4|pc|d9|pg||
+pc|h3|pc|s9|pc|dT|pc|d7|pg||
+mc|8|pg||
+qx|o32|st||md|2SA4HKJ952DQ9CQ876,SJT5H874DAT74CKJ5,SK972H3DK8652CT92,SQ863HAQT6DJ3CA43|sv|e|mb|p|mb|p|mb|1C|mb|1H|mb|1S!|mb|p|mb|1N|nt|paulg:  I take it back, the best play in spades is small to the ace ... you need the @s8 to make leading the queen correct|pg||
+mb|p|mb|p|mb|p|pc|h5|pc|h8|pc|h3|pc|h6|pg||
+pc|sJ|pc|s2|pc|s3|pc|s4|pg||
+pc|sT|pc|sK|pc|s6|pc|sA|pg||
+nt|paulg:  this is the kind of defensive lapse that you are happier to see in 1NT|pg||
+pc|dQ|pc|dA|pc|d2|pc|d3|pg||
+pc|s5|pc|s7|pc|s8|pc|h2|pg||
+pc|sQ|pc|c8|pc|h4|pc|s9|pg||
+pc|dJ|pc|d9|pc|d4|pc|d5|pg||
+pc|c4|pc|c6|pc|cJ|pc|c2|pg||
+pc|cK|pc|c9|pc|c3|pc|c7|pg||
+pc|c5|pc|cT|pc|cA|pc|cQ|pg||
+pc|hQ|pc|hK|pc|h7|pc|d6|pg||
+pc|h9|mc|11|pg||
+qx|c32|st||md|2SA4HKJ952DQ9CQ876,SJT5H874DAT74CKJ5,SK972H3DK8652CT92,SQ863HAQT6DJ3CA43|sv|e|nt|vugraphzed: last board now|pg||
+nt|vugraphzed: North: "last one of the first half"|pg||
+nt|vugraphzed: 1NT+4 seems like a lot of tricks|pg||
+mb|p|mb|p|mb|1N|an|12-14|nt|vugraphzed: will South show Hearts and a minor this time?|pg||
+mb|2H|mb|p|nt|vugraphzed: West asks about 2@H with his eyes, South replies by waving his hands, no words spoken|pg||
+mb|3C|mb|p|nt|vugraphzed: North points at 3@C to alert it|pg||
+mb|p|nt|vugraphzed: 3@C is "pass or correct"|pg||
+mb|p|nt|vugraphzed: So North plays his first and only hand of this set of 16 (and only 5 to NS in total)|pg||
+pc|cA|nt|vugraphzed: can afford to go three off and still gain IMPs|pg||
+pc|c6|pc|c5|pc|c2|pg||
+nt|vugraphzed: South sticking around rather than dashing off for soup|pg||
+nt|vugraphzed: this the last board of the second set of 16 (out of four sets)|pg||
+pc|c3|nt|cuttysark:  The words of a hungry man!|pg||
+pc|c7|pc|cJ|pc|c9|pg||
+pc|cK|pc|cT|pc|c4|pc|c8|pg||
+nt|vugraphzed: defenders drawing trumps|pg||
+pc|sJ|nt|vugraphzed: whatever the result here there'll only be 25-30 IMPs in it, with 2 x 16 boards to play|pg||
+nt|vugraphzed: North thinking where to win the Spade|pg||
+pc|s2|pc|s8|pc|sA|pg||
+pc|dQ|pc|dA|pc|d2|pc|d3|pg||
+pc|sT|pc|sK|pc|s3|pc|s4|pg||
+pc|s7|pc|s6|pc|h2|pc|s5|pg||
+nt|vugraphzed: I think North's earlier @S8 (to encourage I presume) has set up the ruffing finesse for declarer|pg||
+nt|vugraphzed: North puts elbows on table, hand on chin, for a final think|pg||
+pc|h3|pc|hA|pc|h5|pc|h4|pg||
+pc|sQ|pc|cQ|pc|h7|pc|s9|pg||
+nt|vugraphzed: how many more tricks can he get out of this?|pg||
+pc|d9|pc|d4|pc|dK|pc|dJ|pg||
+pc|d6|pc|h6|pc|h9|pc|d7|pg||
+pc|dT|pc|d5|pc|hT|pc|hJ|pg||
+pc|h8|pc|d8|pc|hQ|pc|hK|pg||
+nt|vugraphzed: "three off" but a surprise gain for NS|pg||
+nt|vugraphzed: players thank each other and rush off|pg||
+nt|vugraphzed: that's the end of this set|pg||
+nt|vugraphzed: we will restart soon, after a (late) lunch break|pg||
+nt|vugraphzed: bye for now|pg||
+pg||
