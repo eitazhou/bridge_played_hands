@@ -78,7 +78,7 @@ pc|s2|pg||
 pc|dT|nt|zds3006: ¶«Î÷¿ÉÒÔÍê³É3H£¬ÏÖÔÚÊ×¹¥Hºó»»¹¥D£¬1NT£­1|pg||
 nt|zds3006: ´ÓÎ÷ÅÉË¾2S£¬Ö÷¶¯ÔÙ½Ð3S¿´Ò»¶¨ÊÇÓÐºÃÅÆÐÍ¶à°ë5ÕÅS£¬ÄÇ¶«ÍêÈ«ÓÐÀíÓÉ¼Ó½Ð4S|pg||
 pc|dJ|nt|zds3006: ÒÔºóÔÙ½Ð3HÏÔÊ¾½¨ÉèÐÔÊµÁ¦|pg||
-pc|dK|nt|zds3006: ÄÏ2S×è»÷ÐÔ¿ª½Ð£¬Î÷¼¼ÊõÐÔ¼Ó±¶£¬¶«2NT=À³úË÷¶û|pg||
+pc|dK|nt|zds3006: ÄÏ2S×è»÷ÐÔ¿ª½Ð£¬Î÷¼¼ÊõÐÔ¼Ó±¶£¬¶«2NT=À³úË÷¶û|pg||
 nt|zds3006: ÎÒÔÚ90Äê´ú¾ÍÔÚºÍ¸£ÖÐ¶ÔÀÝÊ±£¬17Õù½Ð2H£¬ÒÔºóÒ»Ñù£¬ÎÒÔÙ¼Ó±¶£¬ÍõÏþ¾²·£·Å£¬2HXX£­2|pg||
 nt|zds3006: ±±²»ÒÀ²»ÈÄ¼ÌÐø4C£¬Î÷ÅÉË¾|pg||
 pc|dA|pg||
@@ -361,7 +361,7 @@ nt|zds3006: ·ñÔò»ú»á´ó´óµÄ|pg||
 mb|2S|mb|2N!|nt|zds3006: ÈõÎÞ½«£¬2H×ªÒÆ£¬ÄÏ¼Ó±¶£½H|pg||
 nt|goal: 2HÊÇ11+ºìÐÄÌ×|pg||
 nt|goal: µÚÈý¸±ÊÇ15µã|pg||
-nt|granguru:  1@c 15-18 bal or 14+ nat  |pg||
+nt|granguru:  1@c 15-18 bal or 14+ nat	|pg||
 nt|zds3006: 1NT-3H=Hµ¥ÕÅ£¬Ã»ÓÐ4S£¬±Æ¾Ö|pg||
 mb|p|nt|zhoufly: 1s´¦ÀíµÃºÃ|pg||
 mb|3H|mb|p|nt|zds3006: ´ÓÔçÉÏµ½ÏÖÔÚ£¬¸Ð¾õ½ñÌìµÄÅÆ±È½ÏÈÝÒ×´¦Àí£¬Æ½ÅÆ¶à|pg||
@@ -461,7 +461,7 @@ pc|cQ|nt|zds3006: ÓÉÓÚÎ÷Ã»ÓÐ¿ª½Ð£¬¶«¾ÍÅÉË¾ÁË3S|pg||
 pc|h6|pg||
 nt|zhoufly: ÁíÒ»×À¼ªÀû½Ð5c-1£¬ÕâËðÊ§¾Í´óÁË|pg||
 pc|hT|nt|zds3006: ¶à°ëÊÇÊÔÌ½Âú¹á²ÅÍ£ÔÚ5CµÄ|pg||
-nt|zhoufly: 1nt (4h) x  - |pg||
+nt|zhoufly: 1nt (4h) x	- |pg||
 pc|h3|nt|zds3006: ´ò¶ÔH¿ÉÒÔÍê³É4C|pg||
 pc|s2|nt|granguru:  www.bridgewithdan.com for the systen |pg||
 nt|granguru:  I am told|pg||
@@ -699,7 +699,7 @@ nt|daniel03:  west dbl,he dont know all suits is terrible|pg||
 nt|granguru:  when S bids 2@d he shows 14+ |pg||
 nt|zds3006: 3H-1£¬¿ªÊÒºÉÀ¼2D+1£¬µÃ2imp|pg||
 pc|dK|pc|d8|pg||
-pc|dQ|pc|d9|pc|d3|nt|granguru:  so Fantoni had a better floor to push one more time|pg||
+pc|dQ|pc|d9|pc|d3|nt|granguru:	so Fantoni had a better floor to push one more time|pg||
 pc|dT|pg||
 pc|h7|pc|c7|pc|hK|nt|zhoufly: ²»´í|pg||
 pc|c4|pg||

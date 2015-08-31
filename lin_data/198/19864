@@ -52,7 +52,7 @@ pc|hA|pc|h2|pc|h8|pg||
 pc|s3|pc|s7|pc|sA|pc|s4|pg||
 nt|goal: ÕâÑùÒ»¸öÕóÈÝ¶Ô¸¶È¥ÄêÐÂ¿ÆÊÀ½ç¹Ú¾üµÄÔ­°àÈËÂí£¬ÊµÁ¦ÉÏÓ¦¸ÃÊÇÂÔÑ·Ò»³ï|pg||
 nt|goal: Ï£ÍûËûÃÇÄÜÓÐ³öÉ«µÄ·¢»Ó|pg||
-nt|poohbear: Declarer needs to guess spades and finesse the @ds backwards to make this  . He has an inferential count on the hand . he assumes East has no more than 5 @hs and 1 @c so he might ...|pg||
+nt|poohbear: Declarer needs to guess spades and finesse the @ds backwards to make this	. He has an inferential count on the hand . he assumes East has no more than 5 @hs and 1 @c so he might ...|pg||
 nt|poohbear: guess this|pg||
 nt|poohbear: now needs to cross with the @d ace to finesse @ss then run the @d jack|pg||
 nt|goal: ¿ªÊÒÄÏ±±Ã°½Ðµ½4S£¬µ«Ö»å´Ò»¡£±ÕÊÒµÄ3SÏÖÔÚÒªÈ«´ò¶Ô²ÅÄÜ´ò³É£¬90%Òªå´|pg||
@@ -72,7 +72,7 @@ mc|7|pg||
 qx|o2|st||md|4SKQT92HT8D942CAK9,S7654HJ9762DJ5C75,SA3H53DKT86CQ8642,SJ8HAKQ4DAQ73CJT3|sv|n|mb|1C|nt|robinswr: heart switch would have led to d2 |pg||
 mb|1S|mb|p|mb|2S|mb|d|mb|p|mb|3H|mb|p|nt|ahollan1: the 3 chinese pairs i've seen so far are all playing what looks like Original Precision|pg||
 mb|p|mb|p|nt|ahollan1: so  1@C was any hand with 16+ HCP|pg||
-pc|h3|nt|ahollan1: Shi's original PASS  0-4 HCP|pg||
+pc|h3|nt|ahollan1: Shi's original PASS	0-4 HCP|pg||
 pc|h4|pc|h8|pc|h9|pg||
 pc|d5|pc|d6|pc|dQ|pc|d4|pg||
 pc|cJ|pc|cK|pc|c5|pc|c8|pg||
@@ -126,7 +126,7 @@ pc|cK|pc|c5|pc|c8|pc|c3|pg||
 pc|cA|pc|c7|pc|c2|pc|cT|pg||
 mc|8|nt|poohbear: not sure why declarer played in this fashion. Could easily take the @d finesse|pg||
 pg||
-qx|o3|st||md|1SAKQ95H865DT5CK75,ST864HKJT2D63CQT8,S7HAQ97DAKJ9872CA,SJ32H43DQ4CJ96432|sv|e|nt|ahollan1: sorry   i was looking to see if either of the Beijing pairs are part of the Bermuda Bowl team for Veldhoven|pg||
+qx|o3|st||md|1SAKQ95H865DT5CK75,ST864HKJT2D63CQT8,S7HAQ97DAKJ9872CA,SJ32H43DQ4CJ96432|sv|e|nt|ahollan1: sorry	i was looking to see if either of the Beijing pairs are part of the Bermuda Bowl team for Veldhoven|pg||
 mb|1S|mb|p|mb|2D|mb|p|mb|2S|mb|p|mb|3D|mb|p|nt|ahollan1: 2@D sets up game force|pg||
 mb|3H|nt|ahollan1: very tough for Gitelman   and part of the problem with 2@S being a catchall|pg||
 mb|d|nt|ahollan1: has he clarified his hand AT ALL???|pg||
@@ -141,7 +141,7 @@ mb|4H|mb|p|nt|robinswr: silly double of 3@h since you can handle a club lead als
 mb|4S|nt|robinswr: i wonder if someone is bidding rkc here|pg||
 mb|p|nt|ahollan1: again i wonder -- has Gitelman clarified his hand at all?   does 3N promise 2+@D??|pg||
 mb|4N|mb|p|nt|ahollan1: 4@D as RKC would make a lot of sense|pg||
-mb|5D|nt|ahollan1: and seems to fit   4@H=1 KC  4@S asks @D Queen  4N=no|pg||
+mb|5D|nt|ahollan1: and seems to fit   4@H=1 KC	4@S asks @D Queen  4N=no|pg||
 nt|robinswr: must be 1430|pg||
 mb|p|mb|6D|nt|robinswr: i hate 1430|pg||
 mb|p|mb|p|mb|p|pc|h4|nt|ahollan1: 6@D looks like override of Moss' decision    but if 4@S says we have all 5 KC ...|pg||
@@ -189,11 +189,11 @@ mc|13|nt|poohbear: and an excellent result for beijing|pg||
 pg||
 qx|o4|st||md|2SQT7HK64DKTCAKQ73,SKJ6HAJT853DJ4C86,S95432H92DQ75C942,SA8HQ7DA98632CJT5|sv|b|nt|ahollan1: wow   other room bid and made the grand!|pg||
 nt|robinswr: if everyone played 1430 it would be ok but if not all your partner's play it then you have to try to remember who plays it|pg||
-mb|p|mb|p|mb|1D|mb|1N|nt|ahollan1: even harder  which bid asks KeyCards   4@D, 4@H, 4N ...|pg||
+mb|p|mb|p|mb|1D|mb|1N|nt|ahollan1: even harder	which bid asks KeyCards   4@D, 4@H, 4N ...|pg||
 mb|d|nt|ahollan1: if you can remember that   0314/1430 seems easy|pg||
 mb|p|nt|ahollan1: 1@D=11-15 HCP  not sure if 2+@D or 1+@D|pg||
 mb|p|nt|robinswr: and whats 1nt - 4@c - 4@d?|pg||
-mb|p|pc|hJ|nt|Walddk2:  Hello everyone. Voice commentary available in this room now|pg||
+mb|p|pc|hJ|nt|Walddk2:	Hello everyone. Voice commentary available in this room now|pg||
 nt|ahollan1: in 1960  that was easy question to answer|pg||
 pc|h2|pc|h7|pc|hK|pg||
 pc|cK|pc|c8|pc|c2|pc|c5|pg||
@@ -344,7 +344,7 @@ pc|dK|pc|d3|pc|h3|pc|d2|pg||
 pc|dQ|pc|d6|pc|h4|pc|d7|pg||
 pc|c5|nt|ahollan1: Grue-Cheek also play a Big Club  so they couldn't untangle the @D vs @C situation either|pg||
 pc|c7|pc|cK|pc|c2|pg||
-mc|10|nt|ahollan1: maybe that's wrong     I think Cheek's 3@C bid shows @C & @D|pg||
+mc|10|nt|ahollan1: maybe that's wrong	  I think Cheek's 3@C bid shows @C & @D|pg||
 pg||
 qx|c6|st||md|4SKQT62HJ52DKQ95C5,SJHK98DJ643CAJ873,SA8754HT743DTCKT4,S93HAQ6DA872CQ962|sv|e|nt|goal: ÃÀ¹ú»áÓ®8µã|pg||
 nt|zds3006: ÔÚ3NTÒÔÏÂË®Æ½»¹ÓÐºÜ¶à¿Õ¼ä¿ÉÒÔ¼ì²é£¬Æ©ÈçÄÏ¿ÉÒÔ¿Û½Ð2H|pg||
@@ -391,7 +391,7 @@ pc|d2|nt|zds3006: ·ÀÊØÌ«À÷º¦ÁË£¬CAºó¼ÌÐøD3£¬ÒÔºóCµ½�
 nt|goal: ÏÖÔÚÊÇå´Èý|pg||
 nt|poohbear: 3@c showed 5-4 in the minors either way and about 8-10 points|pg||
 mc|8|pg||
-qx|o7|st||md|1SQJT4HJT4D76CAQ98,SK853HKQ76DKQCT63,S72HA9853DJT83C42,SA96H2DA9542CKJ75|sv|b|mb|p|nt|ahollan1: i'd like to rephrase  "non-optimal defense"  to     something politically incorrect|pg||
+qx|o7|st||md|1SQJT4HJT4D76CAQ98,SK853HKQ76DKQCT63,S72HA9853DJT83C42,SA96H2DA9542CKJ75|sv|b|mb|p|nt|ahollan1: i'd like to rephrase  "non-optimal defense"  to	 something politically incorrect|pg||
 mb|1N|nt|ahollan1: 1N probably 13-15|pg||
 mb|p|mb|2D|mb|p|mb|2H|mb|p|mb|3N|nt|ahollan1: original version of Precision   2@C=non-forcing stayman  2@D=game force stayman|pg||
 mb|p|mb|4S|mb|p|mb|p|mb|p|pc|dJ|nt|ahollan1: Lin started with 2@D probably because  no bid to show exactly 31(45)|pg||
@@ -414,7 +414,7 @@ pc|sK|pc|s7|pc|s6|pc|s4|pg||
 pc|s5|pc|h3|pc|sA|pc|sQ|pg||
 pc|dA|pc|sJ|pc|h6|pc|d8|pg||
 pc|hJ|pc|hQ|pc|h5|pc|d5|pg||
-nt|ahollan1: so we've learned    sometimes falsecards work|pg||
+nt|ahollan1: so we've learned	 sometimes falsecards work|pg||
 pc|c3|pc|c2|pc|cJ|pc|cA|pg||
 pc|hT|pc|h7|pc|h8|pc|c7|pg||
 mc|7|pg||
@@ -546,13 +546,13 @@ pc|cJ|pc|cA|pc|c7|pg||
 nt|goal: Õâ×À±ÆÆÈ½«³ÔµÄ·ÀÊØºÜÀ÷º¦£¬×¯¼ÒÊ§¿ØÁË¡£Òªå´¶þ|pg||
 mc|7|nt|poohbear: looks like South is endplayed for down 2 :)|pg||
 pg||
-qx|o9|st||md|3S652HK62DQT6CKQ42,SJT874HQJ5DAK8CT3,SQ3HT9843D9532C95,SAK9HA7DJ74CAJ876|sv|e|mb|p|mb|1C|mb|p|mb|1S|nt|ahollan1: in the other match, thru 8 board  Italy/England over Geely Automotive  17-0|pg||
+qx|o9|st||md|3S652HK62DQT6CKQ42,SJT874HQJ5DAK8CT3,SQ3HT9843D9532C95,SAK9HA7DJ74CAJ876|sv|e|mb|p|mb|1C|mb|p|mb|1S|nt|ahollan1: in the other match, thru 8 board	Italy/England over Geely Automotive  17-0|pg||
 mb|p|nt|robinswr: some players might open the north hand 1@c|pg||
 mb|2S|mb|p|mb|2N|nt|ahollan1: 1@C=16+ HCP,  1@S=8+ HCP, 5+@S|pg||
 mb|p|mb|3C|mb|p|mb|3D|nt|ahollan1: 2@S ask @S length/strength  2N=5 or 6, not AKQ|pg||
-mb|p|mb|3H|mb|p|nt|ahollan1: i'm just guessing    natural bidding would fit here too|pg||
-mb|3N|mb|p|mb|4S|mb|p|mb|p|nt|ahollan1: main page for tourney    http://ccba.org.cn/Tour/TourResultText.aspx?tourid=703|pg||
-mb|p|nt|ahollan1: click on Results tab  then  Round   to get standings at that point|pg||
+mb|p|mb|3H|mb|p|nt|ahollan1: i'm just guessing	  natural bidding would fit here too|pg||
+mb|3N|mb|p|mb|4S|mb|p|mb|p|nt|ahollan1: main page for tourney	 http://ccba.org.cn/Tour/TourResultText.aspx?tourid=703|pg||
+mb|p|nt|ahollan1: click on Results tab	then  Round   to get standings at that point|pg||
 nt|ahollan1: we're playing round 6|pg||
 pc|hT|pc|h7|pc|hK|pc|hQ|pg||
 nt|ahollan1: @HK offside, but rest of hand is very declarer friendly|pg||
@@ -630,7 +630,7 @@ nt|ahollan1: and are you one of them?|pg||
 nt|robinswr: i would|pg||
 nt|robinswr: get  in low|pg||
 pc|dQ|pc|d5|pc|dK|pc|d4|pg||
-nt|ahollan1: Jordan was talking about that in voice commentary   so i had to set you up for that :)|pg||
+nt|ahollan1: Jordan was talking about that in voice commentary	 so i had to set you up for that :)|pg||
 pc|sK|pc|s9|pc|s7|pc|s3|pg||
 pc|sQ|pc|s8|pc|s2|pc|s4|pg||
 pc|dA|pc|dT|pc|d7|pc|d6|pg||
@@ -679,7 +679,7 @@ pg||
 qx|o11|st||md|1S9HKT9432DQ8CQT42,S72HA86DT762CAKJ8,SQ54HJ5DK9543C965,SAKJT863HQ7DAJC73|sv|o|mb|2H|mb|p|mb|2N|mb|3S|nt|ahollan1: Moss mixing things up with 2N|pg||
 mb|p|mb|4S|mb|p|mb|p|mb|p|nt|ahollan1: 6N???|pg||
 nt|robinswr: grue jumped to 3NT with Qx of hearts|pg||
-nt|ahollan1: can't argue with success      well you can, but you look very silly|pg||
+nt|ahollan1: can't argue with success	   well you can, but you look very silly|pg||
 pc|hT|pc|hA|pc|hJ|pc|h7|pg||
 pc|s2|pc|s5|pc|sA|pc|s9|pg||
 pc|sK|pc|h2|pc|s7|pc|s4|pg||
@@ -749,7 +749,7 @@ mb|p|mb|p|mb|1D|nt|ahollan1: nebulous 1@D|pg||
 mb|p|mb|1H|mb|p|mb|1S|mb|p|mb|p|mb|p|nt|ahollan1: the other match  2@S in both rooms|pg||
 pc|cQ|pc|c2|pc|c6|pc|cA|pg||
 pc|d2|pc|d4|pc|dJ|pc|dQ|pg||
-nt|ahollan1: also playing a big club    Grue opened 1@S 3rd seat rather than the nebulous 1@D|pg||
+nt|ahollan1: also playing a big club	Grue opened 1@S 3rd seat rather than the nebulous 1@D|pg||
 pc|s4|pc|s2|pc|sT|pc|s3|pg||
 nt|ahollan1: Steve  would you DBL a nebulous 1@D after P-P-1@D-?|pg||
 nt|robinswr: no|pg||
@@ -758,7 +758,7 @@ nt|ahollan1: but  easier still looking at all hands|pg||
 nt|robinswr: not 4-4 in the majors and only 2 clubs (2 strikes)|pg||
 pc|c4|pc|cJ|pc|cK|pc|c3|pg||
 pc|s5|pc|s8|pc|sA|pc|s6|pg||
-pc|s7|pc|s9|pc|sQ|nt|ahollan1: in rubber bridge clubs   non-vul 1 level contract gets thrown in  making 1|pg||
+pc|s7|pc|s9|pc|sQ|nt|ahollan1: in rubber bridge clubs	non-vul 1 level contract gets thrown in  making 1|pg||
 pc|sK|pg||
 pc|h9|pc|hQ|pc|hA|pc|h4|pg||
 pc|cT|pc|c7|pc|d3|pc|h2|pg||
@@ -778,7 +778,7 @@ pc|h3|nt|poohbear: Grue is making me look bad all match :P|pg||
 pc|h5|nt|goal: 2SÊÇÄ³¸ß»¨¶ÌÃÅµÄÈýÌ×ÅÆ|pg||
 nt|goal: 2NTÎÊ£¬3D±íÊ¾ºìÐÄ¶Ì|pg||
 nt|goal: Ó¦¸ÃÊÇÒ»¸±Ã»ÓÐÊäÓ®µÄÅÆ¡£|pg||
-nt|goal: ¶«¼Ò¿ÉÒÔÑ¡Ôñ´ò3NT£¬»òÕß4CÀ­³öí£¬Í¬°é·ñ¶¨·½¿é¿ØÖÆºóÍ£ÔÚ5C¡£3NTºÍ5CÔÚÊµ¼Ê·Ö²¼ÏÂ¶¼Ã»ÓÐÎÊÌâ¡£|pg||
+nt|goal: ¶«¼Ò¿ÉÒÔÑ¡Ôñ´ò3NT£¬»òÕß4CÀ­³öí£¬Í¬°é·ñ¶¨·½¿é¿ØÖÆºóÍ£ÔÚ5C¡£3NTºÍ5CÔÚÊµ¼Ê·Ö²¼ÏÂ¶¼Ã»ÓÐÎÊÌâ¡£|pg||
 nt|goal: ¿ªÊÒ¶«Î÷ÓÃÀàËÆµÄ½ø³Ì½Ðµ½5C|pg||
 pc|hK|nt|goal: ¸ß·É½Ð3NT½«³ÉÎª×îÖÕ¶¨Ô¼£¬µ«ËûµÄÅÆ²»´í£¬ÓÐµã²»ÉáµÃ|pg||
 nt|zds3006: Ïë´òÌ«¶àÁË£¬·ÉHJ²ùH9|pg||
@@ -922,7 +922,7 @@ pc|s3|pc|sJ|pg||
 pc|s4|pc|s6|pc|sA|nt|ahollan1: i meant 6@S-1|pg||
 nt|ahollan1: the other vugraph match [which is finished]  pushed 6@S-1|pg||
 pc|d4|pg||
-pc|sK|nt|ahollan1: next match vugraph will be  italy/england vs a chinese team  and  netherlands vs a chinese team|pg||
+pc|sK|nt|ahollan1: next match vugraph will be  italy/england vs a chinese team	and  netherlands vs a chinese team|pg||
 pc|h5|pc|s8|pc|s2|pg||
 pc|s5|pc|c5|pc|sT|pc|d2|pg||
 nt|ahollan1: voice commentary will be open room of the italy/england v china match|pg||

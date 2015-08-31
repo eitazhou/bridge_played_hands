@@ -80,7 +80,7 @@ pc|h5|pg||
 pc|hA|nt|zds3006: Î÷£ºÑîÁ¢ÐÂ¡£¶«£º¶­Àûµ³¡£ÏÖÔÚ¹úÄÚ×îºÃµÄÒ»Á÷ÅÆÊÖ|pg||
 pc|hT|pc|d2|nt|goal: ÕâÑùÒ»¸öÕóÈÝ¶Ô¸¶È¥ÄêÐÂ¿ÆÊÀ½ç¹Ú¾üµÄÔ­°àÈËÂí£¬ÊµÁ¦ÉÏÓ¦¸ÃÊÇÂÔÑ·Ò»³ï|pg||
 nt|goal: Ï£ÍûËûÃÇÄÜÓÐ³öÉ«µÄ·¢»Ó|pg||
-nt|poohbear: Declarer needs to guess spades and finesse the @ds backwards to make this  . He has an inferential count on the hand . he assumes East has no more than 5 @hs and 1 @c so he might ...|pg||
+nt|poohbear: Declarer needs to guess spades and finesse the @ds backwards to make this	. He has an inferential count on the hand . he assumes East has no more than 5 @hs and 1 @c so he might ...|pg||
 nt|poohbear: guess this|pg||
 nt|poohbear: now needs to cross with the @d ace to finesse @ss then run the @d jack|pg||
 nt|goal: ¿ªÊÒÄÏ±±Ã°½Ðµ½4S£¬µ«Ö»å´Ò»¡£±ÕÊÒµÄ3SÏÖÔÚÒªÈ«´ò¶Ô²ÅÄÜ´ò³É£¬90%Òªå´|pg||
@@ -199,7 +199,7 @@ mc|9|pg||
 qx|c3|st||md|1SQJT85HA3D54CKQ87,SA972HK87DQ963C32,SK63HQT92DAJ8CAT6,S4HJ654DKT72CJ954|sv|e|nt|goal: ÄÏ¸Û¶¯Á¦¶ÓÔÚÁíÒ»×À³ö³¡µÄÊÇÀ´×Ô¹ãÖÝµÄÒ»¶ÔÄêÇáÅÆÊÖ£¬³Â¼Í¶÷ºÍÀî½¨Î°¡£ËûÃÇÔÚ¶Ô¿¹ÊÀ½çÇÅÁª´óÊ¦·ÖÅÅÐÐ°ñÉÏÅÅÇ°Á½ÃûµÄÒâ´óÀûÅÆÊÖ|pg||
 nt|goal: Õâ¸ö±ÈÈüÊÇ11ÂÖÑ­»·Èü£¬Ç°ÈýÂÖµÄ±ÈÈüÔÚ£º http://www.ccba.org.cn/Tour/RoundResult.aspx?section=78d819f6-9b7f-4008-abc8-4f6960f87c43&round=3&tourid=703|pg||
 nt|goal: ×¯¼ÒÃ»ÓÐ·É·½¿é£¬Ö»ÄÃµ½8¶Õ|pg||
-nt|goal: ¾¹·«¿ªÊÒµÄÑ¡ÊÖÊÇÁ¬ÈôDºÍÊ©ºÀ¾ü£¬ÏÖÒÛ¹úÊÖ|pg||
+nt|goal: ¾¹·«¿ªÊÒµÄÑ¡ÊÖÊÇÁ¬ÈôDºÍÊ©ºÀ¾ü£¬ÏÖÒÛ¹úÊÖ|pg||
 mb|1S|nt|goal: hi|pg||
 mb|p|nt|zds3006: ÄÏ±±4S£¬|pg||
 mb|2N!|nt|goal: ¿ªÊÒ¾¹·«½Ðµ½4H£¬´ó¸ÅÒ²Òªå´¶þ|pg||
@@ -324,7 +324,7 @@ nt|zds3006: HAºóS6£¿|pg||
 nt|goal: ËûÊÇÒª¿¼|pg||
 nt|goal: ºÃÔÚ6DÒ²Ã»ÎÊÌâ|pg||
 pc|s9|pg||
-nt|poohbear: Netherlands leads after round 5 with 96 VP  Italy/England has 89   USA 81  Suzhou 78 Geely 76 and Taipei 76 |pg||
+nt|poohbear: Netherlands leads after round 5 with 96 VP  Italy/England has 89	USA 81	Suzhou 78 Geely 76 and Taipei 76 |pg||
 nt|goal: ¿ªÊÒÁ¬ÀÏ°åÅÐ¶ÏÕýÈ·£¬½Ð5SÂñµ¥|pg||
 pc|sA|nt|goal: ÓÉÓÚ²»ÖªµÀ±±¼ÒÓÐ¼¸ÕÅºìÐÄ£¬×¯¼Ò¿ÉÄÜ²»¸Ò·ÉÃ·»¨£¬Âú×ãÓÚ9¶Õ|pg||
 pc|sQ|nt|goal: ÓÐÒâË¼µÄ·ÀÊØ£¬×¯¼Ò»á´ó½«³ÔÂð£¿|pg||
@@ -517,7 +517,7 @@ pc|s4|pc|sA|pc|sQ|nt|goal: ÓÉÓÚ¶«Ã»ÓÐ½Ð³öºìÐÄÌ×£¬3NT±»Ã
 nt|zds3006: ×ÜÖ®£¬É±Öí¸÷ÓÐ¸÷µÄÉ±·¨£¬Ö»ÒªºÏÀí£¬´îµµÍ³Ò»¾ÍÐÐ|pg||
 pc|sT|pg||
 mc|8|pg||
-qx|o7|st||md|1SQJ942H52DAK87C93,SAT75HQJ763DTCQJ2,SK63HK9DJ943CKT76,S8HAT84DQ652CA854|sv|b|mb|p|mb|2D|an|45+ Majors|mb|p|mb|4H|mb|p|mb|p|mb|p|pc|dK|nt|peachy: Running scores  http://www.ccba.org.cn/Tour/RoundResult.aspx?section=78d819f6-9b7f-4008-abc8-4f6960f87c43&round=9&tourid=703             Open it in Google Chrome if you have it.  ...|pg||
+qx|o7|st||md|1SQJ942H52DAK87C93,SAT75HQJ763DTCQJ2,SK63HK9DJ943CKT76,S8HAT84DQ652CA854|sv|b|mb|p|mb|2D|an|45+ Majors|mb|p|mb|4H|mb|p|mb|p|mb|p|pc|dK|nt|peachy: Running scores  http://www.ccba.org.cn/Tour/RoundResult.aspx?section=78d819f6-9b7f-4008-abc8-4f6960f87c43&round=9&tourid=703		Open it in Google Chrome if you have it.  ...|pg||
 nt|peachy: If not, use google translate to get it in English|pg||
 pc|dT|pc|d4|pc|d5|pg||
 pc|c9|pc|cQ|pc|cK|pc|cA|pg||
@@ -634,7 +634,7 @@ pc|cA|pc|cQ|pc|c6|pg||
 pc|s7|pc|s3|pc|sA|pc|sQ|pg||
 pc|d6|pc|dA|pc|d9|pc|d2|pg||
 pc|cK|pc|c4|pc|cJ|pc|c3|pg||
-pc|cT|pc|c9|nt|Walddk2:  Running scores  http://www.ccba.org.cn/Tour/RoundResult.aspx?section=78d819f6-9b7f-4008-abc8-4f6960f87c43&round=9&tourid=703             Open it in Google Chrome if you have it|pg||
+pc|cT|pc|c9|nt|Walddk2:  Running scores  http://www.ccba.org.cn/Tour/RoundResult.aspx?section=78d819f6-9b7f-4008-abc8-4f6960f87c43&round=9&tourid=703		  Open it in Google Chrome if you have it|pg||
 pc|dT|pc|c2|pg||
 pc|hQ|pc|h8|pc|h2|mc|9|nt|Walddk2:  If not, use google translate to get it in English|pg||
 pg||
@@ -918,7 +918,7 @@ nt|psyck: Prec is popular in the orient, 50% playing prec in China|pg||
 pc|d9|pc|dJ|pc|dA|pc|d7|pg||
 pc|hK|pc|hA|pc|c3|pc|s2|pg||
 pc|s5|pc|sT|pc|s3|pc|sQ|pg||
-pc|hT|nt|peachy:  Running scores  http://www.ccba.org.cn/Tour/RoundResult.aspx?section=78d819f6-9b7f-4008-abc8-4f6960f87c43&round=9&tourid=703             Open it in Google Chrome if you have it|pg||
+pc|hT|nt|peachy:  Running scores  http://www.ccba.org.cn/Tour/RoundResult.aspx?section=78d819f6-9b7f-4008-abc8-4f6960f87c43&round=9&tourid=703		   Open it in Google Chrome if you have it|pg||
 pc|h9|pc|c4|pc|d5|pg||
 pc|c7|pc|c8|pc|cQ|pc|cK|pg||
 pc|dQ|pc|h2|nt|peachy: If not, use Google Translate to get it in English|pg||
@@ -1023,7 +1023,7 @@ mb|p|nt|poohbear: Grue is making me look bad all match :P|pg||
 mb|4C|nt|goal: 2SÊÇÄ³¸ß»¨¶ÌÃÅµÄÈýÌ×ÅÆ|pg||
 nt|goal: 2NTÎÊ£¬3D±íÊ¾ºìÐÄ¶Ì|pg||
 nt|goal: Ó¦¸ÃÊÇÒ»¸±Ã»ÓÐÊäÓ®µÄÅÆ¡£|pg||
-nt|goal: ¶«¼Ò¿ÉÒÔÑ¡Ôñ´ò3NT£¬»òÕß4CÀ­³öí£¬Í¬°é·ñ¶¨·½¿é¿ØÖÆºóÍ£ÔÚ5C¡£3NTºÍ5CÔÚÊµ¼Ê·Ö²¼ÏÂ¶¼Ã»ÓÐÎÊÌâ¡£|pg||
+nt|goal: ¶«¼Ò¿ÉÒÔÑ¡Ôñ´ò3NT£¬»òÕß4CÀ­³öí£¬Í¬°é·ñ¶¨·½¿é¿ØÖÆºóÍ£ÔÚ5C¡£3NTºÍ5CÔÚÊµ¼Ê·Ö²¼ÏÂ¶¼Ã»ÓÐÎÊÌâ¡£|pg||
 nt|goal: ¿ªÊÒ¶«Î÷ÓÃÀàËÆµÄ½ø³Ì½Ðµ½5C|pg||
 mb|p|nt|goal: ¸ß·É½Ð3NT½«³ÉÎª×îÖÕ¶¨Ô¼£¬µ«ËûµÄÅÆ²»´í£¬ÓÐµã²»ÉáµÃ|pg||
 nt|zds3006: Ïë´òÌ«¶àÁË£¬·ÉHJ²ùH9|pg||
@@ -1279,7 +1279,7 @@ pc|dK|pc|h6|pc|c3|pg||
 mc|8|pg||
 qx|o15|st||md|1SAKQ7542H8DKQ983C,S6HKQ65DAJT4CAK52,S3HA4D7652CJT9863,SJT98HJT9732DCQ74|sv|n|mb|1S|mb|d|mb|p|mb|2H|nt|psyck: decent sac other room i guess|pg||
 mb|4S|mb|d|mb|p|mb|p|nt|psyck: 1@s & 3@d losers here for a push maybe|pg||
-mb|p|pc|cA|nt|peachy:  Running scores  http://www.ccba.org.cn/Tour/RoundResult.aspx?section=78d819f6-9b7f-4008-abc8-4f6960f87c43&round=9&tourid=703             Open it in Google Chrome if you have it. ...|pg||
+mb|p|pc|cA|nt|peachy:  Running scores  http://www.ccba.org.cn/Tour/RoundResult.aspx?section=78d819f6-9b7f-4008-abc8-4f6960f87c43&round=9&tourid=703		Open it in Google Chrome if you have it. ...|pg||
 nt|peachy: If you don't have it, use Google Translate to get it in English.|pg||
 pc|c3|pc|c4|pc|s2|pg||
 pc|sA|pc|s6|pc|s3|pc|s8|pg||
