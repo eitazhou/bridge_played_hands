@@ -12,14 +12,20 @@ FISHER
 				"Lotan Fisher" - Israel. Often plays with Ron Schwartz.
 
 LEVIN
-				"Bobby Levin" - US. Often plays with Weinstein.
+				"Bobby Levin" - US. Often plays with Steve Weinstein.
 				"Jill Levin" - US.
 
 MECKSTROTH
-				"Jeff Meckstroth" US. Now a senior. Has a son that plays in junior events.
+				"Jeff Meckstroth" US. Now a senior. Has a son that plays in junior events. Often plays with Eric Rodwell.
+
+RODWELL
+				"Eric Rodwell" US. Often plays with Jeff Meckstroth.
 
 SCHWARZ
 				"Ron Schwarz" - Israel. Often plays with Lotan Fisher.
 				"Richard Schwarz" - US. Often plays with Allan Graves.
+
+WEINSTEIN
+				"Steve Weinstein" - US. Often plays with Bobby Levin
 
 
