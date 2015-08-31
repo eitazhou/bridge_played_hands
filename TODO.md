@@ -4,7 +4,7 @@
 
 These should not be part of any analysis.
 
-All practice matches should be put in the file [lin_data/PRACTICE_MATCHES.txt]PRACTICE_MATCHES.txt.
+All practice matches should be put in the file [lin_data/PRACTICE_MATCHES.txt](PRACTICE_MATCHES.txt).
 
 There is a script that is run later to remove these files.
 
@@ -15,7 +15,7 @@ If there are more examples found of practice matches, add them to the file.
 
 ### Missing/invalid commas in player names field.
 
-The file [lin_data/INVALID_COMMAS.txt]INVALID_COMMAS.txt contains a list of LIN files that have invalid commas.
+The file [lin_data/INVALID_COMMAS.txt](INVALID_COMMAS.txt) contains a list of LIN files that have invalid commas.
 
 Typically the VuGraph operator added a comma to a name, e.g. "R, Hamman".
 
@@ -43,7 +43,7 @@ Levin is another example. Is it "Jill Levin" or "Bobby Levin".
 
 The only way to fix this problem is to come up with a naming convention for each player that is unique for that player.
 
-See file [NAMES.txt]NAMES.txt for how each case is fixed.
+See file [NAMES.txt](NAMES.txt) for how each case is fixed.
 
 The preferred naming convention is "First Last", e.g. "Jill Levin"
 
