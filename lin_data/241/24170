@@ -3,7 +3,7 @@ rs|6NE+1,6NE+1,3NS+1,3NS=,4HE+1,4HE+1,6SN+1,6SN+1,4CEx=,3CE+1,2SS=,2NS-1,4CS=,4C
 pn|Butryn,Wu Q.,Sakowska,Song Qi,YANG,NAWROCKI,QI,SIKORA|pg||
 qx|o1|st||md|3ST2H87432DJCA8764,SAKQJ9HQ65DK84CK3,S86543H9DT7653CQ9,S7HAKJTDAQ92CJT52|sv|o|nt|vugraphzjg: Bonjour à tous|pg||
 nt|vugraphzjg: 9 eme tour|pg||
-nt|vugraphzjg: 1 Poland1 167   2 Poland2  162   3 Czech  150  4 France1 144|pg||
+nt|vugraphzjg: 1 Poland1 167   2 Poland2  162	3 Czech  150  4 France1 144|pg||
 mb|p|mb|1D|mb|p|mb|1S|mb|p|mb|2C|mb|p|mb|2H!|mb|p|mb|2N|mb|p|mb|4N|mb|p|mb|6N|mb|p|mb|p|mb|p|pc|h7|pc|h5|pc|h9|pc|hA|pg||
 pc|s7|pc|s2|pc|sA|pc|s3|pg||
 pc|sK|pc|s4|pc|c2|pc|sT|pg||
@@ -250,14 +250,14 @@ pc|sQ|pc|s5|pc|h6|pc|sT|pg||
 pc|s8|pc|dT|pc|h3|pc|sJ|pg||
 mc|9|pg||
 qx|o13|st||md|3SAJ8HQ654D8654CA4,S965HJTDKJ7CQJT53,S43HAK87DQT2CK972,SKQT72H932DA93C86|sv|b|nt|bobholl: a (too) thin 4@H NS|pg||
-mb|1C|mb|1S|mb|d|mb|2S|nt|ady: cards lay well for a heart contract n/s    but likley to play in a part score|pg||
+mb|1C|mb|1S|mb|d|mb|2S|nt|ady: cards lay well for a heart contract n/s	  but likley to play in a part score|pg||
 mb|3H|mb|p|nt|ady: n/s being pushed to game|pg||
 mb|3N|mb|p|mb|p|mb|p|pc|cQ|pc|c2|pc|c8|pc|cA|pg||
 pc|d4|nt|ady: declarer needs to play on diamonds|pg||
 pc|d7|pc|dT|pc|d3|pg||
 nt|ady: now contract almost certain to make|pg||
 pc|dQ|pc|d9|pc|d5|pc|dK|pg||
-pc|s6|nt|ady: either a 2nd diamond trick on the split   or a 2nd spade trick|pg||
+pc|s6|nt|ady: either a 2nd diamond trick on the split	or a 2nd spade trick|pg||
 pc|s3|pc|sQ|pc|sA|pg||
 pc|d6|pc|dJ|pc|d2|pc|dA|pg||
 pc|sK|pc|s8|nt|ady: might make an overtrick now|pg||
@@ -308,7 +308,7 @@ nt|ady: not much for anyone to make|pg||
 mb|1D|mb|p|nt|ady: n/s have a 5-3 diamond fit  and they are 4-1   and e/w a 5-3 heart fit   also 4-1|pg||
 nt|bobholl: the best fits (@H and @D) are both 41|pg||
 nt|bobholl: migth end in 2@D|pg||
-mb|2H|mb|p|mb|2S|mb|p|nt|ady: 2@H  system bid   probably  appears 5 spades and 4 hearts|pg||
+mb|2H|mb|p|mb|2S|mb|p|nt|ady: 2@H  system bid	probably  appears 5 spades and 4 hearts|pg||
 mb|p|nt|ady: just what south wanted to hear|pg||
 mb|p|pc|dT|nt|ady: this looks like a struggle|pg||
 pc|d5|pc|d3|pc|dK|pg||
@@ -346,7 +346,7 @@ pc|dQ|pc|d8|pc|h9|pc|h7|pg||
 pc|dJ|pc|d9|pc|s5|pc|hT|pg||
 pc|s2|pc|s9|pc|sT|pc|s7|pg||
 pg||
-qx|o16|st||md|2SAK7H32DKQ9CKJT63,SJT95HAJ76D53C852,S62HKQT9DA7642C74,SQ843H854DJT8CAQ9|sv|e|nt|ady: last hand of the session    thx all|pg||
+qx|o16|st||md|2SAK7H32DKQ9CKJT63,SJT95HAJ76D53C852,S62HKQT9DA7642C74,SQ843H854DJT8CAQ9|sv|e|nt|ady: last hand of the session	thx all|pg||
 mb|p|mb|p|nt|ady: n/s  likely to play 3NT|pg||
 mb|p|nt|ady: have a very good lay of the cards|pg||
 mb|1N|mb|p|mb|2D!|mb|p|mb|2H|mb|p|mb|3H|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|sJ|nt|ady: normal spade lead    but cannon go wrong with diamonds splitting    playing on clubs or hearts for the extra 2 tricks needed|pg||
