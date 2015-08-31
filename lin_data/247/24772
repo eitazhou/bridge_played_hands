@@ -21,7 +21,7 @@ pc|c8|pc|sJ|pc|h2|pc|s6|pg||
 pc|s7|pc|s5|pc|sA|pc|s9|pg||
 pc|d2|pc|dT|pc|dK|pc|dA|pg||
 pc|d3|mc|9|pg||
-qx|o26|st||md|4SKJT87643HKD94CKJ,SQHQ82DAK7632CQT9,S9HJ74DJT85CA8653,SA52HAT9653DQC742|sv|b|mb|2D!|mb|2S|mb|d|mb|p|mb|4H|mb|4S|mb|p|mb|p|mb|d|mb|p|mb|p|mb|p|pc|dA|nt|warrens:  this looks like the first swing for Poland|pg||
+qx|o26|st||md|4SKJT87643HKD94CKJ,SQHQ82DAK7632CQT9,S9HJ74DJT85CA8653,SA52HAT9653DQC742|sv|b|mb|2D!|mb|2S|mb|d|mb|p|mb|4H|mb|4S|mb|p|mb|p|mb|d|mb|p|mb|p|mb|p|pc|dA|nt|warrens:	this looks like the first swing for Poland|pg||
 pc|d5|pc|dQ|pc|d4|pg||
 nt|warrens:  -1 if declarer guesses @S,-2 otherwise|pg||
 nt|warrens:  small @D now?|pg||
@@ -32,15 +32,15 @@ pc|c4|pc|cJ|pc|cQ|pc|cA|pg||
 pc|s9|pc|s2|pc|sK|pc|sQ|pg||
 mc|9|pg||
 qx|c26|st||md|4SKJT87643HKD94CKJ,SQHQ82DAK7632CQT9,S9HJ74DJT85CA8653,SA52HAT9653DQC742|sv|b|nt|mareczek: jedno kosztowne nieporozumienie licytacyjne i jedna trudna decyzja|pg||
-mb|2H|nt|ryskiel_: i dwie przegrane przepychanki na czêciówkach |pg||
-nt|mareczek: przegrane czêciówki mozna wliczyæ w koszty|pg||
+mb|2H|nt|ryskiel_: i dwie przegrane przepychanki na czêciówkach |pg||
+nt|mareczek: przegrane czêciówki mozna wliczyæ w koszty|pg||
 nt|mareczek: ale b³êdy systemowe z zapomnienia nie powinny siê zdarzyæ|pg||
 mb|2S|nt|bigtrain: this is a weak 2-bid (they do not play multi of any sort)|pg||
 mb|4H|mb|p|mb|p|nt|lechcold: Meckwell nie graj¹ Multi|pg||
-nt|lechcold: 2@D to trójkolorówka z krótkoci¹ karo|pg||
+nt|lechcold: 2@D to trójkolorówka z krótkoci¹ karo|pg||
 nt|garden2005: ... do boju Polacy! ,,, do boju Or³y! ... jak nie wy, to kto te straty odbije?|pg||
 nt|lechcold: zatem 2@H to starodawne s³abe dwa|pg||
-nt|ryskiel_: wszystko prawda, ale trzeba graæ tak jak to kiedy skomentowa³ Gawry - w strefie czêsciówki zabilimy ich (o innych strefach nie wspomina³, bo tam by³o bardzo le)|pg||
+nt|ryskiel_: wszystko prawda, ale trzeba graæ tak jak to kiedy skomentowa³ Gawry - w strefie czêsciówki zabilimy ich (o innych strefach nie wspomina³, bo tam by³o bardzo le)|pg||
 nt|lechcold: 2@S nie by³o chyba najlepsze, co s¹dzicie?|pg||
 nt|lechcold: teraz Adam jest w pu³apce|pg||
 mb|p|pc|d4|mc|9|pg||
@@ -66,7 +66,7 @@ pc|s2|pc|s7|pc|sK|pc|d8|pg||
 pc|d3|pc|dQ|pc|d2|pc|d4|pg||
 nt|ryskiel_: gra jak automat|pg||
 pc|c3|pc|c7|pc|c8|pc|cQ|pg||
-nt|lechcold: mo¿e terez wpuciæ N lub S|pg||
+nt|lechcold: mo¿e terez wpuciæ N lub S|pg||
 pc|dA|pc|d7|pc|d6|pc|dJ|pg||
 nt|lechcold: tak czy owak wygra|pg||
 pc|cA|pc|c9|pc|c6|pc|c4|pg||
@@ -81,7 +81,7 @@ pc|c3|pc|cJ|pc|cQ|pc|c2|pg||
 pc|cT|pc|c5|pc|d4|pc|cK|pg||
 pc|dA|pc|d7|pc|s3|pc|d5|pg||
 pc|c6|pc|c9|pc|h5|mc|9|pg||
-qx|c28|st||md|2S98HQT32DA96CAKJ6,SAKJHAK6D732CQT94,SQT5432H985DJC752,S76HJ74DKQT854C83|sv|n|nt|lechcold: wejcie Mecka niezwykle trafne|pg||
+qx|c28|st||md|2S98HQT32DA96CAKJ6,SAKJHAK6D732CQT94,SQT5432H985DJC752,S76HJ74DKQT854C83|sv|n|nt|lechcold: wejcie Mecka niezwykle trafne|pg||
 mb|1C|mb|p|mb|1D|nt|lechcold: po 1@S o wygraniu koñcówki z rêki E nie by³o mowy|pg||
 nt|bigtrain: 1@C = 16+ any|pg||
 mb|p|mb|1N|mb|p|nt|bigtrain: 1@D = 0-7 any|pg||
@@ -139,7 +139,7 @@ nt|henryb:  They are not likely to get them|pg||
 pc|h6|nt|warrens:  hi Henry :)|pg||
 pc|hK|pc|hA|pc|h3|pg||
 pc|hQ|pc|h5|pc|h2|pc|h9|pg||
-pc|d2|pc|d9|nt|henryb:  Hi Warren|pg||
+pc|d2|pc|d9|nt|henryb:	Hi Warren|pg||
 pc|dA|pc|dT|pg||
 pc|d4|mc|6|pg||
 qx|c30|st||md|4SQ982HAQDK6532CT8,SJ53H8753DJ98CAQ4,ST764HT642DAQ4C76,SAKHKJ9DT7CKJ9532|sv|o|mb|1N|nt|bigtrain: 1NT = 14-16|pg||
@@ -170,7 +170,7 @@ pc|dT|pc|h6|pc|dJ|pc|dA|pg||
 pc|c6|pc|cT|pc|cQ|pc|c9|pg||
 pc|cA|pc|s6|pc|c3|pc|h2|pg||
 pc|c2|mc|7|pg||
-qx|o32|st||md|2S9HK6DQJT653CT643,SA62HQ92DK8742CQJ,SQT8754HJ874DAC98,SKJ3HAT53D9CAK752|sv|e|nt|henryb:  Noone said E had to open 1N|pg||
+qx|o32|st||md|2S9HK6DQJT653CT643,SA62HQ92DK8742CQJ,SQT8754HJ874DAC98,SKJ3HAT53D9CAK752|sv|e|nt|henryb:	Noone said E had to open 1N|pg||
 mb|1D|mb|2S|mb|d|mb|p|mb|2N|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|h8|pc|h3|pc|hK|pc|h2|pg||
 pc|c3|pc|cQ|pc|c9|pc|c2|pg||
 nt|henryb:  results available at http://www.worldbridge.org/tourn/Lille.12/microSite/Results.htm|pg||
@@ -179,22 +179,22 @@ pc|sA|pc|s4|pc|s3|pc|s9|pg||
 pc|s6|pc|s7|pc|sJ|pc|d3|pg||
 pc|cA|pc|c6|pc|d2|pc|s5|pg||
 pc|h5|pc|h6|pc|h9|pc|hJ|pg||
-pc|dA|pc|d9|nt|henryb:  Another push and 25-2 for the US|pg||
-mc|10|nt|warrens:  Thanks all.  Even though thescore wasn't close, still a fun match to watch with a lot of interesting hands.|pg||
+pc|dA|pc|d9|nt|henryb:	Another push and 25-2 for the US|pg||
+mc|10|nt|warrens:  Thanks all.	Even though thescore wasn't close, still a fun match to watch with a lot of interesting hands.|pg||
 nt|vugraphzay: Thank you all, we'll be back tomorrow at 10:30 AM Paris and 9:30 AM London time|pg||
 pg||
 qx|c32|st||md|2S9HK6DQJT653CT643,SA62HQ92DK8742CQJ,SQT8754HJ874DAC98,SKJ3HAT53D9CAK752|sv|e|mb|1D|nt|bigtrain: 1@D = 2+ 11-15|pg||
-mb|1S|mb|d|nt|garden2005: zróbcie im mingus-dyngus teraz ch³opaki :)|pg||
+mb|1S|mb|d|nt|garden2005: zróbcie im mingus-dyngus teraz ch³opaki :)|pg||
 nt|bigtrain: X can include 5@H GF|pg||
 mb|p|mb|1N|nt|bigtrain: 1NT = balanced no @S stopper promised|pg||
 mb|p|mb|3N|nt|bigtrain: 11-13|pg||
 mb|p|mb|p|mb|p|nt|lechcold: last board, many thanks Walter for your explanations|pg||
-pc|s7|nt|ryskiel_: dziêkujê wszystkim - no có¿ mo¿e i nam zawieci s³oneczko kiedy|pg||
-nt|garden2005: mecz dobiega koñca, na tak dysponowan¹ dru¿ynê niezwykle ciê¿ko cokolwiek wyrzebiæ ... brawa dla przeciwników, brawa dla naszych ... za spokój|pg||
+pc|s7|nt|ryskiel_: dziêkujê wszystkim - no có¿ mo¿e i nam zawieci s³oneczko kiedy|pg||
+nt|garden2005: mecz dobiega koñca, na tak dysponowan¹ dru¿ynê niezwykle ciê¿ko cokolwiek wyrzebiæ ... brawa dla przeciwników, brawa dla naszych ... za spokój|pg||
 nt|lechcold: 3N bêdzie ³atwo wygrane. Mecz wysoko przegrany, ale poprzeczka by³a zawieszona bardzo wysoko. To tylko eliminacje...|pg||
 nt|garden2005: w puki fina³owej dokonamy rozliczenia koñcowego :)|pg||
 nt|garden2005: puli*|pg||
-nt|ryskiel_: Dziêkujê kolegom komentatorom Karolowi Mykietynowi, Grekowi Gardynikowi, Lechowi Ohrysce, a przed wszystkim Walterowi Johnsonowi który pokazywa³ i objania³ zawi³oci systemu ...|pg||
+nt|ryskiel_: Dziêkujê kolegom komentatorom Karolowi Mykietynowi, Grekowi Gardynikowi, Lechowi Ohrysce, a przed wszystkim Walterowi Johnsonowi który pokazywa³ i objania³ zawi³oci systemu ...|pg||
 nt|ryskiel_: Meckwellów|pg||
 pc|sJ|pc|s9|pc|s2|pg||
 nt|garden2005: thx Walter!|pg||
@@ -204,10 +204,10 @@ nt|kamyk: "ze spuszczon¹ g³ow¹, powoli - idzie ¿o³nierz z niemieckiej niewo
 nt|garden2005: kamyk nie pekaj! :)|pg||
 pc|cJ|pc|c9|pc|c5|nt|ryskiel_: przepraszam jeszcze zapomnia³êm o Marku Wójcickim - dziêki Marku|pg||
 pc|c4|pg||
-nt|kamyk: co mi jako smutno siê zrobi³o|pg||
+nt|kamyk: co mi jako smutno siê zrobi³o|pg||
 nt|garden2005: wiemy wszyscy, ¿e kochasz Balika :)|pg||
 pc|hQ|pc|h4|pc|h3|pc|hK|pg||
-pc|dQ|nt|lechcold: na pocieszenie powiem, ¿e Panie prowadz¹ z gronymi Angielkami 47:33 po 15 rozdaniach|pg||
+pc|dQ|nt|lechcold: na pocieszenie powiem, ¿e Panie prowadz¹ z gronymi Angielkami 47:33 po 15 rozdaniach|pg||
 pc|d2|pc|dA|pc|d9|pg||
 pc|h7|pc|h5|pc|h6|mc|11|nt|lechcold: dziêkujê..do lepszych czasów:)|pg||
 nt|garden2005: do widzenia i do us³yszenia, dzieki|pg||
