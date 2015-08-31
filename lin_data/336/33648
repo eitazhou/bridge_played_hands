@@ -88,7 +88,7 @@ nt|barnets: hi all|pg||
 nt|kit: It looks like declarer wins the battle, getting 6 trump tricks.|pg||
 nt|ritong: hi barnet|pg||
 nt|prospero1:  He has four tricks in, and can take four more trumps by forcing Rodwell|pg||
-pc|hQ|nt|ganz:  he can play clubs and score all 4 trumps separately...ruff, ck ruffed, dk ruffed, cq ruffed, and now hjt are winners|pg||
+pc|hQ|nt|ganz:	he can play clubs and score all 4 trumps separately...ruff, ck ruffed, dk ruffed, cq ruffed, and now hjt are winners|pg||
 nt|warrens:  yes, he's got a claim now|pg||
 pc|d6|pc|s8|pg||
 nt|prospero1:  Now @cK, pitching, and what does Rodwell do?|pg||
@@ -244,7 +244,7 @@ pc|c9|pc|s7|pc|s9|pc|c8|pg||
 pc|s5|pc|s6|pc|sA|pc|s4|pg||
 pc|s3|pc|sQ|pc|sK|pc|hT|pg||
 mc|9|pg||
-qx|o50|st||md|4SAKJ92HA85DK87CJ8,S65H72DJT642CK964,SQ74HJT643DQ53CT3,ST83HKQ9DA9CAQ752|sv|n|mb|1N|mb|d!|an|Strong|mb|2C!|nt|prospero1:  Maybe they've shifted to always playing their weak NT defense|pg||
+qx|o50|st||md|4SAKJ92HA85DK87CJ8,S65H72DJT642CK964,SQ74HJT643DQ53CT3,ST83HKQ9DA9CAQ752|sv|n|mb|1N|mb|d!|an|Strong|mb|2C!|nt|prospero1:	Maybe they've shifted to always playing their weak NT defense|pg||
 mb|2H|mb|3C|nt|barnets: par is 3@C making|pg||
 mb|3H|mb|p|mb|p|mb|p|pc|cA|pc|cJ|pc|c4|pc|c3|pg||
 nt|barnets: it is likely 2@C was clubs and another|pg||
@@ -304,13 +304,13 @@ mb|5C|nt|prospero1:  Moss bid 4@h??|pg||
 nt|ritong: apparently so|pg||
 nt|barnets: 4@H was inteesting by Moss|pg||
 nt|barnets: I wonder what it meant|pg||
-nt|danmathies:  plus's are good|pg||
+nt|danmathies:	plus's are good|pg||
 nt|prospero1:  Whatever it meant, Bathurst will get excited|pg||
 mb|5D|mb|p|mb|5S|mb|p|mb|p|nt|barnets: how is partner to judge after this|pg||
 nt|ritong: perhaps we cazn call thazt "noisy cue", trying to intimidate opponents|pg||
 mb|p|nt|ritong: ambitious, versus meckwell|pg||
 nt|barnets: I dont like the 4@H bid|pg||
-nt|danmathies:  at least no dbl|pg||
+nt|danmathies:	at least no dbl|pg||
 nt|prospero1:  Fortunately, 4@s isn't making either, and Meck didn't whack it|pg||
 nt|Vugraphzfc: Meck carefully reviewing proceedings|pg||
 nt|prospero1:  Although if Meck leads a diamond, 4@s would make|pg||
@@ -386,7 +386,7 @@ nt|Vugraphzfb: Hampson: "so would you take double there for a club lead, Eric?" 
 nt|Vugraphzfb: says"|pg||
 mb|1C|mb|p|mb|1S|mb|p|mb|2S|mb|p|nt|chip:  Kib notes (as I mentioned earlier) that 4S can be made after H Q lead.|pg||
 mb|4S|mb|p|mb|p|mb|p|nt|Vugraphzfb: Levin: "finally an easy hand"|pg||
-pc|hQ|nt|chip:  Win A and play a  heart, win D shift, then J of hearts. If they ruff low, back to spade ace for heart 9.|pg||
+pc|hQ|nt|chip:	Win A and play a  heart, win D shift, then J of hearts. If they ruff low, back to spade ace for heart 9.|pg||
 nt|Vugraphzfb: That was before the dummy came down. After Weinstein: "played from the other side"|pg||
 nt|Vugraphzfb: laughter|pg||
 nt|chip:  Levin buys pretty good high cards but would have preferred a 4th trump.|pg||
@@ -513,9 +513,9 @@ pg||
 qx|c54|st||md|4SJTHJT9543DTCAK32,SK8754HD752CJT654,SQ96HKDKQJ96CQ987,SA32HAQ8762DA843C|sv|e|nt|chip:  But of curse did help the play some.|pg||
 nt|lrobb98:  yes..fabulous last hand for the whole match....|pg||
 nt|chip:  course (or perhaps curse for EW)|pg||
-mb|1H|nt|chip:  And the match is now back to being very close.|pg||
+mb|1H|nt|chip:	And the match is now back to being very close.|pg||
 mb|p|mb|1S|an|usually 5|nt|sixela: also induced the auction somewhat, causing N to believe S might be short in s and have nothing wasted there|pg||
-mb|2D|nt|chip:  EW play flanner, so 1S usually is 5|pg||
+mb|2D|nt|chip:	EW play flanner, so 1S usually is 5|pg||
 nt|lrobb98:  They have gained back 44 or so imps.....|pg||
 nt|jkdood: Other room in 4@S x this board|pg||
 mb|3D|mb|p|nt|chip:  I think N was always bidding blackwood over 3S regardless of the DBL.|pg||
@@ -569,7 +569,7 @@ mc|10|nt|Vugraphzfb: Levin: "we're down 1 in 5@c"|pg||
 pg||
 qx|o56|st||md|2SAKQ7HQ432D853CJ7,S6H9875DAKQ2C9843,ST98HAT6DJT94CT62,SJ5432HKJD76CAKQ5|sv|o|mb|p|mb|p|nt|ritong: yes  perhaps north will play the @s K to see what goes on|pg||
 mb|1S|mb|p|nt|ritong: taking for certain that declarer has not the @sA|pg||
-mb|1N!|an|Semi-F|mb|p|mb|2C|mb|p|nt|prospero1:  very imaginative|pg||
+mb|1N!|an|Semi-F|mb|p|mb|2C|mb|p|nt|prospero1:	very imaginative|pg||
 nt|ritong: to the extreme i d say|pg||
 mb|p|mb|p|pc|cJ|nt|prospero1:  On an auction like this, you need a good reason not to lead a trump. AKQ of declarer's suit screams trump lead|pg||
 nt|ritong: quite so  the question is which one|pg||
@@ -629,7 +629,7 @@ mc|9|nt|prospero1:  but Aj KJ still may go down on diamond through ... excellent
 nt|Vugraphzfc: Moss "Wow!!"|pg||
 nt|ritong: yeah|pg||
 nt|barnets: the answer was when Q club held he was home|pg||
-nt|danmathies:  and quick too|pg||
+nt|danmathies:	and quick too|pg||
 nt|prospero1:  Probably take other guess with @dAx|pg||
 nt|Vugraphzfc: Meck "South Bend 600"  "I'm tired of losing to the Jx, they always have it"|pg||
 pg||
@@ -651,11 +651,11 @@ mc|7|nt|Vugraphzfb: W: "good lead" Hampson: "good contract"|pg||
 pg||
 qx|o58|st||md|4SKQ9HKQ4D65CAQ986,SA42HJ9532DK42CT4,SJT87HT876DQTC532,S653HADAJ9873CKJ7|sv|b|nt|barnets: when a low club brought an honour more likely he was only 50 percent|pg||
 nt|Vugraphzfc: Meck "Screw the percentages"|pg||
-nt|danmathies:  if rod- we'd be vhere for a long time|pg||
+nt|danmathies:	if rod- we'd be vhere for a long time|pg||
 mb|1N|mb|d|nt|Vugraphzfc: Meck "They might beat me with a @d shift, another reason to go up Q"|pg||
 nt|prospero1:  Looking at Moss' 1N opener, you see why they treat it as weak|pg||
-nt|danmathies:  meck would say"o here we go again"|pg||
-mb|p|mb|2C!|mb|p|mb|p|mb|2H|mb|p|nt|prospero1:  Just what Moss wanted to hear|pg||
+nt|danmathies:	meck would say"o here we go again"|pg||
+mb|p|mb|2C!|mb|p|mb|p|mb|2H|mb|p|nt|prospero1:	Just what Moss wanted to hear|pg||
 nt|Vugraphzfc: Moss resorting his hand (looking for another @h?)|pg||
 mb|p|mb|p|nt|barnets: Greco misguessed clubs in 3N not suprisingly|pg||
 nt|Vugraphzfc: Moss "Good luck"|pg||
@@ -696,7 +696,7 @@ pc|d2|pc|dQ|pc|dA|pc|d6|pg||
 mc|9|pg||
 qx|o59|st||md|1SA873HQ973DT7CAK4,S542HJDJ9432CJ532,SK9HA642DKQ85CQ76,SQJT6HKT85DA6CT98|sv|o|mb|1D|mb|p|mb|1H|mb|p|nt|barnets: Nickell on a 30 V1 run|pg||
 nt|ritong: miunimum AK109xx imho|pg||
-mb|2H|mb|p|mb|3N|mb|p|mb|4H|mb|p|mb|p|mb|p|pc|sJ|nt|prospero1:  Well, he did have good intermediates. My standard is more along the lines of "unlikely to get killed," and I think the suit is good enough for that|pg||
+mb|2H|mb|p|mb|3N|mb|p|mb|4H|mb|p|mb|p|mb|p|pc|sJ|nt|prospero1:	Well, he did have good intermediates. My standard is more along the lines of "unlikely to get killed," and I think the suit is good enough for that|pg||
 pc|sA|pc|s5|pc|s9|pg||
 pc|dT|pc|d4|pc|dQ|pc|dA|pg||
 nt|prospero1:  Meanwhile, Meckwell had a pretty normal auction with a choice of games that Rod put in the 44 fit|pg||
@@ -769,7 +769,7 @@ mb|4C!|an|--> 4!d|mb|p|mb|4D|mb|p|mb|5D|mb|p|nt|jkdood: Other room started 1@H -
 nt|jkdood: Using 4@C "relay" to get to 5@D suggest slam interest I presume|pg||
 nt|chip:  Pretty good 6D: almost cold without trump lead, need 3-3 clubs or 10x with one.|pg||
 nt|sixela: w must like his minor cards but his major qj j are not so attrctive for d|pg||
-nt|jtmckee: the key to this slam is the ten of clubs     hard to blame the convention|pg||
+nt|jtmckee: the key to this slam is the ten of clubs	 hard to blame the convention|pg||
 nt|jkdood: A reliable source who has played with Steve-o confirms this sequence is a slam invite|pg||
 nt|chip:  I suspect W showed 4-5-22 but not sure what 4C/4D were. Maybe 4C forced 4D and 5D slam try?|pg||
 nt|Vugraphzfb: W writing something, but I don't know what. Then he laughs and Hampson laughs, so probably not relevant|pg||
@@ -780,7 +780,7 @@ nt|jkdood: Moss and Bathurst reached 6@D other room|pg||
 mb|p|mb|p|pc|cA|nt|Vugraphzfb: Levin: "I'm sorry to do this to you"|pg||
 pc|c6|pc|c5|pc|c9|pg||
 nt|chip:  typical for the Diamond team this match. Bid a  slam that always makes on the lie of the cards.|pg||
-mc|12|nt|chip:  It was also true for them in the semis.|pg||
+mc|12|nt|chip:	It was also true for them in the semis.|pg||
 nt|sixela: well, this was a pretty good one, the others....|pg||
 nt|jkdood: Diamond should gain 13, and we will start tomorrow with Nickell up 11 (1 PM NY time)|pg||
 nt|robinswr: 11|pg||

@@ -27,7 +27,7 @@ nt|vugraphzbj: yes|pg||
 nt|maddoc: begs question how one bids with max spades and short hearts?|pg||
 pc|d4|nt|roswolf:  3@h over 2nt|pg||
 pc|dJ|pc|dQ|pc|dA|pg||
-nt|maddoc: PPP  :)|pg||
+nt|maddoc: PPP	:)|pg||
 pc|hK|pc|h4|pc|h5|pc|h3|pg||
 pc|h2|pc|h6|pc|hJ|pc|hQ|pg||
 pc|dT|pc|dK|pc|d3|pc|d5|pg||
@@ -50,7 +50,7 @@ qx|o17|st||md|3SAQ9542HAD74CJT97,SJ83HKT7DKJ6CA543,SKTHQ986432DTCQ62,S76HJ5DAQ98
 mb|2D!|mb|p|nt|roswolf:  north multis now|pg||
 mb|2H!|mb|p|mb|p|mb|3D|mb|p|nt|roswolf:  west may punt 3nt|pg||
 nt|vugraphzbj: this multi has no strong options|pg||
-mb|3N|mb|p|mb|p|mb|p|pc|h6|nt|roswolf:  the sight of dummy will get a spade switch|pg||
+mb|3N|mb|p|mb|p|mb|p|pc|h6|nt|roswolf:	the sight of dummy will get a spade switch|pg||
 pc|h5|pc|hA|pc|h7|pg||
 pc|s5|pc|s3|pc|sT|pc|s6|pg||
 pc|sK|pc|s7|nt|roswolf:  north thinking!?|pg||
@@ -175,7 +175,7 @@ pc|cT|pc|c6|pc|c5|pc|c3|pg||
 pc|cJ|pc|cQ|pc|c7|pc|c8|pg||
 pc|sA|pc|s3|pc|s5|pc|s8|pg||
 pc|s6|pc|sT|pc|sK|pc|s4|pg||
-mc|9|nt|roswolf:  n                                     more imps to england|pg||
+mc|9|nt|roswolf:  n					more imps to england|pg||
 pg||
 qx|c22|st||md|4SA62HJ4DKT952CKQ6,ST3HKQT92DQ74C754,SKQJ75H76D863C832,S984HA853DAJCAJT9|sv|e|mb|1C!|mb|1D|mb|1H|mb|1S|mb|2H|mb|2S|mb|p|mb|p|mb|3H|mb|p|mb|p|mb|p|pc|sK|pc|s4|pc|s2|pc|sT|pg||
 pc|d6|pc|dJ|pc|dK|pc|d4|pg||
@@ -218,7 +218,7 @@ pc|c5|pc|cJ|pc|c7|pc|hT|pg||
 pc|c8|pc|s6|pc|sT|pc|cQ|pg||
 mc|8|pg||
 qx|o24|st||md|2SQ4HJT93DAT65CA98,SK72HQ72DQ9742CT3,SAJ985HAK65DKJC65,ST63H84D83CKQJ742|sv|o|nt|roswolf:  8 imps to ireland|pg||
-mb|p|mb|1S|nt|roswolf:  now a routine game hand for n/s - slam is obscure|pg||
+mb|p|mb|1S|nt|roswolf:	now a routine game hand for n/s - slam is obscure|pg||
 mb|3C|mb|d|mb|p|mb|4H|mb|p|mb|p|mb|p|pc|cK|pc|cA|pc|c3|pc|c5|pg||
 pc|sQ|pc|sK|pc|sA|pc|s3|pg||
 pc|sJ|pc|s6|pc|s4|pc|s7|pg||
