@@ -28,11 +28,11 @@ nt|HedyG:  A@D to hide K@D hcps from declarer|pg||
 nt|HedyG:  10@D Slawinski lead high either from even number without honour or odd with honour|pg||
 nt|ady: Monaco making 4@H  in OR    wo a swing already|pg||
 nt|HedyG:  the score is 46:38.5 to Monaco|pg||
-pc|s3|nt|ady: In OR   north opened 1@D   east doubled south 2@D    and west 4@H|pg||
+pc|s3|nt|ady: In OR   north opened 1@D	 east doubled south 2@D    and west 4@H|pg||
 pc|s2|pc|sT|pc|sQ|pg||
 pc|s5|pc|s4|pc|sA|pc|s8|pg||
 pc|sK|pc|sJ|pc|s6|pc|c5|pg||
-nt|ady: north led A@D   and switchedto a low club  and declarer guessed correctly|pg||
+nt|ady: north led A@D	and switchedto a low club  and declarer guessed correctly|pg||
 pc|hJ|pc|h2|pc|h5|pc|hK|pg||
 pc|c3|pc|cT|pc|cA|pc|c6|pg||
 mc|10|pg||
@@ -43,7 +43,7 @@ mc|12|pg||
 qx|c18|st||md|4ST7HT6DKT972CA842,SKQJ9HAKJ4DA3CQ53,S8632H83D64CKT976,SA54HQ9752DQJ85CJ|sv|n|nt|ady: guessed right as well  |pg||
 nt|ady: 6 imps to Monaco|pg||
 mb|p|mb|p|mb|1C|nt|ady: 6@H   e/w   on diamond finesse|pg||
-mb|p|mb|1H|mb|p|mb|2D|an|forcing|mb|p|mb|2H|mb|p|nt|ady: or as kib pointed out  can make 6@H  if clubnot led|pg||
+mb|p|mb|1H|mb|p|mb|2D|an|forcing|mb|p|mb|2H|mb|p|nt|ady: or as kib pointed out	can make 6@H  if clubnot led|pg||
 mb|2N|mb|p|mb|3D|mb|p|mb|3H|mb|p|mb|4C|mb|p|mb|4D|mb|p|mb|4S|mb|p|mb|4N|mb|p|mb|5D|mb|p|mb|6H|mb|p|mb|p|mb|p|nt|ady: swing for Vilas|pg||
 nt|HedyG:  2@D, 2NT 3@H and 4@d all look like relays|pg||
 pc|cA|pc|c3|pc|c6|pc|cJ|pg||
@@ -188,7 +188,7 @@ nt|HedyG:  void and @s?|pg||
 nt|chmitty: maybe just transfer : 4@s being weeaker and 4@h showing a good hand|pg||
 nt|HedyG:  well he did have 2@s and 3@s at his disposal to show @ss..|pg||
 mb|6S|mb|p|mb|p|nt|chmitty: so it was transfer indeed|pg||
-mb|p|nt|HedyG:  expert specs all believe it is yfer to 4 @s, 1@c can be balanced 11-13|pg||
+mb|p|nt|HedyG:	expert specs all believe it is yfer to 4 @s, 1@c can be balanced 11-13|pg||
 pc|hJ|nt|chmitty: With my regular partner we play that kind of transfer only after a 3@s overcall|pg||
 nt|HedyG:  3-way @c opening is very ambiguous|pg||
 nt|chmitty: For instance : 1@c 3@s 4@d : good hand with @h and 4@h weaker|pg||
@@ -223,7 +223,7 @@ pc|dA|pc|d8|pc|d2|pc|d6|pg||
 mc|11|pg||
 qx|c23|st||md|1S2HAK92DKQ6C87532,S754HJ764DA943CK9,SAKQT9HT8D87CAJ64,SJ863HQ53DJT52CQT|sv|b|mb|2C|nt|HedyG:  LOL great|pg||
 mb|p|mb|2D|nt|chmitty: huhu ... then it's strange yes|pg||
-mb|p|nt|HedyG:  no agreements is a much misused agreement|pg||
+mb|p|nt|HedyG:	no agreements is a much misused agreement|pg||
 mb|2H|mb|p|mb|2S|mb|p|nt|chmitty: open room already playing last board|pg||
 mb|2N|nt|HedyG:  2@c= 10-13 unbalanced|pg||
 mb|p|mb|3N|mb|p|mb|p|mb|p|pc|d3|nt|HedyG:  2@d relay, rest natural|pg||
@@ -261,13 +261,13 @@ nt|HedyG:  1@c= 14+nat. f1 or 15+ balanced |pg||
 mb|p|mb|2H!|mb|p|mb|2S|mb|p|mb|4S|mb|p|mb|p|mb|p|nt|chmitty: so the last @c could be discarded on the K@h ... but then declarer failed to shorten dummy's trumps and and to concede 4 trump tricks|pg||
 nt|chmitty: let's see what happens here|pg||
 pc|h2|nt|chmitty: on a @h lead defence probably can cash the @c Ace on time|pg||
-nt|ady: 4 spades needs AKX  with west   and JX with east  |pg||
+nt|ady: 4 spades needs AKX  with west	and JX with east  |pg||
 nt|HedyG:  he could disc 2@cs|pg||
 nt|chmitty: if Fantoni discards his @c he can hope for the hand with longer @s to ruff|pg||
 nt|chmitty: but he has communcations problems|pg||
 nt|HedyG:  then W is endplayed to either give the Q@C ot play @d|pg||
 nt|chmitty: if West ruffs with the Ace of @s, East will still have 3 @s tricks I believe|pg||
-nt|ady: or AJ    or KJ   with west|pg||
+nt|ady: or AJ	 or KJ	 with west|pg||
 nt|HedyG:  anyhow if you have a dog or a goldfish to walk...now might be a good time|pg||
 nt|HedyG:  coffe anybody?|pg||
 nt|chmitty: let's try : @h to the ten, @d to the 10 (!!!) Q@h, @d to the hand and the top @h|pg||
@@ -369,7 +369,7 @@ pc|cQ|pc|cK|pc|c4|pc|c8|pg||
 pc|c9|pc|d5|pc|cT|pc|cJ|pg||
 mc|9|pg||
 qx|c26|st||md|4SAJHAKJ843DJ2CT86,ST86432HQDQCAQJ75,SK97HT965D763CK93,SQ5H72DAKT9854C42|sv|b|nt|ady: a lot of work and worry for 1 imp|pg||
-mb|3D|mb|3H|mb|p|nt|ady: same start in  OR|pg||
+mb|3D|mb|3H|mb|p|nt|ady: same start in	OR|pg||
 nt|ady: passed out after 3 hearts|pg||
 mb|p|mb|p|pc|dQ|nt|chmitty: very disciplined :) I confess I would have bid 4|pg||
 pc|d3|pc|dA|pc|d2|pg||
@@ -424,7 +424,7 @@ nt|HedyG:  well it is normal to think before leading|pg||
 nt|chmitty: of course Hedy :) At this level, players try not to throw a singleton thru the table|pg||
 nt|chmitty: but ... we all know some exceptions lol|pg||
 nt|HedyG:  lol yes|pg||
-nt|ady: defence can clear and exit with trumps    east will have to duck 2 rounds of clubs later|pg||
+nt|ady: defence can clear and exit with trumps	  east will have to duck 2 rounds of clubs later|pg||
 nt|HedyG:  as long as nobody has a cold and has to cough|pg||
 nt|ady: that would bring a push|pg||
 nt|ady: diamond position not clear for west |pg||
@@ -453,14 +453,14 @@ pc|cQ|pc|d2|pc|d8|pc|d7|pg||
 mc|9|pg||
 qx|c28|st||md|2ST843HK7642DAT2C9,SJ9762H3DQ983CKJ8,SKQ5HA95DKJ7CA765,SAHQJT8D654CQT432|sv|n|nt|HedyG:  and now the last board|pg||
 nt|chmitty: so it will all be decided on the last board|pg||
-mb|p|nt|ady: thx all    |pg||
+mb|p|nt|ady: thx all	|pg||
 nt|chmitty: Vitas need a 2 digit swing|pg||
 mb|1C|mb|p|mb|1D!|nt|chmitty: which seems unlikely with the result from open room|pg||
 nt|chmitty: Multon doubled 4@h and led the Ace of @s|pg||
 mb|1S|mb|p|mb|p|nt|chmitty: seems to me that contract could then be made|pg||
 nt|HedyG:  1@d=@H|pg||
 mb|d!|mb|p|mb|1N|an|15-17|nt|HedyG:  pass of 1@s forcing|pg||
-mb|p|nt|HedyG:  now showing 15-17 balanced|pg||
+mb|p|nt|HedyG:	now showing 15-17 balanced|pg||
 nt|HedyG:  now Nunes can see the @s ruffs in a @H game|pg||
 mb|p|mb|p|pc|c3|nt|HedyG:  yes of course Fantoni denied 4 cards @H|pg||
 pc|c9|pc|cK|pc|c5|pg||
