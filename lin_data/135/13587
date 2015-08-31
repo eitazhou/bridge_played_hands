@@ -3,7 +3,7 @@ rs|2SN=,3DW=,4SN-2,4SN=,4HSx+1,3HN+2,6DN-1,6HEx-5,2HNx-3,3NW-1,3NW+2,3NE+2,3NS-1
 pn|Taufiq Sr,Imam,Firmansyah,Arie,Otis,Kholil,Ilham,Taufiq|pg||
 qx|o22|st||md|4STHQDQJ984CQT8543,S765H932DK32CA972,SAKJ9432HA75DT5C6,SQ8HKJT864DA76CKJ|sv|e|mb|1H|nt|andyv:  vul is right for S to act|pg||
 mb|p|mb|1S|nt|andyv:  1@S relay to 1N|pg||
-mb|4S|mb|p|mb|p|mb|p|nt|andyv:  @s lead or A@d and then @s shift should set this 2|pg||
+mb|4S|mb|p|mb|p|mb|p|nt|andyv:	@s lead or A@d and then @s shift should set this 2|pg||
 pc|dA|pc|d4|pc|d3|pc|dT|pg||
 pc|sQ|pc|sT|nt|andyv:  wd|pg||
 pc|s5|pc|sA|pg||
@@ -25,7 +25,7 @@ qx|o24|st||md|2SAK3HK4DKQJ732C93,SJT764HT8D954CJT4,S982HJ2DAT86CAK87,SQ5HAQ97653
 mb|p|mb|1D|nt|andyv:  looks like in CR, they bid 6@h as sac over 6@d slam... 1100 is a bid expensive|pg||
 nt|andyv:  bit|pg||
 mb|1H|mb|2D|mb|p|mb|3D|mb|3H|mb|4H!|mb|p|mb|5C|mb|p|nt|andyv:  the main problem with the 1100 is not only is it more than the slam, but 6@d does not appear to make|pg||
-mb|6D|mb|p|mb|p|mb|p|nt|andyv:  2@d forcing by S|pg||
+mb|6D|mb|p|mb|p|mb|p|nt|andyv:	2@d forcing by S|pg||
 pc|hA|pc|h4|nt|andyv:  NS will lose at least 5 imps if this makes and 15 if it doesn't|pg||
 pc|hT|pc|hJ|pg||
 pc|h7|pc|hK|pc|h8|pc|h2|pg||
@@ -53,7 +53,7 @@ mb|p|mb|1D|mb|3H|nt|marlowepi: to beat 6D, W must lead ace and shift to trump|pg
 nt|rodal f: Bit nice by % now.|pg||
 nt|josj: 4@H is interesting|pg||
 mb|4D|mb|5H|nt|ferlema: suponemos que Gabriel sobre 2@C invitarà con 3 @H|pg||
-mb|d|nt|andyv:  3N is tempting but 5@d probably more practical for NS... both contracts have problems to overcome|pg||
+mb|d|nt|andyv:	3N is tempting but 5@d probably more practical for NS... both contracts have problems to overcome|pg||
 nt|josj: a remarkable misfit|pg||
 mb|p|nt|rodal f: 1NT=2/1 it seems.|pg||
 nt|josj: even more so after this X|pg||
@@ -68,7 +68,7 @@ nt|andyv:  this should go down 1|pg||
 nt|josj: looks like a very lucky 3NT with @CAK both in S|pg||
 nt|josj: even more so when you don't bother about the 4-4 @S fit...|pg||
 mb|p|nt|rodal f: But find 4-2 in @C is only 24.25% and the hooka bit less. S could have.|pg||
-mb|p|nt|andyv:  Declarer will not be happy that @ds don't run|pg||
+mb|p|nt|andyv:	Declarer will not be happy that @ds don't run|pg||
 mb|p|nt|marlowepi: the longer he thought, the more it lloked like he would shrug & do it|pg||
 nt|marlowepi: lucky S -- the same defense beats 6 :):)|pg||
 pc|dK|nt|baldjean: this double might prove to be painful for E/W|pg||
@@ -113,7 +113,7 @@ qx|o25|st||md|3S42H74DKQT84CJ732,SA73HAJ2DAJ5CQ865,SQJT95HQ953D63CKT,SK86HKT86D9
 mb|1N|mb|2H|mb|d|nt|andyv:  must play standard NT range (14-16 or 15-17)|pg||
 nt|andyv:  2H=majors|pg||
 nt|andyv:  S not thrilled|pg||
-mb|p|mb|p|mb|p|pc|s6|nt|andyv:  if N is going to bid with that hand over 1N, he may as well have opened 2@s to begin with|pg||
+mb|p|mb|p|mb|p|pc|s6|nt|andyv:	if N is going to bid with that hand over 1N, he may as well have opened 2@s to begin with|pg||
 pc|s2|pc|sA|pc|s5|pg||
 pc|h2|pc|h3|pc|h8|nt|andyv:  this would be ok if EW had a game|pg||
 pc|h4|pg||
@@ -240,7 +240,7 @@ nt|josj: the only way to find out about the restricted choice play|pg||
 mb|p|mb|p|nt|Walddk4: Welcome to Liliek|pg||
 nt|rodal f: Batam? Ain't that iside the forest at Finland?|pg||
 nt|josj: maybe yes, I don't know :(|pg||
-mb|p|nt|andyv:  Hi Liliek:)|pg||
+mb|p|nt|andyv:	Hi Liliek:)|pg||
 pc|sJ|nt|Walddk4: Welcome to Avram Kreisberger|pg||
 nt|Walddk4: and hello Jean, and all specs|pg||
 nt|april7: hello everybody and good afternoon|pg||
@@ -293,7 +293,7 @@ mc|11|nt|josj: it does not matter which card dummy plays :)|pg||
 pg||
 qx|o27|st||md|1SKQ3HKQT7DJ7532C2,ST62HA2DKQT9CJ976,SA754H64DA86CAK43,SJ98HJ9853D4CQT85|sv|o|mb|1D|mb|p|nt|imam2002: 3 nt here now|pg||
 mb|1S|nt|imam2002: easy to find it|pg||
-mb|p|mb|1N|mb|p|mb|3N|mb|p|mb|p|mb|p|nt|andyv:  as predicted:)|pg||
+mb|p|mb|1N|mb|p|mb|3N|mb|p|mb|p|mb|p|nt|andyv:	as predicted:)|pg||
 nt|imam2002: :)|pg||
 nt|andyv:  the play will be equally mundane|pg||
 pc|dK|pc|d6|pc|d4|pc|d2|pg||
@@ -342,7 +342,7 @@ nt|rodal f: Was a bit fun to look at NS cards in the beginning. BUT....|pg||
 nt|josj: interesting hand: on the "obvious" @SK lead you make 7@H|pg||
 mb|2C|nt|rodal f: Here indonesia again came by a weak NT. Asave for EW this time.|pg||
 nt|josj: but it needs a @D ruff in  front of dummy to beat 4@S|pg||
-mb|p|nt|andyv:  probably 2@s here|pg||
+mb|p|nt|andyv:	probably 2@s here|pg||
 nt|andyv:  followed by @d raise|pg||
 nt|josj: and 5@D is the wrong spot to be|pg||
 nt|josj: maybe, N whould bid 4NT to suggest a twosuiter;|pg||
@@ -363,7 +363,7 @@ nt|andyv:  nope:)|pg||
 nt|westjava: 2@C rebid by S is 9 minor|pg||
 nt|andyv:  sometimes I wonder what the purpose of finding a fit is|pg||
 nt|josj: not enough tricks in a @H slam|pg||
-mb|p|nt|andyv:  N has nothing to say here|pg||
+mb|p|nt|andyv:	N has nothing to say here|pg||
 nt|josj: advanced daisy-picking?|pg||
 mb|p|nt|josj: very good lead by Fauzi...|pg||
 nt|josj: 3@C was MSA, I think and 3@H showed @C|pg||
@@ -454,7 +454,7 @@ nt|josj: looks like game in borh rooms for them|pg||
 nt|josj: both|pg||
 nt|rodal f: By Ns 2@D=a major S realy have good cards. For wich bid?|pg||
 mb|2H|nt|rodal f: Hope so:) |pg||
-mb|p|nt|andyv:  the price was right for W to step in with the @c support|pg||
+mb|p|nt|andyv:	the price was right for W to step in with the @c support|pg||
 nt|rodal f: Do they need?|pg||
 nt|josj: 4@S preparing the save|pg||
 nt|rodal f: 4@H did not surprice me but 4@S did.|pg||
@@ -552,7 +552,7 @@ nt|vugraphzhu: North held South's hand and West held East's hand|pg||
 mc|4|nt|josj: so this is probably going to make at an important stage of this short match|pg||
 pg||
 qx|c30|st||md|4SAJTHT6DKQ72CAK84,SKQ8HQJ932D43CJ93,S2HAK874DAT9CT762,S976543H5DJ865CQ5|sv|o|nt|rodal f: So nearly back to the push?|pg||
-mb|p|nt|andyv:  and EW did bid the slam on board 5|pg||
+mb|p|nt|andyv:	and EW did bid the slam on board 5|pg||
 nt|josj: if NS miss another game, they will lose the lead temporarily|pg||
 nt|josj: better not to open W hand|pg||
 mb|1N|nt|josj: 2@S is a good final contract though the lucky @D split might produce a second overtrick|pg||
