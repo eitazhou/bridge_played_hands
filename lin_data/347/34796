@@ -31,7 +31,7 @@ qx|o2|st||md|4S8H7532DJ5CKQT862,SKQJT52HQ964D3CJ5,SA943HATDAQ9874C9,S76HKJ8DKT62
 mb|1C|mb|p|mb|1H!|mb|2D|mb|p|mb|p|nt|ady: 1@H  transfer response|pg||
 nt|runnerup:  lucky 4 @s ew |pg||
 mb|2H|mb|p|mb|2S|mb|p|mb|3S|nt|ady: yes    very fortunate    |pg||
-mb|p|mb|4S|mb|p|mb|p|mb|p|nt|runnerup:  young ,,very optimistic raise|pg||
+mb|p|mb|4S|mb|p|mb|p|mb|p|nt|runnerup:	young ,,very optimistic raise|pg||
 nt|ady: and Norgeunder 25 have got there|pg||
 pc|dJ|pc|d3|pc|dA|pc|d2|pg||
 pc|c9|pc|cA|pc|c8|pc|c5|pg||
@@ -53,7 +53,7 @@ pc|h4|pc|hA|pc|h8|pc|h3|pg||
 mc|10|pg||
 qx|o3|st||md|1ST76HAT985DKCA976,SK2HQJ74DQ9CKQ543,SA93HK3D86432CJ82,SQJ854H62DAJT75CT|sv|e|mb|1H|mb|p|mb|1N|mb|p|mb|2C|mb|p|nt|ady: east might take action|pg||
 mb|2H|mb|2S|mb|p|mb|p|mb|p|pc|dK|pc|d9|pc|d8|pc|dA|pg||
-nt|ady: spades splitting well    may be some trump promotion to beat this|pg||
+nt|ady: spades splitting well	 may be some trump promotion to beat this|pg||
 nt|runnerup:  looks beatable but not so easy|pg||
 pc|s4|pc|s6|pc|sK|nt|pelu:  if decl play @s to king then 2 @d-ruffs|pg||
 pc|sA|pg||
@@ -77,7 +77,7 @@ pc|s8|pc|h9|pc|hQ|pc|d3|pg||
 pc|d9|pc|d4|pc|dA|pc|dK|pg||
 mc|7|pg||
 qx|o4|st||md|2SKQJHQJ97DK65CAT7,SA94H5DA87CKQJ982,ST8HAT82DQJ93C543,S76532HK643DT42C6|sv|b|nt|ady: so a plus in both rooms for kingkong|pg||
-mb|1C|mb|p|mb|1H!|mb|p|mb|1S!|mb|p|nt|ady: 1@H  transfer response|pg||
+mb|1C|mb|p|mb|1H!|mb|p|mb|1S!|mb|p|nt|ady: 1@H	transfer response|pg||
 mb|p|nt|ady: 1NT?|pg||
 mb|1N|mb|2C|mb|p|mb|2S|mb|p|mb|p|mb|p|pc|dQ|pc|d2|pc|d5|pc|d8|pg||
 nt|runnerup:  north had a good lead ..if south on lead ..this will make ..no @d lead|pg||
@@ -187,7 +187,7 @@ nt|runnerup:  this is more than -1 so losing ..and 5 @d could have been on ..|pg
 nt|vugraphzaa: Erik shakes his head on the other side of the screen.|pg||
 pc|sK|pc|s3|pc|s6|pc|sA|pg||
 pc|dK|pc|d6|pc|d2|pc|d3|pg||
-pc|d5|pc|dT|nt|ady: looks like -100    small loss   rather be in 5@D    at least that has chances|pg||
+pc|d5|pc|dT|nt|ady: looks like -100    small loss   rather be in 5@D	at least that has chances|pg||
 pc|dA|pc|h5|pg||
 pc|cA|pc|c4|pc|c2|pc|c3|pg||
 pc|c5|pc|c6|pc|cK|pc|cJ|pg||
@@ -209,7 +209,7 @@ mc|10|pg||
 qx|o9|st||md|3SAKT7HKQT42D9753C,S85HJ5DKQJT8CQ965,SQJ94H83DA42CKJ87,S632HA976D6CAT432|sv|e|mb|1C|mb|p|mb|1D!|nt|ady: 12 opposite 11    and 4-4 fit    good to reach 4 spades|pg||
 nt|runnerup:  to make 4 @s looks nice result|pg||
 mb|d|an|a|nt|pelu:  S too gready :) could have gone + by passing 1@h|pg||
-mb|1S|mb|p|nt|ady: 1@D    transfer    dbl from west shows diamonds|pg||
+mb|1S|mb|p|nt|ady: 1@D	  transfer    dbl from west shows diamonds|pg||
 mb|4C|mb|p|nt|runnerup:  if east playes twice small @h ..declarer has a job in 4 @s|pg||
 mb|4S|mb|p|mb|p|mb|p|pc|d6|nt|pelu:  @d lead to A and @h in trick 2 from N to Q, now @d and easy make|pg||
 pc|d3|pc|dQ|pc|dA|pg||
@@ -224,7 +224,7 @@ nt|ady: trump|pg||
 pc|s5|pc|s4|pc|s2|pc|s7|pg||
 pc|h2|pc|s8|pc|s9|pc|h6|pg||
 pc|c7|pc|cT|pc|sT|pc|c5|pg||
-pc|h4|pc|d8|pc|sJ|nt|runnerup:  well nice defence and as assumed -1|pg||
+pc|h4|pc|d8|pc|sJ|nt|runnerup:	well nice defence and as assumed -1|pg||
 pc|hA|pg||
 pc|c8|pc|cA|pc|sK|pc|c6|pg||
 mc|9|nt|ady: well earned 10 imps by young players|pg||
@@ -249,8 +249,8 @@ nt|ady: diamond guess for 11 tricks|pg||
 pc|sA|pc|d4|pc|h3|pc|sJ|pg||
 nt|runnerup:  no @d guess anymore|pg||
 nt|Walddk2: No, just give 2 clubs.|pg||
-pc|cJ|nt|pelu:  just 11 toptricks :)|pg||
-mc|11|nt|ady: sorry in fact  can force a club trick  for 11th   and has discarded diamonds|pg||
+pc|cJ|nt|pelu:	just 11 toptricks :)|pg||
+mc|11|nt|ady: sorry in fact  can force a club trick  for 11th	and has discarded diamonds|pg||
 pg||
 qx|c10|st||md|4SK4HAK93DKJ5CA862,SJT7HT87642DA98CQ,SAQ98653HD32CJ974,S2HQJ5DQT764CKT53|sv|b|mb|p|mb|1C|mb|p|mb|1H!|an|4+!s|mb|p|mb|2N|mb|p|mb|3H!|an|transfer to !s|mb|p|mb|3N!|mb|p|mb|4S|mb|p|mb|p|mb|p|pc|hQ|pc|hA|pc|h8|pc|d3|pg||
 pc|hK|pc|h2|pc|d2|pc|h5|pg||
@@ -294,7 +294,7 @@ pc|c7|pc|cQ|pc|d8|pc|dQ|pg||
 pg||
 qx|o12|st||md|2SJT75HQ65DQ543CQ4,SKQ96432HK9D62CAJ,SHAT874DKT98CK763,SA8HJ32DAJ7CT9852|sv|n|mb|1S|mb|d|mb|r|mb|2D|mb|4S|mb|p|mb|p|mb|p|pc|dT|nt|pelu:  down 2?|pg||
 pc|dJ|pc|dQ|pc|d2|pg||
-pc|d3|pc|d6|nt|ady: have to leave now       thx all|pg||
+pc|d3|pc|d6|nt|ady: have to leave now	    thx all|pg||
 pc|d8|pc|dA|pg||
 nt|pelu:  I wonder why W jump all the way to 4@s - his @hK has lost value|pg||
 pc|sA|pc|s5|pc|s2|pc|h4|pg||
@@ -329,7 +329,7 @@ mb|d|mb|p|mb|p|mb|r!|nt|runnerup:  2 @c much better ..and now east wil bid|pg||
 nt|pelu:  but N is not limited,so SA has to bid|pg||
 nt|ady: e/w may finish in clubs|pg||
 mb|p|mb|2C|nt|runnerup:  north has passed|pg||
-mb|d|mb|p|nt|runnerup:  opening pass|pg||
+mb|d|mb|p|nt|runnerup:	opening pass|pg||
 mb|p|mb|p|nt|pelu:  u are right|pg||
 pc|c2|pc|c3|pc|cQ|pc|cA|pg||
 nt|ady: good lead|pg||
@@ -360,7 +360,7 @@ qx|o14|st||md|4S8742HQ9DKQ4CJ532,SA53HT8D9652CK987,SQJT6HK32DJ87CA64,SK9HAJ7654D
 mb|1N|mb|p|mb|p|nt|vugraphzaa: Webcast: http://ustre.am/1g5n0 |pg||
 nt|pelu:  only 1Â½ board - not way ahead :)|pg||
 mb|p|nt|ady: not wild about 1nt  with 6 card major|pg||
-pc|s4|nt|pelu:  many open 1NT on 5 card major, but on 6 card??|pg||
+pc|s4|nt|pelu:	many open 1NT on 5 card major, but on 6 card??|pg||
 pc|s3|pc|sT|pc|sK|pg||
 pc|h7|pc|hQ|pc|h8|pc|h3|pg||
 pc|s2|nt|ady: needs to play a low heart|pg||
