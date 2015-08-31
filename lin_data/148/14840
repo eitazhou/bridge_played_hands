@@ -62,7 +62,7 @@ nt|dburn: C C Wei wouldn't have had a problem with this|pg||
 pc|sQ|pc|s4|pc|s2|pc|sJ|pg||
 pc|s9|nt|dburn: 1@c-1@s-2@s = how good are your spades? 3@d = five to two top honours|pg||
 pc|s5|pc|s3|pc|h9|pg||
-pc|cA|pc|cJ|pc|c8|nt|thurston:  testing|pg||
+pc|cA|pc|cJ|pc|c8|nt|thurston:	testing|pg||
 pc|c7|pg||
 pc|s6|pc|s7|pc|s8|nt|dburn: 4@d - do you have a diamond control? - 4@h - no|pg||
 mc|12|nt|dburn: 5@c - do you have a club control? - 5@d - no|pg||
@@ -141,7 +141,7 @@ nt|fann4: meant|pg||
 nt|fann4: Well, not surprisingly, South passed at the other table.|pg||
 nt|ahollan1: probably an invalid argument -- don't give opp extra info via try that is likely going to be rejected|pg||
 nt|fabsayc: west could have been longer in spades, still cant do anything over 4s|pg||
-nt|ahollan1: 1@D=(10)11-15 HCP, 2+@D    1N=approx 7-11  that should end the conversation for board 35|pg||
+nt|ahollan1: 1@D=(10)11-15 HCP, 2+@D	1N=approx 7-11	that should end the conversation for board 35|pg||
 nt|harmon: I think that over 4c w would bid 4h|pg||
 mb|1D|mb|p|nt|ahollan1: 1@D=(10)11-15 HCP, 2+@D    and this is as bad as it gets|pg||
 mb|1N|nt|ahollan1: 1@S=5+@S   [DBL=exactly 4@S]|pg||
@@ -241,7 +241,7 @@ nt|fann4: that 9 of @H in dummy says ' don't play @H'|pg||
 nt|ahollan1: the good news is -- simson isn't tempted to lead back partner's suit|pg||
 pc|cT|pc|c2|pc|c3|pc|c9|pg||
 pc|c4|pc|c6|nt|ritong: since there is no wrong option in @ds|pg||
-pc|cQ|nt|ahollan1: Meyers  2@H N after  1@D-1@H//2@H-end|pg||
+pc|cQ|nt|ahollan1: Meyers  2@H N after	1@D-1@H//2@H-end|pg||
 pc|d5|pg||
 pc|h3|pc|hQ|pc|d3|pc|hJ|pg||
 pc|d6|nt|jdonn: hello all|pg||
@@ -289,7 +289,7 @@ nt|ritong: was on|pg||
 nt|ritong: push|pg||
 mb|p|nt|vugraphzfe: West asked to put his name as Walt |pg||
 mb|2N|mb|p|nt|ahollan1: there ya go -- and i was about to say we'll call North "bigtrain"|pg||
-nt|ahollan1: for those who don't know   that is Walter Johnson's BBO logon name|pg||
+nt|ahollan1: for those who don't know	that is Walter Johnson's BBO logon name|pg||
 nt|ahollan1: Schafer looking for slam or trying to bring 3N into the picture -- otherwise why not just 4@S|pg||
 mb|3S|nt|jdonn: i dont think they will bid it anyway, justin's spade length is bad with the spades bid over him.|pg||
 nt|fann4: Well that was easy|pg||
@@ -304,7 +304,7 @@ pc|s4|pc|dQ|pg||
 pc|c3|pc|c2|pc|cK|pc|cA|pg||
 nt|ahollan1: a bit distracted thinking about Schafer's plan/hopes   forgot to ask  what hand does Dunitz need to bid 3@H rather than 3@S -- and 1) would 3@C show good suit?  2) do any bids show ...|pg||
 nt|ahollan1: 4@S rather than 3@S ....|pg||
-pc|dT|pc|h4|nt|ahollan1: actually - avoidance play is nonsense -- but scores @D trick    sorry about that|pg||
+pc|dT|pc|h4|nt|ahollan1: actually - avoidance play is nonsense -- but scores @D trick	 sorry about that|pg||
 pc|s8|nt|ahollan1: my asking those questions is one reason i can't keep a partner|pg||
 pc|d2|pg||
 pc|sQ|pc|s3|nt|fabsayc: not necissarily|pg||
@@ -346,10 +346,10 @@ mb|p|mb|1S|nt|fann4: EW will interfere in @S though|pg||
 nt|ahollan1: does west overcall 1@S?|pg||
 nt|fabsayc: i dont like your chances in slam|pg||
 nt|fann4: Dbl probably shows the majors|pg||
-nt|ahollan1: we saw last round  DBL has multiple meanings|pg||
+nt|ahollan1: we saw last round	DBL has multiple meanings|pg||
 nt|fann4: oh?|pg||
 mb|2C|nt|jdonn: here is a slam for the clerkins|pg||
-nt|ahollan1: that time Dunitz also held 5@H & 4@D  and  jumped in @D|pg||
+nt|ahollan1: that time Dunitz also held 5@H & 4@D  and	jumped in @D|pg||
 mb|d|nt|fann4: This is a pretty decent slam. Needs @C 2-2 or the !K onside.|pg||
 nt|ahollan1: 2@D=game force 5+@D|pg||
 nt|fann4: And depending on the lead, in @C you may be able to safety play @CA first too.|pg||
@@ -380,7 +380,7 @@ mb|p|nt|jdonn: they didn't even sniff this one, i don't know their system though
 nt|ritong: it means that he does not want to throw off a trick for no reason|pg||
 nt|fabsayc: 1H forcing no doubt|pg||
 nt|ahollan1: gonna take you higher|pg||
-pc|cK|nt|ahollan1: sure looks like it  and their response structure is  0314|pg||
+pc|cK|nt|ahollan1: sure looks like it  and their response structure is	0314|pg||
 pc|c4|nt|jdonn: 6nt happens to make but 6@d is much better|pg||
 pc|c3|pc|h6|pg||
 nt|fabsayc: but an automatic 1@S if that is what it was does not get you anywhere|pg||
@@ -514,7 +514,7 @@ mc|13|pg||
 qx|o41|st||md|3SQT98HJ87DK96CAJ7,SAJ64H6DQJ743CKQT,SKHAKQ32DA2C98532,S7532HT954DT85C64|sv|e|nt|caitlin: !!|pg||
 nt|me argent: do your work or SIMPLIFY|pg||
 nt|dburn: the wind you can hear in Baltimore is Ed Davis sighing with relief in New Orleans|pg||
-mb|1H|mb|p|mb|1N|mb|d|mb|2C|mb|p|nt|ritong: got booted  so what happened?|pg||
+mb|1H|mb|p|mb|1N|mb|d|mb|2C|mb|p|nt|ritong: got booted	so what happened?|pg||
 nt|ritong: he played the @h7 to be honest?|pg||
 nt|caitlin: worth 3@H?|pg||
 nt|dburn: oh, not much - declarer made a cold grand slam|pg||
@@ -599,7 +599,7 @@ mb|1D|mb|1N|mb|p|nt|vugraphzfe: lost connection...will try to catch up|pg||
 nt|ahollan1: 2@D=(10)11-15 HCP, 4415 shape minus one card somewhere|pg||
 mb|2C|mb|p|nt|ritong: o_0?|pg||
 nt|ritong: transfer, surely|pg||
-nt|ahollan1: 2N asks     3@C=any minimum|pg||
+nt|ahollan1: 2N asks	 3@C=any minimum|pg||
 mb|2D|mb|p|mb|3S|mb|p|nt|jdonn: support double by west, it may have been more prudent to pass on his offensive powerhouse but if his partner had 5 hearts it could work|pg||
 mb|3N|nt|ahollan1: 3@D asks    3N=4441@D|pg||
 nt|ahollan1: 4@S=game try|pg||
@@ -620,7 +620,7 @@ qx|o43|st||md|1S7HKT53DQT5CJ7642,SJT965HA9DAJ32C83,S432HQJ2DK76CQT95,SAKQ8H8764D
 mb|p|nt|ritong: i might have a call to this hintaakka, although i suppose he s not with us anymore|pg||
 mb|2N!|mb|p|nt|caitlin: isn't Henri always 100% right?!|pg||
 mb|4S|an|minimum|mb|p|nt|ritong: ...|pg||
-mb|p|mb|p|nt|thurston:  seppuku|pg||
+mb|p|mb|p|nt|thurston:	seppuku|pg||
 pc|s2|pc|sA|pc|s7|pc|s5|pg||
 pc|sK|nt|caitlin: everyone leading trump?|pg||
 nt|dburn: apologies - his name is actually Hintikka, and he is still with us|pg||
@@ -632,12 +632,12 @@ pc|c3|pc|c5|pc|cK|pc|c6|pg||
 pc|cA|pc|c7|pc|c8|pc|c9|pg||
 pc|d4|pc|d5|pc|dJ|pc|dK|pg||
 nt|caitlin: makes no diff here|pg||
-nt|ritong: nevertheless, when your pard makes an apparently inconsistent bid, , most of the time the occam theory applies, he has lost control  but now and then he has a plan|pg||
+nt|ritong: nevertheless, when your pard makes an apparently inconsistent bid, , most of the time the occam theory applies, he has lost control	but now and then he has a plan|pg||
 mc|10|pg||
 qx|c43|st||md|1S7HKT53DQT5CJ7642,SJT965HA9DAJ32C83,S432HQJ2DK76CQT95,SAKQ8H8764D984CAK|sv|o|nt|jdonn: 4@s opening bid?|pg||
 nt|ritong: maybe the other room will tell us how it goes in 1 NT|pg||
 nt|ahollan1: curiously - if @H weaker [so no chance of pinning @H10]  might have found a winning line|pg||
-nt|ahollan1: i'm pretty sure he shows specifically 4@S 6@H  --  55+ hands would start with transfer|pg||
+nt|ahollan1: i'm pretty sure he shows specifically 4@S 6@H  --	55+ hands would start with transfer|pg||
 nt|po-s: 4C might be 4-6|pg||
 mb|p|mb|1S|mb|p|nt|ritong: west will have a difficult decision|pg||
 mb|3D|nt|jdonn: east has a big hand but double is takeout and 4nt shows 2 suits, so it's very awkward|pg||
@@ -651,7 +651,7 @@ mb|p|mb|3S|nt|ahollan1: setting a game force|pg||
 nt|vugraphzfe: system is slow...I get behind|pg||
 nt|vugraphzfe: Simson thinking|pg||
 mb|p|mb|4D|mb|p|nt|jdonn: it looks a bit silly for east to pass but i think he was in a very tough position, he didn't know his partner could pass if he doubled|pg||
-nt|ahollan1: i'm told that 4@C/4@D would both show 4-6   bidding the short minor|pg||
+nt|ahollan1: i'm told that 4@C/4@D would both show 4-6	 bidding the short minor|pg||
 nt|ahollan1: so bigtrain just decided he'd find partner with a 4-card major or play 4@H|pg||
 nt|ahollan1: has anyone seen 3@D used this way?  [i know a number of pairs using 1M-3@C as the artificial game forcing raise]|pg||
 nt|po-s: inflated Bergen?|pg||
@@ -693,7 +693,7 @@ pc|s2|pc|sJ|pc|sK|pc|s8|pg||
 pc|s9|pc|h4|pc|s5|pc|sT|pg||
 pc|dT|pc|d9|pc|d7|pc|d4|pg||
 nt|ritong: i tried my best to make you not feel alone with poor spelling, david, you noticed that|pg||
-pc|d2|pc|d6|pc|dA|nt|thurston:  a nother slight mishap|pg||
+pc|d2|pc|d6|pc|dA|nt|thurston:	a nother slight mishap|pg||
 pc|d5|pg||
 pc|dK|pc|d3|pc|c5|pc|h6|pg||
 pc|dQ|pc|d8|pc|c2|pc|c9|pg||
@@ -734,11 +734,11 @@ nt|ahollan1: now i guess a trump|pg||
 nt|ahollan1: but maybe @S -- i think both get 6 tricks for defense|pg||
 pc|hT|pc|h8|pc|s2|pc|h3|pg||
 pc|s4|pc|s3|pc|sA|pc|s7|pg||
-pc|s6|nt|ahollan1: @S2 is udca   [i like @S]|pg||
+pc|s6|nt|ahollan1: @S2 is udca	 [i like @S]|pg||
 pc|sT|pc|sQ|pc|s8|pg||
 pc|sK|pc|d7|pc|s5|pc|sJ|pg||
 pc|c3|pc|cA|pc|c2|pc|c8|pg||
-nt|ahollan1: and now we see why @H10 doesn't work  ---  pull trump and @H9 is good|pg||
+nt|ahollan1: and now we see why @H10 doesn't work  ---	pull trump and @H9 is good|pg||
 pc|cT|pc|cK|pc|c9|pc|c4|pg||
 mc|8|pg||
 qx|o45|st||md|3ST643HK2DAT9C9872,SKJ92HQ75DK42CQJ5,SQ85H643DQJ865CAT,SA7HAJT98D73CK643|sv|b|nt|caitlin: getting tired?|pg||
@@ -765,10 +765,10 @@ nt|ahollan1: after  43, clearly west not strong enough to game force --  so  1@S
 nt|gowdy: 1@S to start|pg||
 nt|po-s: a spade lead let 4H make - a club wouldn´t|pg||
 mb|p|mb|1N|nt|ahollan1: 1@D=0-7    1N=17-18|pg||
-mb|p|mb|2C|nt|ahollan1: i'm told Mitch opening bids more reliable than Walt's -- so maybe ....   nope still no game force|pg||
+mb|p|mb|2C|nt|ahollan1: i'm told Mitch opening bids more reliable than Walt's -- so maybe ....	 nope still no game force|pg||
 mb|p|mb|2N|mb|p|nt|ahollan1: 2@D transfer|pg||
 nt|vugraphzfe: south wanted a break|pg||
-nt|gowdy: wow   hate 1nt    what if P is 4531 min ?|pg||
+nt|gowdy: wow	hate 1nt    what if P is 4531 min ?|pg||
 nt|po-s: Westprobably bid 2NT|pg||
 nt|gowdy: well then I give it up|pg||
 mb|p|nt|nickf: you back?|pg||
@@ -889,7 +889,7 @@ pc|c4|pc|c2|nt|thurston:  great set for simson squad|pg||
 pc|cQ|pc|c5|pg||
 pc|cA|pc|c7|pc|cT|pc|c6|pg||
 pc|cK|pc|c9|pc|s4|pc|c8|pg||
-pc|h9|pc|d5|nt|mouser:  Thx Jan, and commentators. Congrats to Simson squad|pg||
+pc|h9|pc|d5|nt|mouser:	Thx Jan, and commentators. Congrats to Simson squad|pg||
 nt|ritong: guess this is 3rd out of 4|pg||
 mc|11|nt|caitlin: Simson picked up 12 on bd 45|pg||
 nt|caitlin: one more segment|pg||
