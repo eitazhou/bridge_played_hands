@@ -4,7 +4,7 @@ pn|Upmark,Welland,Nyström,Auken,D Bilde,Fredin,M Bilde,Fallenius|pg||
 qx|o49|st||md|3SK752H752DJ5CKT43,SA8643HAQ983D82C8,ST9HKJ64DT76CJ952,SQJHTDAKQ943CAQ76|sv|o|mb|p|mb|1D|mb|p|mb|1N!|mb|p|mb|2D|mb|p|mb|2H|mb|p|mb|3H!|mb|p|mb|3S!|mb|p|mb|4D!|mb|p|nt|kareno: Hello again :)|pg||
 mb|4H!|mb|p|mb|4N!|nt|kareno: I wish I could explain the auction - where is Roland when we need him?  Or Al.|pg||
 mb|p|nt|kareno: 1@d is some unbalanced hand.|pg||
-nt|ahollan1: 1@D = unbal   1N=FG relay  2@D=4+@C|pg||
+nt|ahollan1: 1@D = unbal   1N=FG relay	2@D=4+@C|pg||
 nt|fabsayc: obvious :)|pg||
 mb|5C!|mb|p|nt|kareno: I called up the right man for the job :)|pg||
 mb|5D!|mb|p|nt|ahollan1: i think 3@H=2164    3@S=Optional RKC @D   4@D=non min 0/3 KC|pg||
@@ -72,7 +72,7 @@ mb|p|mb|p|mb|1N|mb|2H|mb|d|mb|p|nt|kareno: Negative double I assume|pg||
 nt|bjacobs:  4@S can be beaten though|pg||
 nt|Vugraphzfv: Director is called.|pg||
 nt|fabsayc: super accept here|pg||
-mb|2S|mb|p|mb|p|mb|3H|mb|p|mb|p|mb|p|pc|h6|nt|bjacobs:  Not entirely sure that 3@H is the way to protect a 50 imp lead ... but in fact it might be the way to increase it|pg||
+mb|2S|mb|p|mb|p|mb|3H|mb|p|mb|p|mb|p|pc|h6|nt|bjacobs:	Not entirely sure that 3@H is the way to protect a 50 imp lead ... but in fact it might be the way to increase it|pg||
 pc|h4|pc|hK|pc|h2|pg||
 nt|kareno: Well,she knew she was vulnerable when she bid 21h|pg||
 pc|d8|pc|dA|pc|d2|pc|d6|pg||
@@ -83,7 +83,7 @@ pc|dJ|pc|d7|pg||
 pc|hQ|pc|hT|pc|h9|nt|bjacobs:  Meanwhile, perhaps Nystrom might have considered a 3@S bid|pg||
 nt|Vugraphzfv: Auken faces cards....|pg||
 mc|9|nt|kareno: North was pusillanimous this hand|pg||
-nt|bjacobs:  I never make that comment myself.  The hardest to spell word in the English language|pg||
+nt|bjacobs:  I never make that comment myself.	The hardest to spell word in the English language|pg||
 nt|kareno: :)  You can just ask me when you need to say it|pg||
 pg||
 qx|c51|st||md|1SJT98HT76DJ2CKQ83,SA76HJ94DT76CT954,SKQ53HAKD983CAJ72,S42HQ8532DAKQ54C6|sv|e|mb|p|mb|p|mb|1N|mb|p|mb|p|mb|p|pc|dK|pc|d2|pc|d7|pc|d3|pg||
@@ -136,7 +136,7 @@ pc|d4|pc|d7|pc|d8|pc|c3|pg||
 pc|dA|pc|s4|pc|c5|pc|dQ|pg||
 pc|s7|pc|sJ|pc|s6|pc|sK|pg||
 mc|6|pg||
-qx|o54|st||md|4SKQT742HQ73DK64C3,SJ53HK42DJ98CJ652,S8HAT8DQT3CAKT974,SA96HJ965DA752CQ8|sv|e|mb|1C|mb|1S|mb|p|mb|2C|an|!|mb|p|mb|2D|mb|p|mb|2N|mb|p|mb|3S|mb|p|mb|3N|mb|p|mb|p|mb|p|nt|bjacobs:  What do you think 2@C should mean, when 1@C can be bid on a doubleton.  Still a cue bid?|pg||
+qx|o54|st||md|4SKQT742HQ73DK64C3,SJ53HK42DJ98CJ652,S8HAT8DQT3CAKT974,SA96HJ965DA752CQ8|sv|e|mb|1C|mb|1S|mb|p|mb|2C|an|!|mb|p|mb|2D|mb|p|mb|2N|mb|p|mb|3S|mb|p|mb|3N|mb|p|mb|p|mb|p|nt|bjacobs:	What do you think 2@C should mean, when 1@C can be bid on a doubleton.	Still a cue bid?|pg||
 nt|fabsayc: hard to say but looks to me like 4@S has more chances|pg||
 pc|h6|nt|kareno: I think you still need to use it for a cuebid|pg||
 nt|fabsayc: by default a cue bid since you need one|pg||
@@ -214,7 +214,7 @@ pc|sT|pc|s6|pc|sJ|pc|d5|pg||
 pc|d8|pc|dA|pc|d6|pc|d4|pg||
 pc|hT|mc|8|pg||
 qx|o56|st||md|2S83HAQTDKT53CT962,SKQJ5HJ64DJ6CAK87,ST9764HK752DQ7CQ3,SA2H983DA9842CJ54|sv|o|mb|1N|mb|p|mb|2S!|mb|p|mb|2N|an|!|nt|bjacobs:  This smells like a range ask|pg||
-mb|p|mb|p|mb|p|pc|s6|pc|s2|nt|bjacobs:  And a good stop.  I think perhaps win this in hand and play a low club|pg||
+mb|p|mb|p|mb|p|pc|s6|pc|s2|nt|bjacobs:	And a good stop.  I think perhaps win this in hand and play a low club|pg||
 pc|s3|pc|sQ|pg||
 nt|kareno: Just eight with the club coming|pg||
 pc|c7|pc|cQ|pc|c4|pc|c2|pg||
@@ -248,8 +248,8 @@ qx|o57|st||md|3SAQ8HQ2DJ6CQJ7542,S6532HAKJ64DKTCT3,SK4HT853DAQ7543CA,SJT97H97D98
 mb|1D|mb|p|nt|kareno: Maybe that's what he does call himself.|pg||
 nt|bjacobs:  Apparently, "geek" is a more positive word than "nerd"|pg||
 nt|kareno: Yeah, it's your words, not mine|pg||
-mb|2C|mb|p|nt|bjacobs:  Anyway, he is a great gift to BBO, whoever you word it|pg||
-mb|2D|mb|p|nt|bjacobs:  however|pg||
+mb|2C|mb|p|nt|bjacobs:	Anyway, he is a great gift to BBO, whoever you word it|pg||
+mb|2D|mb|p|nt|bjacobs:	however|pg||
 mb|2N|an|!|mb|p|nt|kareno: Absolutely all of that and more|pg||
 mb|3D|mb|p|nt|kareno: But now <sniffle> he'll have to learn Meckwell too <sniffle>|pg||
 nt|bjacobs:  Yes, that's sad ...|pg||
@@ -297,7 +297,7 @@ pc|dQ|pc|d8|pc|d6|pc|dT|pg||
 mc|8|pg||
 qx|o58|st||md|4SQT72HQ8DAQ7CKQJ9,SA4HJT2D852CA7642,S863H97654DKJ9CT8,SKJ95HAK3DT643C53|sv|b|mb|1C!|mb|1N|mb|p|mb|2D|mb|p|mb|2H|mb|p|mb|p|mb|p|pc|h2|nt|fabsayc: usually right to takeout 1nt with a five card major, but i think north hand an exception|pg||
 pc|h4|pc|hK|pc|h8|pg||
-nt|kareno: I'm pretty dogmatic about doing it.  That hand's not worth much in nt|pg||
+nt|kareno: I'm pretty dogmatic about doing it.	That hand's not worth much in nt|pg||
 pc|s5|pc|sT|pc|sA|pc|s3|pg||
 pc|s4|pc|s6|pc|sK|nt|ahollan1: final score  vanProoijen  179   Fleisher 85|pg||
 pc|s2|pg||
@@ -362,7 +362,7 @@ mc|6|pg||
 qx|o60|st||md|2SAQ9H65DA642CA853,SKJ853HAT74DKT5C4,ST76HK8DQ873CQJ96,S42HQJ932DJ9CKT72|sv|n|mb|1S!|mb|p|nt|ahollan1: 1@S 90% unbal  6+@S or some singleton/void|pg||
 mb|2C!|nt|ahollan1: 2@C = "like forcing NT"  a) 0-1fit, 0-13 HCP  b) 2-fit, 0-9 CP|pg||
 nt|ahollan1: they play 1@S-1N as game force relay|pg||
-mb|p|mb|2D!|mb|p|nt|ahollan1: 2@D = waiting     waiting to tell me why he didn't rebid natural 2@H|pg||
+mb|p|mb|2D!|mb|p|nt|ahollan1: 2@D = waiting	waiting to tell me why he didn't rebid natural 2@H|pg||
 mb|2H|mb|p|mb|p|mb|p|pc|h6|nt|kareno: Nice!|pg||
 pc|h4|pc|hK|pc|h2|pg||
 nt|ahollan1: hmmm one note i've written has explaination for 2@D as 3+@H   other as "waiting"|pg||
@@ -397,7 +397,7 @@ pc|hQ|pc|h5|pc|h7|pc|hK|pg||
 pc|c9|mc|9|pg||
 qx|o61|st||md|3SQ762HQ52DJ53CKQT,SA3HA876DA762CJ43,SJ9854HKJ43DQC852,SKTHT9DKT984CA976|sv|b|nt|kareno: Geek of the week, Al :)|pg||
 nt|ahollan1: just a week :(|pg||
-mb|p|nt|andyv:  not so loud, Karen...you will wake him up!|pg||
+mb|p|nt|andyv:	not so loud, Karen...you will wake him up!|pg||
 nt|kareno: That's all I could think of that rhymed.  |pg||
 mb|p|mb|p|mb|1C|mb|p|nt|ahollan1: 1@C=2+  could be BAL with ANY 5-card suit [including (542)2]|pg||
 mb|2C!|mb|p|nt|ahollan1: 2@C = (5+/4+) @C & @D, INV |pg||
@@ -440,7 +440,7 @@ pc|d4|nt|agumperz:  in danish methods, with 4-4-2-3 shape, the opening is 1@H|pg
 pc|d5|nt|ritong: as we could see on board 59|pg||
 nt|agumperz:  so he has both restricted choice and the auction|pg||
 nt|ritong: andy, please!|pg||
-nt|ritong: "restricted choice"  bleah|pg||
+nt|ritong: "restricted choice"	bleah|pg||
 nt|agumperz:  henri likes a lock|pg||
 pc|d7|pc|h3|pg||
 mc|10|nt|ritong: i wonder who invented that concept  reese, maybe|pg||
@@ -478,7 +478,7 @@ nt|fabsayc: you mean first step is no interest, higher = key cards?|pg||
 nt|ahollan1: Optional RKC  uses step 1 = minimum   step 2+ = non-min RKC steps |pg||
 nt|ahollan1: was just typing that :)|pg||
 mb|7S|mb|p|mb|p|mb|p|nt|fabsayc: well done, the shape info was key|pg||
-pc|cQ|nt|ahollan1: all 4 pairs  handled this board easily|pg||
+pc|cQ|nt|ahollan1: all 4 pairs	handled this board easily|pg||
 pc|c4|pc|c5|pc|cA|pg||
 pc|c2|pc|c9|pc|sJ|pc|c7|pg||
 pc|s5|pc|s3|pc|s7|pc|s4|pg||
@@ -501,7 +501,7 @@ mc|13|nt|Vugraphzfb: I think he's claiming on ruffing the clubs and pitching one
 pg||
 qx|o64|st||md|2S7HA9763D43CKJ653,SKJ9643H4DQT2CA98,SAQ852HQJT2DA76C7,STHK85DKJ985CQT42|sv|e|mb|1S|mb|p|mb|2C!|nt|fabsayc: i think 3@D confirmed the club singleton al|pg||
 mb|p|mb|2S!|nt|ahollan1: 2@C = like forcing NT|pg||
-mb|p|mb|p|mb|d|mb|p|mb|p|mb|p|pc|c7|nt|ahollan1: right   van Prooijen original 6 seed   Auken 20     |pg||
+mb|p|mb|p|mb|d|mb|p|mb|p|mb|p|pc|c7|nt|ahollan1: right	 van Prooijen original 6 seed	Auken 20     |pg||
 pc|c2|pc|cJ|pc|cA|pg||
 nt|fabsayc: thanks to all the commentators,spectators and of course to our operator wayne :)|pg||
 pc|s3|nt|ahollan1: there were former world champs at least as far down as 28  and i think some in the 30s|pg||
@@ -521,10 +521,10 @@ nt|fabsayc: and before that helen sobel 1945|pg||
 nt|ahollan1: i know one Daily Bulletin has history of Vandy winners|pg||
 pc|dA|pc|d8|pc|d4|pc|d2|pg||
 nt|fabsayc:  4|pg||
-nt|ahollan1: really  not Rose Meltzer?   maybe that was the Spinderbilt instead of Vandergold|pg||
-nt|ahollan1: Christal-Henner-Welland    |pg||
+nt|ahollan1: really  not Rose Meltzer?	 maybe that was the Spinderbilt instead of Vandergold|pg||
+nt|ahollan1: Christal-Henner-Welland	|pg||
 nt|fabsayc: handsome cup, almost as good as the stanley cup|pg||
-pc|hT|pc|hK|nt|ahollan1: and i think   Welland-Fallenius  Zmudzinski-Balicki and   who was Christal's partner?  |pg||
+pc|hT|pc|hK|nt|ahollan1: and i think   Welland-Fallenius  Zmudzinski-Balicki and   who was Christal's partner?	|pg||
 pc|h6|pc|s4|pg||
 nt|ahollan1: S .....|pg||
 nt|Vugraphzfv: Lost it.   |pg||
@@ -538,7 +538,7 @@ nt|Vugraphzfb: It always seems as if the sound preempts are the ones that go for
 pc|d2|nt|ritong: yes|pg||
 pc|d7|pc|d9|pc|d3|pg||
 nt|ritong: on the other hand, it significantly increases the chance that the same car crashes other room|pg||
-nt|ahollan1: if not already mentioned   2@S =6+suit, 10-13 hcp|pg||
+nt|ahollan1: if not already mentioned	2@S =6+suit, 10-13 hcp|pg||
 nt|Vugraphzfb: Ah, so he wasn't actually that sound for their methods|pg||
 nt|ritong: and thus, one can win the board gathering max number of tricks|pg||
 pc|h8|pc|h9|pc|s4|pc|hT|pg||
