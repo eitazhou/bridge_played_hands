@@ -163,7 +163,7 @@ pc|sQ|pc|s7|pc|s9|pc|d6|pg||
 pc|cA|pc|c3|pc|c2|pc|c4|pg||
 pc|cJ|pc|cQ|pc|cK|pc|c6|pg||
 mc|11|pg||
-qx|c10|st||md|4SAKQJ63H852D5CAJ9,S754HK94DJT974CQ3,S982HAQ3DK3CK8752,STHJT76DAQ862CT64|sv|b|mb|p|mb|1S|mb|p|mb|2N|mb|p|mb|3C|nt|twcho:  2NT = inv+ in @s|pg||
+qx|c10|st||md|4SAKQJ63H852D5CAJ9,S754HK94DJT974CQ3,S982HAQ3DK3CK8752,STHJT76DAQ862CT64|sv|b|mb|p|mb|1S|mb|p|mb|2N|mb|p|mb|3C|nt|twcho:	2NT = inv+ in @s|pg||
 mb|p|mb|3H|mb|p|mb|3S|mb|p|mb|4S|mb|p|mb|p|mb|p|pc|dJ|nt|twcho:  though slam makeable here, it is not a good one|pg||
 pc|dK|pc|dA|pc|d5|pg||
 pc|dQ|pc|s3|pc|d4|pc|d3|pg||
@@ -263,7 +263,7 @@ pg||
 qx|c15|st||md|1SQ8HJT8DAQ42CA742,ST75HQ962D9CQT953,SKJ43H754DKT86CJ8,SA962HAK3DJ753CK6|sv|n|mb|1C|nt|twcho:  likely continuing 3rd round of @H rather than switching to @c by South|pg||
 mb|p|mb|1H|nt|twcho:  so at the end position, declarer misguess the @c and was held to 9 tricks|pg||
 mb|p|mb|1S|nt|twcho:  1@c=2+, natural or balanced|pg||
-mb|p|nt|twcho:  1@h=4+@s|pg||
+mb|p|nt|twcho:	1@h=4+@s|pg||
 mb|1N|mb|p|mb|p|mb|p|pc|hA|pc|h8|pc|h2|pc|h5|pg||
 nt|twcho:  1@s=2-3@s|pg||
 pc|hK|pc|hT|pc|h6|pc|h4|pg||
