@@ -22,7 +22,7 @@ pc|sQ|nt|yorkbeach:  if the partnership style is for North to overcall on this h
 nt|yorkbeach:  2@d might make if declarer reads it well|pg||
 pc|s2|pc|s3|pc|sA|pg||
 pc|d3|pc|dA|pc|d7|pc|d2|pg||
-pc|h7|pc|hA|pc|h3|nt|petepunt:  can make despite bad @D break2@S 2@H 1@C 3@D use @H to ruff @C|pg||
+pc|h7|pc|hA|pc|h3|nt|petepunt:	can make despite bad @D break2@S 2@H 1@C 3@D use @H to ruff @C|pg||
 pc|h6|pg||
 nt|carrott: think declarer has worked out the trump suit|pg||
 pc|c2|pc|c3|pc|cA|pc|c4|pg||
@@ -137,7 +137,7 @@ mb|p|mb|2S|mb|p|nt|yorkbeach:  strong jump shift|pg||
 mb|3D|mb|p|mb|3H|mb|p|nt|yorkbeach:  should be possible to find out that an ace is missing and stop in 6@h|pg||
 mb|4C|mb|p|mb|4D|mb|d|mb|p|nt|yorkbeach:  no danger now of the wrong lead letting through 7@h|pg||
 mb|p|mb|4H|mb|p|nt|yorkbeach:  North pass X to see whether South can XX to show 1st round control|pg||
-mb|4N|mb|p|mb|5S|nt|yorkbeach:  5@s = 2 with the @hQ|pg||
+mb|4N|mb|p|mb|5S|nt|yorkbeach:	5@s = 2 with the @hQ|pg||
 mb|p|mb|6H|mb|p|mb|p|mb|p|pc|d7|nt|yorkbeach:  cold if trumps 2-1 but declarer does not know that|pg||
 pc|d4|pc|dK|nt|carrott: she'll find out soon enough|pg||
 pc|d6|pg||
@@ -204,7 +204,7 @@ pc|sA|pc|s6|pc|s4|pc|s2|pg||
 pc|hK|pc|h6|pc|dT|pc|h8|pg||
 pc|s5|pc|sK|pc|s8|pc|s7|pg||
 pc|d3|pc|sJ|mc|11|pg||
-qx|o33|st||md|3SKJ98HQDQT3CQJT32,SA53HA93DA542CA96,SQ62HKJT754DK9C87,ST74H862DJ876CK54|sv|o|mb|2H|mb|p|mb|p|mb|2N|mb|p|mb|p|mb|p|nt|yorkbeach:  2NT is closer to making NS|pg||
+qx|o33|st||md|3SKJ98HQDQT3CQJT32,SA53HA93DA542CA96,SQ62HKJT754DK9C87,ST74H862DJ876CK54|sv|o|mb|2H|mb|p|mb|p|mb|2N|mb|p|mb|p|mb|p|nt|yorkbeach:	2NT is closer to making NS|pg||
 pc|s2|pc|s4|pc|s8|pc|sA|pg||
 pc|d4|pc|dK|pc|d6|pc|d3|pg||
 pc|sQ|pc|s7|pc|sK|pc|s3|pg||
@@ -296,7 +296,7 @@ pc|d3|pc|dJ|nt|yorkbeach:  X of a cue says do not lead my suit|pg||
 pc|d9|pc|d7|pg||
 mc|7|nt|yorkbeach:  but this is a splinter so do not think that applies|pg||
 pg||
-qx|o37|st||md|3SJ72H852DQT93CQJ5,SAT84HAKT7DAK54C2,SQ3HQ9643DJ8CAT74,SK965HJD762CK9863|sv|n|mb|p|mb|p|mb|p|mb|1D|mb|p|mb|1S|mb|p|mb|4C|mb|p|mb|4S|mb|p|mb|p|mb|p|nt|yorkbeach:  Esst minimum, only 4@s and wasted @c values so easy sign off|pg||
+qx|o37|st||md|3SJ72H852DQT93CQJ5,SAT84HAKT7DAK54C2,SQ3HQ9643DJ8CAT74,SK965HJD762CK9863|sv|n|mb|p|mb|p|mb|p|mb|1D|mb|p|mb|1S|mb|p|mb|4C|mb|p|mb|4S|mb|p|mb|p|mb|p|nt|yorkbeach:	Esst minimum, only 4@s and wasted @c values so easy sign off|pg||
 pc|cQ|pc|c2|pc|cA|pc|c3|pg||
 pc|dJ|pc|d6|pc|d3|pc|dA|pg||
 nt|yorkbeach:  may be big cross ruff coming|pg||
@@ -352,8 +352,8 @@ pc|d8|pg||
 pc|s4|pc|d2|pc|s7|pc|s2|pg||
 mc|8|nt|carrott: should be expensive|pg||
 pg||
-qx|o40|st||md|2STHTDAKT832CK9842,S932HJ963D976CQJ7,SAQ8654HAK85DQJ4C,SKJ7HQ742D5CAT653|sv|o|mb|p|nt|yorkbeach:  possible 6@d NS|pg||
-mb|1S|mb|p|mb|2D|mb|p|mb|2H|mb|p|nt|yorkbeach:  for those of you who have just joined, scores to date are as follows:|pg||
+qx|o40|st||md|2STHTDAKT832CK9842,S932HJ963D976CQJ7,SAQ8654HAK85DQJ4C,SKJ7HQ742D5CAT653|sv|o|mb|p|nt|yorkbeach:	possible 6@d NS|pg||
+mb|1S|mb|p|mb|2D|mb|p|mb|2H|mb|p|nt|yorkbeach:	for those of you who have just joined, scores to date are as follows:|pg||
 mb|2N|mb|p|nt|yorkbeach:  leaders Tedd & Salisbury 118vps|pg||
 mb|3D|mb|p|nt|yorkbeach:  kurbalija and shields 103 vps|pg||
 nt|yorkbeach:  towers & roderick 99 vps|pg||

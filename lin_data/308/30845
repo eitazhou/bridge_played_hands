@@ -103,7 +103,7 @@ pc|hA|pc|h2|pc|h5|pc|hK|pg||
 pc|h3|pc|h7|pc|h9|pc|s6|pg||
 nt|granguru:  -1|pg||
 pc|c5|pc|cA|pc|c6|pc|c3|pg||
-pc|c8|pc|cJ|pc|cK|nt|granguru:  no solution|pg||
+pc|c8|pc|cJ|pc|cK|nt|granguru:	no solution|pg||
 pc|s8|pg||
 pc|hQ|pc|h6|pc|d7|pc|h8|pg||
 pc|c7|pc|hJ|pc|cT|pc|s7|pg||
@@ -139,7 +139,7 @@ mb|3H|nt|Caracci: en la otra mesa no lo dejaron cumplir|pg||
 nt|granguru:  aqui 3@h seria competitivo y X seria invitacional a 4@H|pg||
 nt|granguru:  3@s|pg||
 mb|4H|mb|p|nt|granguru:  Maximal Double Overcall|pg||
-mb|p|mb|p|nt|granguru:  4@h es un mal remate con 2 cartas de @S|pg||
+mb|p|mb|p|nt|granguru:	4@h es un mal remate con 2 cartas de @S|pg||
 nt|granguru:  bueno con 3 o con una|pg||
 pc|s5|pc|s3|pc|sK|nt|Caracci: en el resto del torneo la mano se cumplio casi siempre|pg||
 pc|s7|pg||
@@ -178,13 +178,13 @@ pc|hK|pc|d8|pg||
 pc|hQ|pc|hA|mc|9|pg||
 qx|c21|st||md|3SAJ9HQJD9CQJT7532,SK86543HA974DK32C,SQ72HK8532DQJ5CAK,STHT6DAT8764C9864|sv|n|mb|1H|mb|p|mb|2C|mb|2S|mb|2N|mb|3D|mb|4C|mb|4D|mb|5C|mb|5D|nt|granguru:  5@c tiene una caida con salida de @d y vuelta de @S|pg||
 mb|6C|mb|p|mb|p|nt|granguru:  5@d pierde 1@S 1@h y 1 @d con salida de @H|pg||
-mb|6D|mb|d|mb|p|mb|p|mb|p|nt|granguru:  no quiero que te caigas  yo tampoco |pg||
+mb|6D|mb|d|mb|p|mb|p|mb|p|nt|granguru:	no quiero que te caigas  yo tampoco |pg||
 pc|hQ|nt|granguru:  en los remates competitivos los contratos de 5 PERTENCEN A LOS ADVERSARIOS|pg||
 pc|hA|pc|h2|nt|granguru:  aqui se infringio la LEY 4 veces|pg||
 pc|h6|pg||
 pc|s3|pc|s2|pc|sT|pc|sJ|pg||
 pc|hJ|pc|h4|pc|h3|pc|hT|pg||
-pc|d9|pc|d2|pc|dJ|nt|granguru:  perdon solo 3|pg||
+pc|d9|pc|d2|pc|dJ|nt|granguru:	perdon solo 3|pg||
 pc|dA|pg||
 pc|c4|pc|c2|pc|d3|pc|cK|pg||
 pc|s4|pc|s7|pc|d4|pc|s9|pg||
@@ -258,7 +258,7 @@ pc|d7|nt|granguru:  ahora el pronostico es -1|pg||
 nt|granguru:  para ganar se requiere jugar chica a la @SQ y golpe en blanco|pg||
 pc|dK|pc|d2|pc|d4|pg||
 nt|granguru:  mal pronostico|pg||
-pc|d8|pc|d9|pc|dJ|nt|granguru:  una linea alternativa es correr los @D|pg||
+pc|d8|pc|d9|pc|dJ|nt|granguru:	una linea alternativa es correr los @D|pg||
 pc|d3|pg||
 nt|granguru:  y botar @c|pg||
 nt|granguru:  esa gana|pg||
@@ -358,7 +358,7 @@ nt|granguru:  de facil factura|pg||
 mb|1N|nt|granguru:  sobre @D P 1@s 1ST X Ew podra llegar a jugar 2@H|pg||
 mb|p|nt|granguru:  aqui se hace un poco mas dificil|pg||
 mb|p|mb|p|pc|cA|pc|c3|pc|c2|pc|c5|pg||
-pc|hT|pc|h3|pc|h4|nt|granguru:  buen ataque a @H|pg||
+pc|hT|pc|h3|pc|h4|nt|granguru:	buen ataque a @H|pg||
 nt|granguru:  la que da mas problemas|pg||
 pc|hJ|pg||
 pc|sA|pc|s2|nt|Caracci: se ven pocas perdedoras, pero parece que le faltarán ganadoras!!!|pg||
@@ -430,7 +430,7 @@ pc|c4|pc|cQ|pc|cK|pc|cA|pg||
 pc|sQ|pc|d4|pc|d2|pc|s5|pg||
 nt|granguru:  Buena jugada de Lavin estableciendo el @s antes de que pierda la entrada|pg||
 pc|sJ|pc|d3|pc|d6|pc|s9|pg||
-pc|s6|pc|d5|pc|d8|nt|granguru:  debe botar @H|pg||
+pc|s6|pc|d5|pc|d8|nt|granguru:	debe botar @H|pg||
 pc|h6|pg||
 nt|granguru:  9 bazas seguras|pg||
 pc|h4|pc|h5|pc|h9|pc|hQ|pg||
@@ -661,7 +661,7 @@ pc|c2|pc|cA|pc|c7|pc|c3|pg||
 pc|h2|nt|granguru:  quien se fue?|pg||
 pc|h5|pc|h9|pc|hT|pg||
 pc|c6|pc|cK|pc|c4|pc|c5|pg||
-pc|h3|pc|hK|pc|h4|nt|granguru:  sorry provate|pg||
+pc|h3|pc|hK|pc|h4|nt|granguru:	sorry provate|pg||
 pc|d2|pg||
 pc|hA|pc|h7|nt|granguru:  private|pg||
 pc|d4|pc|h6|pg||
