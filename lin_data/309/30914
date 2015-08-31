@@ -116,7 +116,7 @@ pc|d6|pc|d3|pc|dJ|pc|dK|pg||
 pc|c5|pc|c3|pc|c2|pc|cJ|pg||
 pc|cT|pc|cA|pc|c4|pc|h3|pg||
 pc|c6|mc|9|pg||
-qx|o9|st||md|3SJT5HA962DKQ6CA95,SK8743H85DJ973CJ8,SA6HKQJT74D82CT32,SQ92H3DAT54CKQ764|sv|e|nt|djneill:  E-W might have made 3NT, we will never know|pg||
+qx|o9|st||md|3SJT5HA962DKQ6CA95,SK8743H85DJ973CJ8,SA6HKQJT74D82CT32,SQ92H3DAT54CKQ764|sv|e|nt|djneill:	E-W might have made 3NT, we will never know|pg||
 mb|p|mb|p|mb|1N|mb|p|mb|2D|mb|p|mb|2H|mb|p|mb|4H|mb|p|mb|p|mb|p|nt|djneill:  @c lead unlikely here|pg||
 pc|h5|pc|hK|pc|h3|pc|h6|pg||
 pc|d2|pc|d4|pc|dK|pc|d3|pg||
@@ -153,7 +153,7 @@ nt|djneill:  yes|pg||
 nt|cak1:  declarer has to ruff in hand and sqz north afterwards|pg||
 nt|djneill:  interesting, the @sJ unblock would mean South could play a @d to kill transportation|pg||
 nt|djneill:  but without the spade unblock, now the @c is b est|pg||
-pc|cT|nt|cak1:  ruff in hand throw a spade, DA, diamond ruff and HJ|pg||
+pc|cT|nt|cak1:	ruff in hand throw a spade, DA, diamond ruff and HJ|pg||
 nt|djneill:  West has a full count, and South cannot have the @dK since showed up with @cAKQ yet Passed originally|pg||
 pc|h8|pc|d2|pc|s8|pg||
 pc|dA|pc|dT|pc|d9|pc|d7|pg||
@@ -173,7 +173,7 @@ pc|sJ|pc|sA|pc|s4|pc|c3|pg||
 pc|s3|pc|s9|pc|h6|pc|s6|pg||
 pc|cT|mc|9|pg||
 qx|o11|st||md|1SQ864H52DK8543C75,S953HAQJT9DQ96C92,SKT72HK643DJT7CA6,SAJH87DA2CKQJT843|sv|o|nt|cak1:  me neither|pg||
-mb|p|mb|p|mb|1D|mb|3N|mb|p|mb|p|mb|p|pc|d4|nt|djneill:  what a 3N!|pg||
+mb|p|mb|p|mb|1D|mb|3N|mb|p|mb|p|mb|p|pc|d4|nt|djneill:	what a 3N!|pg||
 nt|djneill:  dummy is great|pg||
 pc|d6|pc|dT|pc|dA|pg||
 nt|djneill:  6@c and 3 Aces for sure, so no reason to rise with @dQ|pg||
@@ -202,10 +202,10 @@ pc|cT|pc|d5|pc|s5|pc|s2|pg||
 pc|c8|pc|h5|pc|s9|pc|s7|pg||
 pc|c4|pc|h2|mc|9|pg||
 qx|o12|st||md|2SAQJ83HK653D973C3,SK9752HAQT4DK86C4,ST4H987DQJ4CAQJ98,S6HJ2DAT52CKT7652|sv|n|nt|djneill:  inspired 3NT call|pg||
-mb|1S|mb|p|nt|djneill:  easier with 2 diamond stops or solid clubs|pg||
+mb|1S|mb|p|nt|djneill:	easier with 2 diamond stops or solid clubs|pg||
 mb|1N|nt|djneill:  but with wide open hearts, one diamond stop, and missing @cA, it was quite the gamble|pg||
 mb|p|mb|2H|mb|p|mb|p|nt|djneill:  East gets a lovely choice here|pg||
-mb|p|pc|h9|nt|djneill:  South can guarantee a heart by ducking the 1hJ, though covering would work with North's spots too|pg||
+mb|p|pc|h9|nt|djneill:	South can guarantee a heart by ducking the 1hJ, though covering would work with North's spots too|pg||
 nt|djneill:  @hJ|pg||
 pc|h2|pc|h3|pc|hT|pg||
 pc|c4|pc|cA|pc|c2|pc|c3|pg||
@@ -282,7 +282,7 @@ qx|o15|st||md|1SATHQT3D952CK9873,S975HA762DK64CA64,SJHK95DAQJT83CQT5,SKQ86432HJ8
 nt|djneill:  2@d?  is that Michaels |pg||
 mb|p|mb|p|mb|1D|nt|djneill:  well, we won't know|pg||
 mb|3S|mb|p|mb|p|mb|4D|nt|djneill:  good bidding problem for North here, takeout shape, but partner was a Passed hand|pg||
-mb|p|mb|5D|nt|djneill:  can you blame South|pg||
+mb|p|mb|5D|nt|djneill:	can you blame South|pg||
 mb|p|mb|p|mb|p|nt|djneill:  now to make it|pg||
 pc|h4|nt|djneill:  that helped|pg||
 pc|h3|nt|djneill:  if East has 7 spades and 3 hearts and 1 diamond, it's 3:2 that West has the @cJ|pg||
@@ -315,7 +315,7 @@ pc|d9|pc|dK|pc|dQ|pc|s2|pg||
 mc|8|pg||
 qx|o16|st||md|2SJ7HAJ983DK94CJ94,SA982HK5DAT7CK853,ST543HQ72DQJ63CQT,SKQ6HT64D852CA762|sv|e|nt|djneill:  also possible East tanked a tad on the @cT, not sure|pg||
 nt|djneill:  West will now reveal the 1NT range, we know it's not 13-15|pg||
-mb|1N|nt|cak1:  it's 14-16|pg||
+mb|1N|nt|cak1:	it's 14-16|pg||
 mb|p|nt|djneill:  ok thanks joe|pg||
 mb|2S|mb|p|mb|2N|mb|p|mb|p|mb|p|nt|djneill:  2@s like range-ask (2N = minimum)|pg||
 pc|s5|nt|djneill:  North combines passive with aggressive, rather than a @d - since E-W did not attempt to ask for a major fit|pg||
