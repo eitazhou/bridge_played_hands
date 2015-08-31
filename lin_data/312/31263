@@ -2,7 +2,7 @@ vg|Sélection Open- Phase à 14,RR4_14,I,1,20,MARI,0,KASLER,0|
 rs|1NE=,1NE-1,4SN-1,4HS-1,4HW+1,5DE-1,6HN=,4SS+1,4HN+1,4HS=,6SS=,6SN=,1NS+1,2CE-1,3SS+1,4SS-1,4SN=,4SS=,4SE=,3NE-2,4DW+1,3SSx-1,6NW-1,6CW=,2NN=,3NN-1,3CW=,3CW-1,5HS=,6HS-1,4SN-1,4SN=,4HW-1,3DSx-1,1NE-1,4SS=,4CS=,3NN-1,1SN-3,3DW+2|
 pn|VINCIGUERR,TOFFIER,MARI,PILON,Chottin,Hubersc...,Kasler,...hwilleR|pg||
 qx|o1|st||md|3SAT95H754DQ543CA3,SK43HJT93D862CJ92,SQJ8HQ82DKT97CK74,S762HAK6DAJCQT865|sv|o|nt|vugraphzeg: Bonjour à tous :)|pg||
-nt|vugraphzeg: Bienvenue pour suivre en direct ce 4e tour de la sélection Open  (Phase à 14) |pg||
+nt|vugraphzeg: Bienvenue pour suivre en direct ce 4e tour de la sélection Open	(Phase à 14) |pg||
 nt|vugraphzeg: A l'issue de cette phase à 14 , Les 4 premieres paires de chaque ligne se qualifieront pour l'ultime phase à 8 (du 14 au 21 avril 2014)|pg||
 nt|vugraphzeg: Les 3 premières paires formeront alors l'équipe de France|pg||
 mb|p|mb|1N|mb|p|mb|p|mb|p|pc|h7|pc|hJ|pc|h2|pc|h6|pg||
@@ -210,7 +210,7 @@ pc|s5|pc|s8|pc|sK|pc|c4|pg||
 pc|c5|pc|c6|pc|cA|pc|c8|pg||
 pc|cK|pc|cQ|pc|c7|pc|d5|pg||
 nt|hilmazen:  he's safe playing this line. the lead odd/even gives the declarer the @c count|pg||
-pc|s7|pc|sJ|pc|d2|nt|hilmazen:  still can go down though|pg||
+pc|s7|pc|sJ|pc|d2|nt|hilmazen:	still can go down though|pg||
 pc|h3|pg||
 nt|hilmazen:  good switch|pg||
 pc|d3|pc|d8|pc|dA|pc|d4|pg||
@@ -252,7 +252,7 @@ pc|c5|pc|c2|pc|cQ|pc|c6|pg||
 pc|c3|pc|c4|nt|hilmazen:  after trick number 8, north should either discard a @h to protect K@s or discard a @s|pg||
 pc|cA|pc|c9|pg||
 pc|c7|pc|d5|pc|cJ|pc|h6|pg||
-pc|c8|pc|s2|pc|cK|nt|hilmazen:  south will signal @s interest making decision easier|pg||
+pc|c8|pc|s2|pc|cK|nt|hilmazen:	south will signal @s interest making decision easier|pg||
 pc|d2|pg||
 pc|cT|pc|dT|pc|h8|pc|d7|pg||
 pc|d9|pc|dJ|pc|dK|pc|d8|pg||
@@ -303,10 +303,10 @@ mb|r|mb|1S|mb|p|mb|2C|mb|p|mb|3C|mb|p|mb|p|mb|p|pc|dQ|nt|hilmazen:  lets see if 
 nt|fabsayc: well i definitely found out the kibitzers are awake|pg||
 pc|d2|pc|d9|pc|d5|pg||
 pc|hQ|pc|hA|pc|h4|pc|hT|pg||
-pc|s5|pc|s6|pc|sK|nt|hilmazen:  1@d,1@c,3@s for down 1|pg||
+pc|s5|pc|s6|pc|sK|nt|hilmazen:	1@d,1@c,3@s for down 1|pg||
 pc|sA|pg||
 pc|h3|pc|hJ|pc|hK|pc|c6|pg||
-pc|s2|pc|sT|pc|s8|nt|hilmazen:  a breathe of oxygen for declarer|pg||
+pc|s2|pc|sT|pc|s8|nt|hilmazen:	a breathe of oxygen for declarer|pg||
 pc|s4|pg||
 pc|d6|pc|d3|pc|dK|pc|dA|pg||
 pc|s3|pc|sJ|pc|c2|pc|s7|pg||
@@ -410,7 +410,7 @@ pc|s7|nt|fabsayc: surely 4@S was beatable|pg||
 pc|h5|pc|sQ|pc|h2|pg||
 pc|hT|pc|hA|nt|hilmazen:  qd on enchere pas quand l'occasion surgit, on neon here Jamari's :)|pg||
 pc|h8|pc|h6|pg||
-pc|d3|pc|dA|pc|d5|nt|hilmazen:  4@s yep|pg||
+pc|d3|pc|dA|pc|d5|nt|hilmazen:	4@s yep|pg||
 pc|d4|pg||
 pc|hK|mc|6|pg||
 qx|c18|st||md|4SKJ76HKJ84DAJ6C62,ST93H65DQ75CQJ984,SAQ85HT9DT984CKT3,S42HAQ732DK32CA75|sv|n|mb|1H|mb|1N|mb|p|mb|2C|mb|p|mb|2S|mb|p|mb|4S|mb|p|mb|p|mb|p|pc|h6|pc|hT|pc|hA|pc|h4|pg||
@@ -456,7 +456,7 @@ pc|hA|pc|h2|pg||
 pc|h4|pc|h5|pc|s4|pc|hQ|pg||
 nt|hilmazen:  toffier had a natural 2 nt bid imposing a minor rebid from his partner|pg||
 pc|c3|pc|cK|pc|cA|pc|c6|pg||
-pc|hT|pc|h8|pc|s7|nt|hilmazen:  and with 2 @s stoppers and such hand, believe me I saw many players jump to 3 nt|pg||
+pc|hT|pc|h8|pc|s7|nt|hilmazen:	and with 2 @s stoppers and such hand, believe me I saw many players jump to 3 nt|pg||
 pc|hK|pg||
 pc|cT|pc|c4|pc|c9|pc|c7|pg||
 pc|dA|pc|dJ|pc|d5|pc|dT|pg||
