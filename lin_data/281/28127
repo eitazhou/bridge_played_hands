@@ -62,11 +62,11 @@ qx|c16|st||md|2SQ7H8DQ74C9876432,S86HKJT94DK2CAKQT,SAKTHA6532DJT63CJ,SJ95432HQ7D
 pc|d2|pc|d3|pc|dA|pc|d4|pg||
 pc|d8|pc|dQ|pc|s6|pc|d6|pg||
 pc|cA|pc|cJ|pc|c5|pc|c7|pg||
-pc|cT|nt|juror1: przepraszamy, ale mamy k³opoty z ³¹cznoci¹|pg||
-nt|ryskiel_: £¹cznoci¹ Olsztyn?|pg||
+pc|cT|nt|juror1: przepraszamy, ale mamy k³opoty z ³¹cznoci¹|pg||
+nt|ryskiel_: £¹cznoci¹ Olsztyn?|pg||
 pc|sK|pc|d9|pc|c4|pg||
 pc|hA|pc|h7|pc|h8|pc|h4|pg||
-nt|juror1: wspomniana przez Rysia £¹cznoæ Olsztyn (dzi Siwik Mr¹gowia) po raz pierwszy od bodaj¿e 10 lat nie wesz³a do fina³owej czwórki|pg||
+nt|juror1: wspomniana przez Rysia £¹cznoæ Olsztyn (dzi Siwik Mr¹gowia) po raz pierwszy od bodaj¿e 10 lat nie wesz³a do fina³owej czwórki|pg||
 pc|h2|pc|hQ|pc|s7|pc|hT|pg||
 pc|c2|pc|cQ|pc|sA|pc|s2|pg||
 mc|8|pg||
@@ -80,7 +80,7 @@ pc|dT|pc|d7|pc|d4|pc|d9|pg||
 pc|d5|pc|dJ|pc|dQ|pc|h3|pg||
 mc|8|pg||
 qx|c17|st||md|3SJT954H96DAQ43CQ6,SHKQJ432D986CT852,SKQ2H875DKT5CK973,SA8763HATDJ72CAJ4|sv|o|mb|p|mb|1S|mb|p|mb|1N|mb|p|mb|2N|mb|p|nt|ryskiel_: ostatnia szansa na wziêcie zapisu - PAS|pg||
-mb|3H|mb|p|mb|p|mb|p|nt|ryskiel_: liwak na wicie?|pg||
+mb|3H|mb|p|mb|p|mb|p|nt|ryskiel_: liwak na wicie?|pg||
 pc|c3|nt|ryskiel_: no tak... 140|pg||
 pc|cA|pc|c6|pc|c2|pg||
 pc|sA|pc|s4|pc|d6|pc|s2|pg||
@@ -110,7 +110,7 @@ mc|7|pg||
 qx|c20|st||md|2SQJ5HQJT972DA5CAT,ST963H843DJ72CQ73,S72HK65D963CKJ852,SAK84HADKQT84C964|sv|b|nt|h_karluk:  ok|pg||
 mb|p|mb|p|mb|1C!|mb|1H|mb|p|mb|2H|mb|d|mb|r|mb|2S|mb|p|mb|p|mb|3H|mb|p|mb|p|mb|p|pc|s9|pc|s2|pc|sK|pc|s5|pg||
 pc|dK|pc|dA|pc|d7|pc|d3|pg||
-pc|hJ|nt|ryskiel_: bardzo miêko zagrali Unionici w pokoju otwartym w tym rozdaniu|pg||
+pc|hJ|nt|ryskiel_: bardzo miêko zagrali Unionici w pokoju otwartym w tym rozdaniu|pg||
 pc|h3|pc|h5|pc|hA|pg||
 pc|dQ|pc|d5|pc|d2|pc|d6|pg||
 pc|d8|pc|h2|pc|dJ|pc|d9|pg||
@@ -158,7 +158,7 @@ mb|d|mb|p|mb|2S|mb|p|mb|3C|nt|cathmark: Quite! What with the technical problems 
 mb|p|nt|h_karluk:  I guess 5@c is a makeable contract there|pg||
 mb|3N|mb|p|nt|h_karluk:  unfortunately 3N goes off one after a tight defense|pg||
 nt|cathmark: Yes, but it'll be hard to stay out of 3NT, not nowing which minor East has|pg||
-mb|p|mb|p|nt|h_karluk:  agred|pg||
+mb|p|mb|p|nt|h_karluk:	agred|pg||
 nt|h_karluk:  *agreed-sry for typo|pg||
 pc|dT|pc|d8|pc|dK|pc|d2|pg||
 nt|cathmark: Oh, Kalita found the lead!|pg||
@@ -239,7 +239,7 @@ pc|h9|pc|hJ|pc|d6|pc|h4|pg||
 pc|s3|pc|sK|pc|s8|pc|s2|pg||
 pc|sA|pc|sQ|pc|s6|pc|s7|pg||
 nt|h_karluk:  probably losing trick count and 0-7 maybe 1@d?|pg||
-pc|s4|nt|cathmark: Actually, 1 diamond could have been hearts?  I don't know their system.|pg||
+pc|s4|nt|cathmark: Actually, 1 diamond could have been hearts?	I don't know their system.|pg||
 pc|cJ|pc|s9|pc|sJ|pg||
 pc|sT|pc|s5|pc|cT|pc|d2|pg||
 pc|cK|pc|c2|nt|h_karluk:  he has some defense to @d also, say @d values are in 2NT unusual|pg||
