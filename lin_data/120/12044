@@ -106,7 +106,7 @@ pc|c3|pc|c2|pc|cA|pc|c8|pg||
 pc|h6|pc|h9|pc|hK|nt|kit: this hand is far from cold|pg||
 pc|hA|pg||
 pc|c6|pc|cK|pc|cJ|pc|c4|pg||
-nt|kit: declarer easily has 5 spade tricks, 2 club tricks, 1 heart, 1 diamond.  He can get a tenth trick by leading up to queen of diamonds ....|pg||
+nt|kit: declarer easily has 5 spade tricks, 2 club tricks, 1 heart, 1 diamond.	He can get a tenth trick by leading up to queen of diamonds ....|pg||
 nt|kit: But if he tries to get it by ruffing clubs in hand, things may go badly for him|pg||
 pc|s5|pc|s4|pc|sQ|pc|h5|pg||
 nt|Vugraphu1: If he leads to the diamond before drawing trump can they get a ruff?|pg||
@@ -351,7 +351,7 @@ pc|c3|pc|cJ|pc|cA|pc|c5|pg||
 pc|hK|pc|hQ|pc|hT|pc|s5|pg||
 pc|sA|pc|s8|pc|s7|pc|s6|pg||
 pc|s3|mc|11|pg||
-qx|o57|st||md|3SAT3HQJ2DAKJT32C8,SQ92HKT5D964CQ743,SK84H964DQ75CKJ95,SJ765HA873D8CAT62|sv|e|mb|p|mb|p|nt|othered1: Oh.  OK, needing more than a mere 12 imps/board isn't good enough.|pg||
+qx|o57|st||md|3SAT3HQJ2DAKJT32C8,SQ92HKT5D964CQ743,SK84H964DQ75CKJ95,SJ765HA873D8CAT62|sv|e|mb|p|mb|p|nt|othered1: Oh.	OK, needing more than a mere 12 imps/board isn't good enough.|pg||
 mb|3N|mb|p|nt|me argent: nah|pg||
 mb|p|mb|p|nt|othered1: If that's the actual auction, south is just taking a shot.|pg||
 nt|Vugraphu1: Passell asks if 3NT shows stoppers - Hamilton says it can be a little loose in 3rd seat favorable - usually have at least 1 stopper and at reverse vul would have 2|pg||
@@ -370,7 +370,7 @@ nt|othered1: Even when the shot pays off, it loses.  One of those days.|pg||
 pc|s8|pc|sJ|pc|sA|mc|9|nt|me argent: we can only hope that the play speeds up ALOT|pg||
 nt|Vugraphu1: Passell claimed "a pair of queens - best poker hand"|pg||
 pg||
-qx|c57|st||md|3SAT3HQJ2DAKJT32C8,SQ92HKT5D964CQ743,SK84H964DQ75CKJ95,SJ765HA873D8CAT62|sv|e|nt|sybarra2: big imps little imps,  all count |pg||
+qx|c57|st||md|3SAT3HQJ2DAKJT32C8,SQ92HKT5D964CQ743,SK84H964DQ75CKJ95,SJ765HA873D8CAT62|sv|e|nt|sybarra2: big imps little imps,	all count |pg||
 mb|p|mb|p|mb|1D|mb|p|mb|1N|nt|fifee: Mark Lair and Melih Ozdil have played a really great set of matches|pg||
 mb|d|nt|fabsayc: the best i have seen all year, and that includes the worlds|pg||
 mb|r|mb|p|mb|p|nt|fifee: Passell and Hayden held up their end nicely as well :)|pg||
