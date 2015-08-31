@@ -1,7 +1,7 @@
 vg|Palace Cup,MATCH 30_30,I,16,20,PAIRS,0,TOURNAMENT,0|
 rs|4SW-1,4SW-1,3NN-4,4HEx=,4HE-1,3HE=,5CW=,4CW+1,6CN=,5CN+1|
 pn|Gawel,Zia,Jagniewski,Bilde,KALITA,DUBININ,NOWOSADZKI,GROMOV|pg||
-qx|o16|st||md|2S974HAQJDJ743CQ72,SQJT8532H5DA95CAK,SAKH64DKT2CJT9853,S6HKT98732DQ86C64|sv|e|nt|pelu:   First 5 pairs can still win: 1. J KalitaM Nowosadzki319.67 2 M KwiecieÅJ PszczoÅa318.01 3  BalickiM Klukowski314.17 4 D BildeZ Mahmood312.88 5 A GromovA Dubinin311.71|pg||
+qx|o16|st||md|2S974HAQJDJ743CQ72,SQJT8532H5DA95CAK,SAKH64DKT2CJT9853,S6HKT98732DQ86C64|sv|e|nt|pelu:   First 5 pairs can still win: 1. J KalitaM Nowosadzki319.67 2 M KwiecieÅJ PszczoÅa318.01 3  BalickiM Klukowski314.17 4 D BildeZ Mahmood312.88 5 A GromovA Dubinin311.71|pg||
 mb|1S|mb|2C|mb|d|mb|3C|mb|4S|mb|p|mb|p|mb|p|nt|pelu:  running score: http://www.pzbs.pl/wyniki/turnieje/2014/palacecup/palace16.html|pg||
 nt|Walddk2: 2@C is not an overcall of beauty.|pg||
 pc|sA|pc|s6|pc|s9|nt|Walddk2: This has no play, of course.|pg||
@@ -53,7 +53,7 @@ pc|c7|pc|c9|pc|hQ|pc|s6|pg||
 pc|sA|pc|s9|pc|d5|pc|s7|pg||
 mc|10|pg||
 qx|o18|st||md|4SAKT9H75D765CAT42,S75432HA98D98CK96,SJ8HKJ6DQJT3CQJ73,SQ6HQT432DAK42C85|sv|n|nt|Walddk2: First prize 10,000 USD, then 6, 4.5, 3, 2.5 and 2  (2-6).|pg||
-mb|p|mb|1C|mb|p|mb|1S|an|!|mb|2H|nt|pelu:  M KwiecieÅJ PszczoÅa now in lead with 7 VP|pg||
+mb|p|mb|1C|mb|p|mb|1S|an|!|mb|2H|nt|pelu:  M KwiecieÅJ PszczoÅa now in lead with 7 VP|pg||
 nt|Walddk2: 1@S denies a four-card major.|pg||
 mb|p|nt|Walddk2: Transfer responses to 1@C.|pg||
 mb|3H|mb|p|nt|pelu:  3@h down 1 - 4@h will be D!|pg||
@@ -65,7 +65,7 @@ pc|d5|pc|d8|nt|bobholl: but zia could have had much more (in @C)|pg||
 pc|dT|pc|dK|pg||
 pc|sQ|pc|sK|pc|s4|pc|sJ|pg||
 pc|cA|pc|c6|pc|c3|pc|c5|pg||
-pc|d6|nt|pelu:  bud suit bad values amd 5-4-2-2 - for me a strange 4@h - do u agree Roland?|pg||
+pc|d6|nt|pelu:	bud suit bad values amd 5-4-2-2 - for me a strange 4@h - do u agree Roland?|pg||
 pc|d9|pc|dQ|pc|dA|pg||
 nt|pelu:  and Bob|pg||
 nt|pelu:  kibs: 4@h = crazy :)|pg||
@@ -75,7 +75,7 @@ pc|s3|pc|c7|pc|h2|pc|s9|pg||
 pc|c8|pc|c2|pc|cK|pc|cJ|pg||
 pc|c9|pc|cQ|pc|h3|pc|c4|pg||
 pc|d4|pc|cT|nt|bobholl: but if zia was stronger he could have found another bid than 3@H so agree 4@H "crazy"|pg||
-pc|h9|nt|pelu:  I have some good friends as kibs - they all agree with me - tx to my famely :)|pg||
+pc|h9|nt|pelu:	I have some good friends as kibs - they all agree with me - tx to my famely :)|pg||
 pc|dJ|pg||
 pc|hA|pc|h6|pc|h4|pc|h5|pg||
 mc|9|pg||
@@ -136,7 +136,7 @@ pc|cA|pc|c3|pc|c5|pc|c6|pg||
 pc|cK|pc|d3|pc|c7|pc|c9|pg||
 pc|sA|pc|s5|pc|s4|pc|s2|pg||
 nt|bobholl: see :)|pg||
-pc|c4|nt|pelu:  he can almost claim now :)|pg||
+pc|c4|nt|pelu:	he can almost claim now :)|pg||
 pc|dJ|pc|cQ|pc|d2|pg||
 pc|cJ|pc|d9|pc|s3|pc|s7|pg||
 pc|cT|pc|dT|pc|sJ|nt|Walddk2: Here we have it, SA = Vienna Coup. @S10 is now a threat against Bilde.|pg||
