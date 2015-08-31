@@ -21,7 +21,7 @@ nt|Walddk2: and maybe hockey|pg||
 pc|h3|pc|h8|pc|h2|pc|h9|pg||
 pc|cQ|pc|h5|nt|swanson: And so we all quietly wave goodbye to dummy.|pg||
 pc|d3|pc|c4|pg||
-pc|d5|pc|dQ|nt|swanson: Declarer will evently come to a diamond trick by winning all her hearts and then exiting with a spade.  This discard should cost a trick.|pg||
+pc|d5|pc|dQ|nt|swanson: Declarer will evently come to a diamond trick by winning all her hearts and then exiting with a spade.	This discard should cost a trick.|pg||
 pc|dK|pc|c2|pg||
 pc|sJ|pc|s7|pc|s3|pc|s6|pg||
 pc|sK|pc|s9|pc|sT|pc|hT|pg||
@@ -165,7 +165,7 @@ pc|h5|nt|Walddk2: Maybe it shows 8-11 for them. Many play that, but those who do
 pc|h2|pc|hK|pc|hQ|pg||
 pc|cK|pc|cA|pc|c8|pc|c4|pg||
 nt|Walddk2: This hand is too potent for a single raise in my opinion|pg||
-nt|reisig: Next time ..she'll have Jxx  Kxxx  Kxx Jxx|pg||
+nt|reisig: Next time ..she'll have Jxx	Kxxx  Kxx Jxx|pg||
 pc|s2|pc|s5|pc|s9|pc|sA|pg||
 pc|cQ|nt|reisig: I always bid game ...when partner has to play it :)|pg||
 pc|c3|nt|swanson: A limit raise looks right down the middle to me, with 4@S a slightly pushy second choice.|pg||
@@ -230,7 +230,7 @@ mb|d|mb|3D|mb|p|nt|swanson: West would likely balance against 2@S - didn't expec
 nt|swanson: her|pg||
 nt|Walddk2: Rosenberg in the other room followed John's advice and bid an invitational 3S (board 67)|pg||
 nt|Walddk2: And was raised|pg||
-nt|reisig: 1@s  P  2@s seems a WIDE range :)|pg||
+nt|reisig: 1@s	P  2@s seems a WIDE range :)|pg||
 mb|4S|nt|swanson: Why not redouble with the North hand - sometimes the opponents have no 8-card fit.|pg||
 mb|p|mb|p|mb|p|nt|Vugraphzfk: ok experts if 3d is a help suit gt, do you accept...looking only at d in isolation?|pg||
 nt|Walddk2: It's difficult to see a pattern in their raises to the 2 level|pg||
@@ -253,7 +253,7 @@ pc|h5|pc|h4|pc|hK|pc|hA|pg||
 pc|hQ|pc|h2|pc|h7|pc|h6|pg||
 pc|cQ|pc|cA|pc|c2|pc|c3|pg||
 pc|d7|pc|h9|pc|dA|pc|d4|pg||
-pc|c6|pc|cT|pc|c8|mc|7|nt|Walddk2: 1@S  2@S  stop in the other room|pg||
+pc|c6|pc|cT|pc|c8|mc|7|nt|Walddk2: 1@S	2@S  stop in the other room|pg||
 pg||
 qx|c68|st||md|2S987HK63DA32C9763,S6HAQT8DT964CQJT4,SKQJT3H52DKJ87CA8,SA542HJ974DQ5CK52|sv|b|nt|roswolf: nicely done|pg||
 nt|roswolf: moreimps to sprung the match tightens|pg||
@@ -506,7 +506,7 @@ nt|psyck: well, other table may go off in 1N losing 2@s, 2@d, 3@c|pg||
 nt|psyck: have to stop on the buck in 2@s to win here|pg||
 pc|sA|pc|s9|pc|s2|pc|s8|pg||
 pc|dK|pc|d6|mc|7|pg||
-qx|o72|st||md|2SK95HKQJ86DJ943CA,S76HA9432DACKQJ93,SAQJ2HT75DQ7CT762,ST843HDKT8652C854|sv|o|nt|henryb:  Hello all|pg||
+qx|o72|st||md|2SK95HKQJ86DJ943CA,S76HA9432DACKQJ93,SAQJ2HT75DQ7CT762,ST843HDKT8652C854|sv|o|nt|henryb:	Hello all|pg||
 mb|1H|mb|p|nt|Walddk2: Welcome Henry|pg||
 mb|1S|nt|reisig: Henry!! :)|pg||
 mb|p|mb|2C|nt|Walddk2: Levin happy to get away from hearts|pg||
@@ -792,7 +792,7 @@ nt|psyck: Martin Johnson suggests the passive lead may heve helped declarer plac
 pc|c3|pc|cK|mc|11|pg||
 qx|o76|st||md|2S8HQT4DKQ7652C876,SQ952HJ95D83CAJ32,ST63HAK873DAJ9CT9,SAKJ74H62DT4CKQ54|sv|n|mb|p|nt|swanson: I sort of want my partners to occasionally go wrong on opening lead - I don't like to be the only stupid looking one at the table.|pg||
 mb|1H|mb|1S|mb|2H|nt|kerri: so often it is right to attack, especially if opp's side suits are breaking|pg||
-mb|2S|mb|p|mb|p|mb|3H|mb|3S|nt|henryb:  I want my partners to do well. I'd rather I look stupid than they|pg||
+mb|2S|mb|p|mb|p|mb|3H|mb|3S|nt|henryb:	I want my partners to do well. I'd rather I look stupid than they|pg||
 mb|p|mb|p|mb|p|nt|kerri: always pump up the partnership:)|pg||
 pc|dQ|nt|Vugraphzfk: rusinow leads|pg||
 nt|henryb:  Perhaps Robertson should bid 3@d rather than 3@h|pg||
@@ -859,7 +859,7 @@ nt|henryb:  He told Krauss once after a successful lead from a J "I forgive you 
 nt|bucheister: And as per Mathe, you can't lead a trump against a slam|pg||
 nt|henryb:  lead a @c to see whether they will play more @h for you?|pg||
 pc|d4|pc|d2|pc|dA|pc|d5|pg||
-pc|dK|pc|d6|nt|swanson: It's not an easy game.  We all need some guidelines so we do go crazy on each play.|pg||
+pc|dK|pc|d6|nt|swanson: It's not an easy game.	We all need some guidelines so we do go crazy on each play.|pg||
 pc|c4|pc|d3|pg||
 pc|h5|pc|hT|pc|hJ|pc|h3|pg||
 pc|hA|nt|henryb:  this one is easy|pg||
@@ -1046,7 +1046,7 @@ nt|psyck: I wonder if operator claimed wrong last deal other table|pg||
 nt|psyck: oh, they did not cash @sA|pg||
 pc|d3|pc|dA|mc|9|nt|psyck: now they gap has gotten too wide to hope to recover in 1 session|pg||
 pg||
-qx|o80|st||md|2SJ976H964D74CAJ87,SK532HKQDJ932CT42,SAQHJT7DKQ85C9653,ST84HA8532DAT6CKQ|sv|e|nt|henryb:  4@h can be beaten. I do not see how to beat 3|pg||
+qx|o80|st||md|2SJ976H964D74CAJ87,SK532HKQDJ932CT42,SAQHJT7DKQ85C9653,ST84HA8532DAT6CKQ|sv|e|nt|henryb:	4@h can be beaten. I do not see how to beat 3|pg||
 nt|henryb:  from either hand|pg||
 nt|Vugraphzfk: last one|pg||
 nt|Walddk2: Last board of the set now. Many thanks to Mary, great operating as usual!|pg||
