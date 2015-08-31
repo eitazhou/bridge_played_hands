@@ -5,4 +5,4 @@ This way, we are not duplicating effort.
 
 Mon Aug 31 14:48:13 EDT 2015
 Nicolas: 
-I'm going to be working on the last names Brogeland, Fantoni, Fisher, Helgemo, Helness, Levin, Meckstroth, Nunes, Rodwell, Schwarz, Weinstein and cleaning up those names in the LIN files.
+I'm going to be working on the last names Brogeland, Fantoni, Fisher, Helgemo, Helness, Levin, Meckstroth, Nunes, Rodwell, Schwarz, Weinstein and cleaning up those names in the LIN files. No aspersions with this list; picked some of the current best ranked pairs in the world and recently most successful.
