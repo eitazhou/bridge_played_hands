@@ -54,7 +54,7 @@ nt|dburn:  assuming Brown exits passively with a diamond|pg||
 nt|dburn:  but since Levitina can't conveniently play a spade to the ten now, she'll make it|pg||
 pc|s2|pc|s3|pc|s6|pc|sT|pg||
 pc|sK|pc|sQ|pc|s5|pc|s7|pg||
-mc|9|nt|dburn:  well, she can conveniently win a trick with the ten of spades now|pg||
+mc|9|nt|dburn:	well, she can conveniently win a trick with the ten of spades now|pg||
 pg||
 qx|o3|st||md|1SAKT4HT5D643CA653,S3HA86DAKJCKQT942,SQJ987652HQJDQ85C,SHK97432DT972CJ87|sv|e|mb|1C|mb|d|mb|4S|mb|p|mb|p|mb|p|pc|h4|pc|h5|pc|hA|pc|hJ|pg||
 pc|dK|pc|d5|pc|d2|pc|d3|pg||
@@ -88,7 +88,7 @@ qx|o5|st||md|3SAKQ9H6D643CJ9764,SHKT874DAQJ85CAT2,ST765432H3D972CKQ,SJ8HAQJ952DK
 qx|c5|st||md|3SAKQ9H6D643CJ9764,SHKT874DAQJ85CAT2,ST765432H3D972CKQ,SJ8HAQJ952DKTC853|sv|n|mb|p|mb|1H|mb|1S|mb|2N!|nt|dburn:  not often you have seven-card support for an overcall|pg||
 nt|dburn:  not sure whether it's Levitina's style to walk the dog|pg||
 mb|4S|mb|5H|nt|dburn:  not her|pg||
-mb|p|nt|dburn:  that's going to get in Stockdale's way a bit, but she can still try 5@s or 6@c|pg||
+mb|p|nt|dburn:	that's going to get in Stockdale's way a bit, but she can still try 5@s or 6@c|pg||
 nt|dburn:  or 7@h, hoping that it isn't North who has the king of diamonds|pg||
 nt|dburn:  and not caring whether it's South or East|pg||
 nt|dburn:  of course, some non-East might have the ace of hearts, but East would not bid five on a queen-high suit very often|pg||
@@ -252,7 +252,7 @@ pc|s5|pc|sT|pc|d6|pc|c3|pg||
 mc|10|pg||
 qx|c11|st||md|1S9HAQ754DA9652C54,S62HKT93DKQCQ9873,SAJ53H62DJ743CAJ6,SKQT874HJ8DT8CKT2|sv|o|nt|dburn:  what you have to do is ask yourself: "if declarer has the ace of diamonds, how will we beat the contract?"|pg||
 mb|1H|mb|p|mb|1S|mb|2S|nt|dburn:  and the answer, quite obviously, is "we won't"|pg||
-mb|p|nt|dburn:  2@s natural, about weak-jump=overcall strength|pg||
+mb|p|nt|dburn:	2@s natural, about weak-jump=overcall strength|pg||
 mb|2N|mb|d|nt|dburn:  at least, it's supposed to be about weak-jump-overcall strength, but Stockdale appears to think it's stronger|pg||
 mb|3S|mb|p|mb|p|mb|d|mb|p|mb|p|mb|p|pc|c5|nt|dburn:  well, if declarer gets the clubs right, who knows?|pg||
 nt|dburn:  and this will help her do that|pg||
@@ -318,7 +318,7 @@ mc|5|pg||
 qx|c13|st||md|3SJH7543DT9863C963,S7642HAK82D75CAK5,SAT9HQDAQJ4CQJT42,SKQ853HJT96DK2C87|sv|b|mb|1D|mb|1S|nt|dburn:  a full-blooded 1@c pre-empt bought the contract at the other table|pg||
 mb|p|mb|2N!|mb|p|mb|3H|mb|p|nt|dburn:  but Stockdale and Brown have prepared a defence even to the higher pre-empt of 1@d|pg||
 mb|4H|mb|p|mb|4S|mb|p|mb|p|nt|dburn:  this won't make on a spade lead, but 2NT showed four spades so maybe Brown will correct|pg||
-mb|p|nt|dburn:  she did, and 4@s is proof against ruffs, earthquakes and floods|pg||
+mb|p|nt|dburn:	she did, and 4@s is proof against ruffs, earthquakes and floods|pg||
 pc|c3|pc|cA|pc|c2|pc|c7|pg||
 pc|s2|pc|s9|pc|sK|pc|sJ|pg||
 pc|c8|pc|c6|pc|cK|pc|c4|pg||
@@ -361,7 +361,7 @@ pc|hA|pc|hT|pc|h5|pc|hQ|pg||
 pc|sJ|pc|dJ|pc|hJ|pc|sQ|pg||
 nt|dburn:  really? oh, well|pg||
 pg||
-qx|o15|st||md|1SHK765DAKQJ652C96,SAT9863H9D43CQJ74,SJ75HQJT8DT97CT85,SKQ42HA432D8CAK32|sv|n|mb|1D|mb|2S|mb|p|mb|4S|mb|p|mb|p|mb|p|pc|hQ|nt|newmoon: Venice Cup - see all 4 matches running scores - refresh regularly:   http://www.worldbridge.org/repository/tourn/bali.13/microsite/RunningScores/Asp/knockoutphas...|pg||
+qx|o15|st||md|1SHK765DAKQJ652C96,SAT9863H9D43CQJ74,SJ75HQJT8DT97CT85,SKQ42HA432D8CAK32|sv|n|mb|1D|mb|2S|mb|p|mb|4S|mb|p|mb|p|mb|p|pc|hQ|nt|newmoon: Venice Cup - see all 4 matches running scores - refresh regularly:	 http://www.worldbridge.org/repository/tourn/bali.13/microsite/RunningScores/Asp/knockoutphas...|pg||
 nt|newmoon: econditstatMultievColours.asp?qtournid=996&qphase=QF&qroundno=1|pg||
 pc|hA|pc|h7|pc|h9|pg||
 nt|newmoon: http://www.worldbridge.org/repository/tourn/bali.13/microsite/RunningScores/Asp/knockoutphaseconditstatMultievColours.asp?qtournid=996&qphase=QF&qroundno=1|pg||
@@ -372,19 +372,19 @@ pc|s6|pc|sJ|pc|sQ|pc|d5|pg||
 pc|d8|pc|dK|pc|d3|pc|d7|pg||
 mc|12|nt|newmoon: Both US teams in trouble - captains will have to boost their bruised egos |pg||
 pg||
-qx|c15|st||md|1SHK765DAKQJ652C96,SAT9863H9D43CQJ74,SJ75HQJT8DT97CT85,SKQ42HA432D8CAK32|sv|n|mb|1D|mb|2S|mb|p|nt|dburn:  this is a slam on no points for East-West|pg||
+qx|c15|st||md|1SHK765DAKQJ652C96,SAT9863H9D43CQJ74,SJ75HQJT8DT97CT85,SKQ42HA432D8CAK32|sv|n|mb|1D|mb|2S|mb|p|nt|dburn:	this is a slam on no points for East-West|pg||
 mb|4D!|nt|dburn:  but that gives them a shot, if Stockdale bids 4@h now|pg||
 mb|d|mb|4S|mb|p|mb|p|mb|p|pc|hQ|pc|hA|pc|h5|pc|h9|pg||
 pc|sK|pc|d5|pc|s3|pc|s5|pg||
 mc|12|pg||
 qx|o16|st||md|2SKJ84HAQ32D4CK532,SA953H4DJ653CJ986,SQ2HKT9876DQT9CA7,ST76HJ5DAK872CQT4|sv|e|mb|p|mb|2H|nt|newmoon: Bulletina are here: http://www.worldbridge.org/repository/tourn/bali.13/microsite/Bulletins.htm|pg||
-mb|p|mb|4H|mb|p|mb|p|mb|p|pc|dA|pc|d4|nt|newmoon: uneventful last hand          should make +1|pg||
+mb|p|mb|4H|mb|p|mb|p|mb|p|pc|dA|pc|d4|nt|newmoon: uneventful last hand		should make +1|pg||
 pc|d6|pc|dT|pg||
 pc|cQ|pc|c2|pc|c6|pc|cA|pg||
 pc|h6|pc|h5|pc|hQ|pc|h4|pg||
 pc|hA|pc|s3|pc|h7|pc|hJ|pg||
 pc|s4|pc|sA|pc|s2|pc|s6|pg||
-nt|newmoon: now a quick claim             :)     bye for now|pg||
+nt|newmoon: now a quick claim		  :)	 bye for now|pg||
 mc|11|pg||
 qx|c16|st||md|2SKJ84HAQ32D4CK532,SA953H4DJ653CJ986,SQ2HKT9876DQT9CA7,ST76HJ5DAK872CQT4|sv|e|mb|p|mb|1H|mb|p|mb|2N!|mb|p|mb|4H|mb|p|mb|p|mb|p|pc|dK|pc|d4|pc|d3|pc|dT|pg||
 pc|sT|pc|s4|pc|s3|pc|sQ|pg||
