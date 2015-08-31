@@ -3,17 +3,19 @@ Criticisms
 
 There are potential criticisms to this approach so it is important to address these issues.
 
-Accuracy
-===
+### Accuracy
 
 Statistics are only as good as the data. Garbage In, Garbage Out.
 
 There may be mistakes in the LIN files. VuGraph operators may miss spots or enter wrong cards.
 
-We assume that the same error rate applies to all players.
+We assume that the same error rate applies to all players and can be statistically ignored.
+This is a broad statement.
 
-Double Dummy Analysis
-===
+Obviously if there are any known errors in the data, these need to be corrected.
+There are mechanisms in place to make sure that this can happen.
+
+#### Double Dummy Analysis
 
 Double dummy analysis should not be applied to a single dummy game.
 
