@@ -57,7 +57,7 @@ pc|c2|pc|c6|pc|cQ|pc|c4|pg||
 pc|c9|pc|cT|pc|c3|pc|c5|pg||
 nt|pelu:  now @hA and @h|pg||
 pc|dQ|pc|dA|pc|dT|pc|d2|pg||
-pc|c7|nt|pelu:  wrong!|pg||
+pc|c7|nt|pelu:	wrong!|pg||
 pc|c8|pc|h4|pc|h5|pg||
 pc|d5|pc|d6|pc|dK|pc|d8|pg||
 pc|cA|pc|h7|pc|hA|pc|cK|pg||
@@ -75,7 +75,7 @@ pc|sA|pc|s6|pc|cK|pc|s9|pg||
 mc|9|pg||
 qx|o5|st||md|3ST8432HAJDQ92CJ86,SJ7HKQT983DA3CT74,SAK65H7D84CAKQ952,SQ9H6542DKJT765C3|sv|n|mb|1C|mb|p|mb|1S|nt|pelu:  5@S is max|pg||
 mb|2H|mb|4H!|nt|pelu:  sorry 4@s - EW can play 3x@D and ser up @sQ|pg||
-mb|5H|nt|pelu:  better bid 5@D = @h support and @D-lead|pg||
+mb|5H|nt|pelu:	better bid 5@D = @h support and @D-lead|pg||
 mb|p|mb|p|mb|5S|nt|pelu:  pass from S = invite for 5@s|pg||
 mb|p|mb|p|mb|p|pc|hK|nt|pelu:  can WQ now find the killing lead?|pg||
 nt|pelu:  no|pg||
@@ -98,7 +98,7 @@ pc|sJ|pc|c2|pc|c5|pc|sK|pg||
 pc|h5|pc|d6|pc|hK|pc|h3|pg||
 pc|h8|pc|hT|pc|hJ|pc|d7|pg||
 pc|c9|pc|c4|pc|cJ|pc|cK|pg||
-pc|h9|nt|pelu:  even if he played on @cs there was 5 losers from top|pg||
+pc|h9|nt|pelu:	even if he played on @cs there was 5 losers from top|pg||
 pc|h6|pc|d9|pc|c3|pg||
 pc|h7|pc|d5|pc|dA|pc|c6|pg||
 pc|dT|pc|dJ|pc|cT|pc|c7|pg||
@@ -152,10 +152,10 @@ pc|h4|pc|h3|pc|hJ|pc|hT|pg||
 pc|s9|pc|s3|pc|s4|pc|sQ|pg||
 pc|h9|pc|s8|mc|10|pg||
 qx|o9|st||md|3SJ87543H42DK2CJ98,SAHAQJ95D74CAKT32,SKQT9H876DAT985C6,S62HKT3DQJ63CQ754|sv|e|mb|p|mb|p|nt|pelu:  a weak 2 in 3. seat?|pg||
-mb|2S|nt|pelu:  yes:)|pg||
+mb|2S|nt|pelu:	yes:)|pg||
 nt|pelu:  EW safe up to 5@h|pg||
-mb|4H|nt|pelu:  I would bid 3@S in W = @H + minor, some would bid 4@C = @C + @s|pg||
-mb|4S|nt|pelu:  sorry @c + @h|pg||
+mb|4H|nt|pelu:	I would bid 3@S in W = @H + minor, some would bid 4@C = @C + @s|pg||
+mb|4S|nt|pelu:	sorry @c + @h|pg||
 nt|pelu:  leaping Michaels|pg||
 mb|d|mb|p|mb|p|mb|p|nt|pelu:  wow|pg||
 pc|cA|pc|c6|pc|c4|pc|c8|pg||
@@ -191,7 +191,7 @@ mb|2C!|mb|3C|nt|galallie:  East's 3club bid makes it easier to guess the hearts|
 mb|4C|mb|p|mb|4H|mb|p|mb|p|mb|p|pc|cA|pc|c7|pc|c6|pc|h2|pg||
 pc|hA|pc|hQ|pc|h4|pc|h5|pg||
 pc|dJ|pc|d3|pc|dA|pc|d6|pg||
-pc|h7|pc|h9|pc|hT|nt|galallie:  looks like north figured out the hearts|pg||
+pc|h7|pc|h9|pc|hT|nt|galallie:	looks like north figured out the hearts|pg||
 pc|d9|pg||
 pc|s2|pc|s3|pc|s7|pc|sQ|pg||
 nt|asya13: win 10 for north south|pg||
@@ -220,7 +220,7 @@ pc|h2|pc|h4|pc|hA|pc|h3|pg||
 pc|s2|pc|sJ|pc|sQ|pc|s5|pg||
 pc|s3|pc|sT|pc|sK|pc|sA|pg||
 mc|10|pg||
-qx|o12|st||md|2SJ3HQT5D64CKT9852,SK42HAKJ87DKJ2CQ3,SAT95H42DAT97C764,SQ876H963DQ853CAJ|sv|n|mb|1S|mb|p|mb|3C!|nt|pelu:  np Maxinyou - wd|pg||
+qx|o12|st||md|2SJ3HQT5D64CKT9852,SK42HAKJ87DKJ2CQ3,SAT95H42DAT97C764,SQ876H963DQ853CAJ|sv|n|mb|1S|mb|p|mb|3C!|nt|pelu:	np Maxinyou - wd|pg||
 mb|p|mb|4S|mb|p|mb|p|mb|p|pc|c6|pc|cJ|pc|cK|nt|pelu:  in B99 NS found the @s-fit - but they could not stop in time|pg||
 pc|c3|pg||
 nt|pelu:  nice lead|pg||
@@ -360,7 +360,7 @@ pc|d9|pc|dA|pc|d4|pc|s3|pg||
 pc|c7|pc|s2|pc|cT|pc|c3|pg||
 pc|cJ|pc|c8|nt|pelu:  10-8 in D from N prob smith's ekko - asking for @c|pg||
 pc|cK|pc|h2|pg||
-pc|h4|nt|pelu:  @dA and @cA in S|pg||
+pc|h4|nt|pelu:	@dA and @cA in S|pg||
 pc|h5|pc|hA|pc|h3|pg||
 mc|9|nt|galallie:  thanks everyone|pg||
 nt|galallie:  theyll be more matches on vugraph at 2:00 AM EST|pg||
