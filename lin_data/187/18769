@@ -380,7 +380,7 @@ pc|sA|nt|famus: @h-@cs wud lead to a @s play from declarer's hand and for -2|pg|
 pc|s3|pc|s6|pc|s8|pg||
 nt|jaapfr: just claim 10 pls|pg||
 pc|h4|pc|c9|pc|h8|pc|c2|pg||
-pc|sQ|pc|s9|nt|hawe45:  Endplaying dummy|pg||
+pc|sQ|pc|s9|nt|hawe45:	Endplaying dummy|pg||
 nt|hawe45:  2 down then|pg||
 pc|c3|pc|s5|pg||
 pc|sJ|pc|c7|pc|c5|pc|s7|pg||
@@ -462,10 +462,10 @@ pc|d7|pc|d3|pc|dA|pc|d5|pg||
 mc|11|pg||
 qx|o10|st||md|4SHQDAKQJT964CAT74,SKT975HJ76D875C65,SJ6432HT542D3CQJ8,SAQ8HAK983D2CK932|sv|b|nt|udo: 1@H--5@D for start ?|pg||
 mb|1H|nt|udo: or slowly ?|pg||
-mb|5D|nt|santyclz: How many @ds would you bid with s over 1@h?  or x?|pg||
+mb|5D|nt|santyclz: How many @ds would you bid with s over 1@h?	or x?|pg||
 mb|p|mb|p|nt|udo: i would bid 5 @D,,pressure bid,,,|pg||
 mb|d|nt|udo: maybe i lose slam sometimes,,but still rite for me|pg||
-mb|p|mb|p|mb|p|pc|h6|nt|santyclz: Next problem, do you pull with 5332?  It doesn't seem right -- but here it's very right.|pg||
+mb|p|mb|p|mb|p|pc|h6|nt|santyclz: Next problem, do you pull with 5332?	It doesn't seem right -- but here it's very right.|pg||
 pc|h2|pc|hK|pc|hQ|pg||
 pc|hA|pc|dA|nt|udo: no,,,pass is ok for me,,,,,,on the otherhand, a vulnerable5@D bidder will usually not be crazy|pg||
 pc|h7|pc|h4|pg||
@@ -495,7 +495,7 @@ nt|jaapfr: or indeed 5@H|pg||
 nt|bobholl: i would pass as W :(|pg||
 mb|p|mb|p|nt|jaapfr: the worst was still a push:)|pg||
 pc|h6|nt|fabsayc: 4@D would not be a splinter|pg||
-nt|007 joosth: I would also prefer 4D    as you see:  I love splinters:)|pg||
+nt|007 joosth: I would also prefer 4D	 as you see:  I love splinters:)|pg||
 nt|fabsayc: and 4@H is wrong with spade control|pg||
 pc|h2|pc|hK|nt|famus: nmf 2@ds|pg||
 nt|pelu: I would expect a better hand for 2Nt (=4 card @S) that Ns hand here|pg||
@@ -670,7 +670,7 @@ pc|h4|pc|hA|pc|h2|pg||
 nt|murat: after all it wasnt east to find the slam|pg||
 pc|h9|nt|fabsayc: should have returned spade 10|pg||
 nt|007 joosth: why not the middel 1?|pg||
-nt|007 joosth: the 8  suggests  I leave it up to you which suit to return|pg||
+nt|007 joosth: the 8  suggests	I leave it up to you which suit to return|pg||
 pc|hK|pc|hT|nt|jaapfr: which?|pg||
 pc|h5|pg||
 nt|famus: depends how many overtricks S makes based on the @s play|pg||
@@ -709,7 +709,7 @@ nt|fabsayc: no|pg||
 nt|jaapfr: 18% slam|pg||
 mb|p|mb|p|nt|fabsayc: then hand is cold|pg||
 nt|murat: last board of this segmant|pg||
-mb|1N|nt|007 joosth: spade ace  club ace  2 ruffs?|pg||
+mb|1N|nt|007 joosth: spade ace	club ace  2 ruffs?|pg||
 nt|fabsayc: ok you can beat with two ruffs|pg||
 nt|pelu: last board and "our score" is 33-28 for Baltic - a surprise for me|pg||
 mb|p|nt|famus: the 5@cs sacrafice shows on the leader bd--on bd 11|pg||
@@ -730,7 +730,7 @@ nt|murat: this will be flat i guess|pg||
 nt|jaapfr: tx murat bob and specs operator fine job and tx all|pg||
 nt|jaapfr: bye|pg||
 nt|bobholl: tyt jaap :)|pg||
-pc|cJ|pc|cT|nt|hawe45:  Should be one down now |pg||
+pc|cJ|pc|cT|nt|hawe45:	Should be one down now |pg||
 pc|c7|pc|c8|pg||
 pc|c9|pc|h2|pc|cK|pc|h7|pg||
 pc|c5|pc|d4|pc|c4|pc|h4|pg||
