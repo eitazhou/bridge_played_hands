@@ -40,7 +40,7 @@ pc|s4|pc|d2|pc|c2|pg||
 mc|8|nt|jbgood:  so no result page as yet |pg||
 pg||
 qx|c12|st||md|2SA96HK63DQT97C984,ST843HJ75D54CQT73,SQ7HT942DJ862CAJ5,SKJ52HAQ8DAK3CK62|sv|n|mb|p|mb|p|mb|1C|mb|p|nt|ahollan1: 2N = 20-22   wonder why 1@C|pg||
-mb|p|nt|ahollan1: 1@C = a) 5+@C  b) 4@C(441), <17 [else 2@D]  c) 2+@C, BAL 11-14/18-19  |pg||
+mb|p|nt|ahollan1: 1@C = a) 5+@C  b) 4@C(441), <17 [else 2@D]  c) 2+@C, BAL 11-14/18-19	|pg||
 nt|patricck: perhaps a slight downgrade for the 4333 shape|pg||
 mb|p|pc|d7|nt|patricck: certainly chose a good moment to do so, getting 4 clubs in dummy and a difficult hand to take 8 tricks in NT|pg||
 pc|d4|pc|dJ|pc|dA|pg||
@@ -68,7 +68,7 @@ nt|chmitty: the score of board 12 is wrong, it's actually 5 Imps to Zia|pg||
 mc|6|pg||
 qx|c13|st||md|3SQT83HJ54D32CAKT4,SAK72HT87DQJ96C97,S965HAQ9D874CQJ32,SJ4HK632DAKT5C865|sv|b|mb|p|mb|p|mb|p|mb|1C|mb|p|mb|1D|mb|p|mb|1H|mb|p|mb|1N|mb|p|nt|pitiful:  1@d=@h|pg||
 nt|pitiful:  1@h=3@h|pg||
-nt|ahollan1: 1@C = 2+   1@D = 4+@H|pg||
+nt|ahollan1: 1@C = 2+	1@D = 4+@H|pg||
 mb|p|mb|p|pc|cA|nt|pitiful:  conservative pass initially as East by Robson's standards|pg||
 nt|ahollan1: Peter - are you surprised that Forrester opened in 4th seat?|pg||
 pc|c7|pc|c2|pc|c6|pg||
@@ -76,7 +76,7 @@ pc|c4|pc|c9|pc|cJ|nt|pitiful:  hates to pass out hands|pg||
 pc|c5|pg||
 pc|c3|pc|c8|pc|cK|pc|d6|pg||
 pc|cT|nt|ahollan1: Pearson Points used [originally just for matchpoints]   when deciding whether to open 4th suit   on CLOSE HANDS|pg||
-pc|d9|pc|cQ|nt|ahollan1: HCP +  @S    <14 = PASS   14+ = open|pg||
+pc|d9|pc|cQ|nt|ahollan1: HCP +	@S    <14 = PASS   14+ = open|pg||
 pc|s4|pg||
 pc|hQ|nt|ahollan1: the idea being  that if you hold the @S suit, you can win the partscore battle|pg||
 pc|h2|pc|h4|nt|patricck: pearson points don't factor in the question of how aggressive partner's opening style is|pg||
@@ -116,7 +116,7 @@ pc|d3|pc|h5|pc|d5|pc|d6|pg||
 pc|c5|pc|c4|pc|cJ|pc|cQ|pg||
 pc|d7|pc|s3|pc|dT|pc|h7|pg||
 pc|hQ|pc|s2|pc|c6|pc|hT|pg||
-pc|hJ|pc|s9|pc|c7|nt|ahollan1: 2 boards scored in other vugraph match   PRI Investment leads Mossop 13-0|pg||
+pc|hJ|pc|s9|pc|c7|nt|ahollan1: 2 boards scored in other vugraph match	PRI Investment leads Mossop 13-0|pg||
 pc|s4|pg||
 pc|h8|pc|sQ|pc|s5|pc|s8|pg||
 pc|sK|pc|sA|pc|s6|pc|sT|pg||
@@ -165,13 +165,13 @@ pc|h5|pc|h6|pc|hA|pc|h3|pg||
 pc|h2|pc|hQ|pc|hK|pc|h9|pg||
 nt|chmitty: hummm ... strange|pg||
 mc|10|pg||
-qx|c16|st||md|2SQJ43HK54DA432CA6,S876HJ96DKJCJT872,SA52HAT872DT8CK43,SKT9HQ3DQ9765CQ95|sv|e|mb|p|mb|1H|mb|p|mb|1S|mb|p|mb|1N|mb|p|mb|4H|mb|p|mb|p|mb|p|pc|d5|nt|ahollan1: thru 14   PRI Investment 22    Mossop  Zero|pg||
+qx|c16|st||md|2SQJ43HK54DA432CA6,S876HJ96DKJCJT872,SA52HAT872DT8CK43,SKT9HQ3DQ9765CQ95|sv|e|mb|p|mb|1H|mb|p|mb|1S|mb|p|mb|1N|mb|p|mb|4H|mb|p|mb|p|mb|p|pc|d5|nt|ahollan1: thru 14   PRI Investment 22	 Mossop  Zero|pg||
 pc|d2|pc|dK|pc|d8|pg||
 pc|cJ|pc|c4|pc|c5|pc|cA|pg||
 pc|sQ|pc|s6|pc|s2|pc|sK|pg||
 pc|dQ|pc|dA|pc|dJ|pc|dT|pg||
 pc|hK|pc|h6|pc|h2|pc|h3|pg||
-pc|h4|pc|h9|nt|Henryb:  better. well enough to go to the bridge club today.|pg||
+pc|h4|pc|h9|nt|Henryb:	better. well enough to go to the bridge club today.|pg||
 pc|hT|pc|hQ|pg||
 nt|Henryb:  which I hadn't been for a while|pg||
 nt|ahollan1: Open Room score for  12 has been corrected|pg||
@@ -203,7 +203,7 @@ nt|chmitty: plus the famous QJ@d stiff as it is here|pg||
 nt|chmitty: yes ... this is speculation ... Bilde is in 5@d and wants to make his contract first|pg||
 pc|sJ|pc|sK|pc|s2|pc|s9|pg||
 pc|h3|pc|hA|pc|h4|pc|h6|pg||
-pc|d5|pc|d6|nt|jbgood:  trump to the 8?|pg||
+pc|d5|pc|d6|nt|jbgood:	trump to the 8?|pg||
 pc|d8|pc|dQ|pg||
 nt|jbgood:  i think that was a careful play|pg||
 mc|11|pg||
@@ -252,13 +252,13 @@ nt|patricck: underleading the heart to the Jack followed by another trump would 
 nt|patricck: very hard to find though|pg||
 nt|ahollan1: i think he would be squeezed in 3 suits|pg||
 nt|patricck: yes, so he would|pg||
-nt|ahollan1: but that would be fun too   when was last [or even first] time you saw a defensive triple squeeze against partner|pg||
+nt|ahollan1: but that would be fun too	 when was last [or even first] time you saw a defensive triple squeeze against partner|pg||
 nt|patricck: substitute the word Homicidal for defensive and it is even better :)|pg||
 nt|vugraphzdr: I am here but he is still thinking :)|pg||
 nt|ahollan1: Robson has long history of long tanks|pg||
 nt|vugraphzdr: you can see it on youtube anyway There is a live cmera|pg||
 pc|hK|pc|h8|pc|h6|pc|h4|pg||
-nt|ahollan1: http://livebridge.net/bbo/wbf/2014cavendish.php?dsp=ytb    gives links to all 4 video feeds|pg||
+nt|ahollan1: http://livebridge.net/bbo/wbf/2014cavendish.php?dsp=ytb	gives links to all 4 video feeds|pg||
 pc|h7|pc|sJ|pc|hJ|pc|h5|pg||
 pc|cQ|pc|c4|pc|d6|pc|c3|pg||
 pc|cT|pc|d3|pc|sK|pc|cJ|pg||
@@ -276,7 +276,7 @@ pc|hQ|pc|hA|nt|chmitty: I like to see whether Klukowski gives the @s ruff in one
 pc|h4|pc|dA|pg||
 nt|chmitty: he should ... but he has to imagine North holds 5 cards in the suit|pg||
 pc|dJ|pc|d3|pc|d4|pc|d9|pg||
-pc|d5|pc|d6|nt|jbgood:  why else should Gawrys play a spade in trick 2?|pg||
+pc|d5|pc|d6|nt|jbgood:	why else should Gawrys play a spade in trick 2?|pg||
 pc|dQ|mc|9|pg||
 qx|c19|st||md|1SKJ83H974D63CJ865,S954HDAKQ874CT974,SAQT76HKQT853D9CQ,S2HAJ62DJT52CAK32|sv|e|nt|ahollan1: that was a lot of work for a 2 imp swing|pg||
 mb|p|mb|3D|mb|4D|mb|p|mb|4S|mb|p|mb|p|mb|5D|mb|p|mb|p|mb|d|mb|p|mb|p|mb|p|nt|ahollan1: there's a psychological reason that Robson chose PASS then 5@D instead of immediate 5@D|pg||
@@ -298,7 +298,7 @@ pc|hJ|pc|c6|pc|d8|pc|hQ|pg||
 pc|c9|pc|s7|pc|cK|pc|c8|pg||
 pc|c3|pc|cJ|pc|c7|pc|sA|pg||
 pg||
-qx|o20|st||md|2S62HT4D8764CKJT95,S94H963DKJ932CQ72,SQJT85HK85DAQ5CA8,SAK73HAQJ72DTC643|sv|b|nt|jbgood:  not overtaking cost a downer|pg||
+qx|o20|st||md|2S62HT4D8764CKJT95,S94H963DKJ932CQ72,SQJT85HK85DAQ5CA8,SAK73HAQJ72DTC643|sv|b|nt|jbgood:	not overtaking cost a downer|pg||
 nt|chmitty: we all can see that ... but it was not the case at the table|pg||
 mb|p|mb|1N|mb|d|nt|jbgood:  not sure about how the di ten would have been read by W |pg||
 nt|chmitty: maybe East should have played the 10 ? but if that denies the J, then West might cash a second @d|pg||
@@ -325,7 +325,7 @@ nt|chmitty: see you all|pg||
 nt|chmitty: next round very soon|pg||
 nt|chmitty: in one hour or so|pg||
 pg||
-qx|c20|st||md|2S62HT4D8764CKJT95,S94H963DKJ932CQ72,SQJT85HK85DAQ5CA8,SAK73HAQJ72DTC643|sv|b|mb|p|nt|ahollan1: final board of the round     next set scheduled to begin in about 8 minutes|pg||
+qx|c20|st||md|2S62HT4D8764CKJT95,S94H963DKJ932CQ72,SQJT85HK85DAQ5CA8,SAK73HAQJ72DTC643|sv|b|mb|p|nt|ahollan1: final board of the round	   next set scheduled to begin in about 8 minutes|pg||
 mb|2N|nt|ahollan1: not sure yet who we'll see on vugraph|pg||
 mb|p|mb|3S|nt|patricck: did seem a little odd :)|pg||
 mb|p|mb|3N|mb|p|mb|p|mb|p|pc|sA|pc|s2|pc|s9|pc|s5|pg||
