@@ -89,7 +89,7 @@ nt|pbmarstr: Should be manageable, but must be a little careful|pg||
 nt|zebutin: so taking @H, and playing @S? or trying to toss @H away for @D?|pg||
 mb|p|nt|pbmarstr: I guess 2 @S shows heart and a minor and that 3 @H is a good raise in spades|pg||
 mb|2S|mb|p|nt|pbmarstr: both way will succeed I think, even cashing ace, king of spades|pg||
-mb|4S|nt|rodvenn:  Ã vet nok at det er 12 stikk. Men er det to tapere fÃ¶rst?|pg||
+mb|4S|nt|rodvenn:  Ã vet nok at det er 12 stikk. Men er det to tapere fÃ¶rst?|pg||
 mb|p|nt|pbmarstr: should be an easy contract now|pg||
 mb|p|mb|p|nt|pbmarstr: we will see|pg||
 pc|hK|pc|hA|pc|h6|pc|h7|pg||
@@ -290,8 +290,8 @@ mb|p|mb|1D!|mb|p|mb|1N|mb|p|mb|2C!|nt|sverjohn: Her er vi nok snart i 4 hj|pg||
 mb|p|mb|2H|mb|p|mb|3H|mb|p|mb|4H|mb|p|mb|p|mb|p|nt|jbgood: 1 ruter hos syd var yeslek (som han hadde glemt) - hjerter eller spar og kløver (får jeg fortalt), og da var ikke kløver ess helt borte i natta? |pg||
 pc|d8|nt|jbgood: systemkortet deres bekrefter yeslek i alle poser over sterk kløver...|pg||
 pc|d3|pc|dJ|pc|dA|pg||
-nt|bt:  i am back|pg||
-nt|bt:  4@H verkar sakna ett stick|pg||
+nt|bt:	i am back|pg||
+nt|bt:	4@H verkar sakna ett stick|pg||
 nt|jbgood: må ha hjelp - som ruter og enda en syter fra syd ruter så vest får kastet en spar|pg||
 pc|sQ|nt|jbgood: *ruter:)|pg||
 pc|sK|pc|s3|pc|sJ|pg||
@@ -308,9 +308,9 @@ pc|s9|nt|jbgood: slapp hvis det nå - morsomt sluttspill|pg||
 pc|d2|pc|h6|pc|s4|pg||
 pc|cT|pc|h7|pc|hK|pc|cK|pg||
 pc|dQ|pc|d6|nt|bt:  bridge Ã¤rfascinerande, sÃ¥g inte det hÃ¤r lÃ¤get|pg||
-nt|bt:  inte spelfÃ¶raren heller|pg||
+nt|bt:	inte spelfÃ¶raren heller|pg||
 mc|9|nt|jbgood: :)|pg||
-nt|bt:  underbarbricka|pg||
+nt|bt:	underbarbricka|pg||
 pg||
 qx|c8|st||md|2SAJHT2DKJ652CKQ95,SQ8HAQ96DA9CAJT87,SKT742H875D87C432,S9653HKJ43DQT43C6|sv|o|nt|johnp: So N will survive :)|pg||
 nt|zebutin: you mean @C K?|pg||
@@ -343,19 +343,19 @@ pc|cQ|pg||
 pc|h3|pc|d5|pc|h9|pc|h8|pg||
 mc|7|pg||
 qx|o9|st||md|3SAKJT6HA85DKJ4CJT,S5HKT642DA763C983,S983HJ9D98CAKQ654,SQ742HQ73DQT52C72|sv|e|nt|sverjohn: Han går bet selv med hjerter 9. Får ikke stjålet kløver med bordets små trumf|pg||
-nt|bt:  underbar |pg||
+nt|bt:	underbar |pg||
 mb|p|nt|bt:  slam ns nÃ¥got sÃ¤mre Ã¤n en mask hÃ¤r|pg||
-nt|bt:  man tÃ¥l inte 41 i klÃ¶ver|pg||
+nt|bt:	man tÃ¥l inte 41 i klÃ¶ver|pg||
 mb|p|mb|1C!|mb|1D!|mb|1H!|nt|vugraphzru: Det har blivit något fel i brickläggningen, så spelarna spelar brickan utan någon i zonen, korten är samma dock|pg||
 mb|2H!|mb|2S|nt|bt:  4@H va 50% pÃ¥ fÃ¶rra brickan, spelfÃ¶raren hade tvÃ¥ kort kvar och valde fel ;-)|pg||
 mb|p|mb|3C|mb|p|mb|3H!|mb|p|mb|3S|mb|p|mb|3N|mb|p|mb|4S|mb|p|mb|p|mb|p|nt|bt:  6@S mycket lÃ¤ttare spela Ã¤n 4 |pg||
 pc|h2|nt|bt:  hÃ¤r finns det mycket att vÃ¤lja pÃ¥|pg||
 pc|h9|pc|hQ|pc|hA|pg||
-nt|bt:  upmark spelar nog hj nu|pg||
+nt|bt:	upmark spelar nog hj nu|pg||
 pc|sK|pc|s5|pc|s3|pc|s2|pg||
-nt|bt:  efter en rond trumf verkar det som om han tÃ¤nker gÃ¥ in och maska spader, men vad vet jag :-(|pg||
+nt|bt:	efter en rond trumf verkar det som om han tÃ¤nker gÃ¥ in och maska spader, men vad vet jag :-(|pg||
 nt|jbgood: Boye fikk kontrakten på nords hånd - og fikk hjerter ut fra øst. Han stjal tredje hjerter og lot spar 8 løpe. 12 stikk. |pg||
-nt|bt:  det var dÃ¤rfÃ¶r man skulle spela hjÃ¤rter tillbaka|pg||
+nt|bt:	det var dÃ¤rfÃ¶r man skulle spela hjÃ¤rter tillbaka|pg||
 pc|cT|pc|c8|pc|cQ|pc|c2|pg||
 pc|s8|pc|s4|pc|s6|nt|jbgood: men vest ser jo bordets gode kløver her, så han tar vel for ruter ess?|pg||
 pc|h6|pg||
@@ -393,17 +393,17 @@ mc|12|pg||
 qx|o10|st||md|4S432HKQT86D743CJ8,SA65H92DAKJ6CAT74,SJT7H73DQT852CQ95,SKQ98HAJ54D9CK632|sv|b|mb|1D!|mb|p|mb|1H!|mb|p|nt|bt:  6@C verkar vara en bra "norsk slam"|pg||
 nt|sverjohn: Ser ut som en ekte norsk slem kløveren 3-2 og snill sparsits|pg||
 mb|2N|mb|p|nt|bt:  lol|pg||
-mb|3C!|mb|p|mb|3S!|mb|p|nt|bt:  en Ã¤kta norsk slam brukar krÃ¤va 2 33, plus 32 trumf och en skvis|pg||
+mb|3C!|mb|p|mb|3S!|mb|p|nt|bt:	en Ã¤kta norsk slam brukar krÃ¤va 2 33, plus 32 trumf och en skvis|pg||
 nt|jbgood: og gjerne favør i utspillet|pg||
-nt|bt:  skjÃ¤lvklart|pg||
-nt|bt:  sjÃ¤lvklart menar jag|pg||
+nt|bt:	skjÃ¤lvklart|pg||
+nt|bt:	sjÃ¤lvklart menar jag|pg||
 mb|3N|mb|p|mb|p|mb|p|nt|jbgood: du kunne ikke misforstås:)|pg||
-nt|bt:  jag har mycket litet tangentbord :-(|pg||
+nt|bt:	jag har mycket litet tangentbord :-(|pg||
 pc|h6|nt|bt:  ok 660 var mÃ¥nga stick vid andra bordet|pg||
 nt|vugraphzru: Ö: max med 4414|pg||
 pc|h2|pc|h3|pc|hJ|pg||
-nt|bt:  upmark vet Ã¶st har 4@H och hoppas pÃ¥ Ax|pg||
-nt|bt:  hos partner|pg||
+nt|bt:	upmark vet Ã¶st har 4@H och hoppas pÃ¥ Ax|pg||
+nt|bt:	hos partner|pg||
 pc|cK|pc|c8|pc|c4|pc|c9|pg||
 pc|c2|pc|cJ|pc|c7|pc|cQ|pg||
 pc|h7|nt|bt:  inget fÃ¶r partÃ¤vling men korrekt i lag|pg||
@@ -426,7 +426,7 @@ nt|remo: si :)|pg||
 mb|2S!|mb|p|mb|3C!|nt|grebrof: je møtte Berthau - Nystrom i Skovde tidlig på 2000-tallet, så det er ihvertfall ett samspilt par Sverige har her - gode og hyggelige er de og|pg||
 nt|rodvenn:  Vest er kaptein og Ã¶st viser sin fordeling|pg||
 mb|p|nt|pbmarstr: Only 4 losers directly, but how many tricks?|pg||
-mb|3D|an| |mb|p|mb|3S!|mb|p|nt|henryb:  nine if declarer guesses clubs: seven trumps and two clubs|pg||
+mb|3D|an| |mb|p|mb|3S!|mb|p|nt|henryb:	nine if declarer guesses clubs: seven trumps and two clubs|pg||
 nt|grebrof: de spiller ett hjemmelaga system - de teller ikke poeng for knekter, men de finner gode kontrakter likevel|pg||
 mb|3N|nt|rodvenn:  De spiler en slags relepresisjon som er utviklet fÃ¶rst av Daniel Auby tror jeg|pg||
 mb|p|nt|remo: il "non fit" a @S di NS induce O a leggere la mano di E (scarsi collegamenti)|pg||
@@ -465,7 +465,7 @@ mb|2H|mb|p|mb|p|nt|jbgood: har makker knekten er ingen ting tapt - har han esset
 mb|d|mb|p|nt|bt:  jag hÃ¥ller med dig jon, som alltid ,,, |pg||
 mb|2S|mb|p|nt|bt:  lol|pg||
 mb|p|mb|p|pc|hA|pc|h5|pc|h8|pc|h2|pg||
-nt|bt:  Ã¶v hittade spader pÃ¥ en lÃ¤gre nivÃ¥ hÃ¤r, kunde varit rÃ¤tt|pg||
+nt|bt:	Ã¶v hittade spader pÃ¥ en lÃ¤gre nivÃ¥ hÃ¤r, kunde varit rÃ¤tt|pg||
 pc|s3|pc|s6|pc|s2|pc|s7|pg||
 pc|d3|pc|d2|pc|dT|pc|dQ|pg||
 pc|s5|nt|jbgood: flere imper til Sveariket - det er godt å se at laget er i form uken før VM begynner|pg||
@@ -514,29 +514,29 @@ nt|vugraphzru: sista brickan för segmentet, andra halvan av första KO matchen 
 mb|1C!|mb|p|mb|1D!|mb|p|nt|jbgood: Siste spill i denne sesjonen nå, tusen takk til vår utmerkede operatør Daniel Gullberg, og FSB ved Jan Kamras og Carina Westlin.|pg||
 mb|2H!|mb|p|mb|p|mb|p|pc|dA|nt|jbgood: og takk for innsiktsfulle kommentarer fra Lars og Sverre, samt bbo som lar oss få delta live:)|pg||
 pc|d3|pc|d5|pc|d4|pg||
-nt|bt:  vÃ¤sts hand Ã¤r ett problem i en systemstruktur dÃ¤r 1@H Ã¤r konventionellt efter 1@C-1@D|pg||
+nt|bt:	vÃ¤sts hand Ã¤r ett problem i en systemstruktur dÃ¤r 1@H Ã¤r konventionellt efter 1@C-1@D|pg||
 pc|d2|pc|d6|pc|dQ|pc|h5|pg||
-nt|bt:  om spelfÃ¶raren tar ut sina svarta stick gÃ¥r han hem nu|pg||
+nt|bt:	om spelfÃ¶raren tar ut sina svarta stick gÃ¥r han hem nu|pg||
 pc|hK|pc|h2|pc|h6|pc|h3|pg||
 nt|jbgood: likevel ser det ut til at 2 hjerter spiller ok på 5-1 tilpasningen|pg||
-nt|bt:  norge mÃ¥ste gÃ¶ra dt lite spÃ¤nnande|pg||
-nt|bt:  3NT - 5 pÃ¥ 16 ser inte bra ut|pg||
-nt|bt:  3nt -5 Ã¤r sÃ¤llan bra|pg||
-nt|bt:  Ã¶verhuvudtaget|pg||
+nt|bt:	norge mÃ¥ste gÃ¶ra dt lite spÃ¤nnande|pg||
+nt|bt:	3NT - 5 pÃ¥ 16 ser inte bra ut|pg||
+nt|bt:	3nt -5 Ã¤r sÃ¤llan bra|pg||
+nt|bt:	Ã¶verhuvudtaget|pg||
 nt|jbgood: ikke ofte du ser det i firvillig meldt utgang...|pg||
 nt|jbgood: frivillig tom|pg||
 pc|sK|pc|s8|pc|s4|pc|s3|pg||
-nt|bt:  jag har inte fÃ¶ljt med i resultaten, men om norge inte kvalade in till vm verkar det vara bÃ¤st som skedde ...|pg||
+nt|bt:	jag har inte fÃ¶ljt med i resultaten, men om norge inte kvalade in till vm verkar det vara bÃ¤st som skedde ...|pg||
 pc|sA|pc|s5|pc|s6|pc|s2|pg||
 pc|sQ|pc|sT|pc|s7|pc|sJ|pg||
-nt|bt:  (ironi)|pg||
-nt|bt:  ursÃ¤kta|pg||
-nt|bt:  nu tror jag grÃ¶theim Ã¤r hemma hÃ¤r|pg||
-nt|bt:  finns inget sÃ¤tt att gÃ¥ bet?|pg||
+nt|bt:	(ironi)|pg||
+nt|bt:	ursÃ¤kta|pg||
+nt|bt:	nu tror jag grÃ¶theim Ã¤r hemma hÃ¤r|pg||
+nt|bt:	finns inget sÃ¤tt att gÃ¥ bet?|pg||
 pc|s9|pc|h4|pc|d7|pc|c7|pg||
 pc|cK|pc|c8|pc|c6|pc|cA|pg||
-nt|bt:  ok nu ska jag laga middag, tack och hej allihopa, cul8r|pg||
-nt|bt:  tack jon o sverre och alla|pg||
+nt|bt:	ok nu ska jag laga middag, tack och hej allihopa, cul8r|pg||
+nt|bt:	tack jon o sverre och alla|pg||
 nt|jbgood: takk selv|pg||
 pc|hQ|pc|hA|pc|d8|pc|h9|pg||
 pc|dK|pc|d9|pc|c3|nt|bt:  jag vÃ¤ntar till den hÃ¤r brickan Ã¤r klar,,,|pg||
