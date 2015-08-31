@@ -3,7 +3,7 @@ rs|4SS+1,4SS+1,3SW+1,4SW-1,2SW=,3NE-2,6CW=,3NW+3,4SW=,4SW=,3DN-1,3NEx-1,6DN-1,6C
 pn|BRESCOLL,LIU,KAPLAN,ZHANG,TANG,GROSSACK,TAO,GROSSACK|pg||
 qx|o15|st||md|1SK976H5D753CA9873,SJ8H872DAK9CKQJ54,SAQ432HAKT93DJ4CT,ST5HQJ64DQT862C62|sv|n|nt|TopWizard:  Welcome to a battle of heavyweights, 2nd and 3rd rigtht now in the standings!|pg||
 mb|p|nt|TopWizard:  Kaplan and Brescoll have achieved much success in ACBL Nationals and Tournaments|pg||
-mb|1N|mb|2C|mb|p|nt|TopWizard:  2@c = Majors|pg||
+mb|1N|mb|2C|mb|p|nt|TopWizard:	2@c = Majors|pg||
 mb|3S|mb|p|mb|4S|mb|p|mb|p|mb|p|nt|TopWizard:  Brescoll jumps with 4 trumps, an Ace and a singleton|pg||
 pc|dA|pc|d4|pc|d8|nt|TopWizard:  A quiet start to the battle of the 2nd and 3rd place teams currently.|pg||
 pc|d5|pg||
@@ -36,7 +36,7 @@ mb|1N|mb|p|mb|2C|nt|mrdct:  NS might take a save in 5@d if south comes to life|p
 mb|2D|mb|p|mb|p|mb|2H|nt|mrdct:  north considers himself a bit too balanced to raise|pg||
 nt|mrdct:  4@s seems to require finding the @sJ|pg||
 nt|mrdct:  not to mention the @c ruff|pg||
-mb|p|mb|2S|mb|p|mb|3S|mb|p|mb|p|mb|p|nt|mrdct:  nice stop by liu|pg||
+mb|p|mb|2S|mb|p|mb|3S|mb|p|mb|p|mb|p|nt|mrdct:	nice stop by liu|pg||
 pc|d2|pc|d4|nt|TopWizard:  So a quiet part score rather than an exciting game as the cards lie|pg||
 nt|mrdct:  but still needs to find the @sJ to pick up the partscore swing|pg||
 nt|Harlan: USA E_W in the other room are extremely aggressive, but East probably felt more justified then usual believing his partner had no wasted @D values|pg||
@@ -49,7 +49,7 @@ pc|dT|pc|dJ|pc|d9|pc|h2|pg||
 nt|mrdct:  but an easy make now for a few imps for china|pg||
 pc|dK|pc|d8|pc|h7|pc|d7|pg||
 pc|s2|pc|sA|pc|s7|pc|s4|pg||
-pc|c2|pc|c8|nt|Aurora:  hello all :) Here you can see player profiles, teams, CCs, and you can find on: http://livebridge.net/bbo/wbf/2014istanbul.php|pg||
+pc|c2|pc|c8|nt|Aurora:	hello all :) Here you can see player profiles, teams, CCs, and you can find on: http://livebridge.net/bbo/wbf/2014istanbul.php|pg||
 pc|c9|pc|cA|pg||
 nt|Aurora:  Running score for this table  - Juniors  http://www.worldbridge.org/repository/tourn/Istanbul.14/microsite/RunningScores/Asp/RoundTeamsConditStatClassicMod.asp?qtournid=1040&qshowflag=1|pg||
 nt|Harlan: Against 4@S I beleive S would find the @C return, but he is trying to set 3@s|pg||
@@ -140,7 +140,7 @@ pc|sA|nt|TopWizard:  620 is par here|pg||
 pc|d2|pg||
 pc|sK|pc|d9|nt|mrdct:  losing 2@d and 1@s|pg||
 mc|10|pg||
-qx|c19|st||md|1SJT97HQJ873DKCT74,SAK6432H5DT6CKJ83,S8HK9DAQJ9872C952,SQ5HAT642D543CAQ6|sv|e|nt|Aurora:  Running score for this table  - Juniors  http://www.worldbridge.org/repository/tourn/Istanbul.14/microsite/RunningScores/Asp/RoundTeamsConditStatClassicMod.asp?qtournid=1040&qshowflag=1|pg||
+qx|c19|st||md|1SJT97HQJ873DKCT74,SAK6432H5DT6CKJ83,S8HK9DAQJ9872C952,SQ5HAT642D543CAQ6|sv|e|nt|Aurora:	Running score for this table  - Juniors  http://www.worldbridge.org/repository/tourn/Istanbul.14/microsite/RunningScores/Asp/RoundTeamsConditStatClassicMod.asp?qtournid=1040&qshowflag=1|pg||
 mb|p|mb|1S|mb|4D|mb|d|mb|p|mb|4S|mb|p|mb|p|mb|p|pc|c2|pc|c6|pc|cT|pc|cJ|pg||
 pc|h5|pc|h9|pc|hA|pc|h3|pg||
 pc|h2|pc|h7|pc|s2|pc|hK|pg||
@@ -217,7 +217,7 @@ pc|sQ|pc|s6|pc|d4|pc|sT|pg||
 mc|10|pg||
 qx|o22|st||md|4SA63HQ865DJ9CAK53,SKT9875HA4DQCJ862,SQ2HKJT9DAK432C74,SJ4H732DT8765CQT9|sv|e|mb|p|mb|1N|nt|mrdct:  EW have not done much wrong so far have they|pg||
 mb|2C|nt|Harlan: 1N is 14-16|pg||
-mb|d|nt|mrdct:  2@c any 6 card suit|pg||
+mb|d|nt|mrdct:	2@c any 6 card suit|pg||
 mb|r|nt|Harlan: X of 2C should be stayman|pg||
 mb|p|mb|2S|nt|mrdct:  redouble is interesting - probabky pass/correct|pg||
 nt|Harlan: SOuth used to play that pass showed a willingness to play 2C XX and does not deny a 4-card major|pg||
@@ -278,7 +278,7 @@ pc|d3|pc|h7|pc|cJ|pc|dT|pg||
 pc|h6|pc|c9|pc|cQ|pc|sT|pg||
 pg||
 qx|o24|st||md|2S532H74D983CJT732,SKQJT4HAQ952DKTC8,S96HKJ8DQJ764CQ94,SA87HT63DA52CAK65|sv|o|mb|1S|mb|p|mb|2C|mb|p|nt|Harlan: I wouldn't ahve been surprised to see West open 1@c|pg||
-mb|2H|mb|p|mb|2S|nt|TopWizard:  We now have a question whether slam will be bid, depending on a double @h finesse (both off as we can see)|pg||
+mb|2H|mb|p|mb|2S|nt|TopWizard:	We now have a question whether slam will be bid, depending on a double @h finesse (both off as we can see)|pg||
 mb|p|mb|3H|nt|mrdct:  quite a good slam for EW here - but i dont think they can manage @hKJx offside|pg||
 mb|p|mb|4C|nt|mrdct:  they should bid slam here with the double fit, control rich position, etc.|pg||
 mb|p|mb|4D|mb|p|nt|TopWizard:  China is charmed in this match, may avoid the 76% slam . . . |pg||
@@ -339,7 +339,7 @@ qx|o26|st||md|4SK9HAK95DA85CKQ83,SAQT53H874DK63CJ7,SJ764HQ63DJ2CAT52,S82HJT2DQT9
 nt|mrdct:  1@h shows @s|pg||
 nt|Aurora:  Running score for this table  - Juniors  http://www.worldbridge.org/repository/tourn/Istanbul.14/microsite/RunningScores/Asp/RoundTeamsConditStatClassicMod.asp?qtournid=1040&qshowflag=1|pg||
 nt|mrdct:  but only 4+@s si EW seem to be playing canape transfer vs stronmg @c|pg||
-mb|d|mb|1S|mb|d|mb|p|nt|mrdct:  vs STR 1@c: DBL=44+Mâs; 1NT=45+mâs; 1@d=4+@h;1@h=4+@s|pg||
+mb|d|mb|1S|mb|d|mb|p|nt|mrdct:	vs STR 1@c: DBL=44+Mâs; 1NT=45+mâs; 1@d=4+@h;1@h=4+@s|pg||
 mb|2S|mb|p|mb|3N|mb|p|nt|mrdct:  1@s=54+@s+m; 2NT= any 2-suits;|pg||
 mb|p|mb|p|pc|s5|nt|mrdct:  if you use the web version of BBO (which i highly recommend) clicking on any player name will brring up a link to their cc|pg||
 pc|s7|pc|s8|pc|s9|pg||
