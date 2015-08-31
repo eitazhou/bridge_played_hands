@@ -27,7 +27,7 @@ mb|p|mb|p|mb|p|nt|ady: par is for east to go down 1 in 5 hearts  |pg||
 pc|hK|pc|h3|nt|ady: souths jump tp 4@S did not allow e/w to take any further sensible action|pg||
 pc|hA|pc|h2|pg||
 pc|dA|pc|dJ|pc|d9|pc|d3|pg||
-nt|ady: correctly pointed out that 4@S  may not make|pg||
+nt|ady: correctly pointed out that 4@S	may not make|pg||
 pc|hQ|pc|h8|pc|h6|pc|h5|pg||
 pc|dK|pc|s3|pc|d4|pc|d7|pg||
 nt|ady: in fact may go down 2|pg||
@@ -71,10 +71,10 @@ pc|h3|pc|hA|pc|h5|pc|h4|pg||
 pc|s3|pc|s6|pc|sK|pc|s9|pg||
 pc|s2|pc|sJ|pc|sA|pc|s7|pg||
 pc|s5|mc|11|pg||
-qx|o24|st||md|2SAT76H5DKQJ76CJT6,SK4HKQ86DT5432CQ8,SJ9HAT92DA8CAK973,SQ8532HJ743D9C542|sv|o|nt|ady: 6@C  a possibility   but  not the best    could be awkward on a heart lead|pg||
+qx|o24|st||md|2SAT76H5DKQJ76CJT6,SK4HKQ86DT5432CQ8,SJ9HAT92DA8CAK973,SQ8532HJ743D9C542|sv|o|nt|ady: 6@C  a possibility	 but  not the best    could be awkward on a heart lead|pg||
 nt|ady: solid 4@S  ok|pg||
 mb|p|mb|1C!|mb|p|mb|1D!|mb|p|mb|2C!|an|16-20 5!c's|mb|p|nt|ady: 6@C here decent |pg||
-mb|2D!|mb|p|mb|2H|an|4!h's|mb|p|mb|4C|mb|p|nt|ady: diamonds 5-1 awkward    but with Q@C onside  can make just ruffing one heart|pg||
+mb|2D!|mb|p|mb|2H|an|4!h's|mb|p|mb|4C|mb|p|nt|ady: diamonds 5-1 awkward    but with Q@C onside	can make just ruffing one heart|pg||
 mb|4H|an|undiscussed|mb|p|nt|ady: there are 6 trump tricks including 1 heart ruff 4 diamonds and 2 major suit aces   but of course declarer  does not know the friendly club position|pg||
 mb|5C|mb|p|mb|p|mb|p|pc|d9|nt|ady: south could have made cu of 4@S|pg||
 nt|ady: n/s cn consider themselves fortunate that their side lost 500 in CR   so missing the slam will only cost 2 or 3 imps|pg||
@@ -96,7 +96,7 @@ qx|c24|st||md|2SAT76H5DKQJ76CJT6,SK4HKQ86DT5432CQ8,SJ9HAT92DA8CAK973,SQ8532HJ743
 mb|p|nt|ahollan1: top 2 teams from each group advance to semi-finals but all other teams continue play|pg||
 mb|1C|mb|p|nt|ahollan1: 1@C=2+|pg||
 mb|1S!|nt|ahollan1: 1@H=4+@H|pg||
-mb|d|nt|ahollan1: oops   too strong |pg||
+mb|d|nt|ahollan1: oops	 too strong |pg||
 nt|ahollan1: sorry  i thought they played transfer responses|pg||
 mb|p|mb|2H|nt|ahollan1: alert because maybe longer @D  [Walsh]|pg||
 mb|d|mb|p|mb|p|mb|p|pc|h5|nt|ahollan1: Drijver 1st PASS denies 3+@S -  support DBL used to show 3-fit|pg||
@@ -134,14 +134,14 @@ mb|4C!|mb|p|mb|4H|mb|p|mb|p|nt|ahollan1: 4@C = @H  [south african texas]|pg||
 mb|p|pc|cQ|pc|c2|pc|c3|pc|c7|pg||
 nt|ahollan1: they use South African Texas so that responder can decide which player declares 4M|pg||
 pc|c9|pc|c4|pc|cK|pc|cJ|pg||
-pc|cA|pc|c8|nt|ahollan1: some extend the treatment so that 4@H and 4@S are transfers for @C/@D  or some other slam going hands|pg||
+pc|cA|pc|c8|nt|ahollan1: some extend the treatment so that 4@H and 4@S are transfers for @C/@D	or some other slam going hands|pg||
 pc|s7|pc|c5|pg||
 pc|c6|pc|dT|pc|h2|pc|cT|pg||
 pc|d2|pc|d5|pc|d4|pc|dJ|pg||
 pc|s5|pc|s6|pc|h7|mc|8|pg||
 qx|o26|st||md|4S7HQ97632DQ9542CT,S8432HJ854D63CKJ3,SKQJ965HKDKJ8CA54,SATHATDAT7CQ98762|sv|b|mb|1N|mb|p|nt|djneill:  South goes way low over the 1NT, I would ahve bid with 6-5 even vul, david?|pg||
 mb|2C|nt|ady: north will compete    will east then compete in clubs|pg||
-mb|2S|mb|3C|mb|p|mb|p|mb|3S|mb|p|mb|p|mb|p|nt|ady: 3@C  not clear for me when west showed interest in majors|pg||
+mb|2S|mb|3C|mb|p|mb|p|mb|3S|mb|p|mb|p|mb|p|nt|ady: 3@C	not clear for me when west showed interest in majors|pg||
 pc|hA|pc|h2|pc|h4|pc|hK|pg||
 nt|ady: A@S   and club switch best     |pg||
 pc|sA|pc|s7|pc|s3|pc|s5|pg||
@@ -171,7 +171,7 @@ pc|c9|pc|h6|pc|s2|pc|s5|pg||
 pc|sJ|pc|sA|pc|h7|pc|s3|pg||
 nt|tomi2: am just wondering if the NS pair regulary plays in the Russian league/championship events or if they were just hired for this event|pg||
 pc|dT|pc|d2|pc|d3|pc|dJ|pg||
-pc|sK|pc|sT|pc|d4|nt|ahollan1:  25  Krasnosselki in 2@H|pg||
+pc|sK|pc|sT|pc|d4|nt|ahollan1:	25  Krasnosselki in 2@H|pg||
 pc|s4|pg||
 pc|sQ|pc|c6|pc|d5|pc|s8|pg||
 pc|d8|pc|dA|pc|d9|nt|ahollan1: and an easy 140|pg||
@@ -204,7 +204,7 @@ pc|c4|pc|c5|pc|cK|pc|cA|pg||
 mc|8|pg||
 qx|o28|st||md|2S7HAT7DKT3CQ98742,SAT6HJD9874CAJT65,SKQJ9854H984DJ2C3,S32HKQ6532DAQ65CK|sv|n|nt|ady: I sympathis with 2@S last hand   though in this case  did not work out well|pg||
 nt|ady: sympathise|pg||
-mb|1D|nt|ady: did well to make 4@H CR     looks poor on a spade lead|pg||
+mb|1D|nt|ady: did well to make 4@H CR	  looks poor on a spade lead|pg||
 nt|ady: may have got a diamond lead|pg||
 mb|3S|mb|d|mb|p|nt|ady: request to the link for running scores please|pg||
 mb|3N|nt|djneill:  hmm interesting choices, 1@d, then X|pg||
@@ -217,7 +217,7 @@ pc|d9|pc|d2|pc|dQ|pc|dK|pg||
 pc|c4|pc|c5|pc|c3|pc|cK|pg||
 pc|hK|pc|hA|pc|sT|pc|h8|pg||
 nt|ady: south thrown in at the end  forced to give 9th trick|pg||
-pc|hT|nt|ady: similar situation in CR in 4@H    south made  heart and 2 diamond tricks   but could not get to a spade trick|pg||
+pc|hT|nt|ady: similar situation in CR in 4@H	south made  heart and 2 diamond tricks	 but could not get to a spade trick|pg||
 pc|d7|pc|h9|pc|hQ|pg||
 nt|ady: club lead  amd 2md club  for trump promotion  looks to beat 4 hearts|pg||
 pc|d5|pc|d3|pc|d8|pc|dJ|pg||
@@ -275,7 +275,7 @@ pc|c4|pc|cT|pc|c5|pc|h2|pg||
 pc|cQ|pc|c8|pc|h4|pc|h9|pg||
 pc|dK|pc|d3|pc|h5|pc|dA|pg||
 pc|h7|pc|hA|pc|h6|pc|hT|pg||
-pc|sA|nt|ahollan1:  28  3N -250!!|pg||
+pc|sA|nt|ahollan1:  28	3N -250!!|pg||
 pc|s5|pc|sT|pc|d4|pg||
 pc|s7|pc|sK|pc|sJ|mc|8|pg||
 qx|o30|st||md|4SJHK9DQJ954CJ9732,SK876H8642DT3CK86,SQ42HAQT753DK2CQ4,SAT953HJDA876CAT5|sv|o|mb|1S|nt|ady: 4 down seemed a lote|pg||
@@ -293,14 +293,14 @@ pc|dJ|pc|s7|pc|sQ|pc|d7|pg||
 nt|ady: kibs pointed out a minor suit squeeze if spade queen is picked up    but  we can see the possibility  but not a natural  play|pg||
 pc|hT|pc|s9|pc|d4|pc|h6|pg||
 pc|d8|pc|dQ|pc|s8|pc|h5|pg||
-nt|ady: if spades 2-2 there are 7 trump tricks  and 3 outside tricks|pg||
+nt|ady: if spades 2-2 there are 7 trump tricks	and 3 outside tricks|pg||
 pc|c6|pc|c4|pc|cA|pc|c2|pg||
 pc|sT|pc|c7|pc|h8|pc|h7|pg||
 mc|9|pg||
-qx|c30|st||md|4SJHK9DQJ954CJ9732,SK876H8642DT3CK86,SQ42HAQT753DK2CQ4,SAT953HJDA876CAT5|sv|o|mb|1D|mb|p|mb|1H|mb|2H|mb|2S!|nt|ahollan1: 1@D = 10-15 hcp, 0+@D [but never fewer]  if 2 suiter, longer @C or @S  but not @H|pg||
+qx|c30|st||md|4SJHK9DQJ954CJ9732,SK876H8642DT3CK86,SQ42HAQT753DK2CQ4,SAT953HJDA876CAT5|sv|o|mb|1D|mb|p|mb|1H|mb|2H|mb|2S!|nt|ahollan1: 1@D = 10-15 hcp, 0+@D [but never fewer]	if 2 suiter, longer @C or @S  but not @H|pg||
 nt|ahollan1: 1@H usually less than game force|pg||
 mb|p|nt|ahollan1: 2@S = 5+@S 4+@D|pg||
-mb|3S|nt|ahollan1: EW system is called  Ultimate Canape|pg||
+mb|3S|nt|ahollan1: EW system is called	Ultimate Canape|pg||
 nt|djneill:  what is canape|pg||
 mb|p|mb|p|mb|p|pc|hK|nt|ahollan1: Dan playing straight man|pg||
 nt|djneill:  it sounds like a type of bird|pg||
@@ -329,11 +329,11 @@ pc|s6|pc|s4|pc|sT|nt|ahollan1: americans more likely to get reference to "slider
 pc|c3|pg||
 pc|sA|pc|dJ|pc|s7|pc|sQ|pg||
 pc|dA|pc|d4|pc|d3|pc|d2|pg||
-pc|d7|pc|d9|pc|s8|nt|ahollan1:  29 4@H west  scored as down 400   can that be right ???|pg||
+pc|d7|pc|d9|pc|s8|nt|ahollan1:	29 4@H west  scored as down 400   can that be right ???|pg||
 pc|h5|pg||
 pc|h8|pc|hT|pc|s9|pc|c7|pg||
 mc|10|pg||
-qx|o31|st||md|1SAQ7HKQTDKJ2CAK94,SJ86432H4D974CQ82,SKT9HAJ75DA85C653,S5H98632DQT63CJT7|sv|n|mb|2N|mb|p|mb|3C!|mb|p|mb|3N|mb|p|nt|ady: 34 combined pts   but very flat    still only 11 sure tricks|pg||
+qx|o31|st||md|1SAQ7HKQTDKJ2CAK94,SJ86432H4D974CQ82,SKT9HAJ75DA85C653,S5H98632DQT63CJT7|sv|n|mb|2N|mb|p|mb|3C!|mb|p|mb|3N|mb|p|nt|ady: 34 combined pts	but very flat	 still only 11 sure tricks|pg||
 mb|4N|mb|p|mb|5N|mb|p|mb|6N|mb|p|mb|p|mb|p|nt|ady: try clubs  first   if not joy need diamond queen later  with a seeing squeeze on east if holding 4 clubs|pg||
 pc|h4|pc|h5|pc|h6|pc|hT|pg||
 pc|hQ|pc|s2|pc|h7|pc|h3|pg||
@@ -341,20 +341,20 @@ pc|hK|pc|s3|pc|hJ|pc|h8|pg||
 pc|sA|pc|s4|pc|s9|pc|s5|pg||
 pc|sQ|pc|s8|pc|sT|pc|h2|pg||
 nt|ady: really must give a club now|pg||
-nt|ady: it was all over at about trick 4 in CR   won opening spade lead   played 1 top club  and then a low club    and  very quickly all was revealed|pg||
+nt|ady: it was all over at about trick 4 in CR	 won opening spade lead   played 1 top club  and then a low club    and  very quickly all was revealed|pg||
 nt|vugraphzmw: @C 9 up en down...|pg||
 pc|c9|pc|c2|pc|c3|pc|cT|pg||
-nt|ady: we know this will make   its a question of when|pg||
+nt|ady: we know this will make	 its a question of when|pg||
 pc|c7|pc|cA|pc|c8|pc|c5|pg||
 pc|cK|pc|cQ|pc|c6|pc|cJ|pg||
 mc|12|pg||
 qx|c31|st||md|1SAQ7HKQTDKJ2CAK94,SJ86432H4D974CQ82,SKT9HAJ75DA85C653,S5H98632DQT63CJT7|sv|n|nt|ahollan1: vugraph operator confirmed down 4|pg||
-mb|2N|mb|p|nt|djneill:  @s lead maybe, to @sK, ruff, cross, ruff, @dA, @hq, @c|pg||
+mb|2N|mb|p|nt|djneill:	@s lead maybe, to @sK, ruff, cross, ruff, @dA, @hq, @c|pg||
 nt|ahollan1: 2N = 21-23|pg||
 mb|3C|mb|p|mb|3N|mb|p|nt|djneill:  3NT down 1 looks exquisite compared to that fate|pg||
 nt|ahollan1: 3@C = relay|pg||
 mb|6N|mb|p|mb|p|nt|djneill:  3NT = no major?|pg||
-mb|p|pc|s4|nt|djneill:  2 shots, @c 3-3, @dQ|pg||
+mb|p|pc|s4|nt|djneill:	2 shots, @c 3-3, @dQ|pg||
 nt|ahollan1: Dan -- have you tried to reverse engineer Brink-Drijver system?|pg||
 pc|s9|pc|s5|pc|s7|pg||
 nt|djneill:  nope|pg||
@@ -367,7 +367,7 @@ pc|cJ|pc|cK|pc|cQ|pc|c6|pg||
 mc|12|nt|djneill:  but could drop a @dQx offside|pg||
 pg||
 qx|o32|st||md|2SJ975HJ54DA92CKT9,SA64HKQT83DKQJC54,SK32HA2D864CQJ863,SQT8H976DT753CA72|sv|e|mb|1H|mb|p|mb|1N|mb|p|mb|2C!|mb|p|nt|ady: west opened 1NT in CR|pg||
-nt|ady: dont know what 2@C is    1NT probably forcing   will likely play in 2@H|pg||
+nt|ady: dont know what 2@C is	 1NT probably forcing	will likely play in 2@H|pg||
 mb|2H|mb|p|mb|2N|mb|p|mb|p|mb|p|pc|s5|pc|s4|pc|sK|pc|s8|pg||
 pc|c6|pc|c7|pc|cT|pc|c4|pg||
 pc|cK|pc|c5|pc|c3|pc|c2|pg||
@@ -392,21 +392,21 @@ nt|Henryb:  I would open 1N, and on this hand pay off to the 1@h openers|pg||
 nt|djneill:  yes henry it is definitely worth a 1NT in value|pg||
 pc|h5|pc|hQ|pc|hA|pc|h6|pg||
 pc|cQ|nt|djneill:  hmm, West can pitch the @dJ|pg||
-pc|s8|pc|d9|nt|Henryb:  really? West is squeezed on two rounds of clubs|pg||
+pc|s8|pc|d9|nt|Henryb:	really? West is squeezed on two rounds of clubs|pg||
 nt|ahollan1:  31  Jansma bid 2N/3N/5N  Paulissen 4N and 6N|pg||
 pc|s4|pg||
 pc|c8|pc|d7|pc|s5|pc|dJ|pg||
 nt|djneill:  see I'm glad I opened 1NT|pg||
 pc|h2|pc|h7|pc|hJ|pc|hK|pg||
 nt|ahollan1: yes  Paulissen also bid 3@C  but that ruins the story|pg||
-pc|hT|mc|7|nt|djneill:  hmm?|pg||
+pc|hT|mc|7|nt|djneill:	hmm?|pg||
 nt|djneill:  ok|pg||
 pg||
 qx|o33|st||md|3SQT962HJDKT543CA2,SK5HQ3DA87CKQT874,SJ43HA8642DJ9C963,SA87HKT975DQ62CJ5|sv|o|mb|p|mb|1H|mb|1S|mb|3C|mb|p|mb|p|mb|p|pc|dJ|pc|d2|pc|d5|pc|d7|pg||
 pc|s4|pc|sA|pc|s6|pc|s5|pg||
 nt|ady: west knocked out  the entry to souths spades playing 3NT  and later developed a heart trick for 9th |pg||
 nt|vugraphzmw: can't see cards, covered by hand Jansma... |pg||
-nt|ady: Het Wittw Huis  started slowly but are now doing well|pg||
+nt|ady: Het Wittw Huis	started slowly but are now doing well|pg||
 mc|8|pg||
 qx|c33|st||md|3SQT962HJDKT543CA2,SK5HQ3DA87CKQT874,SJ43HA8642DJ9C963,SA87HKT975DQ62CJ5|sv|o|nt|djneill:  nice play by joonyah|pg||
 nt|Henryb:  I bet he led the 8 to the 9, cashed the @d10|pg||
@@ -414,7 +414,7 @@ nt|vugraphzmx: sorry |pg||
 nt|ahollan1: averaging over 7 imps per board|pg||
 nt|vugraphzmx: fast claim |pg||
 nt|djneill:  I hear verhees sr was a top player as well, can't remember if he was on the open team|pg||
-mb|p|mb|p|mb|1S|mb|2C|mb|d|mb|r|mb|2D|nt|ahollan1: other vugraph match   thru 32   Israel Blue 33  England 9|pg||
+mb|p|mb|p|mb|1S|mb|2C|mb|d|mb|r|mb|2D|nt|ahollan1: other vugraph match	 thru 32   Israel Blue 33  England 9|pg||
 nt|ahollan1: all matches play same set of boards|pg||
 mb|2N|mb|p|mb|3N|nt|ahollan1: i know Sr has played for Seniors|pg||
 mb|p|mb|p|nt|Henryb:  okay|pg||
@@ -426,7 +426,7 @@ nt|ahollan1: henry has abandoned us for newer technology|pg||
 pc|s3|nt|ahollan1: yes, we know    GIB leads @DJ|pg||
 nt|djneill:  was thinking about @dJ, the @d block but it still goes down?|pg||
 nt|ahollan1: GIB  cheats!!|pg||
-pc|s7|pc|sQ|nt|ahollan1: [i.e.  looks at all 4 hands]|pg||
+pc|s7|pc|sQ|nt|ahollan1: [i.e.	looks at all 4 hands]|pg||
 pc|sK|pg||
 pc|c4|pc|c9|pc|cJ|nt|djneill:  so this is helpful to West that South has the @cA and not the @hA|pg||
 pc|cA|pg||
@@ -437,11 +437,11 @@ pc|s4|pc|sA|pc|s6|pc|d7|pg||
 nt|djneill:  Drijver maybe not sure that South does not have @dA, simple set|pg||
 pc|h5|pc|hJ|pc|hQ|nt|ahollan1: voice commentary discussing auction if Drijver had just bid simple 2@S|pg||
 nt|djneill:  I prefer a 2@s myself, anyone else?|pg||
-nt|ahollan1: simple minded :)    to play bridge i think we're all  dain bramaged|pg||
+nt|ahollan1: simple minded :)	 to play bridge i think we're all  dain bramaged|pg||
 mc|9|pg||
 qx|o34|st||md|4SKT87HK8DK643CAK9,SQ9643HAJDT9CJT83,SA5HT764DAQJ875C6,SJ2HQ9532D2CQ7542|sv|n|nt|nilsland:  I would rather go down in 3NT :)|pg||
 mb|2H|an|5!H/4m|nt|ady: very light opening  east   poor suits|pg||
-mb|d|mb|p|nt|nilsland:  that kind op weak opening wont scare a dutchman|pg||
+mb|d|mb|p|nt|nilsland:	that kind op weak opening wont scare a dutchman|pg||
 nt|ady: 3NT  easy for n/s|pg||
 mb|3C!|an|!D invite+|mb|p|mb|3N|mb|p|mb|4D|nt|nilsland:  risk of 6D now?|pg||
 mb|p|nt|ady: 2 imps for leaders|pg||
@@ -454,7 +454,7 @@ mb|6D|nt|nilsland:  after South 3N that is maybe not the best idea|pg||
 nt|nilsland:  but S is no mouse - he is a man :P|pg||
 mb|p|mb|p|mb|p|pc|h3|pc|hK|pc|hA|pc|h4|pg||
 pc|hJ|pc|h6|pc|h2|pc|h8|pg||
-mc|11|nt|ady: 12 imps    closed the gap|pg||
+mc|11|nt|ady: 12 imps	 closed the gap|pg||
 nt|ritong: hello folks|pg||
 pg||
 qx|c34|st||md|4SKT87HK8DK643CAK9,SQ9643HAJDT9CJT83,SA5HT764DAQJ875C6,SJ2HQ9532D2CQ7542|sv|n|nt|ahollan1: 2@S for me -- raise if you got 'em|pg||
@@ -468,7 +468,7 @@ mb|4D|nt|djneill:  50-50, what does roland think of those odds|pg||
 mb|p|nt|ahollan1: but i'd be really impressed if their sys includes locating opponent's @HA|pg||
 mb|4S|mb|p|nt|ahollan1:  32  [1NW=]   2NW down 2|pg||
 nt|ahollan1: 7 more to Dutch|pg||
-mb|5C|mb|p|nt|djneill:  opened 1@h and still missed the 5-3@h fit hmm|pg||
+mb|5C|mb|p|nt|djneill:	opened 1@h and still missed the 5-3@h fit hmm|pg||
 mb|5D|mb|p|mb|p|mb|p|nt|ahollan1:  33  Gladysh opened 1@H in 2nd seat with the 3532 10 count|pg||
 nt|djneill:  this sequence does indicate the @hA is offside al|pg||
 nt|ahollan1: indeed :)|pg||
@@ -498,11 +498,11 @@ pc|c6|nt|ritong: ...?|pg||
 mc|9|pg||
 qx|c35|st||md|1ST83HJT9763D76CQ2,S9H42DJT98432CKT9,SAKQJ52HKQ8DAQC85,S764HA5DK5CAJ7643|sv|e|mb|2H|mb|p|nt|djneill:  2@h!|pg||
 nt|ahollan1: p - 1@H - 1@S - 3@C // end    very bizarre|pg||
-mb|2N|mb|p|nt|ahollan1: 2@H = 5+suit, 3-10 HCP    i suppose Walter the Walrus would say this hand qualifies|pg||
-mb|3H|mb|p|mb|4S|mb|p|mb|p|nt|djneill:  @dJ lead looks pretty close to Verhees's thumb, but could he try a @s too - both worth|pg||
+mb|2N|mb|p|nt|ahollan1: 2@H = 5+suit, 3-10 HCP	  i suppose Walter the Walrus would say this hand qualifies|pg||
+mb|3H|mb|p|mb|4S|mb|p|mb|p|nt|djneill:	@dJ lead looks pretty close to Verhees's thumb, but could he try a @s too - both worth|pg||
 mb|p|nt|djneill:  work*|pg||
 nt|djneill:  oh 4@s :-)|pg||
-pc|cA|nt|ahollan1: wow  nice lead|pg||
+pc|cA|nt|ahollan1: wow	nice lead|pg||
 pc|c2|pc|c9|pc|c8|pg||
 nt|ahollan1: @C9 = low|pg||
 nt|ahollan1: nice falsecard from Drijver|pg||
@@ -518,7 +518,7 @@ mc|9|pg||
 qx|o36|st||md|2SJ863HKT94DQ865C3,SK97HA876DT74CAQ7,SQ52HJ32DKJ32CK96,SAT4HQ5DA9CJT8542|sv|b|mb|1C|nt|ritong: what to do here is not clearcut|pg||
 mb|p|mb|2C|mb|p|nt|ritong: starting with a forcing raise of @cs could help|pg||
 mb|3C|nt|ritong: but afterwards..|pg||
-nt|ady: diamond lead looks nasty against 3NT    but 4-4|pg||
+nt|ady: diamond lead looks nasty against 3NT	but 4-4|pg||
 mb|p|mb|3N|mb|p|mb|p|mb|p|pc|hT|nt|ritong: gladysh went for the practical approach|pg||
 pc|h6|pc|h3|pc|hQ|pg||
 nt|ady: need to consider  whether 10@H lead promise a higher honour    could be right to play the ace  and avoid a diamond switch|pg||
@@ -539,11 +539,11 @@ pc|h5|nt|ady: now 11|pg||
 pc|h9|pc|hA|nt|ady: 2 imps|pg||
 mc|11|pg||
 qx|c36|st||md|2SJ863HKT94DQ865C3,SK97HA876DT74CAQ7,SQ52HJ32DKJ32CK96,SAT4HQ5DA9CJT8542|sv|b|mb|1D|nt|djneill:  I wish I could say leading Aces against suit contracts was always a good strategy but it's not in general|pg||
-nt|ahollan1: 1@D=10-15  this time the more common weak NT|pg||
+nt|ahollan1: 1@D=10-15	this time the more common weak NT|pg||
 nt|djneill:  East can show @c or just balanced, I like @c|pg||
 mb|p|mb|2C|mb|p|mb|2N|mb|p|mb|3N|mb|p|mb|p|mb|p|nt|ahollan1: 2@C = game force relay   [@C length is coincidence]|pg||
 nt|ahollan1: 2N = some 4333|pg||
-pc|d2|nt|ahollan1:  34 in other room  very scientific auction  Paulissen has used  transfer invite response to takeout dbl of 2@H  and  Optional RKC|pg||
+pc|d2|nt|ahollan1:  34 in other room  very scientific auction  Paulissen has used  transfer invite response to takeout dbl of 2@H  and	Optional RKC|pg||
 nt|ahollan1: @D2 lead is Attitude -- not 4th|pg||
 pc|d9|pc|dQ|pc|d4|pg||
 pc|d5|pc|d7|pc|d3|pc|dA|pg||
@@ -587,7 +587,7 @@ nt|ahollan1: that sounds right -- thanks Tomi|pg||
 pc|dQ|pc|d6|pc|s5|pc|dA|pg||
 nt|tomi2: last year in Germany the Lavazza squad won this event|pg||
 nt|ahollan1:  35 began P-P  Paulissen in 4@S but same @C @C start for defense|pg||
-nt|ahollan1: and that's why Italy has 2 teams   winner and host both get to add 2nd team|pg||
+nt|ahollan1: and that's why Italy has 2 teams	winner and host both get to add 2nd team|pg||
 pc|h4|nt|ahollan1: list of countries determined by the 2012 European Championships  then defending and host countries can add team|pg||
 pc|hT|pc|hQ|pc|hK|pg||
 pc|s6|pc|sQ|pc|c5|pc|s8|pg||
@@ -605,7 +605,7 @@ mc|9|pg||
 qx|o38|st||md|4S832H93DAJ96CAJ96,SAK76H852DQT8CK52,ST95HAKQ4DK54CQ43,SQJ4HJT76D732CT87|sv|e|mb|p|mb|p|mb|1C!|mb|d|nt|ritong: somehow amazing result next room|pg||
 mb|p|nt|ritong: brink went for the throat|pg||
 mb|p|mb|p|nt|ritong: curiouser and curiouser, said the owl|pg||
-pc|c4|nt|ady: bad score for Het Witte Huis  CR   lose 500 on a part score hand1 level doubled again|pg||
+pc|c4|nt|ady: bad score for Het Witte Huis  CR	 lose 500 on a part score hand1 level doubled again|pg||
 pc|c7|nt|ritong: declarer will probably save down two as well here|pg||
 pc|c9|pc|cK|pg||
 pc|s6|pc|sT|pc|sQ|pc|s3|pg||
@@ -654,7 +654,7 @@ pc|hK|pc|h8|pc|h2|pc|hQ|pg||
 pc|c4|pc|cQ|pc|c7|pc|c8|pg||
 pc|dQ|pc|dK|pc|dA|pc|d2|pg||
 nt|ady: 7 tricks    defence should make 3 trump tric ks|pg||
-nt|ady: sorry   8 tricks|pg||
+nt|ady: sorry	8 tricks|pg||
 nt|ritong: yes|pg||
 pc|dJ|pc|d3|pc|d5|pc|d6|pg||
 pc|dT|pc|d9|pc|d8|pc|d7|pg||
@@ -676,7 +676,7 @@ nt|ahollan1: west declaring on @C lead|pg||
 pc|h5|pc|hJ|pg||
 pc|hK|pc|h8|pc|h2|pc|hQ|pg||
 pc|h3|pc|h9|pc|hT|pc|s2|pg||
-pc|cK|nt|ahollan1: bookmark this url:   http://www.eurobridge.org/competitions/12Eilat/Microsite/Results.html    our match is Group B|pg||
+pc|cK|nt|ahollan1: bookmark this url:	http://www.eurobridge.org/competitions/12Eilat/Microsite/Results.html	 our match is Group B|pg||
 pc|cA|pc|c2|pc|c5|pg||
 pc|c4|pc|cQ|pc|c7|pc|c8|pg||
 pc|dQ|pc|dK|pc|dA|pc|d2|pg||
@@ -689,7 +689,7 @@ pc|sT|pc|s7|pc|c6|pc|s3|pg||
 pc|d4|pc|h7|pc|cT|pc|cJ|pg||
 pg||
 qx|o40|st||md|2S3HJ9DQ53CT965432,S5HKQ8652DAJT9CQ8,SAJT9876HAT4D64CJ,SKQ42H73DK872CAK7|sv|o|nt|vugraphzmw: this is the last board of the set...|pg||
-mb|1H|nt|ady: last hand of the session    thx Harold   kibs  and all|pg||
+mb|1H|nt|ady: last hand of the session	  thx Harold   kibs  and all|pg||
 mb|1S|nt|vugraphzmw: wlc|pg||
 mb|d|mb|p|mb|2D|mb|2S|mb|3N|mb|p|mb|p|mb|p|pc|s3|pc|s5|pc|s9|pc|sK|pg||
 nt|nilsland:  good contract|pg||
@@ -705,7 +705,7 @@ pc|dT|pc|d6|pg||
 pc|dA|pc|sJ|pc|d7|pc|dQ|pg||
 pc|dJ|pc|s6|pc|d8|pc|c3|pg||
 pc|hQ|pc|hT|pc|h7|pc|hJ|pg||
-nt|ady: so Bridge club Real edge it on the last hand    very close match|pg||
+nt|ady: so Bridge club Real edge it on the last hand	very close match|pg||
 mc|10|nt|ahollan1: final round begins in 25|pg||
 nt|ritong: merci a tous|pg||
 nt|ritong: ty al|pg||
@@ -718,10 +718,10 @@ mb|2D!|nt|ahollan1: final round robin match  begins in about 35 minutes|pg||
 nt|ahollan1: 2@D = 10-15 hcp, 5+@H 4+@D|pg||
 mb|2S|mb|3N|mb|p|nt|ahollan1: top 2 teams from both groups advance to semi-final but ALL teams play tommorrow to determine prize money|pg||
 mb|4H|mb|p|mb|p|mb|p|pc|cJ|nt|ahollan1: should Verhees pass 3N?   we can see it is best, but during the auction ...|pg||
-nt|ahollan1: the only factor i can think of is  2@D-2@S-X = penalty|pg||
+nt|ahollan1: the only factor i can think of is	2@D-2@S-X = penalty|pg||
 pc|cA|pc|c9|pc|c8|pg||
 pc|h3|pc|h9|pc|h5|pc|h4|pg||
-pc|c6|pc|cQ|nt|ahollan1: thru 20 boards  Group A   1) Angelini  73  Monaco 69  England 64|pg||
+pc|c6|pc|cQ|nt|ahollan1: thru 20 boards  Group A   1) Angelini	73  Monaco 69  England 64|pg||
 pc|hT|pc|c7|pg||
 pc|sA|pc|s2|pc|s3|pc|s5|pg||
 pc|hA|pc|h7|pc|hJ|pc|h2|pg||
