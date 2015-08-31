@@ -59,8 +59,8 @@ pc|c4|pc|c5|pc|cA|pc|c2|pg||
 pc|c3|pc|cQ|pc|cK|pc|c8|pg||
 mc|10|pg||
 qx|o48|st||md|2SJ743HKT6DT985CQ2,SQT8HA752D3CK9853,S962HJDKJ764CAJT7,SAK5HQ9843DAQ2C64|sv|e|nt|ahollan1: other room just finished bidding 46|pg||
-mb|p|mb|p|mb|1N|an|15-17|mb|p|nt|ahollan1: EW   1N  [1/2/3nv]  14-16    [3v/4]  15-17|pg||
-mb|2N|an|Asks for 5 card Major|nt|ahollan1: 2N Puppet Stayman   we also saw that from Dwyer-Bathurst|pg||
+mb|p|mb|p|mb|1N|an|15-17|mb|p|nt|ahollan1: EW	1N  [1/2/3nv]  14-16	[3v/4]	15-17|pg||
+mb|2N|an|Asks for 5 card Major|nt|ahollan1: 2N Puppet Stayman	we also saw that from Dwyer-Bathurst|pg||
 nt|ahollan1: i should say Modified Puppet Stayman|pg||
 nt|Vugraphzfb: Rosenberg asked for an explanation of 2N and has not yet bid|pg||
 nt|CorpLaw:  E will need to guess to lead QH from his hand to make 4H|pg||
@@ -164,7 +164,7 @@ nt|me argent: i have a rule in those situations barnet not to play doubled only 
 nt|CorpLaw:  interesting decision by S to pass 2S rather than rebidding good 7 card club suit|pg||
 nt|barnets: 2@CX down 1|pg||
 pc|h3|pc|hQ|pc|h2|pg||
-nt|ahollan1:  49 [4@DS+1]   Martel did not DBL 1@C   so  uninterrupted  1@C-1@D//1@H-5@D//end|pg||
+nt|ahollan1:  49 [4@DS+1]   Martel did not DBL 1@C   so  uninterrupted	1@C-1@D//1@H-5@D//end|pg||
 pc|s2|nt|CorpLaw:  3C liklely down 1 here. N may be able to hold his losses here|pg||
 pc|s8|pc|s9|pc|s3|pg||
 pc|c6|pc|cA|pc|c4|pc|c9|pg||
@@ -338,7 +338,7 @@ pc|c2|pc|cA|pc|cT|pc|cK|pg||
 pc|h9|pc|hA|pc|h5|mc|9|nt|CorpLaw:  S awake to keep N off endplay|pg||
 pg||
 qx|c52|st||md|2ST762H98D8CAQJ954,SAK9853HAJ3D972CT,SHKT652DKQJ63CK63,SQJ4HQ74DAT54C872|sv|b|nt|Vugraphzff: zia says you have four hearts we make and chip says no and then zia says 3nt|pg||
-mb|1S|mb|2S|mb|3S|mb|p|mb|4S|mb|p|mb|p|mb|p|pc|dK|nt|Vugraphzff: king asks zia  k from ak kq|pg||
+mb|1S|mb|2S|mb|3S|mb|p|mb|4S|mb|p|mb|p|mb|p|pc|dK|nt|Vugraphzff: king asks zia	k from ak kq|pg||
 nt|kit: No real play for this one.|pg||
 pc|dA|pc|d8|pc|d9|pg||
 pc|sQ|pc|s2|pc|s3|pc|h2|pg||
@@ -425,7 +425,7 @@ mb|p|nt|ahollan1: oh  they play Bart|pg||
 mb|2S|mb|p|nt|me argent: NS play godzilla?|pg||
 nt|ahollan1: 2@D shows @H or strong preference to @S|pg||
 nt|CorpLaw:  4S a good contact|pg||
-mb|3S|mb|p|mb|4S|mb|p|mb|p|mb|p|nt|ahollan1: NS  2@C always 2+   freeing up  1@S-1N//2@D to guarantee 4+@D|pg||
+mb|3S|mb|p|mb|4S|mb|p|mb|p|mb|p|nt|ahollan1: NS  2@C always 2+	 freeing up  1@S-1N//2@D to guarantee 4+@D|pg||
 nt|Vugraphzfb: Not sure about what 2@c was when he bid it, but W just said that this auction showed 6-4 in the black suits, but could be 6-3 and messing around; pretty wide range|pg||
 pc|dA|nt|robinswr: i wonder what North would bid with 5134|pg||
 nt|barnets: 6 imps Fleisher on 51|pg||
@@ -439,7 +439,7 @@ pc|dK|pc|dJ|pc|d8|pc|s3|pg||
 pc|s5|pc|s2|pc|s9|pc|sT|pg||
 pc|s4|pc|sA|pc|s8|pc|s6|pg||
 nt|me argent: on board 52 levin also showed a 2suiter with his v3 suits leading 2 an ew 4@Ss|pg||
-pc|sK|pc|sJ|nt|ahollan1:  52 Zia also in 4@S  after 1@S-2@S-3@S-P//4@S   always fun to see all bids including opponent's in single suit|pg||
+pc|sK|pc|sJ|nt|ahollan1:  52 Zia also in 4@S  after 1@S-2@S-3@S-P//4@S	 always fun to see all bids including opponent's in single suit|pg||
 pc|c2|pc|d6|pg||
 pc|hA|nt|ahollan1: Joey got there first :(|pg||
 pc|h6|pc|h3|pc|h7|pg||
@@ -461,16 +461,16 @@ mc|11|pg||
 qx|o55|st||md|1ST73HKQ85DJT65CT2,SQ9HJ3D82CKQJ9764,S642HA9642D974C85,SAKJ85HT7DAKQ3CA3|sv|b|mb|p|mb|3C|mb|p|nt|me argent: and east?|pg||
 nt|ahollan1: 7222 not best for vul preempt  but meckwell don't wait for perfect hands when preempting|pg||
 nt|ahollan1: for that matter -- who does?|pg||
-nt|ahollan1: 3@D = artificial   but 3@S seems clearcut to me|pg||
+nt|ahollan1: 3@D = artificial	but 3@S seems clearcut to me|pg||
 nt|me argent: will east resist 3nt?|pg||
 nt|ritong: joey...:)|pg||
 nt|robinswr: if 3@s is forcing|pg||
 nt|barnets: I dont thinks hes considering it|pg||
 mb|4D!|an|RKC|nt|me argent: im with barny|pg||
 mb|p|nt|robinswr: keycard|pg||
-mb|4S|nt|ahollan1: 4@D = keycard in @C    i don't believe they use  Preempt KC responses|pg||
+mb|4S|nt|ahollan1: 4@D = keycard in @C	  i don't believe they use  Preempt KC responses|pg||
 nt|barnets: that shows 1 with the Q|pg||
-mb|p|nt|adamw:  Will Rosenberg start with a high heart or a low one?|pg||
+mb|p|nt|adamw:	Will Rosenberg start with a high heart or a low one?|pg||
 nt|adamw:  I'm guessing the Ace.|pg||
 nt|me argent: low|pg||
 nt|barnets: either 1 for sure|pg||
@@ -500,8 +500,8 @@ qx|o56|st||md|2ST8HK754DAQ3CQ642,S54HJDKT965CT9875,SQJ63HA962D82CKJ3,SAK972HQT83
 nt|barnets: or dec had the @HJ|pg||
 mb|p|mb|p|mb|1S|mb|p|nt|barnets: that was also possible|pg||
 mb|1N!|mb|p|mb|2H|mb|p|mb|2S|mb|p|nt|robinswr: great lead if dummy had the KJ it would be a newpaper hand|pg||
-mb|p|nt|ahollan1: right Barnet  or   K in dummy J in declarer's hand|pg||
-mb|p|nt|adamw:  Edgar Kaplan used to compliment his partner, Norman Kay, for doing that.|pg||
+mb|p|nt|ahollan1: right Barnet	or   K in dummy J in declarer's hand|pg||
+mb|p|nt|adamw:	Edgar Kaplan used to compliment his partner, Norman Kay, for doing that.|pg||
 pc|c2|nt|adamw:  The HK, that is. Considerate.|pg||
 nt|barnets: so South played a careful @HK to avoid worry for partner if he had played the Q|pg||
 nt|Vugraphzfb: Rodwell: "4th best?" R: "4th best, 2nd from bad holding"|pg||
@@ -523,7 +523,7 @@ nt|me argent: zias rubber bridge backgrond told him to pass over 1@c not bid 1nt
 pc|h3|pc|hK|pc|hJ|pc|h2|pg||
 nt|Vugraphzfb: Rodwell "carding on suits I lead tends to be what?" W: "suit preference"|pg||
 pc|sT|pc|s4|pc|s3|pc|sA|pg||
-nt|me argent: south is  into playing the 10 from 10 8|pg||
+nt|me argent: south is	into playing the 10 from 10 8|pg||
 pc|h8|pc|h4|pc|s5|pc|h6|pg||
 nt|ritong: not sure why rosenberg did not play @c J on the lead|pg||
 pc|c7|nt|ahollan1: 53 in   4 imps to Fleisher|pg||
@@ -580,7 +580,7 @@ pc|cQ|pc|c8|pc|c3|pc|s2|pg||
 pc|d7|pc|d3|pc|dT|pc|d2|pg||
 mc|8|pg||
 qx|o57|st||md|3SK9876H92DT9872CA,ST54HKJT3D54CKJ32,SA2HAQ87DAKC98654,SQJ3H654DQJ63CQT7|sv|e|nt|Vugraphzfb: Rosenberg: "didn't matter what you did, you always make 2"|pg||
-nt|ahollan1: 55   Martel also responds  with  3@C-4@D|pg||
+nt|ahollan1: 55   Martel also responds	with  3@C-4@D|pg||
 nt|Vugraphzfb: Rodwell: "hearts were 4-4"|pg||
 mb|1C|mb|p|mb|1S|mb|p|nt|adamw:  Some play MUD, or middle up down, but I don't think it's especially popular.|pg||
 mb|2H!|an|100% force, could be short|mb|p|mb|2S|mb|p|nt|me argent: 3NT here wont do well on @C lead|pg||
@@ -589,7 +589,7 @@ mb|2N|nt|ahollan1: but Zia's responses are modified  [Preempt RKC aka Poorman's 
 mb|p|nt|ahollan1: gulp|pg||
 nt|adamw:  I think that reverse could be on a short suit.|pg||
 nt|me argent: 4@Ss however is a different matter|pg||
-mb|3N|mb|p|mb|p|mb|p|nt|adamw:  2@S likely just showed a fifth @S.|pg||
+mb|3N|mb|p|mb|p|mb|p|nt|adamw:	2@S likely just showed a fifth @S.|pg||
 nt|Vugraphzfb: Not sure why 2@h was alerted - I think just that it could sometimes be off shape|pg||
 nt|adamw:  9 tricks with the lucky lie, except on a @C lead.|pg||
 nt|CorpLaw:  need to avoid club lead to make this|pg||
@@ -597,7 +597,7 @@ nt|ahollan1: sorry   2@H = all reverses 100% force, possible singleton|pg||
 nt|ahollan1: 2@S = 5+suit  does not promise another bid|pg||
 nt|adamw:  Thanks Al! I remembered that one from an earlier match.|pg||
 nt|Vugraphzfb: Thanks to Debbie Rosenberg for the explanation of 2@h|pg||
-pc|sQ|nt|ahollan1:  55  Zia gives wrong answer to PRKC  so Martel jumps to 7@C|pg||
+pc|sQ|nt|ahollan1:  55	Zia gives wrong answer to PRKC	so Martel jumps to 7@C|pg||
 nt|robinswr: it looks more like a notrump opener than a club heart reverse|pg||
 nt|ahollan1: pointed out  that with 2@D available, 2@H should be nat  and 2@D would be suspect|pg||
 nt|CorpLaw:  N may try to cash AK diamonds before playing spade to K, then will need to guess which suit is breaking 3-3.  may try KD to see if get count from oppt|pg||
@@ -716,7 +716,7 @@ pc|s2|pc|s8|pc|sT|pc|s5|pg||
 pc|d7|pc|d4|pc|d9|pc|dA|pg||
 nt|ahollan1: next board is final for the set, and unfortunately final for me|pg||
 pc|h9|pc|h7|pc|hA|pc|h5|pg||
-nt|me argent: i might well of bid with that south hand   especially seeing all 4 hands|pg||
+nt|me argent: i might well of bid with that south hand	 especially seeing all 4 hands|pg||
 nt|ritong: yeah|pg||
 nt|ahollan1: so i really want to thank Jan Martel, USBF, vugraph operators, commentators and all of the PLAYERS|pg||
 nt|me argent: @H@H@H thats 4 u jan|pg||
@@ -768,21 +768,21 @@ nt|barnets: there are 2 more sets to play in this match|pg||
 pc|dA|pc|d9|pc|dQ|pc|d2|pg||
 pc|d6|pc|dK|pc|sJ|pc|d4|pg||
 mc|10|nt|robinswr: or 30 boards which ever comes first|pg||
-nt|ahollan1: thanks everyone    don't let anything interesting happen when i'm gone|pg||
+nt|ahollan1: thanks everyone	don't let anything interesting happen when i'm gone|pg||
 nt|barnets: 59 1n passed|pg||
 nt|ritong: merci a tous|pg||
 nt|barnets: in closed|pg||
 nt|barnets: still not listening to Joey|pg||
 pg||
 qx|c60|st||md|2S3HKQJ63DJ42CAQ74,SAQ752HT84DA7653C,ST98H92DK98CKT952,SKJ64HA75DQTCJ863|sv|n|mb|1S|nt|Vugraphzff: called a martel grovnor|pg||
-mb|p|mb|3C!|nt|ahollan1: 3@C =  LR  a) 4-fit  b) 3-fit, suity|pg||
+mb|p|mb|3C!|nt|ahollan1: 3@C =	LR  a) 4-fit  b) 3-fit, suity|pg||
 mb|p|mb|3D!|mb|p|mb|3S|an|shows 4|mb|p|mb|4S|mb|p|mb|p|mb|p|nt|Vugraphzff: show 4 card LR|pg||
 nt|ahollan1: suity = different from balance limit raise that is ok for NT|pg||
 nt|Vugraphzff: next set starts at 3:45 eastern time|pg||
 nt|ahollan1: 3@D = RELAY   3@S = 4-fit|pg||
 nt|Vugraphzff: LR is limit raise|pg||
 pc|cT|nt|Vugraphzff: could be 3rd best honor t9 or just t|pg||
-pc|c3|nt|ahollan1: LR  / limit raise    think invitational|pg||
+pc|c3|nt|ahollan1: LR  / limit raise	think invitational|pg||
 nt|Vugraphzff: south says think about hand and zia says i dont blame you|pg||
 pc|cA|pc|s2|pg||
 pc|d5|pc|d8|pc|dT|pc|dJ|pg||
