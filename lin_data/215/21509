@@ -21,8 +21,8 @@ nt|Vugraphzps: PINGUELLO Gigi  MESIANO Andrea  INVERNIZZI Sergio   PAGANI Giusep
 nt|Vugraphzps: CARUGATI Fabio  PAGANI Daniele  FICUCCIO Giuseppe  PELIZZARI Gabriele|pg||
 nt|nemeo: ora mi sa che seincassa la dama e gioca picche poi c'è ancora una presa di atout per la difesa|pg||
 nt|Vugraphzps: ===   @sCLAIR@s Padova Bridge   ===|pg||
-nt|Vugraphzps: CLAIR Paolo   DE MICHELIS Luca   GENERALI Sergio   TOTARO Carlo|pg||
-nt|Vugraphzps: FOGEL Paolo   MATTEUCCI Mario   MINALDO Claudio   |pg||
+nt|Vugraphzps: CLAIR Paolo   DE MICHELIS Luca	GENERALI Sergio   TOTARO Carlo|pg||
+nt|Vugraphzps: FOGEL Paolo   MATTEUCCI Mario   MINALDO Claudio	 |pg||
 pc|sJ|pc|s7|pc|sA|pc|s2|pg||
 nt|gluckenval: grazie francesca|pg||
 pc|dJ|nt|Vugraphzps: :)|pg||
@@ -71,10 +71,10 @@ mb|1C|mb|p|nt|engsetter:  a routine 3NT here|pg||
 nt|athene: hi good afternoon everyone|pg||
 mb|1N|mb|p|mb|2S|mb|p|mb|3C|mb|p|mb|3N|mb|p|nt|athene: is this Blue Club? so 1@C 16+, 1nt 4 controls?|pg||
 mb|p|mb|p|nt|queequeg: ===   @HPINGUELLO@H C.lo Bridge Resegone   ===|pg||
-nt|queequeg: PINGUELLO Gigi  MESIANO Andrea  INVERNIZZI Sergio   PAGANI Giuseppe|pg||
-nt|queequeg: CARUGATI Fabio  PAGANI Daniele  FICUCCIO Giuseppe  PELIZZARI Gabriele|pg||
+nt|queequeg: PINGUELLO Gigi  MESIANO Andrea  INVERNIZZI Sergio	 PAGANI Giuseppe|pg||
+nt|queequeg: CARUGATI Fabio  PAGANI Daniele  FICUCCIO Giuseppe	PELIZZARI Gabriele|pg||
 nt|queequeg: ===   @sCLAIR@s Padova Bridge   ===|pg||
-nt|queequeg: CLAIR Paolo   DE MICHELIS Luca   GENERALI Sergio   TOTARO Carlo|pg||
+nt|queequeg: CLAIR Paolo   DE MICHELIS Luca   GENERALI Sergio	TOTARO Carlo|pg||
 nt|queequeg: FOGEL Paolo   MATTEUCCI Mario   MINALDO Claudio   |pg||
 nt|athene: or is 1nt just natural in principle and a mild bend?|pg||
 nt|athene: ok blue club i am told :)|pg||
@@ -149,13 +149,13 @@ mc|12|nt|athene: my guess is 5@H did show two keycards with no @SQ|pg||
 pg||
 qx|o5|st||md|3SJ98654H83DK53CJ9,S3HAQJ975D6CKQT84,SAKQT72HK6DQ8CA65,SHT42DAJT9742C732|sv|n|nt|gluckenval: anche se questa dichiarazione non mi trova concorde al 100%, è comunque migliore della sala chiusa,e IMPS meritati per Clair|pg||
 mb|1S|mb|p|nt|Vugraphzps: @S@S@S ITALY CUP - Running Scores: |pg||
-nt|Vugraphzps: @S@S@S   http://77.238.22.164/g2bwrama/ftpout/miniram1.html |pg||
+nt|Vugraphzps: @S@S@S	http://77.238.22.164/g2bwrama/ftpout/miniram1.html |pg||
 nt|nemeo: qui difesa mancata nell'altra sala, 5@h vanno mezzo down|pg||
 mb|4S|mb|4N!|mb|d|nt|nemeo: nemmeno scusate|pg||
 mb|5D|mb|5S|mb|p|mb|p|mb|6D|mb|d|mb|6H|mb|d|mb|p|mb|p|mb|p|pc|sK|nt|gluckenval: penso che Invernizzi dicendo 3@D al passaggio si sarebbe tolto qualche pensiero da prima.... certo è che a 5@S i verticali erano "a mare"...|pg||
 pc|h2|pc|s4|pc|s3|pg||
 pc|h4|pc|h3|pc|hQ|pc|hK|pg||
-nt|nemeo: persa l'occasione di un doppio scorepassando su 5@s,  ma anche così un buon guadagno per Pinguello|pg||
+nt|nemeo: persa l'occasione di un doppio scorepassando su 5@s,	ma anche così un buon guadagno per Pinguello|pg||
 nt|gluckenval: anche 4@S non mi sembra così automatico da fare....  col taglio a @D più 1 cuori + 1 fiori mi sa che si andava down|pg||
 pc|d8|pc|dA|pc|d5|pc|d6|pg||
 pc|c2|pc|c9|pc|cK|pc|c5|pg||
@@ -244,7 +244,7 @@ mc|10|nt|othered1: 100 is a cheap price for that|pg||
 nt|athene: for example if south leads @DA, you can draw trumps and lead @DQ throwing a loser|pg||
 pg||
 qx|o7|st||md|1SKQ65H52DT985CKQ5,SJ97HKT9DAK2C7642,SA832HAQ874D43CAJ,ST4HJ63DQJ76CT983|sv|b|nt|Vugraphzps: @S@S@S ITALY CUP - Running Scores: |pg||
-nt|Vugraphzps: @S@S@S   http://77.238.22.164/g2bwrama/ftpout/miniram1.html |pg||
+nt|Vugraphzps: @S@S@S	http://77.238.22.164/g2bwrama/ftpout/miniram1.html |pg||
 nt|nemeo: qui 4@s disponibili per N-S e questa volta senza decisioni da dover prendere al livello di 5....|pg||
 mb|p|mb|p|mb|1H|mb|p|mb|1S|mb|p|mb|3S|mb|p|mb|4S|mb|p|nt|nemeo: facile e naturale|pg||
 mb|p|mb|p|pc|dA|pc|d3|pc|d7|pc|dT|pg||
@@ -291,7 +291,7 @@ mb|p|mb|5H|mb|p|mb|6C|mb|p|mb|6D|mb|p|mb|p|mb|p|pc|s9|nt|nemeo: senza attacco at
 nt|nemeo: con la @sQ che prende si aprono nuovi orizzonti|pg||
 nt|nemeo: nel senso che li fa proprio|pg||
 nt|Vugraphzps: @S@S@S ITALY CUP - Running Scores: |pg||
-nt|Vugraphzps: @S@S@S   http://77.238.22.164/g2bwrama/ftpout/miniram1.html |pg||
+nt|Vugraphzps: @S@S@S	http://77.238.22.164/g2bwrama/ftpout/miniram1.html |pg||
 pc|sQ|pc|s2|pc|s5|pg||
 pc|h2|pc|h4|pc|hA|pc|h7|pg||
 pc|s7|pc|s8|pc|d6|pc|s4|pg||
@@ -390,7 +390,7 @@ nt|nemeo: e così l'attacco A@s costa 12 imps e Pinguello passa a condurre|pg||
 nt|nemeo: no scusate :)|pg||
 nt|nemeo: costa 12 imps e basta :)|pg||
 nt|Vugraphzps: @S@S@S ITALY CUP - Running Scores: |pg||
-nt|Vugraphzps: @S@S@S   http://77.238.22.164/g2bwrama/ftpout/miniram1.html |pg||
+nt|Vugraphzps: @S@S@S	http://77.238.22.164/g2bwrama/ftpout/miniram1.html |pg||
 nt|gioffi: buonasera a tutti|pg||
 nt|nemeo: ciao Giuseppe|pg||
 pc|cQ|pc|c3|pc|cT|pc|c4|pg||
@@ -514,7 +514,7 @@ nt|athene: duck this is sensible|pg||
 pc|s2|pc|s4|pc|sK|nt|engsetter:  I think he should have taken 2 trumps only|pg||
 pc|sA|pg||
 pc|sJ|pc|s5|pc|s8|pc|sQ|pg||
-nt|jaapfr: are  we all looking at the same board??|pg||
+nt|jaapfr: are	we all looking at the same board??|pg||
 nt|engsetter:  then the duck does no good|pg||
 pc|cQ|pc|c9|pc|s6|nt|athene: but now declarer just plays @CQ throwing spade|pg||
 pc|c4|pg||
@@ -611,7 +611,7 @@ pc|c4|pc|cJ|pc|cT|pc|cQ|pg||
 pc|sJ|pc|sT|pc|s2|pc|sK|pg||
 pc|dT|pc|d2|pc|dK|pc|d4|pg||
 pc|cA|pc|c2|mc|10|pg||
-qx|c15|st||md|1SATHJDK96CAK87543,S72HK9742DQ54CJ62,SK54HQT85DAT873CT,SQJ9863HA63DJ2CQ9|sv|n|mb|2C|mb|p|nt|jaapfr: reach 3nt here as NS  unbeatable|pg||
+qx|c15|st||md|1SATHJDK96CAK87543,S72HK9742DQ54CJ62,SK54HQT85DAT873CT,SQJ9863HA63DJ2CQ9|sv|n|mb|2C|mb|p|nt|jaapfr: reach 3nt here as NS	unbeatable|pg||
 mb|2D|mb|2S|mb|3C|mb|p|nt|othered1: That's a rather maximum 2@C opening.|pg||
 nt|jaapfr: not easy to bid?|pg||
 mb|p|mb|p|nt|jaapfr: now after 2@S|pg||
