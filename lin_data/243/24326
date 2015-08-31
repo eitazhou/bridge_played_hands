@@ -146,7 +146,7 @@ pc|d8|nt|malipivo:  Well done.|pg||
 pc|dK|nt|malipivo:  Even with 5-1 in trumps.|pg||
 pc|dA|pg||
 nt|malipivo:  As we can see double finessing in clubs is on.|pg||
-pc|s7|pc|s2|pc|s5|nt|malipivo:  We were too ahead of the Open Room.|pg||
+pc|s7|pc|s2|pc|s5|nt|malipivo:	We were too ahead of the Open Room.|pg||
 pc|sQ|pg||
 pc|s4|pc|s3|pc|sA|pc|h4|pg||
 pc|sK|pc|h5|pc|d3|pc|s6|pg||
@@ -233,7 +233,7 @@ mb|1D|nt|malipivo:  This is also an interesting board, 3!n for E-W.|pg||
 mb|p|mb|1S|mb|p|mb|1N|mb|p|nt|malipivo:  We may count 7 top tricks and a lot of possibilites for more.|pg||
 nt|malipivo:  Spade suit is a candidate: @sT987.|pg||
 mb|3N|mb|p|nt|malipivo:  Heart suit is a candidate: @hJT9.|pg||
-mb|p|mb|p|nt|malipivo:  And of course diamonds with three potential tricks.|pg||
+mb|p|mb|p|nt|malipivo:	And of course diamonds with three potential tricks.|pg||
 pc|sQ|nt|malipivo:  First guess: @sK?|pg||
 nt|malipivo:  But @sJ is very well protected.|pg||
 pc|s5|pc|s2|pc|sA|pg||
@@ -265,7 +265,7 @@ pc|dA|pc|dJ|pc|d6|pc|d4|pg||
 pc|sQ|pc|s2|mc|10|pg||
 qx|c7|st||md|1SQJT653HJDA8732CT,S982HA8743DQJCJ74,S7HQ2DT96CAQ86532,SAK4HKT965DK54CK9|sv|b|mb|2S|mb|p|mb|p|nt|malipivo:  Vugraph schedule: |pg||
 nt|malipivo:  http://www.bridgebase.com/vugraph/schedule.php|pg||
-mb|2N|mb|p|mb|3D!|mb|p|mb|3H|mb|p|nt|malipivo:  Another almost slam zone situation.|pg||
+mb|2N|mb|p|mb|3D!|mb|p|mb|3H|mb|p|nt|malipivo:	Another almost slam zone situation.|pg||
 mb|4H|mb|p|mb|p|mb|p|pc|sQ|nt|malipivo:  But with a lot of pitfalls: a hidden spade loser, and two aces.|pg||
 pc|s2|pc|s7|pc|sA|pg||
 nt|malipivo:  A club singleton is worth gold in South hand.|pg||
@@ -374,7 +374,7 @@ nt|malipivo:  Summary of the first half: 19 imp difference and 19-11 VP in favor
 mb|p|mb|p|mb|1H|mb|d|mb|2H|mb|2S|nt|malipivo:  4@h looks like going down (1@h, 3@c).|pg||
 mb|3H|mb|p|mb|p|nt|malipivo:  And a hidden diamond loser.|pg||
 mb|3S|mb|p|nt|malipivo:  And that loser is going nowhere, even if spade ruffing finesse is on (@sK).|pg||
-mb|p|mb|p|nt|malipivo:  3@s it is! @sA is worth noticing.|pg||
+mb|p|mb|p|nt|malipivo:	3@s it is! @sA is worth noticing.|pg||
 pc|dA|nt|malipivo:  2-3 spade losers, one heart and two diamonds.|pg||
 pc|d4|pc|d2|pc|dQ|pg||
 nt|malipivo:  The Open Room is still negotiating the contract.|pg||
@@ -434,10 +434,10 @@ pc|hA|pc|d2|pc|h5|pc|h8|pg||
 nt|malipivo:  Welcome to all the newcomers, we are in the second half of this match Poland vs Argentina, Poland winning.|pg||
 pc|hQ|pc|d3|pc|h7|pc|h2|pg||
 pc|h3|pc|d5|pc|hT|pc|h6|pg||
-pc|dT|pc|d7|pc|dA|nt|malipivo:  We are watching:|pg||
+pc|dT|pc|d7|pc|dA|nt|malipivo:	We are watching:|pg||
 nt|malipivo:  http://www.worldbridge1.org/tourn/TaiCang.12/microSite/Information.htm|pg||
 pc|d8|pg||
-pc|s4|pc|s6|pc|sQ|nt|malipivo:  Watching Youngsters according to this plan:|pg||
+pc|s4|pc|s6|pc|sQ|nt|malipivo:	Watching Youngsters according to this plan:|pg||
 pc|sK|pg||
 nt|malipivo:  http://www.worldbridge.org/tourn/TaiCang.12/MicroSite/TaicangScheduleOfPlay.pdf|pg||
 pc|cJ|pc|c2|pc|c4|pc|c3|pg||
@@ -483,7 +483,7 @@ nt|malipivo:  6@h|pg||
 pc|hA|pc|h7|pc|hJ|pc|h3|pg||
 pc|d6|pc|dT|pc|dK|pc|d3|pg||
 pc|d2|pc|d9|pc|s9|pc|dJ|pg||
-pc|c3|pc|cK|pc|cT|nt|malipivo:  Board 10: 6@hX|pg||
+pc|c3|pc|cK|pc|cT|nt|malipivo:	Board 10: 6@hX|pg||
 pc|c5|pg||
 pc|h8|pc|h2|pc|hQ|pc|h4|pg||
 pc|sA|pc|sT|pc|c7|pc|d8|pg||
@@ -504,14 +504,14 @@ mb|1C|mb|p|mb|1D|nt|malipivo:  We are ahead two boards.|pg||
 mb|1H|mb|d|nt|malipivo:  Very risky 4@s E-W.|pg||
 nt|malipivo:  But it would go down thanks to @cT.|pg||
 mb|p|mb|3C|mb|p|mb|3N|nt|malipivo:  3!n from East?|pg||
-mb|p|mb|p|nt|malipivo:  Aj"|pg||
+mb|p|mb|p|nt|malipivo:	Aj"|pg||
 mb|p|pc|h9|nt|malipivo:  It was pretty close.|pg||
 nt|malipivo:  This is going down a lot of tricks.|pg||
 pc|hQ|pc|hK|pc|h4|pg||
 nt|malipivo:  It would be terrific to play it from East. 3 spades+1-2 hearts+4 diamonds and 0-1 clubs.|pg||
 pc|s3|pc|s4|pc|sT|pc|sJ|pg||
 pc|s7|pc|s8|pc|sQ|pc|s2|pg||
-pc|s6|pc|s5|pc|s9|nt|malipivo:  Hm, interesting!|pg||
+pc|s6|pc|s5|pc|s9|nt|malipivo:	Hm, interesting!|pg||
 pc|sA|pg||
 pc|h2|pc|hA|nt|malipivo:  They could try to steal one club winner immediately.|pg||
 pc|hJ|pc|h3|pg||
@@ -614,7 +614,7 @@ pc|h2|pc|h6|pc|hA|pg||
 pc|cA|nt|malipivo:  2major N-S might be interesting battle.|pg||
 pc|c2|pc|c3|pc|c8|pg||
 pc|c4|pc|c5|pc|cK|pc|c9|pg||
-pc|d6|pc|d3|pc|dJ|nt|malipivo:  And we would be in 3@c.|pg||
+pc|d6|pc|d3|pc|dJ|nt|malipivo:	And we would be in 3@c.|pg||
 pc|dA|pg||
 pc|s2|pc|s4|pc|sJ|pc|s7|pg||
 pc|hJ|pc|h3|pc|h9|pc|h4|pg||
@@ -651,7 +651,7 @@ mb|1H|nt|malipivo:  That is a great experience at the international level.|pg||
 mb|2S|mb|d|nt|malipivo:  Let's focus on this board as the difference is 42-imp (25-5 VP) and every single imp will count here.|pg||
 mb|4S|nt|malipivo:  3!n E in OR.|pg||
 nt|malipivo:  5@c? 5@d?|pg||
-mb|d|mb|p|mb|p|mb|p|pc|dA|nt|malipivo:  Losers count: 1 spade, 2 hearts, 2 diamonds and 1 club|pg||
+mb|d|mb|p|mb|p|mb|p|pc|dA|nt|malipivo:	Losers count: 1 spade, 2 hearts, 2 diamonds and 1 club|pg||
 pc|d4|pc|dQ|pc|d2|pg||
 pc|d3|nt|malipivo:  That's close, but it will be 800 points and a loss for the team of Poland.|pg||
 pc|d5|pc|dJ|pc|d7|pg||
