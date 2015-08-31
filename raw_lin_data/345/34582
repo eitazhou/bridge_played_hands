@@ -1,0 +1,705 @@
+vg|Mondial de Deauille,Get Immo 8_21,I,1,28,Team 1,0,Team 2,0|
+rs|3DW-2,3DW-1,1SW-1,1SW=,3NE+1,3NE+1,3NW+3,3NE=,1NW-2,2DW=,4SE+1,4SW+1,2SS-2,2SS-2,4SN+1,4SN+2,4HNx-4,4DW=,4HS=,4HN-1,4HS=,4HN-1,5HW-3,4SN=,3SN=,4SN-1,3NN=,1NN+1,3HWx-1,3NWx=,1NS-2,2SW-1,3NS-6,3DS-1,3NN+2,3NN+1,5SE-1,5HNx-1,4SS+1,4SS=,5HE+1,4HE+1,1NE-3,1NE-1,4SW-1,3HWxx=,1NS=,1NS+1,6HW-1,4HW+1,1NE-2,3HE=,4HW=,4HW=,3NW-2,3NW-4|
+pn|TARTARIN,VOLKER,HUBERSCHWI,SEBBANE,Messika,Tartarin J,Tembouret,Huberschwi|pg||
+qx|o1|st||md|3SA96HKQT4DQ82CAT8,SKQJT4HJ95DAKJ9C2,S8732HA2DT74CQ974,S5H8763D653CKJ653|sv|o|mb|p|mb|p|mb|1N|mb|2S|mb|p|mb|2N|mb|p|mb|3D|mb|p|mb|p|mb|p|pc|hA|pc|h3|pc|h4|pc|h5|pg||
+pc|h2|pc|h6|pc|hQ|pc|h9|pg||
+pc|hK|pc|hJ|pc|c4|pc|h7|pg||
+pc|cA|pc|c2|pc|c7|pc|c3|pg||
+pc|hT|pc|d9|pc|dT|pc|h8|pg||
+pc|d7|pc|d3|pc|d2|pc|dJ|pg||
+pc|sK|pc|s2|pc|s5|pc|sA|pg||
+pc|d8|pc|dA|pc|d4|pc|d5|pg||
+mc|7|pg||
+qx|c1|st||md|3SA96HKQT4DQ82CAT8,SKQJT4HJ95DAKJ9C2,S8732HA2DT74CQ974,S5H8763D653CKJ653|sv|o|mb|p|mb|p|mb|1N|mb|2S|mb|p|mb|2N!|mb|p|mb|3D|mb|p|mb|p|mb|p|pc|hA|pc|h3|pc|h4|pc|h5|pg||
+pc|h2|pc|h6|pc|hQ|pc|h9|pg||
+pc|hK|pc|hJ|pc|s3|pc|h7|pg||
+pc|hT|pc|c2|pc|c9|pc|h8|pg||
+pc|sA|pc|s4|pc|s2|pc|s5|pg||
+pc|s9|pc|sT|pc|s7|pc|c3|pg||
+pc|sJ|pc|s8|pc|d3|pc|s6|pg||
+pc|d5|pc|d2|pc|dJ|pc|d4|pg||
+pc|dA|pc|d7|pc|d6|pc|d8|pg||
+pc|dK|pc|dT|pc|c5|pc|dQ|pg||
+mc|8|pg||
+qx|o2|st||md|4S654HA765DQ42CQT3,SAJT3HK83DA7CJ862,SQ92HQ9DK95CAK754,SK87HJT42DJT863C9|sv|n|mb|p|mb|p|mb|1C|mb|p|mb|1H|mb|p|mb|1S|mb|p|mb|p|mb|p|pc|s2|pc|s7|pc|s6|pc|s3|pg||
+pc|c9|pc|c3|pc|c6|pc|cK|pg||
+pc|s9|pc|s8|pc|s5|pc|sJ|pg||
+pc|c2|pc|c5|pc|sK|pc|cT|pg||
+pc|hJ|pc|h5|pc|h3|pc|hQ|pg||
+pc|h9|pc|h2|pc|hA|pc|hK|pg||
+pc|h6|pc|h8|pc|sQ|pc|h4|pg||
+pc|cA|pc|d3|pc|cQ|pc|c8|pg||
+pc|c4|pc|d6|pc|s4|pc|cJ|pg||
+pc|d2|pc|dA|pc|d5|pc|d8|pg||
+mc|6|pg||
+qx|c2|st||md|4S654HA765DQ42CQT3,SAJT3HK83DA7CJ862,SQ92HQ9DK95CAK754,SK87HJT42DJT863C9|sv|n|mb|p|mb|p|mb|1C!|mb|p|mb|1H|mb|p|mb|1S|mb|p|mb|p|mb|p|pc|cA|pc|c9|pc|cT|pc|c6|pg||
+pc|hQ|pc|h2|pc|h7|pc|hK|pg||
+pc|s3|pc|s2|pc|sK|pc|s4|pg||
+pc|s7|pc|s5|pc|sJ|pc|sQ|pg||
+pc|h9|pc|hJ|pc|hA|pc|h3|pg||
+pc|h5|pc|h8|pc|s9|pc|h4|pg||
+pc|d5|pc|dJ|pc|dQ|pc|dA|pg||
+pc|c2|pc|c5|pc|s8|pc|c3|pg||
+pc|hT|pc|h6|pc|d7|pc|c4|pg||
+pc|d3|pc|d2|pc|sT|pc|d9|pg||
+pc|sA|pc|c7|pc|d6|pc|s6|pg||
+mc|7|pg||
+qx|o3|st||md|1S8632H86DK8CAT874,SAKJ975HJ2D762CKQ,ST4HAT974DJ954CJ3,SQHKQ53DAQT3C9652|sv|e|mb|p|mb|1S|mb|p|mb|2C|mb|p|mb|2S|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|c4|pc|cQ|pc|c3|pc|c6|pg||
+pc|hJ|pc|hA|pc|h3|pc|h6|pg||
+pc|cJ|pc|c2|pc|cA|pc|cK|pg||
+pc|cT|pc|d2|pc|h4|pc|c5|pg||
+pc|c7|pc|d6|pc|d5|pc|c9|pg||
+pc|sQ|pc|s2|pc|sA|pc|s4|pg||
+mc|10|pg||
+qx|c3|st||md|1S8632H86DK8CAT874,SAKJ975HJ2D762CKQ,ST4HAT974DJ954CJ3,SQHKQ53DAQT3C9652|sv|e|mb|p|mb|1S|mb|p|mb|2D|mb|p|mb|2S|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|c7|pc|cQ|pc|cJ|pc|c5|pg||
+pc|h2|pc|h4|pc|hQ|pc|h6|pg||
+pc|h3|pc|h8|pc|hJ|pc|hA|pg||
+pc|c3|pc|c2|pc|cA|pc|cK|pg||
+pc|cT|pc|d2|pc|d4|pc|c6|pg||
+pc|c4|pc|s5|pc|h7|pc|c9|pg||
+pc|sQ|pc|s2|pc|sA|pc|s4|pg||
+mc|10|pg||
+qx|o4|st||md|2S543HK754DT32CKQ3,SAQ7HA632DKJ6CA72,SJT982HQT8D975C98,SK6HJ9DAQ84CJT654|sv|b|mb|1C|mb|p|mb|1D|mb|p|mb|2N|mb|p|mb|3C|mb|p|mb|3D|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|sJ|pc|sK|pc|s5|pc|s7|pg||
+pc|cJ|pc|cQ|pc|cA|pc|c9|pg||
+pc|c7|pc|c8|pc|cT|pc|cK|pg||
+pc|h4|pc|hA|pc|h8|pc|h9|pg||
+pc|sA|pc|s2|pc|s6|pc|s4|pg||
+pc|sQ|pc|s8|pc|hJ|pc|s3|pg||
+mc|12|pg||
+qx|c4|st||md|2S543HK754DT32CKQ3,SAQ7HA632DKJ6CA72,SJT982HQT8D975C98,SK6HJ9DAQ84CJT654|sv|b|nt|vugraphzaj: le Patton de Deauville vient de reprendre pour 7 matchs de 4 donnes|pg||
+nt|vugraphzaj: cinq minutes de pause en attendant le prochai match|pg||
+nt|vugraphzaj: Une précision sur le mode de calcul : en dehors du barème en Imp's répartissant 8 points de match, 8 autres points  sont attribués  pour les quatre donnes jouées (2 points par ...|pg||
+nt|vugraphzaj: donne)|pg||
+nt|vugraphzaj: Une rencontre intéresante : l'équipe du président Grenthe rencontre une coalition de danois et d'espagnols|pg||
+mb|1C|mb|p|mb|2C!|mb|p|mb|2H!|mb|p|mb|2N|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|h4|pc|h2|pc|hQ|pc|h9|pg||
+pc|hT|pc|hJ|pc|hK|pc|h3|pg||
+pc|h5|pc|hA|pc|h8|pc|c4|pg||
+pc|s7|pc|sJ|pc|sK|pc|s3|pg||
+pc|cJ|pc|cQ|pc|cA|pc|c8|pg||
+pc|dK|pc|d5|pc|d4|pc|d2|pg||
+pc|dJ|pc|d7|pc|dQ|pc|d3|pg||
+pc|dA|pc|dT|pc|d6|pc|d9|pg||
+pc|d8|pc|s4|pc|c2|pc|s2|pg||
+pc|s6|mc|9|pg||
+qx|o5|st||md|3ST96HAQT2DAJ4CK62,SAH743DKQ92CAQ975,SQJ84HK65D853CJT8,SK7532HJ98DT76C43|sv|n|mb|p|mb|p|mb|1C|mb|p|mb|1H|mb|p|mb|1S|mb|1N|mb|p|mb|p|mb|p|pc|sQ|pc|s2|pc|s6|pc|sA|pg||
+pc|dQ|pc|d8|pc|d6|pc|d4|pg||
+pc|dK|pc|d5|pc|d7|pc|dA|pg||
+pc|sT|pc|c5|pc|s4|pc|sK|pg||
+pc|c3|pc|c6|pc|cQ|pc|c8|pg||
+pc|d2|pc|d3|pc|dT|pc|dJ|pg||
+pc|s9|pc|c7|pc|sJ|pc|s3|pg||
+pc|s8|pc|s5|pc|cK|pc|h4|pg||
+pc|h5|pc|h8|pc|hT|pc|h3|pg||
+pc|h2|pc|h7|pc|hK|pc|h9|pg||
+pc|h6|pc|hJ|pc|hA|pc|c9|pg||
+pc|hQ|pc|d9|pc|cT|pc|s7|pg||
+pc|c2|pc|cA|pc|cJ|pc|c4|pg||
+pg||
+qx|c5|st||md|3ST96HAQT2DAJ4CK62,SAH743DKQ92CAQ975,SQJ84HK65D853CJT8,SK7532HJ98DT76C43|sv|n|mb|p|mb|p|mb|1C|mb|1D|mb|1H!|mb|p|mb|1S!|mb|2C|mb|p|mb|2D|mb|p|mb|p|mb|p|pc|sQ|pc|s2|pc|sT|pc|sA|pg||
+pc|h4|pc|h5|pc|hJ|pc|hQ|pg||
+pc|h2|pc|h7|pc|hK|pc|h8|pg||
+pc|h6|pc|h9|pc|hA|pc|h3|pg||
+pc|hT|pc|c5|pc|c8|pc|d6|pg||
+pc|sK|pc|s6|pc|c7|pc|s4|pg||
+nt|vugraphzaj: Marlène et Michel|pg||
+nt|vugraphzaj: Marlène en Ouest|pg||
+pc|c3|pc|c2|pc|cQ|pc|cT|pg||
+pc|c9|pc|cJ|pc|c4|pc|cK|pg||
+pc|s9|pc|d2|pc|s8|pc|s3|pg||
+pc|cA|pc|sJ|pc|d7|pc|c6|pg||
+pc|dT|mc|8|pg||
+qx|o6|st||md|4SK3HQ9875D6542CQ9,SJ752HJT3DAKCA762,SQ64HA62DT3CKT843,SAT98HK4DQJ987CJ5|sv|e|mb|p|mb|p|mb|1C|mb|p|mb|1S|mb|p|mb|2S|mb|p|mb|2N|mb|p|mb|3D|mb|p|mb|4S|mb|p|mb|p|mb|p|pc|h5|pc|hJ|pc|hA|pc|h4|pg||
+pc|h6|pc|hK|pc|h7|pc|h3|pg||
+pc|d9|pc|d2|pc|dK|pc|d3|pg||
+pc|s2|pc|s4|pc|s8|pc|sK|pg||
+mc|11|pg||
+qx|c6|st||md|4SK3HQ9875D6542CQ9,SJ752HJT3DAKCA762,SQ64HA62DT3CKT843,SAT98HK4DQJ987CJ5|sv|e|mb|1D|mb|p|mb|1S|mb|2C|mb|2S|mb|p|mb|2N!|mb|p|mb|3S|mb|p|mb|4S|mb|p|mb|p|mb|p|pc|dT|pc|dJ|pc|d4|pc|dA|pg||
+pc|s2|pc|s4|pc|s8|pc|sK|pg||
+pc|c9|pc|cA|pc|c3|pc|c5|pg||
+pc|s5|pc|s6|pc|s9|pc|s3|pg||
+pc|d7|pc|d2|pc|dK|pc|d3|pg||
+pc|s7|pc|sQ|pc|sA|pc|h5|pg||
+pc|dQ|pc|d5|pc|c2|pc|c4|pg||
+pc|d9|pc|d6|pc|c6|pc|c8|pg||
+pc|d8|pc|h7|pc|c7|pc|h2|pg||
+pc|cJ|mc|11|pg||
+qx|o7|st||md|1SAK9873H5DJ5CA843,SJT4HK98D843CKJ75,S5HQT7632DQ972C96,SQ62HAJ4DAKT6CQT2|sv|b|mb|1S|mb|p|mb|1N|mb|p|mb|2S|mb|p|mb|p|mb|p|pc|d3|pc|d2|pc|dK|pc|d5|pg||
+pc|s6|pc|sA|pc|s4|pc|s5|pg||
+pc|sK|pc|sT|pc|h2|pc|s2|pg||
+pc|s9|pc|sJ|pc|h3|pc|sQ|pg||
+pc|h4|pc|h5|pc|hK|pc|h6|pg||
+pc|d4|pc|d7|pc|dA|pc|dJ|pg||
+pc|cT|pc|cA|pc|c7|pc|c6|pg||
+pc|s8|pc|d8|pc|d9|pc|dT|pg||
+pc|c3|pc|cJ|pc|c9|pc|c2|pg||
+pc|h9|pc|h7|pc|hJ|pc|s3|pg||
+mc|6|pg||
+qx|c7|st||md|1SAK9873H5DJ5CA843,SJT4HK98D843CKJ75,S5HQT7632DQ972C96,SQ62HAJ4DAKT6CQT2|sv|b|mb|1S|mb|p|mb|1N|mb|p|mb|2S|mb|p|mb|p|mb|p|pc|c7|pc|c6|pc|cQ|pc|c4|pg||
+pc|s6|pc|s7|pc|sT|pc|s5|pg||
+pc|cK|pc|c9|pc|c2|pc|cA|pg||
+pc|sA|pc|s4|pc|h2|pc|s2|pg||
+pc|sK|pc|sJ|pc|h3|pc|sQ|pg||
+pc|dJ|pc|d3|pc|d2|pc|dK|pg||
+pc|cT|pc|c3|pc|c5|pc|h6|pg||
+pc|hA|pc|h5|pc|h9|pc|h7|pg||
+pc|dA|pc|d5|pc|d4|pc|d7|pg||
+pc|h4|pc|s3|pc|h8|pc|hT|pg||
+mc|6|pg||
+qx|o8|st||md|2S62HQ87DQJT9832C2,SJ8H654DK4CKQT983,SAKQT743HAJTDA5CA,S95HK932D76CJ7654|sv|o|mb|p|mb|2C|mb|p|mb|2D|mb|p|mb|3S|mb|p|mb|4C|mb|d|mb|r|mb|p|mb|4S|mb|p|mb|p|mb|p|pc|s5|pc|s2|pc|sJ|pc|sA|pg||
+pc|sK|pc|s9|pc|s6|pc|s8|pg||
+pc|sQ|pc|c4|pc|d2|pc|c3|pg||
+pc|sT|pc|c5|pc|d3|pc|cT|pg||
+pc|hJ|pc|h3|pc|h7|pc|h4|pg||
+pc|s7|pc|d7|pc|d8|pc|c8|pg||
+pc|cA|pc|c6|pc|c2|pc|c9|pg||
+pc|s4|pc|d6|pc|d9|pc|h5|pg||
+pc|dA|pc|h2|pc|dT|pc|d4|pg||
+mc|11|pg||
+qx|c8|st||md|2S62HQ87DQJT9832C2,SJ8H654DK4CKQT983,SAKQT743HAJTDA5CA,S95HK932D76CJ7654|sv|o|mb|p|mb|2C!|mb|p|mb|2D!|mb|p|mb|3S|mb|p|mb|4S|mb|p|mb|p|mb|p|pc|c4|pc|c2|pc|cQ|pc|cA|pg||
+pc|sA|pc|s5|pc|s2|pc|s8|pg||
+pc|sK|pc|s9|pc|s6|pc|sJ|pg||
+pc|hJ|pc|hK|pc|h7|pc|h4|pg||
+pc|c6|pc|d2|pc|cK|pc|s3|pg||
+pc|hA|pc|h2|pc|h8|pc|h5|pg||
+pc|hT|pc|h3|pc|hQ|pc|h6|pg||
+pc|dQ|pc|d4|pc|d5|pc|d6|pg||
+mc|12|nt|vugraphzaj: Dix minutes de pause|pg||
+nt|vugraphzaj: There are 46 teams, that is why the mo|pg||
+nt|vugraphzaj: the movement is slow|pg||
+nt|vugraphzaj: Yes Patrick Grenthe|pg||
+nt|vugraphzaj: bonjour !|pg||
+nt|vugraphzaj: j'ignore comment. Mais je ne suis que ed passage|pg||
+nt|HedyG: result of the 1st session: www.resubridge.com/?idFestival=43 |pg||
+nt|HedyG: EW was 3rd, NS 7th|pg||
+nt|vugraphzaj: Prochain match : Belgique contre Allemagne|pg||
+nt|vugraphzaj: Attention : le score affiché en Im's ne correspond pas au match en cours. C'est le total des matchs précédents.|pg||
+nt|HedyG: ok merci|pg||
+pg||
+qx|o9|st||md|3SA852H962DJ984CAJ,SQ4HAJT8DAKQT53C7,SJ976HKQ543DCQT83,SKT3H7D762CK96542|sv|e|mb|p|mb|p|mb|p|mb|1D|mb|1H|mb|2C|mb|2D|mb|3N|mb|4H|mb|p|mb|p|mb|d|mb|p|mb|p|mb|p|pc|d2|pc|d4|pc|dT|pc|h3|pg||
+pc|c3|pc|c2|pc|cJ|pc|c7|pg||
+pc|h2|pc|h8|pc|hK|pc|h7|pg||
+pc|c8|pc|c4|pc|cA|pc|hT|pg||
+pc|dA|pc|h4|pc|d6|pc|d8|pg||
+pc|s7|pc|sT|pc|sA|pc|s4|pg||
+pc|s2|pc|sQ|pc|s9|pc|s3|pg||
+pc|hA|pc|h5|pc|c5|pc|h6|pg||
+pc|dK|pc|hQ|pc|d7|pc|d9|pg||
+pc|s6|pc|sK|pc|s5|pc|d3|pg||
+pc|cK|mc|6|pg||
+qx|c9|st||md|3SA852H962DJ984CAJ,SQ4HAJT8DAKQT53C7,SJ976HKQ543DCQT83,SKT3H7D762CK96542|sv|e|mb|p|mb|p|mb|p|mb|1D|mb|1H|mb|2C|mb|2H|nt|HedyG: hmmm i believe the "German" team is Austrian ;)|pg||
+nt|HedyG: they are NS|pg||
+mb|3D|mb|3H|mb|4D|mb|p|nt|vugraphzaj: Yess Austrians|pg||
+mb|p|mb|p|nt|HedyG: 2@c is a negative freebid, not promising an invite|pg||
+pc|hK|pc|h7|pc|h2|pc|hA|pg||
+pc|hJ|pc|h4|pc|c2|pc|h6|pg||
+pc|hT|pc|hQ|pc|d2|pc|h9|pg||
+nt|HedyG: S might have tried X over 2@c and N might have doubled 1@s as a passed hand but 1@H was more attractive for the lead|pg||
+pc|d6|pc|d4|pc|dA|pc|c3|pg||
+pc|c7|pc|c8|pc|cK|pc|cA|pg||
+nt|HedyG: doubled 1@d ofc|pg||
+pc|cJ|pc|d3|pc|cT|pc|c4|pg||
+pc|s4|pc|s7|pc|sK|pc|sA|pg||
+pc|s2|pc|sQ|pc|s6|pc|s3|pg||
+mc|10|pg||
+qx|o10|st||md|4SA9HT6DKTCAKJ7532,SQ752HAQ2DAJ95C64,SJ8643HKJ754D73CQ,SKTH983DQ8642CT98|sv|b|mb|p|mb|1N|mb|p|mb|4C|mb|p|mb|4H|mb|p|mb|p|mb|p|pc|dA|pc|d3|pc|d8|pc|dT|pg||
+pc|d5|pc|d7|pc|dQ|pc|dK|pg||
+pc|hT|pc|hA|pc|h4|pc|h3|pg||
+pc|h2|pc|hK|pc|h9|pc|h6|pg||
+pc|h5|pc|h8|pc|s9|pc|hQ|pg||
+pc|s5|pc|s3|pc|sK|pc|sA|pg||
+pc|cA|pc|c4|pc|cQ|pc|c8|pg||
+pc|cK|pc|c6|pc|s4|pc|c9|pg||
+pc|cJ|pc|s2|mc|10|pg||
+qx|c10|st||md|4SA9HT6DKTCAKJ7532,SQ752HAQ2DAJ95C64,SJ8643HKJ754D73CQ,SKTH983DQ8642CT98|sv|b|mb|p|mb|1N|mb|p|mb|2H!|mb|p|mb|2S|mb|p|nt|HedyG: nowadays a hand without a void is considered balanced ;)|pg||
+mb|3H|mb|p|mb|3N|mb|p|mb|4H|mb|p|mb|p|mb|p|pc|cT|nt|vugraphzaj: everybody is astonished|pg||
+pc|cA|pc|c4|pc|cQ|pg||
+pc|cK|pc|c6|pc|d3|nt|HedyG: hard to stop pd from going overboard with 5 5 majors when you open 1NT|pg||
+pc|c8|pg||
+pc|cJ|pc|h2|pc|d7|pc|c9|pg||
+pc|s5|pc|s3|pc|sT|pc|sA|pg||
+pc|s9|pc|s2|pc|s4|pc|sK|pg||
+pc|h9|pc|h6|pc|hA|pc|h4|pg||
+pc|hQ|pc|hK|pc|h3|pc|hT|pg||
+pc|hJ|pc|h8|pc|c2|pc|d9|pg||
+pc|s8|pc|d2|pc|c3|pc|sQ|pg||
+mc|9|pg||
+qx|o11|st||md|1SAHAQJT54DQ9CAQ52,ST65H832D543CJT87,SJ98732H7DKJT872C,SKQ4HK96DA6CK9643|sv|o|mb|2C|mb|p|mb|2D|mb|d|mb|3H|mb|p|mb|3S|mb|p|mb|4C|mb|p|mb|4H|mb|p|mb|p|mb|p|pc|d3|pc|d2|pc|dA|pc|d9|pg||
+pc|d6|pc|dQ|pc|d4|pc|d7|pg||
+pc|sA|pc|s5|pc|s2|pc|s4|pg||
+pc|c2|pc|c8|pc|h7|pc|c3|pg||
+pc|dK|pc|c4|pc|c5|pc|d5|pg||
+pc|dJ|pc|c6|pc|cQ|pc|h2|pg||
+pc|s6|pc|s3|pc|sK|pc|h4|pg||
+mc|10|pg||
+qx|c11|st||md|1SAHAQJT54DQ9CAQ52,ST65H832D543CJT87,SJ98732H7DKJT872C,SKQ4HK96DA6CK9643|sv|o|mb|1C!|mb|p|mb|1H!|mb|p|mb|2H|mb|p|mb|2S|mb|p|mb|3C|mb|p|mb|3D|mb|p|mb|3H|mb|p|mb|4H|mb|p|mb|p|mb|p|nt|HedyG: looks like strong @c but might be canapé..|pg||
+nt|HedyG: 1@h=|pg||
+nt|HedyG: @s|pg||
+nt|HedyG: 2@s= more @ss|pg||
+nt|vugraphzaj: Yes strong Club and 1Heart is less than three controls|pg||
+nt|HedyG: ok ty|pg||
+pc|h6|pc|hQ|pc|h2|pc|h7|pg||
+pc|hA|pc|h3|pc|d2|pc|h9|pg||
+pc|hJ|pc|h8|pc|s2|pc|hK|pg||
+pc|s4|pc|sA|pc|s5|pc|s3|pg||
+pc|dQ|pc|d5|pc|d8|pc|d6|pg||
+pc|hT|pc|s6|pc|s7|pc|c3|pg||
+pc|h5|pc|d3|nt|HedyG: should have disced @d in W|pg||
+pc|d7|pc|c4|pg||
+pc|d9|pc|d4|pc|dK|pc|dA|pg||
+pc|sK|pc|h4|pc|sT|pc|s8|pg||
+pc|c2|pc|c8|pc|s9|nt|HedyG: this is why he should have disced @d|pg||
+nt|HedyG: 9@c and @s|pg||
+pc|c9|pg||
+pc|c6|pc|c5|nt|HedyG: ooooooooooh|pg||
+pc|cT|pc|sJ|pg||
+mc|9|nt|HedyG: what about the @s?|pg||
+nt|HedyG: lost count of trumps|pg||
+nt|vugraphzaj: gone|pg||
+pg||
+qx|o12|st||md|2SQJ8H62DAKQJ65CT9,ST96HJ9873D2CQ872,SAK752HT4DT8CKJ53,S43HAKQ5D9743CA64|sv|n|mb|p|mb|1S|mb|d|mb|4S|mb|5H|mb|p|mb|p|mb|p|pc|sA|pc|s3|pc|sQ|pc|s6|pg||
+pc|s2|pc|s4|pc|sJ|pc|s9|pg||
+pc|dA|pc|d2|pc|d8|pc|d3|pg||
+pc|dK|pc|h3|pc|dT|pc|d4|pg||
+pc|h7|pc|h4|pc|hA|pc|h2|pg||
+pc|hK|pc|h6|pc|h8|pc|hT|pg||
+pc|d7|pc|dQ|pc|h9|pc|s5|pg||
+pc|sT|pc|sK|pc|h5|pc|s8|pg||
+pc|d9|pc|dJ|pc|hJ|pc|s7|pg||
+mc|8|nt|vugraphzbd: Yes really!|pg||
+pg||
+qx|c12|st||md|2SQJ8H62DAKQJ65CT9,ST96HJ9873D2CQ872,SAK752HT4DT8CKJ53,S43HAKQ5D9743CA64|sv|n|nt|HedyG: yes|pg||
+mb|p|mb|1S|mb|d|mb|r|mb|2H|mb|p|mb|p|nt|HedyG: come on Bob, you have 5 @hs :)|pg||
+mb|3D|mb|p|mb|3S|mb|p|mb|4S|mb|p|mb|p|mb|p|nt|HedyG: after XX 3@d is forcing|pg||
+pc|hA|pc|h2|pc|h9|pc|h4|pg||
+pc|hK|pc|h6|pc|h8|pc|hT|pg||
+pc|cA|pc|c9|pc|c2|pc|c3|pg||
+pc|d4|pc|d5|pc|d2|pc|dT|pg||
+pc|s2|pc|s4|pc|sQ|mc|10|nt|vugraphzaj: pause|pg||
+nt|HedyG: ty|pg||
+nt|HedyG: new teams|pg||
+pg||
+qx|o13|st||md|3SKQ7H73DA932CQ864,S6HAQJ6542DJ65C97,SAT943HK9DKQ8CT52,SJ852HT8DT74CAKJ3|sv|b|mb|1S|mb|p|mb|2N|mb|3H|mb|p|mb|p|mb|3S|mb|p|mb|p|mb|p|pc|cK|pc|c4|pc|c9|pc|c5|pg||
+pc|cA|pc|c6|pc|c7|pc|cT|pg||
+pc|cJ|pc|cQ|pc|s6|pc|c2|pg||
+pc|hA|pc|h9|pc|hT|pc|h3|pg||
+mc|9|pg||
+qx|c13|st||md|3SKQ7H73DA932CQ864,S6HAQJ6542DJ65C97,SAT943HK9DKQ8CT52,SJ852HT8DT74CAKJ3|sv|b|mb|1S|mb|p|nt|HedyG: 2NT in France mostly 3 card fit invite|pg||
+nt|HedyG: this hand|pg||
+mb|2N!|nt|HedyG: :)|pg||
+mb|3H|mb|p|mb|p|mb|4S|mb|p|mb|p|mb|p|pc|hT|pc|h3|nt|mdgraham: good afternoon all|pg||
+nt|HedyG: wonder why he bid 4@s, maybe the vulnerability made him do it|pg||
+pc|hA|pc|h9|pg||
+pc|hQ|pc|hK|pc|h8|pc|h7|pg||
+nt|HedyG: hi Mike , welcome :)|pg||
+nt|HedyG: unusual lead with AK@C|pg||
+nt|HedyG: so much for pd's @c ruff|pg||
+nt|mdgraham: East must be a very trustful partner, not to lead a top club|pg||
+nt|HedyG: even trustful pds lead @c|pg||
+pc|s3|pc|s2|pc|sK|pc|s6|pg||
+pc|sQ|pc|h5|pc|s4|pc|s5|pg||
+pc|s7|pc|h2|pc|sA|pc|s8|pg||
+pc|dK|pc|d4|pc|d2|pc|d5|pg||
+nt|mdgraham: still, even with 3-3 diamonds, there are four losers|pg||
+pc|dQ|pc|d7|pc|d3|pc|d6|pg||
+pc|d8|pc|dT|pc|dA|pc|dJ|pg||
+pc|d9|pc|h4|pc|c2|pc|sJ|pg||
+pc|cA|pc|c4|nt|HedyG: unlucky ;)|pg||
+pc|c7|pc|c5|pg||
+pc|cK|pc|c6|pc|c9|pc|cT|pg||
+mc|9|pg||
+qx|o14|st||md|4SAT75HT6DAK853CK6,SK93H5432DQ72C542,SQ86HKJ87DJ6CQJ83,SJ42HAQ9DT94CAT97|sv|o|mb|1N|mb|d|mb|2C|mb|d|mb|p|mb|2D|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|cT|pc|cK|pc|c5|pc|c3|pg||
+pc|d3|pc|dQ|pc|d6|pc|d9|pg||
+pc|h5|pc|h7|pc|hQ|pc|h6|pg||
+pc|hA|pc|hT|pc|h2|pc|h8|pg||
+pc|h9|pc|s5|pc|h3|pc|hK|pg||
+pc|cJ|pc|cA|pc|c6|pc|c4|pg||
+pc|dT|mc|9|pg||
+qx|c14|st||md|4SAT75HT6DAK853CK6,SK93H5432DQ72C542,SQ86HKJ87DJ6CQJ83,SJ42HAQ9DT94CAT97|sv|o|mb|p|mb|1D|mb|p|nt|mdgraham: I wonder if there was anything in North's pass of 3@h, after 2NT from South - could play pass as the weakest bid|pg||
+mb|1H|mb|p|mb|1S|mb|p|mb|1N|mb|p|mb|p|mb|p|pc|s2|nt|HedyG: yes they do|pg||
+nt|HedyG: i prefer 3@s as weakest|pg||
+nt|mdgraham: in which case South had 3@S as an option  |pg||
+pc|s5|pc|sK|pc|s6|pg||
+nt|mdgraham: still, there you go - opening bids vulnerable are forcing to game these days|pg||
+pc|s3|pc|s8|pc|sJ|pc|sA|pg||
+nt|HedyG: :)|pg||
+pc|d3|pc|dQ|pc|d6|pc|dT|pg||
+pc|s9|pc|sQ|pc|s4|pc|s7|pg||
+nt|HedyG: if you get bored watching 1NT contracts ( like David Bird) here are some pictures from Deauville: https://plus.google.com/photos/114860695783811069165/albums/6037358488328765361|pg||
+pc|c3|nt|HedyG:  https://plus.google.com/photos/114860695783811069165/albums/6037358488328765361|pg||
+pc|c7|pc|cK|pc|c2|pg||
+pc|sT|nt|mdgraham: why such large numbers?|pg||
+pc|c5|pc|h7|pc|h9|pg||
+nt|HedyG: ask the organizer :)|pg||
+pc|dA|pc|d2|pc|dJ|pc|d4|pg||
+pc|dK|pc|d7|nt|HedyG: that is what my browser shows|pg||
+pc|c8|pc|d9|pg||
+pc|d8|pc|h2|pc|h8|pc|c9|pg||
+pc|d5|pc|h3|pc|cJ|pc|hQ|pg||
+pc|h6|pc|h4|pc|hJ|pc|hA|pg||
+mc|8|pg||
+qx|o15|st||md|1S7653H3DT5CT97643,ST84HKQT95DJ9CK82,SA9H87642DAK2CAQ5,SKQJ2HAJDQ87643CJ|sv|n|mb|p|mb|p|mb|1N|mb|p|mb|2S!|an| |mb|p|mb|2N!|an| |mb|p|mb|3C|mb|3H|mb|d|mb|p|mb|p|mb|p|pc|cA|pc|cJ|pc|c7|pc|c2|pg||
+pc|dA|pc|d3|pc|d5|pc|d9|pg||
+pc|dK|pc|d4|pc|dT|pc|dJ|pg||
+pc|d2|pc|d6|pc|h3|pc|h5|pg||
+pc|h9|pc|h2|pc|hA|pc|c6|pg||
+pc|sK|pc|s3|pc|s4|pc|sA|pg||
+pc|cQ|pc|d7|pc|c3|pc|cK|pg||
+pc|c8|pc|c5|pc|hJ|mc|8|pg||
+qx|c15|st||md|1S7653H3DT5CT97643,ST84HKQT95DJ9CK82,SA9H87642DAK2CAQ5,SKQJ2HAJDQ87643CJ|sv|n|nt|mdgraham: I recognise that South hand|pg||
+nt|HedyG: its mine!|pg||
+mb|p|nt|HedyG: maximum with the 2 10s|pg||
+mb|p|mb|1H|mb|2D|mb|p|nt|HedyG: E has a great hand for Raptor|pg||
+nt|HedyG: that would be a 1NT bid showing 4 cards in @s and a longer minor|pg||
+mb|2N|nt|mdgraham: 1NT overcall=four spades and a 5+card minor|pg||
+mb|p|mb|3S|mb|p|mb|3N|mb|d|mb|p|mb|p|mb|p|nt|HedyG: hoping for 1 trick from pd|pg||
+nt|mdgraham: this auction rather telegraphs a club lead - will North find it?|pg||
+pc|h2|nt|mdgraham: Unlikely to make overtricks, thinks North |pg||
+nt|HedyG: Mike i would think W said twice he stops @cs|pg||
+nt|HedyG: can switch after the 1st @d|pg||
+pc|hA|pc|h3|pc|h5|pg||
+nt|mdgraham: yes, true. Might be able to play @cA later  |pg||
+pc|d3|pc|d5|pc|dJ|nt|HedyG: now|pg||
+pc|d2|pg||
+nt|HedyG: ohhhhhhhhhhhhhhh ok, now @s|pg||
+pc|d9|nt|HedyG: he is home|pg||
+pc|dK|pc|d4|pc|dT|pg||
+pc|h4|nt|HedyG: didnt count his tricks|pg||
+nt|mdgraham: should have played a spade, I think  |pg||
+nt|HedyG: after the @d trick, yes|pg||
+pc|hJ|pc|s6|nt|mdgraham: although I think North can get endplayed at some point - he can't hold up in spades|pg||
+pc|hK|pg||
+pc|hQ|pc|h6|pc|d6|pc|s3|pg||
+pc|hT|pc|h7|pc|d7|pc|s5|pg||
+pc|h9|pc|h8|pc|d8|pc|s7|pg||
+pc|s4|pc|s9|pc|sK|pc|c7|pg||
+pc|s2|pc|c3|pc|sT|pc|sA|pg||
+pc|dA|pc|dQ|pc|c4|pc|c2|pg||
+pc|cA|pc|cJ|pc|c6|pc|c8|pg||
+mc|9|pg||
+qx|o16|st||md|2SKQ742H32D964CQT5,SAJ8653HKJ95DKCKJ,STHAQT87DT532CA63,S9H64DAQJ87C98742|sv|e|mb|1S|mb|d|mb|p|mb|1N|mb|p|mb|p|mb|p|pc|s5|pc|sT|pc|s9|pc|s2|pg||
+pc|d2|pc|dA|pc|d4|pc|dK|pg||
+pc|c9|pc|cT|pc|cJ|pc|cA|pg||
+pc|d3|pc|dJ|pc|d6|pc|s3|pg||
+pc|c4|pc|cQ|pc|cK|pc|c3|pg||
+pc|h5|pc|hQ|pc|h6|pc|h2|pg||
+pc|d5|pc|dQ|pc|d9|pc|s6|pg||
+pc|c8|pc|c5|pc|s8|pc|c6|pg||
+mc|5|pg||
+qx|c16|st||md|2SKQ742H32D964CQT5,SAJ8653HKJ95DKCKJ,STHAQT87DT532CA63,S9H64DAQJ87C98742|sv|e|mb|1S|mb|2H|mb|p|mb|p|mb|2S|mb|p|mb|p|mb|p|nt|HedyG: @d lead|pg||
+pc|d5|nt|mdgraham: would you rebid 2@S, Hedy? I confess I would pass|pg||
+nt|HedyG: pd should be short in @H and didnt bid, better pass|pg||
+nt|mdgraham: but I'm a fully-paid-up chicken |pg||
+pc|dA|pc|d4|pc|dK|pg||
+pc|dQ|pc|d6|pc|cJ|pc|d2|pg||
+pc|dJ|pc|d9|pc|cK|pc|d3|pg||
+pc|h4|pc|h3|pc|h9|pc|hT|pg||
+pc|sT|pc|s9|pc|s2|pc|sJ|pg||
+pc|sA|pc|c3|pc|c2|pc|s4|pg||
+pc|hJ|pc|hQ|pc|h6|pc|h2|pg||
+pc|cA|pc|c4|pc|c5|pc|s3|pg||
+nt|mdgraham: one trick short|pg||
+pc|h5|pc|h7|pc|d7|pc|cT|pg||
+pc|hA|pc|c7|pc|cQ|pc|hK|pg||
+pc|dT|pc|d8|mc|7|nt|vugraphzaj: pause|pg||
+nt|vugraphzaj: don nont bother about the score : it's the total of all matchs|pg||
+nt|HedyG: new teams coming|pg||
+nt|reisig: Hey - do the players know - that we're waiting??   :) :)|pg||
+nt|vugraphzaj: no, be patient|pg||
+nt|HedyG: hi Richie :)|pg||
+nt|reisig: hiya :)|pg||
+nt|HedyG: young guys like Richie have no patience|pg||
+nt|HedyG: afraid i must go, see you later !|pg||
+nt|mdgraham: bye Hedy|pg||
+nt|reisig: See ya :)|pg||
+nt|vugraphzaj: Same dutch team against he french A. Levy team|pg||
+pg||
+qx|o17|st||md|3SJH987DAJT963CQJ8,SA9643HJ643DK2C62,SKT85HAQ2DQ854CT7,SQ72HKT5D7CAK9543|sv|o|mb|1C!|an| |mb|2C|mb|3N|mb|p|mb|p|mb|p|pc|c6|pc|c7|pc|c9|pc|cJ|pg||
+pc|h7|pc|h3|pc|hQ|pc|hK|pg||
+pc|cA|pc|c8|pc|c2|pc|cT|pg||
+pc|cK|pc|cQ|pc|s3|pc|d4|pg||
+pc|c5|pc|sJ|pc|s4|pc|d5|pg||
+pc|c4|pc|h8|pc|s9|pc|s5|pg||
+pc|c3|pc|d3|pc|s6|pc|h2|pg||
+pc|h5|pc|h9|pc|h4|pc|hA|pg||
+pc|dQ|pc|d7|pc|dA|pc|d2|pg||
+mc|3|pg||
+qx|c17|st||md|3SJH987DAJT963CQJ8,SA9643HJ643DK2C62,SKT85HAQ2DQ854CT7,SQ72HKT5D7CAK9543|sv|o|mb|p|mb|1C|mb|1D|mb|d|nt|vugraphzaj: Dbl = both majors|pg||
+nt|mdgraham: double an interesting choice - 1@s possible as well |pg||
+mb|3C|mb|d|mb|3D|mb|p|mb|p|mb|p|pc|c6|nt|mdgraham: ah, dbl=both. sometimes it can be handy to show a five-carder though|pg||
+pc|c7|pc|cK|pc|c8|pg||
+pc|cA|pc|cJ|pc|c2|pc|cT|pg||
+pc|c3|pc|cQ|pc|dK|pc|h2|pg||
+nt|mdgraham: suit pref on the club, perchance - heart please|pg||
+pc|h4|pc|hQ|pc|hK|pc|h7|pg||
+pc|s2|pc|sJ|nt|reisig: OK - down 1|pg||
+pc|sA|pc|s5|pg||
+mc|8|nt|mdgraham: efficiently done |pg||
+pg||
+qx|o18|st||md|4SK63HT987D54CAKJ5,SJ2HAQ53DKJTCT732,SA874HKJ2DAQ96CQ9,SQT95H64D8732C864|sv|n|mb|p|mb|p|mb|p|mb|1N|mb|p|mb|2C|mb|p|mb|2S|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|d7|pc|d4|pc|dK|pc|dA|pg||
+pc|cQ|pc|c4|pc|c5|pc|c7|pg||
+pc|c9|pc|c6|pc|cJ|pc|c2|pg||
+pc|h7|pc|hA|pc|h2|pc|h6|pg||
+pc|dJ|pc|dQ|pc|d3|pc|d5|pg||
+pc|s4|pc|s5|pc|sK|pc|s2|pg||
+pc|cA|pc|c3|pc|s7|pc|c8|pg||
+pc|cK|pc|cT|pc|d6|pc|d2|pg||
+pc|h8|pc|h3|pc|hJ|pc|h4|pg||
+pc|d9|pc|d8|pc|s3|pc|dT|pg||
+mc|11|pg||
+qx|c18|st||md|4SK63HT987D54CAKJ5,SJ2HAQ53DKJTCT732,SA874HKJ2DAQ96CQ9,SQT95H64D8732C864|sv|n|mb|p|mb|p|mb|p|mb|1N|mb|p|nt|reisig: Seems like 3NT - NS ...easy one|pg||
+mb|2C|mb|p|mb|2S|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|d3|pc|d4|pc|dK|pc|dA|pg||
+pc|c9|pc|c4|pc|cA|pc|c2|pg||
+pc|h7|pc|h3|pc|h2|pc|h4|pg||
+pc|h8|pc|hA|pc|hJ|pc|h6|pg||
+nt|reisig: They put these hands in - so the specs can have a bathroom break :)|pg||
+pc|dT|pc|dQ|pc|d2|pc|d5|pg||
+pc|hK|nt|mdgraham: or get a beer from the fridge|pg||
+pc|c6|pc|h9|pc|h5|pg||
+pc|cQ|pc|c8|pc|c5|pc|c3|pg||
+pc|s4|pc|s5|pc|sK|pc|s2|pg||
+pc|cK|pc|c7|pc|s7|pc|s9|pg||
+pc|cJ|pc|cT|pc|d6|pc|d7|pg||
+pc|s3|mc|10|pg||
+qx|o19|st||md|1S654HQDJ9852CA953,SAT32H82DAK3CT872,SKHAKT976543D64C4,SQJ987HJDQT7CKQJ6|sv|e|mb|p|mb|1C|mb|4H|mb|4S|mb|p|mb|p|mb|5H|mb|p|mb|p|mb|5S|mb|p|mb|p|mb|p|pc|hQ|pc|h2|pc|hK|pc|hJ|pg||
+pc|c4|pc|cJ|pc|cA|pc|c2|pg||
+pc|c9|pc|c7|pc|sK|pc|cQ|pg||
+mc|10|pg||
+qx|c19|st||md|1S654HQDJ9852CA953,SAT32H82DAK3CT872,SKHAKT976543D64C4,SQJ987HJDQT7CKQJ6|sv|e|mb|p|mb|1C!|mb|4H|mb|4S|nt|mdgraham: you don't get nine-card suits very often |pg||
+mb|p|mb|p|mb|5H|mb|p|mb|p|mb|d|mb|p|mb|p|mb|p|pc|cK|pc|cA|pc|c2|pc|c4|pg||
+nt|reisig: 5@h bid works well ..That shows the 9th @h :)|pg||
+pc|hQ|pc|h2|pc|h3|pc|hJ|pg||
+pc|s4|pc|sA|pc|sK|pc|s7|pg||
+nt|mdgraham: we all know about the 5-level belonging to the opponents, but 5@H is understandable at these colours|pg||
+mc|10|pg||
+qx|o20|st||md|2SAQJ84HDAQ74CQ432,ST975HKJ532DTCKJ9,S632HAQ9DJ932CA75,SKHT8764DK865CT86|sv|b|mb|p|mb|p|mb|p|mb|1S|mb|p|mb|2C!|an| |mb|p|mb|4S|mb|p|mb|p|mb|p|pc|dT|pc|dJ|pc|d6|pc|d4|pg||
+pc|s2|pc|sK|pc|sA|pc|s5|pg||
+pc|sQ|pc|s7|pc|s3|pc|h4|pg||
+pc|sJ|pc|s9|pc|s6|pc|c6|pg||
+pc|s4|pc|sT|pc|c5|pc|h6|pg||
+pc|h2|pc|hQ|pc|h7|pc|c2|pg||
+pc|d9|pc|d5|pc|d7|pc|h3|pg||
+pc|hA|pc|h8|pc|c3|pc|hJ|pg||
+pc|d2|pc|d8|pc|dQ|pc|h5|pg||
+pc|dA|pc|hK|pc|d3|pc|dK|pg||
+pc|s8|pc|c9|pc|h9|mc|11|pg||
+qx|c20|st||md|2SAQJ84HDAQ74CQ432,ST975HKJ532DTCKJ9,S632HAQ9DJ932CA75,SKHT8764DK865CT86|sv|b|mb|p|mb|p|mb|p|mb|1S|mb|p|mb|2C!|mb|p|mb|4S|nt|reisig: Some type of Drury|pg||
+mb|p|mb|p|mb|p|pc|dT|pc|dJ|pc|dK|pc|dA|pg||
+pc|d4|pc|s5|pc|d2|pc|d5|pg||
+pc|h2|pc|hA|pc|h8|pc|c3|pg||
+pc|s2|pc|sK|pc|sA|pc|s7|pg||
+pc|sQ|pc|s9|pc|s3|pc|h4|pg||
+pc|sJ|pc|sT|pc|s6|pc|d6|pg||
+pc|dQ|pc|h3|pc|d3|pc|d8|pg||
+pc|d7|pc|h5|pc|d9|pc|h6|pg||
+pc|hQ|pc|h7|pc|s4|pc|hJ|pg||
+nt|reisig: Hmmm|pg||
+pc|c2|pc|c9|pc|cA|pc|c6|pg||
+pc|c5|pc|c8|pc|cQ|pc|cK|pg||
+mc|10|nt|vugraphzaj: pause|pg||
+nt|reisig: And - when he says "pause" -- he's not kidding :)|pg||
+pg||
+qx|o21|st||md|3S85H53D753CAT9732,SKTH74DAKT8CKQ854,SA432HJ82DQJ964C6,SQJ976HAKQT96D2CJ|sv|n|mb|p|mb|1H|mb|p|mb|2C|mb|p|mb|2S|mb|p|mb|3D|mb|p|mb|3S|mb|p|mb|5H|mb|p|mb|p|mb|p|pc|h3|pc|h4|pc|hJ|pc|hA|pg||
+mc|12|pg||
+qx|c21|st||md|3S85H53D753CAT9732,SKTH74DAKT8CKQ854,SA432HJ82DQJ964C6,SQJ976HAKQT96D2CJ|sv|n|mb|p|mb|1H|mb|p|mb|2C!|mb|p|mb|2S|mb|p|mb|2N|mb|p|mb|3S|mb|p|mb|4H|mb|p|mb|p|mb|p|nt|mdgraham: one advantage of 2/1 FG - 2NT gives opener the oportunity to pattern out (eg 3@C with 4513) |pg||
+pc|cA|pc|c4|pc|c6|pc|cJ|pg||
+nt|mdgraham: but sometimes the responder can have trouble showing a particular range. All well here though |pg||
+pc|d3|pc|dA|pc|d4|pc|d2|pg||
+pc|h4|pc|h2|pc|hA|pc|h3|pg||
+pc|hK|pc|h5|pc|h7|pc|h8|pg||
+pc|hQ|pc|c2|pc|c5|pc|hJ|pg||
+pc|s6|mc|11|nt|vugraphzaj: E says : belle entame !|pg||
+pg||
+qx|o22|st||md|4SQT93HT9DAQ63C842,S762HKQ43DT92CK75,SK54H87652DKCAJT3,SAJ8HAJDJ8754CQ96|sv|e|mb|1D|mb|p|mb|1H|mb|p|mb|1N|mb|p|mb|p|mb|p|pc|sT|pc|s2|pc|sK|pc|sA|pg||
+pc|hJ|pc|hT|pc|h3|pc|h2|pg||
+pc|hA|pc|h9|pc|h4|pc|h5|pg||
+pc|c6|pc|c2|pc|cK|pc|cA|pg||
+pc|cJ|pc|cQ|pc|c4|pc|c5|pg||
+pc|d4|pc|d6|pc|d9|pc|dK|pg||
+pc|cT|pc|c9|pc|c8|pc|c7|pg||
+pc|c3|pc|d5|pc|d3|pc|s6|pg||
+pc|s5|pc|sJ|pc|sQ|mc|4|pg||
+qx|c22|st||md|4SQT93HT9DAQ63C842,S762HKQ43DT92CK75,SK54H87652DKCAJT3,SAJ8HAJDJ8754CQ96|sv|e|mb|1D|mb|p|mb|1H|mb|p|mb|1N|mb|p|nt|mdgraham: likely to end in 1NT|pg||
+mb|p|mb|p|pc|hT|pc|h3|pc|h8|nt|mdgraham: David Bird (brolucius) is in the other room. He just loves 1NT contracts (not)  |pg||
+pc|hA|pg||
+nt|reisig: I bet - down 1 or 2|pg||
+pc|hJ|pc|h9|pc|h4|pc|h7|pg||
+pc|d7|nt|mdgraham: unless there's a wee crash here..... |pg||
+pc|d6|pc|dT|pc|dK|pg||
+pc|s5|pc|s8|pc|s9|pc|s2|pg||
+pc|c8|pc|c5|pc|cT|pc|cQ|pg||
+pc|d5|pc|dQ|pc|d2|pc|h2|pg||
+pc|c4|pc|cK|pc|cA|pc|c6|pg||
+pc|cJ|pc|c9|pc|c2|pc|c7|pg||
+pc|c3|pc|d4|pc|d3|pc|s6|pg||
+pc|s4|nt|mdgraham: don't think E will say "belle entame" this time - more like merde or something like that|pg||
+pc|sA|pc|s3|pc|s7|pg||
+pc|sJ|pc|sQ|pc|d9|pc|sK|pg||
+mc|6|nt|mdgraham: N forgot to unblock @sK|pg||
+pg||
+qx|o23|st||md|1S92HADJ9863CKQ752,SAQT53HKJ854D7CJ9,SKJ8HT96DK42CT864,S764HQ732DAQT5CA3|sv|b|mb|p|mb|1S|mb|p|mb|2N!|an| |mb|3N|mb|4S|mb|p|mb|p|mb|p|pc|c6|pc|cA|pc|c2|pc|c9|pg||
+pc|s4|pc|s2|pc|sA|pc|s8|pg||
+pc|d7|pc|d4|pc|dA|pc|d3|pg||
+pc|s6|pc|s9|pc|sT|pc|sJ|pg||
+pc|sK|pc|s7|pc|c7|pc|s3|pg||
+pc|c4|pc|c3|pc|cQ|pc|cJ|pg||
+pc|cK|pc|s5|pc|cT|pc|d5|pg||
+pc|hK|pc|h6|pc|h2|pc|hA|pg||
+mc|9|pg||
+qx|c23|st||md|1S92HADJ9863CKQ752,SAQT53HKJ854D7CJ9,SKJ8HT96DK42CT864,S764HQ732DAQT5CA3|sv|b|nt|vugraphzaj: yes, ringuet is upset|pg||
+mb|p|mb|2H!|an|majors|mb|p|mb|3H|mb|d|mb|r|mb|p|mb|p|nt|mdgraham: redbl is presumably showing a maximum|pg||
+mb|p|pc|h9|nt|reisig: Hmmm|pg||
+pc|h2|pc|hA|pc|h4|pg||
+nt|mdgraham: was wondering that. Does pass of the redouble indicate a willingness to defend 3@Hxx|pg||
+nt|vugraphzaj: says nothing|pg||
+pc|s9|pc|sT|pc|sJ|pc|s4|pg||
+pc|c8|pc|cA|pc|c7|pc|c9|pg||
+pc|h3|nt|reisig: If - South was upset about not unblocking ...watch out NOW :)|pg||
+pc|d3|pc|hK|pc|h6|pg||
+pc|h5|pc|hT|pc|hQ|pc|c2|pg||
+nt|mdgraham: yes, seatbelts at the ready|pg||
+pc|s6|pc|s2|pc|sQ|pc|sK|pg||
+pc|c4|pc|c3|pc|cQ|pc|cJ|pg||
+mc|9|nt|mdgraham: there's a score you don't see every day|pg||
+pg||
+qx|o24|st||md|2SA86HQ82DQT7CJ762,SQ97H975D862CAK85,SKT43HKJT4DAJ4CT9,SJ52HA63DK953CQ43|sv|o|mb|p|mb|1D|mb|p|mb|1N|mb|p|mb|p|mb|p|pc|h9|pc|hT|pc|h3|pc|hQ|pg||
+pc|dT|pc|d2|pc|d4|pc|dK|pg||
+pc|cQ|pc|c2|pc|c5|pc|c9|pg||
+pc|c4|pc|c7|pc|cK|pc|cT|pg||
+pc|sQ|pc|sK|pc|s2|pc|s6|pg||
+pc|h4|pc|hA|pc|h2|pc|h7|pg||
+pc|d3|pc|d7|pc|d6|pc|dA|pg||
+pc|hK|pc|h6|pc|h8|pc|h5|pg||
+pc|hJ|pc|d5|pc|dQ|pc|d8|pg||
+pc|dJ|pc|d9|pc|c6|pc|c8|pg||
+pc|s3|pc|s5|pc|s8|pc|s9|pg||
+mc|7|pg||
+qx|c24|st||md|2SA86HQ82DQT7CJ762,SQ97H975D862CAK85,SKT43HKJT4DAJ4CT9,SJ52HA63DK953CQ43|sv|o|mb|p|mb|1D|mb|p|mb|1N|mb|p|mb|p|mb|p|pc|h9|pc|h4|pc|hA|pc|hQ|pg||
+pc|c3|pc|c2|pc|cK|pc|c9|pg||
+pc|cA|pc|cT|pc|c4|pc|c6|pg||
+pc|c5|pc|s3|pc|cQ|pc|c7|pg||
+nt|mdgraham: shame - needed a small club back|pg||
+nt|reisig: Not so tough :)|pg||
+pc|h3|pc|h2|pc|h5|pc|hT|pg||
+pc|s4|pc|s2|pc|sA|pc|s7|pg||
+pc|cJ|pc|c8|pc|sT|pc|d3|pg||
+pc|dQ|pc|d2|pc|d4|pc|dK|pg||
+mc|8|nt|mdgraham: pause :)|pg||
+nt|vugraphzaj: pause|pg||
+nt|mdgraham: suspect the last round coming up, looking at the BBO timetable |pg||
+nt|mdgraham: http://www.bridgebase.com/vugraph/schedule.php|pg||
+nt|reisig: Tomorrow 3 and 4 PM   from Las Vegas|pg||
+pg||
+qx|o25|st||md|3SAK54H92DJ4CJ6542,ST9HKT743DQCAKQ97,SQ7632HJ5D7532CT8,SJ8HAQ86DAKT986C3|sv|e|mb|p|mb|1D|mb|p|mb|1H|mb|p|mb|4D|mb|p|mb|4N|mb|p|mb|5S!|an| |mb|d|mb|p|mb|p|mb|6H|mb|p|mb|p|mb|p|pc|s2|pc|s8|pc|sK|pc|s9|pg||
+pc|sA|pc|sT|pc|s3|pc|sJ|pg||
+mc|11|pg||
+qx|c25|st||md|3SAK54H92DJ4CJ6542,ST9HKT743DQCAKQ97,SQ7632HJ5D7532CT8,SJ8HAQ86DAKT986C3|sv|e|mb|p|mb|1D|mb|p|mb|1H|mb|p|mb|3H|mb|p|mb|3S|mb|p|mb|4C|mb|p|mb|4H|nt|reisig: Anybody overcall w that hand at fav vul?|pg||
+mb|p|nt|HedyG: you mean S?|pg||
+nt|HedyG: you would bid 1@s :)|pg||
+nt|reisig: Yup :)  1@s|pg||
+nt|mdgraham: might bid 1@S if feeling frisky - for the lead, you know, etc, etc|pg||
+mb|p|mb|p|pc|s2|pc|s8|pc|sK|pc|s9|pg||
+pc|sA|nt|HedyG: Richie is always feeling frisky ;)|pg||
+pc|sT|pc|s3|pc|sJ|pg||
+pc|h2|nt|reisig: If I didn't bid 1@s ..some of my partners would think - the bar was open :)|pg||
+nt|mdgraham: just as well they didn't bid six, if North was going to lead a spade |pg||
+nt|HedyG: lol|pg||
+mc|11|nt|HedyG: this is the last match for now|pg||
+pg||
+qx|o26|st||md|4SK93H732DAJ942CJ9,SQJ76HJ854DQCQ763,S852HAT9DKT86CA85,SAT4HKQ6D753CKT42|sv|b|mb|1C|mb|p|mb|1H|mb|p|mb|1N|mb|p|mb|p|mb|p|pc|d4|pc|dQ|pc|dK|pc|d3|pg||
+pc|d8|pc|d5|pc|d2|pc|c3|pg||
+pc|dT|pc|d7|pc|dJ|pc|c6|pg||
+pc|dA|pc|s6|pc|d6|pc|c2|pg||
+pc|d9|pc|h4|pc|s2|pc|h6|pg||
+pc|cJ|pc|c7|pc|c5|pc|cK|pg||
+pc|hK|pc|h2|pc|h5|pc|hA|pg||
+pc|cA|pc|c4|pc|c9|pc|cQ|pg||
+pc|c8|pc|cT|pc|s3|pc|s7|pg||
+pc|hQ|pc|h3|pc|h8|pc|h9|pg||
+mc|5|pg||
+qx|c26|st||md|4SK93H732DAJ942CJ9,SQJ76HJ854DQCQ763,S852HAT9DKT86CA85,SAT4HKQ6D753CKT42|sv|b|nt|mdgraham: Has Monsieur Ringuet given up on his former partner?|pg||
+mb|1C|mb|1D|mb|d!|mb|p|mb|p|mb|3D|mb|p|nt|HedyG: this is not the BB, they can play with whomever they want|pg||
+mb|p|mb|3H|mb|p|nt|mdgraham: suspect N bid 3@c |pg||
+mb|p|mb|p|pc|h3|pc|h4|nt|mdgraham: 3@D doesn't make much sense otherwise|pg||
+pc|h9|nt|HedyG: surely did|pg||
+pc|hQ|pg||
+pc|c2|pc|c9|pc|cQ|pc|cA|pg||
+pc|hA|pc|h6|pc|h2|pc|h5|pg||
+pc|hT|pc|hK|pc|h7|pc|h8|pg||
+pc|cK|pc|cJ|pc|c3|pc|c5|pg||
+pc|cT|pc|d4|pc|c6|pc|c8|pg||
+pc|c4|pc|d2|pc|c7|pc|d6|pg||
+nt|mdgraham: scoops the @cJ|pg||
+pc|sQ|pc|s2|pc|s4|pc|s3|pg||
+pc|s6|pc|s5|pc|sA|pc|s9|pg||
+pc|sT|pc|sK|pc|s7|pc|s8|pg||
+mc|9|pg||
+qx|o27|st||md|1SJ764H94DT765CK65,SA52HKQJT8D4CJ842,ST98HA76DAQJ82CQT,SKQ3H532DK93CA973|sv|o|mb|p|mb|1H|mb|2D|mb|2N!|an|fitté|mb|p|mb|4H|mb|p|mb|p|mb|p|pc|sT|pc|sK|pc|s6|pc|s2|pg||
+pc|h2|pc|h4|pc|hJ|pc|hA|pg||
+pc|dA|pc|d3|pc|d7|pc|d4|pg||
+pc|dQ|pc|dK|pc|d5|pc|c2|pg||
+pc|d9|pc|dT|pc|h8|pc|d2|pg||
+pc|hK|pc|h6|pc|h3|pc|h9|pg||
+pc|hQ|pc|h7|pc|h5|pc|d6|pg||
+pc|sA|pc|s8|pc|s3|pc|s4|pg||
+pc|s5|pc|s9|pc|sQ|pc|s7|pg||
+pc|c3|pc|cK|pc|c4|pc|cT|pg||
+pc|sJ|pc|hT|pc|dJ|pc|c7|pg||
+mc|10|pg||
+qx|c27|st||md|1SJ764H94DT765CK65,SA52HKQJT8D4CJ842,ST98HA76DAQJ82CQT,SKQ3H532DK93CA973|sv|o|mb|p|mb|1H|nt|HedyG: i really doubt that Huberschwiler and Tartarin are playing in both rooms!|pg||
+mb|p|mb|2N!|mb|p|mb|3H|mb|p|mb|3N|mb|p|nt|HedyG: 2NT invite plus with fit|pg||
+mb|4H|mb|p|mb|p|mb|p|nt|HedyG: 3@H= minimum|pg||
+pc|sT|pc|sK|pc|s7|pc|s2|pg||
+nt|mdgraham: so why 4@H then?|pg||
+pc|h2|pc|h4|pc|hK|nt|reisig: To go minus :)|pg||
+nt|mdgraham: oh, invite plus.|pg||
+pc|hA|pg||
+pc|dA|pc|d3|pc|d7|pc|d4|pg||
+pc|dQ|pc|dK|pc|d6|pc|c2|pg||
+pc|h3|pc|h9|pc|hQ|pc|h6|pg||
+pc|hJ|pc|h7|pc|h5|pc|d5|pg||
+pc|s5|nt|mdgraham: funny - can make by playing @cJ. Not obvious|pg||
+pc|s8|pc|sQ|pc|s4|pg||
+pc|s3|pc|s6|pc|sA|pc|s9|pg||
+pc|h8|pc|d2|pc|c3|pc|c5|pg||
+pc|c4|pc|cT|pc|cA|pc|c6|pg||
+nt|HedyG: there are 3 Tartarins on the team but only 1 Huberschwiller|pg||
+pc|c7|pc|cK|pc|c8|pc|cQ|pg||
+nt|reisig: Some discarding!|pg||
+nt|vugraphzaj: !!!|pg||
+mc|10|nt|mdgraham: a tartarin sounds like some kind of rather attractive ice-cream cakey thing|pg||
+pg||
+qx|o28|st||md|2S84H87532DK72CQT6,SK953HAQ9DQJ65C43,SAQT72HKT64D8CA85,SJ6HJDAT943CKJ972|sv|n|mb|1D|mb|1S|mb|2C|mb|p|mb|2N|mb|p|mb|3D|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|s7|pc|s6|pc|s8|pc|s9|pg||
+pc|dQ|pc|d8|pc|d3|pc|dK|pg||
+pc|s4|pc|s3|pc|sQ|pc|sJ|pg||
+pc|sA|pc|c2|pc|d2|pc|s5|pg||
+pc|s2|pc|c7|pc|h2|pc|sK|pg||
+pc|c4|pc|c5|pc|c9|pc|cT|pg||
+pc|h3|pc|hA|pc|h4|pc|hJ|pg||
+mc|7|nt|vugraphzbd: Merci à tous d'avoir suivi le mondial de Deauville sur BBO. Rendez-vous ce soir pour le tournoi des champions à 22 H 00. Et demain pour la dernière journée du patton.|pg||
+pg||
+qx|c28|st||md|2S84H87532DK72CQT6,SK953HAQ9DQJ65C43,SAQT72HKT64D8CA85,SJ6HJDAT943CKJ972|sv|n|nt|HedyG: lol hungry?|pg||
+mb|1D|mb|1S|nt|vugraphzaj: very|pg||
+mb|2C|mb|p|mb|2N|mb|p|mb|3D|nt|mdgraham: soon be dinner time :)|pg||
+mb|p|mb|3N|mb|p|mb|p|mb|p|nt|HedyG: this looks doomed|pg||
+nt|reisig: So did the prev hand :)|pg||
+nt|HedyG: :)|pg||
+pc|h4|nt|HedyG: we will be back in ca 45 minutes|pg||
+pc|hJ|pc|h2|pc|h9|pg||
+pc|dA|pc|d2|pc|d5|pc|d8|pg||
+pc|d3|pc|d7|pc|dQ|pc|s2|pg||
+pc|c3|pc|c5|pc|cJ|pc|cQ|pg||
+pc|h8|pc|hA|pc|hT|nt|mdgraham: nice unblock|pg||
+pc|c2|pg||
+nt|reisig: Nice @h 10|pg||
+pc|c4|pc|cA|pc|c7|pc|c6|pg||
+pc|hK|pc|s6|pc|h3|pc|hQ|pg||
+pc|h6|pc|d4|pc|h7|pc|s3|pg||
+pc|h5|pc|d6|pc|c8|pc|d9|pg||
+nt|HedyG: Tembouret used to play a lot on BBO when he was still a junior|pg||
+mc|5|nt|HedyG: including in our BBOjunior tourneys :)|pg||
+nt|HedyG: or JuniorsBBO|pg||
+nt|mdgraham: thanks hedy, thanks Richie, thanks Steve our operator|pg||
+nt|HedyG: bye for now!|pg||
+nt|reisig: thx all -- see ya :)|pg||
+nt|vugraphzaj: It's over ! In two hours there will be te second round of the champ's tournament|pg||
+pg||

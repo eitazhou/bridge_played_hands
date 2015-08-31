@@ -1,0 +1,149 @@
+vg|14th Red Bull WBS-Rosenblum-BBO4,SW 1_8,I,1,7,BRIDGE 24,0,NETHERLANDS,0|
+rs|3DN-3,1NN-2,3NE-1,3NE-2,2CS=,4SWx-3,1NN-1,2SS=,2SS+1,2CW-3,3NS-1,3NS=,3NE=,5DE-1|
+pn|DUBININ,VAN LANKVE,GROMOV,VANDENBOS,TICHA,GAWEL,RITMEIJER,JAGNIEWSKI|pg||
+qx|o1|st||md|3SQJHKT93DJ7CQJ752,ST8H84DQ9654CAKT6,S965HAJ7DAKT32C43,SAK7432HQ652D8C98|sv|o|mb|1N|mb|2C|mb|d|mb|r|mb|p|mb|2S|mb|p|mb|p|mb|3D|mb|p|mb|p|mb|p|pc|sK|pc|sJ|pc|sT|pc|s5|pg||
+pc|sA|pc|sQ|pc|s8|pc|s6|pg||
+pc|s3|pc|dJ|pc|dQ|pc|s9|pg||
+pc|cK|pc|c3|pc|c9|pc|c2|pg||
+pc|cA|pc|c4|pc|c8|pc|c5|pg||
+pc|cT|pc|h7|pc|d8|pc|c7|pg||
+mc|6|pg||
+qx|c1|st||md|3SQJHKT93DJ7CQJ752,ST8H84DQ9654CAKT6,S965HAJ7DAKT32C43,SAK7432HQ652D8C98|sv|o|mb|1D|mb|1S|mb|d|mb|p|mb|1N|mb|p|mb|p|mb|p|pc|s4|pc|sJ|pc|s8|pc|s5|pg||
+pc|dJ|pc|dQ|pc|dA|pc|d8|pg||
+pc|c3|pc|c8|pc|cQ|pc|cK|pg||
+pc|sT|pc|s6|pc|sK|pc|sQ|pg||
+pc|sA|pc|c2|pc|h4|pc|s9|pg||
+pc|s7|pc|d7|pc|c6|pc|d2|pg||
+pc|s2|pc|h3|pc|d4|pc|h7|pg||
+pc|s3|pc|h9|pc|d5|pc|c4|pg||
+pc|c9|pc|cJ|pc|cA|pc|d3|pg||
+pc|cT|pc|hJ|pc|h2|pc|c5|pg||
+mc|5|pg||
+qx|o2|st||md|4S5HT9654DA82CT872,SAK962HKJ3DQT5C95,SQJT43HQ8DKJ64CK4,S87HA72D973CAQJ63|sv|n|mb|1N|mb|p|mb|2C|mb|p|mb|2D|mb|p|mb|2S|mb|p|mb|2N|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|hT|pc|hJ|pc|hQ|pc|h2|pg||
+pc|h8|pc|h7|pc|h5|pc|hK|pg||
+pc|c5|pc|cK|pc|cA|pc|c2|pg||
+pc|cQ|pc|cT|pc|c9|pc|c4|pg||
+pc|cJ|pc|c7|pc|s2|pc|s3|pg||
+pc|c6|pc|c8|pc|s6|pc|s4|pg||
+pc|h6|pc|h3|pc|d4|pc|hA|pg||
+pc|c3|pc|d2|pc|d5|pc|d6|pg||
+mc|8|pg||
+qx|c2|st||md|4S5HT9654DA82CT872,SAK962HKJ3DQT5C95,SQJT43HQ8DKJ64CK4,S87HA72D973CAQJ63|sv|n|mb|1N|mb|p|mb|2C|mb|p|mb|2D|mb|p|mb|2N|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|h5|pc|hJ|pc|hQ|pc|hA|pg||
+pc|s8|pc|s5|pc|sA|pc|s3|pg||
+pc|c5|pc|cK|pc|cA|pc|c2|pg||
+pc|s7|pc|d2|pc|s2|pc|sT|pg||
+pc|h8|pc|h7|pc|h9|pc|h3|pg||
+nt|ahollan1: 1N also opened in the other room  there 10-13   here not sure if 10-12 or 11-13|pg||
+pc|h4|pc|hK|pc|d4|pc|h2|pg||
+nt|ahollan1: Dubin leads @H10|pg||
+pc|sK|pc|s4|pc|d7|pc|d8|pg||
+pc|c9|pc|c4|pc|cQ|pc|c8|pg||
+pc|cJ|pc|c7|pc|d5|pc|d6|pg||
+mc|7|pg||
+qx|o3|st||md|1S2HKJ96DAJ3CQJT75,SAQT743HQ83D95C62,SKJ86H742DKT74C98,S95HAT5DQ862CAK43|sv|e|mb|2C|mb|p|mb|p|mb|p|pc|d9|pc|d4|pc|d2|pc|dJ|pg||
+pc|c5|pc|c2|pc|c8|pc|cK|pg||
+pc|h5|pc|hJ|pc|hQ|pc|h2|pg||
+pc|h8|pc|h4|pc|hA|pc|h6|pg||
+pc|hT|pc|hK|pc|h3|pc|h7|pg||
+pc|cQ|pc|c6|pc|c9|pc|cA|pg||
+pc|c4|pc|cT|pc|s3|pc|s6|pg||
+mc|8|pg||
+qx|c3|st||md|1S2HKJ96DAJ3CQJT75,SAQT743HQ83D95C62,SKJ86H742DKT74C98,S95HAT5DQ862CAK43|sv|e|mb|1C|mb|2S|nt|ahollan1: 1@C=2+|pg||
+mb|p|mb|2N|mb|p|mb|3N|mb|d|mb|4S|mb|p|mb|p|mb|d|mb|p|mb|p|mb|p|pc|c9|nt|ahollan1: i believe 2N = RELAY, INV+  but don't know anything about the response structure|pg||
+pc|cA|pc|c5|pc|c2|pg||
+pc|s5|pc|s2|pc|sT|pc|sJ|pg||
+pc|c8|pc|cK|pc|c7|pc|c6|pg||
+pc|s9|pc|cQ|pc|s3|pc|sK|pg||
+pc|h7|pc|h5|pc|hK|pc|h3|pg||
+pc|cJ|pc|d5|pc|h4|pc|c4|pg||
+pc|dA|pc|d9|pc|dT|pc|d2|pg||
+pc|cT|pc|s7|pc|s8|pc|c3|pg||
+mc|7|pg||
+qx|o4|st||md|2SQT85HJTDT954CA43,S92HKQ863D876CT52,SAJ74H974DKJ2CKQ7,SK63HA52DAQ3CJ986|sv|b|mb|p|mb|1N|mb|p|mb|p|mb|p|pc|c9|pc|cA|pc|c2|pc|c7|pg||
+pc|sQ|pc|s2|pc|s4|pc|s3|pg||
+pc|s5|pc|s9|pc|sJ|pc|sK|pg||
+pc|c6|pc|c4|pc|cT|pc|cK|pg||
+pc|sA|pc|s6|pc|s8|pc|d6|pg||
+pc|s7|pc|d3|pc|sT|pc|d7|pg||
+pc|d4|pc|d8|pc|dJ|pc|dQ|pg||
+pc|c8|pc|c3|pc|c5|pc|cQ|pg||
+mc|6|pg||
+qx|c4|st||md|2SQT85HJTDT954CA43,S92HKQ863D876CT52,SAJ74H974DKJ2CKQ7,SK63HA52DAQ3CJ986|sv|b|mb|p|mb|1C|mb|d|nt|ahollan1: 1@C = 2+     still|pg||
+mb|1S|mb|2H|nt|ahollan1: you won't see east's DBL in any textbooks|pg||
+mb|2S|mb|p|mb|p|mb|p|pc|hK|pc|h4|pc|h5|pc|hT|pg||
+nt|ahollan1: primary signal for east is reverse count|pg||
+pc|c5|nt|ahollan1: seems declarer should win this race for the first making contract of the match|pg||
+pc|cK|pc|c6|pc|c4|pg||
+pc|h7|pc|hA|pc|hJ|nt|ahollan1: i believe the format is:  today is an 8-round Swiss  then the field is reduced   then tomorrow  Group A another Swiss with large number advancing to KO  and Group B Swiss with ...|pg||
+nt|ahollan1: small number advancing to KO|pg||
+pc|h6|pg||
+pc|c9|nt|ahollan1: if fuzzy memory serves, this is the first time the Rosenblum has used this format|pg||
+pc|c3|pc|c2|pc|cQ|pg||
+pc|s4|pc|sK|pc|s5|pc|s2|pg||
+nt|ahollan1: previously there was a KO with repechage  [loser of 1 KO match fell into different bracket but continued play until 2nd loss]|pg||
+pc|h2|pc|s8|pc|h3|pc|h9|pg||
+pc|sQ|pc|s9|pc|s7|pc|s3|pg||
+nt|ahollan1: of course  originally this every 4 year event focused on Pair Events  and  Open/Women/Senior Team events weren't part of the equation|pg||
+pc|dT|pc|d7|pc|d2|pc|dQ|pg||
+pc|dA|pc|d4|pc|d6|pc|dJ|pg||
+mc|8|pg||
+qx|o5|st||md|3SQT752HJ9D85CAQ97,S943HT43DAJ7CT832,SKJ6HA872DKT93CJ4,SA8HKQ65DQ642CK65|sv|n|mb|p|mb|1C|mb|1S|mb|p|mb|2C|mb|p|mb|2S|mb|p|mb|p|mb|p|pc|s3|pc|sK|pc|sA|pc|s2|pg||
+pc|s8|pc|s5|pc|s4|pc|sJ|pg||
+pc|cJ|pc|c5|pc|cA|pc|c2|pg||
+mc|9|pg||
+qx|c5|st||md|3SQT752HJ9D85CAQ97,S943HT43DAJ7CT832,SKJ6HA872DKT93CJ4,SA8HKQ65DQ642CK65|sv|n|mb|1C|mb|p|mb|1S|mb|p|mb|1N|mb|d|nt|ahollan1: 1@C = 2+  but as we've seen from 2 earlier boards   CAN have 4@D and shorter @C, but not 5@D(332)  [1@D]|pg||
+mb|p|mb|2C|mb|p|mb|p|mb|p|pc|h2|nt|ahollan1: who gets credit for missing 2@S?|pg||
+pc|h5|pc|hJ|pc|h4|pg||
+pc|d5|pc|d7|pc|dK|pc|d2|pg||
+pc|d9|pc|d4|pc|d8|pc|dA|pg||
+pc|c3|pc|c4|pc|cK|pc|cA|pg||
+pc|c7|pc|c8|pc|cJ|pc|c5|pg||
+pc|d3|pc|d6|pc|c9|pc|dJ|pg||
+nt|ahollan1: i think they played @D once too often|pg||
+pc|cQ|pc|c2|pc|h7|pc|c6|pg||
+pc|s2|pc|s4|nt|ahollan1: but Gawel @S discard comes in the wrong hand so maybe it doesn't matter|pg||
+pc|sJ|pc|sA|pg||
+mc|5|pg||
+qx|o6|st||md|4SAJ86HK92D652CAQ7,SQ7HQT654DQJT83C3,ST4HJ873DACKJ9642,SK9532HADK974CT85|sv|e|mb|p|mb|1N|mb|p|mb|2C|mb|p|mb|2S|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|dQ|pc|dA|pc|d7|pc|d5|pg||
+pc|c2|pc|c8|pc|cA|pc|c3|pg||
+pc|cQ|pc|h4|pc|c4|pc|c5|pg||
+pc|c7|pc|h6|pc|cK|pc|cT|pg||
+pc|cJ|pc|s9|pc|s6|pc|d3|pg||
+pc|c9|pc|s5|pc|h2|pc|h5|pg||
+pc|c6|pc|s2|pc|sJ|pc|hT|pg||
+pc|s4|pc|s3|pc|sA|pc|s7|pg||
+mc|8|pg||
+qx|c6|st||md|4SAJ86HK92D652CAQ7,SQ7HQT654DQJT83C3,ST4HJ873DACKJ9642,SK9532HADK974CT85|sv|e|mb|p|mb|1C|mb|1H|nt|ahollan1: netherlands has won imps on all of the first 4 boards  and  150 on 5 another potential small pickup|pg||
+nt|ahollan1: another 1@C=2+|pg||
+mb|2H|mb|2S|mb|3N|mb|p|mb|p|mb|p|pc|sQ|pc|s4|pc|s3|pc|sA|pg||
+pc|s6|pc|s7|pc|sT|nt|ahollan1: nice @S10 partner!|pg||
+pc|sK|pg||
+pc|d4|pc|d2|pc|d3|pc|dA|pg||
+pc|c2|nt|ahollan1: Jagniewski will hate himself for talking partner out of the @D lead|pg||
+pc|c5|pc|cA|pc|c3|pg||
+pc|sJ|pc|h4|pc|h3|pc|s2|pg||
+mc|9|pg||
+qx|o7|st||md|1S85HJT85432DA2C63,SQH7D9754CAJ98542,SAT962HQ96DQJ3CT7,SKJ743HAKDKT86CKQ|sv|b|mb|p|mb|p|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|h4|mc|9|pg||
+qx|c7|st||md|1S85HJT85432DA2C63,SQH7D9754CAJ98542,SAT962HQ96DQJ3CT7,SKJ743HAKDKT86CKQ|sv|b|mb|2D|mb|p|nt|ahollan1: 2@D = a) weak 2M  b) BAL, 22-24  c) 3-suit, 21+|pg||
+mb|4D|nt|ahollan1: 7th @H overcomes the otherwise anemic suit|pg||
+nt|ahollan1: 4@D = bid your suit|pg||
+mb|d|mb|4H|mb|4N|mb|p|mb|5D|mb|p|mb|p|mb|p|pc|s8|nt|ahollan1: hadn't thought about this auction before  should 4@D-DBL imply better @D or does it cover a 2nd hand type?|pg||
+pc|sQ|pc|sA|pc|s4|pg||
+pc|h6|pc|hA|pc|h2|pc|h7|pg||
+nt|ahollan1: nice lead to ensure the defeat of 5@D|pg||
+nt|ahollan1: are EW supposed to be able to guess that 5@C is the better [although beatable] contract |pg||
+nt|ahollan1: this is final board of the match  -  i'm sure i'll never get used to commentary of only 7 boards |pg||
+nt|ahollan1: short break  then unsure which 3 matches on vugraph|pg||
+nt|ahollan1: note that Ritmeijer ASSUMES Ticha has the weak variety of 2@D opener|pg||
+pc|s3|pc|s5|pc|d4|pc|s2|pg||
+pc|d5|pc|d3|pc|dT|nt|ahollan1: if she had a strong hand type, over 4@D she would bid something other than 4@H/@S|pg||
+pc|dA|pg||
+pc|c3|pc|cA|pc|c7|pc|cQ|pg||
+pc|d7|nt|ahollan1: NS had a very good set -- unclear how much EW deserved their bad scores [except -800]|pg||
+pc|dJ|pc|dK|pc|d2|pg||
+mc|10|nt|ahollan1: top page for running scores of all 3 Team Events   http://www.worldbridge.org/repository/tourn/sanya.14/microsite/Results.htm|pg||
+nt|ahollan1: but you will need to refresh the page to get updates|pg||
+nt|ahollan1: Nickell 23-0 with 1 board to score|pg||
+nt|ahollan1: seems strange to see 1st match played by  meckwell & levin-weinstein|pg||
+nt|ahollan1: i expected to see nickell-katz, but then again this is first time i've seen the team in a 7-board swiss|pg||
+pg||

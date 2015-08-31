@@ -1,0 +1,247 @@
+vg|M2 2014 CNBC Glasgow,PO2_3,I,13,24,India,16,England,24|
+rs|1NS+1,3CS+1,3NW+1,3NW+1,2SW-2,4SW-3,4SW+2,4SW+2,3NW-2,3NE+1,4SN-2,3NS-1,6DN-1,6DS=,1NE-1,2CS=,3NS+3,3NN+2,2SS-1,2SS-1,3SE=,4SE=,6HE-1,6HW-2|
+pn|Nandi,Holland,Datta,Green,SMALL,THAKRAL,KING,BENDRE|pg||
+qx|o13|st||md|3SAK4HQJT8DT6CA873,SJTHK94DA8532CT64,S32HA52DQJ97CKJ92,SQ98765H763DK4CQ5|sv|b|mb|p|mb|p|mb|1C|mb|p|mb|1D|mb|1S|mb|p|mb|p|mb|d|mb|p|mb|1N|mb|p|mb|p|mb|p|nt|vugraphzdp: Combined 25, balanced opposite balanced, yet neither table in 3n|pg||
+pc|sJ|pc|s2|pc|s5|pc|s4|pg||
+pc|sT|pc|s3|pc|s6|pc|sA|pg||
+pc|dT|pc|d2|pc|dQ|pc|dK|pg||
+pc|s8|pc|sK|nt|vugraphzdp: unusual, especially when vul|pg||
+pc|d3|nt|Psyck:  If South had rebid 1N over 1@s, North would raise & they may have ended in 3N|pg||
+pc|c2|pg||
+pc|d6|pc|dA|pc|d7|pc|d4|pg||
+pc|d5|pc|d9|nt|vugraphzdp: South will not risk any finesses, but that will bring in clubs|pg||
+pc|h3|pc|h8|pg||
+pc|dJ|pc|s7|pc|hT|pc|d8|pg||
+pc|cK|pc|c5|pc|c3|pc|c4|pg||
+pc|c9|pc|cQ|pc|cA|pc|c6|pg||
+pc|c7|pc|cT|pc|cJ|pc|s9|pg||
+pc|hA|pc|h6|pc|hJ|pc|h4|pg||
+pc|h2|pc|h7|pc|hQ|pc|hK|pg||
+pc|h9|pc|h5|pc|sQ|pc|c8|pg||
+pg||
+qx|c13|st||md|3SAK4HQJT8DT6CA873,SJTHK94DA8532CT64,S32HA52DQJ97CKJ92,SQ98765H763DK4CQ5|sv|b|mb|p|mb|p|mb|1C|mb|p|mb|1S|mb|p|mb|1N|mb|p|mb|2C|mb|p|mb|3C|mb|p|mb|p|mb|p|pc|sJ|pc|s2|pc|s5|pc|sA|pg||
+pc|c3|pc|c4|pc|cJ|pc|cQ|pg||
+pc|h3|pc|hQ|pc|hK|pc|hA|pg||
+pc|c2|pc|c5|pc|cA|pc|c6|pg||
+pc|c8|pc|cT|pc|cK|pc|s6|pg||
+pc|d7|pc|d4|pc|dT|pc|dA|pg||
+pc|sT|pc|s3|mc|10|pg||
+qx|o14|st||md|4SKQJ2H72D752CQJ76,S4HAQ3DAKT943CAT2,SA97HJ9854D86CK83,ST8653HKT6DQJC954|sv|o|nt|vugraphzdp: India got away with 3NT in the other room on 17 to tighten the match up considerably|pg||
+mb|p|mb|p|mb|1D|mb|p|mb|1S|mb|p|mb|3D|mb|p|mb|3H|mb|p|mb|3N|mb|p|mb|p|mb|p|nt|vugraphzdp: I imagine there'll be a quick claim after the lead|pg||
+pc|h5|mc|10|pg||
+qx|c14|st||md|4SKQJ2H72D752CQJ76,S4HAQ3DAKT943CAT2,SA97HJ9854D86CK83,ST8653HKT6DQJC954|sv|o|mb|p|mb|p|mb|1C|mb|p|mb|1D|mb|p|mb|1H|mb|p|mb|1S|mb|p|mb|2N|mb|p|mb|3H|mb|p|mb|3S|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|d6|mc|10|pg||
+qx|o15|st||md|1S65HQ876DKT95CKJT,SAQ932HA9DJ2CAQ64,SKJ4HKJT3DA87C873,ST87H542DQ643C952|sv|n|mb|p|mb|1S|mb|p|mb|p|mb|d|mb|2C|mb|2H|mb|2S|mb|p|mb|p|mb|p|pc|hJ|pc|h2|pc|h6|pc|hA|pg||
+pc|h9|pc|h3|pc|h4|pc|hQ|pg||
+pc|s5|pc|s2|pc|sJ|pc|s7|pg||
+pc|hK|pc|h5|pc|h7|pc|s3|pg||
+pc|dJ|pc|dA|pc|d3|pc|d9|pg||
+pc|d8|pc|d4|pc|d5|pc|d2|pg||
+pc|d7|pc|d6|pc|dT|pc|sQ|pg||
+pc|cA|pc|c3|pc|c2|pc|cT|pg||
+pc|c4|pc|c7|pc|c5|pc|cJ|pg||
+pc|s6|pc|sA|pc|s4|pc|s8|pg||
+pc|cQ|pc|c8|pc|c9|pc|cK|pg||
+pc|dK|pc|s9|pc|sK|pc|dQ|pg||
+pc|hT|pc|sT|pc|h8|pc|c6|pg||
+pg||
+qx|c15|st||md|1S65HQ876DKT95CKJT,SAQ932HA9DJ2CAQ64,SKJ4HKJT3DA87C873,ST87H542DQ643C952|sv|n|mb|p|mb|1C|mb|p|mb|1D|mb|p|mb|1S|mb|p|mb|1N|mb|p|mb|2C|mb|p|mb|2S|mb|p|nt|vugraphzdn: my error board 21 now sorted. thanks to those who pointed it out!|pg||
+mb|4S|mb|p|mb|p|mb|p|pc|c3|pc|c2|pc|cK|pc|cA|pg||
+pc|cQ|pc|c8|pc|c5|pc|cJ|pg||
+pc|c4|pc|c7|pc|c9|pc|cT|pg||
+pc|h6|pc|hA|pc|h3|pc|h2|pg||
+pc|sA|pc|s4|pc|s7|pc|s6|pg||
+pc|s2|pc|sK|pc|s8|pc|s5|pg||
+mc|7|pg||
+qx|o16|st||md|2SAQHKJ9743D984CT4,SKT9743HAQ5DJTC92,S65HT82DQ765CQJ86,SJ82H6DAK32CAK753|sv|e|mb|1S|mb|p|mb|2C|mb|2H|mb|2S|mb|p|nt|Psyck:  Last deal, final set for the Silver/Bronze medal playoffs in about an hour after this set finishes.|pg||
+mb|4H|mb|p|mb|4S|mb|p|mb|p|mb|p|pc|h2|pc|h6|pc|hK|pc|hA|pg||
+pc|h5|pc|h8|pc|s2|pc|h3|pg||
+pc|s8|pc|sA|pc|s3|pc|s5|pg||
+pc|sQ|pc|sK|pc|s6|pc|sJ|pg||
+mc|12|nt|vugraphzdp: Thanks everyone|pg||
+nt|Psyck:  Thanks Jake & kibitzers|pg||
+nt|vugraphzdp: Thanks Krishna |pg||
+pg||
+qx|c16|st||md|2SAQHKJ9743D984CT4,SKT9743HAQ5DJTC92,S65HT82DQ765CQJ86,SJ82H6DAK32CAK753|sv|e|mb|2S|mb|p|mb|4S|mb|p|mb|p|mb|p|pc|s5|nt|vugraphzdn: sorry - players not letting me see cards so I can't follow the play. 1 to NS so far. |pg||
+mc|12|pg||
+qx|o17|st||md|3S8542H6DKT763CQJ6,SKJT96HA82D842C75,SQ7HKJT975DAQ5CT9,SA3HQ43DJ9CAK8432|sv|o|mb|1H|mb|2C|mb|d|mb|2S|mb|p|mb|3H|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|dA|pc|d9|pc|d3|pc|d2|pg||
+pc|dQ|pc|dJ|pc|dK|pc|d4|pg||
+pc|dT|pc|d8|pc|d5|pc|c2|pg||
+pc|d7|pc|c5|pc|h5|pc|c3|pg||
+pc|d6|pc|h2|pc|h7|pc|c4|pg||
+pc|cQ|pc|c7|pc|cT|pc|cA|pg||
+pc|cK|pc|c6|pc|h8|pc|c9|pg||
+pc|sA|pc|s2|pc|s6|pc|s7|pg||
+pc|s3|pc|s4|pc|sJ|pc|sQ|pg||
+pc|h9|pc|h3|pc|h6|pc|hA|pg||
+mc|7|pg||
+qx|c17|st||md|3S8542H6DKT763CQJ6,SKJT96HA82D842C75,SQ7HKJT975DAQ5CT9,SA3HQ43DJ9CAK8432|sv|o|mb|1H|mb|1N|mb|p|mb|2H!|mb|p|mb|2S|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|cQ|pc|c5|pc|cT|pc|c2|pg||
+pc|cJ|pc|c7|pc|c9|pc|cA|pg||
+pc|cK|pc|c6|pc|s6|pc|h5|pg||
+pc|c8|pc|h6|pc|d2|pc|hJ|pg||
+pc|c4|pc|s5|pc|d4|pc|h7|pg||
+pc|c3|pc|s2|pc|d8|pc|d5|pg||
+pc|sA|pc|s4|pc|s9|pc|s7|pg||
+pc|s3|pc|s8|pc|sK|pc|sQ|pg||
+pc|sJ|pc|h9|mc|10|pg||
+qx|o18|st||md|4SJ742H32DAT75CAJ3,SKQ95HT954D93CQ85,SAT863HKJDK84CKT9,SHAQ876DQJ62C7642|sv|n|mb|p|mb|p|mb|p|mb|1N|mb|2H!|an|5!H + minor|mb|3D!|mb|3H|mb|4S|mb|p|mb|p|mb|p|nt|vugraphzdp: 3@D = 4@S GF|pg||
+pc|c6|nt|Psyck:  A form of transfer lebensohl|pg||
+pc|c3|pc|cQ|pc|cK|pg||
+pc|sA|pc|h8|pc|s2|pc|s5|pg||
+pc|s3|pc|h6|pc|sJ|pc|sQ|pg||
+pc|hT|pc|hJ|pc|hQ|pc|h2|pg||
+pc|hA|pc|h3|pc|h4|pc|hK|pg||
+pc|c2|pc|cJ|pc|c5|pc|c9|pg||
+pc|s4|pc|sK|pc|s6|pc|h7|pg||
+pc|c8|pc|cT|pc|c4|pc|cA|pg||
+pc|s7|pc|s9|pc|sT|pc|d2|pg||
+pc|dK|pc|d6|pc|d5|pc|d3|pg||
+pc|d4|pc|dJ|pc|dA|pc|d9|pg||
+pc|d7|pc|h5|pc|d8|pc|dQ|pg||
+pc|c7|pc|dT|pc|h9|pc|s8|pg||
+pg||
+qx|c18|st||md|4SJ742H32DAT75CAJ3,SKQ95HT954D93CQ85,SAT863HKJDK84CKT9,SHAQ876DQJ62C7642|sv|n|nt|vugraphzdn: N says 'you didn't have K!?' - S says 'yes' - N says 'oh sh*t'|pg||
+mb|p|mb|p|mb|p|mb|3S|mb|p|mb|p|mb|p|pc|h6|pc|h2|nt|vugraphzdn: oops, I meant K@h|pg||
+pc|h9|pc|hJ|pg||
+nt|vugraphzdn: Sorry - missed a P - bidding all wrong. Correct contract. Sorry.|pg||
+nt|vugraphzdn: Yes. I'm not always wrong!|pg||
+pc|dK|pc|d2|nt|vugraphzdn: XX was SOS|pg||
+pc|d5|pc|d3|pg||
+pc|cT|pc|c2|pc|cA|pc|c5|pg||
+pc|s7|nt|vugraphzdn: After MUCH thought, S bid. Now E thinking.|pg||
+pc|sQ|pc|sA|pc|c4|pg||
+pc|s3|pc|d6|pc|sJ|pc|sK|pg||
+pc|h4|pc|hK|pc|hA|pc|h3|pg||
+pc|hQ|mc|8|nt|vugraphzdn: Sorry - wrong contract. Corrected now.|pg||
+nt|vugraphzdn: I'm very sorry for all errors. I'm sitting S/W so right-handed players cover their cards unintentionally and the W bidding box covers both bids and cards from S. I'll try harder!|pg||
+pg||
+qx|o19|st||md|1SAHKQ942DAKQJT76C,SJ863HA6D2CKJT976,SK52H875D954CAQ43,SQT974HJT3D83C852|sv|e|nt|Psyck:  Lead made thissy in the other room|pg||
+nt|Psyck:  *this easy|pg||
+nt|vugraphzdp: Yes, though @C lead also helps|pg||
+nt|Psyck:  on a passive pointed suit lead, declarer would have to strip pointed suits & use the trump entry to finess @hJT thereby enplaying West for a 2nd finess|pg||
+mb|2C!|mb|p|mb|2D!|mb|p|mb|3C!|mb|p|mb|3D|mb|p|mb|3H|nt|Psyck:  With a 'one' loser hand, I certainly prefer a 2@c opening to 1@d|pg||
+mb|p|nt|Psyck:  3@c was transfer & 3@h continues to show the shape|pg||
+nt|vugraphzdp: We will likely have North declaring here. E will likely not lead a @H now|pg||
+nt|Psyck:  3N looks normal now as N has nothing useful in reds|pg||
+nt|vugraphzdp: but if S cues clubs at any point, West will likely double that|pg||
+nt|Psyck:  Yes, & North could redouble|pg||
+mb|4C|mb|p|mb|4H|mb|p|mb|4S|mb|p|nt|Psyck:  4@c was not what I expected, it also prevents South from employing ekcb, assuming 5@c would be ekcb on 3N|pg||
+mb|5C|mb|d|mb|r|mb|p|mb|6D|mb|p|mb|p|mb|p|nt|Psyck:  They get to the expected contract, let us hope for a more interesting lead|pg||
+pc|d3|nt|vugraphzdp: Green had the 5@C out in his hand|pg||
+nt|vugraphzdp: but changed his mind|pg||
+nt|Psyck:  OK, we got it, now declarer has his work cut out, I sure wouldn't want to be in his place|pg||
+nt|vugraphzdp: I a way he's lucky to only have one entry to hand|pg||
+pc|dA|pc|d2|pc|d5|pg||
+nt|Psyck:  The line I mentioned to make looks too double dummy, so I would expect this to go down in practice|pg||
+pc|dK|pc|c6|pc|d4|pc|d8|pg||
+pc|sA|pc|s3|pc|s2|pc|s4|pg||
+nt|vugraphzdp: Will likely fall back on Ax @H onside|pg||
+pc|d7|pc|c7|pc|d9|pc|c2|pg||
+nt|Psyck:  He basically has to decide @hAx with LHO or RHO|pg||
+pc|sK|pc|s7|pc|h2|pc|s6|pg||
+pc|cA|pc|c5|pc|h4|pc|c9|pg||
+pc|h5|pc|hT|pc|hK|pc|hA|pg||
+pc|cK|pc|c3|pc|c8|pc|d6|pg||
+pc|hQ|pc|h6|pc|h7|pc|h3|pg||
+mc|11|pg||
+qx|c19|st||md|1SAHKQ942DAKQJT76C,SJ863HA6D2CKJT976,SK52H875D954CAQ43,SQT974HJT3D83C852|sv|e|mb|1D|mb|3C|mb|p|mb|p|mb|4C|mb|p|mb|5D|nt|vugraphzdn: Much deep thought from England|pg||
+mb|p|mb|5S|mb|p|mb|6C|mb|p|mb|6D|mb|p|mb|p|mb|p|pc|hA|pc|h5|pc|h3|pc|h9|pg||
+pc|h6|pc|h7|pc|hJ|mc|12|pg||
+qx|o20|st||md|2SK3HK54DT743CQT64,SA72HAT63DA862C32,SQT98HQ92DJ9CAKJ7,SJ654HJ87DKQ5C985|sv|b|nt|Psyck:  Cashing the @cA proved costly when East chose to split @h honours|pg||
+mb|1C!|an|2+|mb|p|mb|1H!|an|!S|mb|p|mb|1S!|mb|p|mb|1N|mb|p|mb|p|mb|p|pc|d3|pc|d2|pc|dJ|pc|dK|pg||
+pc|h7|pc|h4|pc|h3|pc|h9|pg||
+pc|c7|pc|c9|pc|cT|pc|c2|pg||
+pc|c4|pc|c3|pc|cK|pc|c5|pg||
+pc|d9|pc|dQ|pc|d4|pc|d6|pg||
+pc|h8|pc|h5|nt|vugraphzdp: Declarer cannot take the @D finesse|pg||
+pc|hA|pc|h2|pg||
+pc|h6|pc|hQ|pc|hJ|pc|hK|pg||
+pc|c6|pc|s2|pc|cA|pc|c8|pg||
+pc|cJ|pc|s4|pc|cQ|pc|s7|pg||
+pc|s3|pc|sA|pc|s8|pc|s5|pg||
+pc|hT|pc|s9|pc|d5|pc|sK|pg||
+pc|dA|pc|sT|pc|s6|pc|d7|pg||
+pc|d8|pc|sQ|pc|sJ|pc|dT|pg||
+pg||
+qx|c20|st||md|2SK3HK54DT743CQT64,SA72HAT63DA862C32,SQT98HQ92DJ9CAKJ7,SJ654HJ87DKQ5C985|sv|b|mb|1D!|mb|d|mb|p|mb|2C|mb|p|mb|p|mb|p|nt|vugraphzdn: S takes one bidding card out at a time. Odd.|pg||
+pc|c2|pc|c7|pc|c8|pc|cQ|pg||
+pc|d3|pc|d2|pc|d9|pc|dQ|pg||
+pc|c5|pc|c4|pc|c3|pc|cJ|pg||
+pc|dJ|pc|dK|pc|d4|pc|d6|pg||
+pc|c9|pc|c6|pc|h3|pc|cK|pg||
+pc|s8|pc|s4|nt|vugraphzdn: More deep thought|pg||
+pc|s3|pc|s7|pg||
+pc|s9|pc|s5|pc|sK|pc|sA|pg||
+pc|s2|pc|sQ|pc|s6|pc|h4|pg||
+pc|sT|pc|sJ|pc|cT|pc|d8|pg||
+pc|h5|pc|h6|pc|hQ|mc|8|pg||
+qx|o21|st||md|3S96HAKQ8DAQJ8CJ96,ST87542H753DK42C2,SAKQ3HJ9D753CKQ84,SJHT642DT96CAT753|sv|n|mb|1C|mb|p|mb|1H|mb|p|mb|1S|mb|p|mb|2D|mb|p|mb|2H|mb|p|nt|Psyck:  Maybe there was a misclick in the other room :)|pg||
+mb|2N|mb|p|mb|3N|mb|p|mb|p|mb|p|nt|vugraphzdp: South took a pessimistic view indeed if correct :)|pg||
+pc|d2|pc|d3|pc|d9|pc|dQ|pg||
+pc|c6|pc|c2|pc|cK|pc|cA|pg||
+pc|d6|pc|dA|pc|d4|pc|d5|pg||
+pc|cJ|pc|s4|pc|c4|pc|c7|pg||
+pc|c9|pc|s2|pc|cQ|pc|c3|pg||
+pc|sA|pc|sJ|pc|s6|pc|s5|pg||
+pc|hJ|pc|h6|pc|h8|pc|h3|pg||
+pc|h9|pc|h2|pc|hA|pc|h5|pg||
+pc|hK|pc|h7|pc|d7|pc|h4|pg||
+pc|hQ|mc|12|pg||
+qx|c21|st||md|3S96HAKQ8DAQJ8CJ96,ST87542H753DK42C2,SAKQ3HJ9D753CKQ84,SJHT642DT96CAT753|sv|n|mb|1N|mb|p|mb|2C|mb|p|mb|2H|mb|p|mb|2N|mb|p|mb|p|mb|p|pc|dT|pc|dQ|mc|11|pg||
+qx|o22|st||md|4SAKT864HT86DQ2CKT,SJ95HAKQ7DT7654C8,S73HJ53DAK83C9754,SQ2H942DJ9CAQJ632|sv|e|nt|vugraphzdp: Play went very fast so I lost it a bit|pg||
+nt|Psyck:  We will shortly know from the live Bridgemate scores if the other room did indeed play in 2NT.  http://www.commonwealthbridgescotland.com/match/rank2.php|pg||
+mb|p|mb|1S|mb|p|mb|1N|mb|2C|mb|2S|mb|p|mb|p|mb|p|nt|Psyck:  Looks like it was an operator misclick other room & deal  21 is a push|pg||
+pc|hK|pc|h3|pc|h2|pc|h8|pg||
+nt|Psyck:  ok, 1IMP to be presice :)|pg||
+pc|hA|pc|h5|pc|h4|pc|hT|pg||
+pc|hQ|pc|hJ|pc|h9|pc|h6|pg||
+pc|c8|nt|Psyck:  My precise was not precise either :(|pg||
+pc|c4|pc|cA|pc|cT|pg||
+pc|cQ|pc|cK|pc|s5|pc|c5|pg||
+pc|h7|pc|c7|pc|sQ|pc|sA|pg||
+pc|sK|pc|s9|pc|s3|pc|s2|pg||
+pc|s4|pc|sJ|pc|s7|pc|c2|pg||
+mc|7|pg||
+qx|c22|st||md|4SAKT864HT86DQ2CKT,SJ95HAKQ7DT7654C8,S73HJ53DAK83C9754,SQ2H942DJ9CAQJ632|sv|e|mb|p|mb|1S|mb|p|mb|1N|mb|2C|mb|2S|mb|p|mb|p|mb|p|pc|hK|pc|h3|pc|h9|pc|h8|pg||
+pc|hA|pc|h5|pc|h2|pc|hT|pg||
+pc|hQ|pc|hJ|pc|h4|pc|h6|pg||
+pc|c8|pc|c4|pc|cA|pc|cT|pg||
+pc|c6|pc|cK|pc|s5|pc|c5|pg||
+pc|h7|pc|s7|pc|sQ|pc|sA|pg||
+pc|sK|pc|s9|pc|s3|pc|s2|pg||
+mc|7|pg||
+qx|o23|st||md|1SQ5HAT932DT873CJ4,SJT93HQJ65DA4C763,S64H74DKQ9652CAK5,SAK872HK8DJCQT982|sv|b|nt|Psyck:  score corrected now|pg||
+mb|p|mb|p|mb|2D|an|weak|mb|2S|mb|p|mb|3S|mb|p|nt|Psyck:  Won't get a chance to see such strong weak bid often|pg||
+mb|p|mb|p|pc|d7|pc|dA|pc|d2|pc|dJ|pg||
+nt|vugraphzdp: Normally one hopes the opps will overbid when you open this kind of weak 2|pg||
+pc|s3|pc|s4|pc|sA|pc|s5|pg||
+pc|sK|pc|sQ|pc|s9|pc|s6|pg||
+pc|hK|pc|hA|pc|h5|pc|h4|pg||
+pc|d3|pc|d4|pc|dQ|pc|s2|pg||
+nt|Psyck:  Cannot argue with success  :)|pg||
+pc|h8|pc|h9|pc|hQ|pc|h7|pg||
+pc|c3|pc|c5|pc|cT|pc|cJ|pg||
+pc|h2|pc|hJ|pc|d5|pc|c2|pg||
+mc|9|pg||
+qx|c23|st||md|1SQ5HAT932DT873CJ4,SJT93HQJ65DA4C763,S64H74DKQ9652CAK5,SAK872HK8DJCQT982|sv|b|mb|p|mb|p|mb|1D!|mb|1S|mb|d|mb|3D|mb|p|mb|4C|mb|p|mb|4S|mb|p|mb|p|mb|p|nt|vugraphzdn: 3@d is short @d|pg||
+pc|d7|pc|dA|pc|d6|pc|dJ|pg||
+pc|s3|pc|s4|pc|sA|pc|s5|pg||
+pc|sK|pc|sQ|pc|s9|pc|s6|pg||
+pc|hK|pc|hA|pc|h5|pc|h7|pg||
+pc|c4|pc|c3|pc|cK|pc|c2|pg||
+pc|c5|pc|cQ|pc|cJ|pc|c6|pg||
+mc|10|pg||
+qx|o24|st||md|2SAQ5HJ43DQT95CA97,S93HA95DAKJ8CQJ83,ST7H7D7432CKT6542,SKJ8642HKQT862D6C|sv|o|mb|1N|mb|p|mb|2H!|mb|p|mb|2S|mb|p|mb|3H|mb|p|mb|4D|mb|p|mb|4N|mb|p|mb|5H|mb|p|mb|6H|nt|Psyck:  East will be very excited with the lack of a @c cue|pg||
+mb|p|mb|p|mb|p|pc|h3|nt|vugraphzdp: South knows East must be void in Clubs|pg||
+nt|vugraphzdp: (or they have had an accident)|pg||
+pc|h5|pc|h7|pc|h8|pg||
+pc|d6|pc|d5|pc|dA|pc|d4|pg||
+pc|s9|pc|sT|pc|s8|pc|sQ|pg||
+pc|h4|pc|hA|pc|c6|pc|h2|pg||
+pc|s3|pc|s7|pc|sJ|pc|sA|pg||
+pc|hJ|pc|h9|pc|c2|pc|hK|pg||
+mc|11|pg||
+qx|c24|st||md|2SAQ5HJ43DQT95CA97,S93HA95DAKJ8CQJ83,ST7H7D7432CKT6542,SKJ8642HKQT862D6C|sv|o|nt|vugraphzdn: India discussing bidding|pg||
+mb|1N|mb|p|mb|2D!|mb|p|mb|2H|mb|p|mb|2S!|mb|p|mb|2N!|mb|p|mb|3C!|mb|p|mb|3D!|mb|p|mb|5C|mb|p|mb|5S|mb|p|mb|6H|mb|p|mb|p|mb|p|pc|d3|pc|d6|pc|dQ|pc|dA|pg||
+pc|s3|pc|s7|pc|sJ|pc|sQ|pg||
+pc|sA|pc|s9|pc|sT|pc|s2|pg||
+pc|s5|mc|10|pg||
