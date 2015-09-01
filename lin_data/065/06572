@@ -1,7 +1,7 @@
 vg|Generali Euro Team Champs '97,1997.06.24,I,1,24,Finland,0,Italy,0|
 rs|4SW+1,4SW+1,4SE+1,4SE+1,3SN+1,3SN=,2SE+2,1NW+3,3DN-1,2DN=,2HN-2,3HS-2,2NN-2,3NN-3,4SS-1,4SN=,4HW-1,3HW=,3NE=,3NE+1,7SE=,5SE+1,5CWx-1,4HN=,1NS+1,1NS+1,4SE=,3DW=,3NW=,1SNx-2,3SN-1,3CN=,7SWx-5,6CN+1,1NW+2,2SE=,4SS-2,3SS=,3NNx-5,4HWx-1,3CE-1,2HN-2,4SS=,4SS=,2HN+1,1NN=,3NW+1,3NW=,|
-pn|Juuri Oja J,Duboin G,Koistinen K,Bocchi N,Lauria L,Viitasalo P,Versace A,Salomaa M|pg||
-pn|Juuri Oja J,Duboin G,Koistinen K,Bocchi N,,,,|qx|o1|md|3S752HJT5D963CAJT3,SKQJ86H98743DJ8CQ,STHAQ2DKT42CK9754|sv|0|
+pn|Juuri Oja J,Duboin G,Koistinen K,Noberto Bocchi,Lauria L,Viitasalo P,Versace A,Salomaa M|pg||
+pn|Juuri Oja J,Duboin G,Koistinen K,Noberto Bocchi,,,,|qx|o1|md|3S752HJT5D963CAJT3,SKQJ86H98743DJ8CQ,STHAQ2DKT42CK9754|sv|0|
 mb|1D|mb|p|mb|p|mb|1S|mb|p|mb|2D|mb|p|mb|2H|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
 pc|C4|pc|C2|pc|CA|pc|CQ|pg||
 pc|CJ|pc|S6|pc|C5|pc|C6|pg||
@@ -22,7 +22,7 @@ pc|HK|pc|H5|pc|H3|pc|H2|pg||
 pc|S3|pc|S2|pc|SJ|pc|ST|pg||
 pc|H7|pc|HQ|pc|S9|pc|HT|pg||
 pc|SA|pg||mc|11|pg||
-pn|Juuri Oja J,Duboin G,Koistinen K,Bocchi N,,,,|qx|o2|md|4SJT3HAJ9753DK2CJ4,SKQ7H42DQJT9865CQ,S98HKQT6D4CKT8652|sv|n|
+pn|Juuri Oja J,Duboin G,Koistinen K,Noberto Bocchi,,,,|qx|o2|md|4SJT3HAJ9753DK2CJ4,SKQ7H42DQJT9865CQ,S98HKQT6D4CKT8652|sv|n|
 mb|1S|mb|p|mb|2H|mb|p|mb|3C|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
 pc|SJ|pc|SK|pc|S8|pc|S2|pg||
 pc|SQ|pc|S9|pc|S4|pc|S3|pg||
@@ -38,7 +38,7 @@ pc|S4|pc|S3|pc|SK|pc|S9|pg||
 pc|DQ|pc|D4|pc|D3|pc|DK|pg||
 pc|H3|pc|D5|pc|HK|pc|S5|pg||
 pc|SA|pc|ST|pg||mc|11|pg||
-pn|Juuri Oja J,Duboin G,Koistinen K,Bocchi N,,,,|qx|o3|md|1ST65HAJ843DA63C93,SQJ2HK97D9CAJ8765,SAK874HQT2D874CK4|sv|e|
+pn|Juuri Oja J,Duboin G,Koistinen K,Noberto Bocchi,,,,|qx|o3|md|1ST65HAJ843DA63C93,SQJ2HK97D9CAJ8765,SAK874HQT2D874CK4|sv|e|
 mb|p|mb|1C|mb|1S|mb|2C|mb|2H|mb|p|mb|p|mb|3D|mb|3S|mb|p|mb|p|mb|p|pg||
 pc|DK|pc|DA|pc|D9|pc|D4|pg||
 mc|10|pg||
@@ -52,7 +52,7 @@ pc|SA|pc|S3|pc|S5|pc|SJ|pg||
 pc|SK|pc|S9|pc|S6|pc|SQ|pg||
 pc|HQ|pc|H5|pc|H3|pc|HK|pg||
 mc|9|pg||
-pn|Juuri Oja J,Duboin G,Koistinen K,Bocchi N,,,,|qx|o4|md|2ST87HKQ5DK3CKJ863,S94HT98DQ42CAQT42,SKJ5HJ632DJ9876C5|sv|b|
+pn|Juuri Oja J,Duboin G,Koistinen K,Noberto Bocchi,,,,|qx|o4|md|2ST87HKQ5DK3CKJ863,S94HT98DQ42CAQT42,SKJ5HJ632DJ9876C5|sv|b|
 mb|p|mb|p|mb|1S|mb|p|mb|1N|mb|p|mb|2D|mb|p|mb|2S|mb|p|mb|p|mb|p|pg||
 pc|S7|pc|S4|pc|SK|pc|SA|pg||
 pc|SQ|pc|S8|pc|S9|pc|S5|pg||
@@ -68,7 +68,7 @@ pc|S4|pc|S5|pc|SQ|pc|S7|pg||
 pc|S2|pc|S8|pc|S9|pc|SJ|pg||
 pc|H3|pc|HA|pc|HK|pc|H8|pg||
 pc|SA|pc|ST|pc|H9|pg||mc|10|pg||
-pn|Juuri Oja J,Duboin G,Koistinen K,Bocchi N,,,,|qx|o5|md|3S9875HKT92D3CAT83,SJT3HAJ84DAJ85CJ5,SQHQ3DKQ97642CKQ6|sv|n|
+pn|Juuri Oja J,Duboin G,Koistinen K,Noberto Bocchi,,,,|qx|o5|md|3S9875HKT92D3CAT83,SJT3HAJ84DAJ85CJ5,SQHQ3DKQ97642CKQ6|sv|n|
 mb|1D|mb|1S|mb|d|mb|r|mb|2D|mb|2S|mb|p|mb|p|mb|3D|mb|p|mb|p|mb|p|pg||
 pc|SA|pc|S5|pc|S3|pc|SQ|pg||
 pc|SK|pc|S7|pc|ST|pc|D2|pg||
@@ -87,7 +87,7 @@ pc|D3|pc|D5|pc|DK|pc|DT|pg||
 pc|DQ|pc|S6|pc|C3|pc|DA|pg||
 pc|CJ|pc|CK|pc|C4|pc|C8|pg||
 pc|HQ|pc|H5|pc|H2|pg||mc|8|pg||
-pn|Juuri Oja J,Duboin G,Koistinen K,Bocchi N,,,,|qx|o6|md|4SAQT7HA3DKQ62CQJ3,SKJ6HKDA975CK9865,S9542HT98764D4CT2|sv|e|
+pn|Juuri Oja J,Duboin G,Koistinen K,Noberto Bocchi,,,,|qx|o6|md|4SAQT7HA3DKQ62CQJ3,SKJ6HKDA975CK9865,S9542HT98764D4CT2|sv|e|
 mb|p|mb|1C|mb|p|mb|2H|mb|p|mb|p|mb|p|pg||
 pc|DJ|pc|DQ|pc|DA|pc|D4|pg||
 mc|6|pg||
@@ -101,7 +101,7 @@ pc|C9|pc|S4|pc|C7|pc|CQ|pg||
 pc|HA|pc|HK|pc|H4|pc|H2|pg||
 pc|DK|pc|D5|pc|S5|pc|D8|pg||
 mc|7|pg||
-pn|Juuri Oja J,Duboin G,Koistinen K,Bocchi N,,,,|qx|o7|md|1SJ82H543DK2CKQJ96,SAT93HKD8643CT874,SQ7HA876DQJ75CA32|sv|b|
+pn|Juuri Oja J,Duboin G,Koistinen K,Noberto Bocchi,,,,|qx|o7|md|1SJ82H543DK2CKQJ96,SAT93HKD8643CT874,SQ7HA876DQJ75CA32|sv|b|
 mb|p|mb|p|mb|1H|mb|p|mb|2C|mb|p|mb|2N|mb|p|mb|p|mb|p|pg||
 pc|HQ|pc|H3|pc|HK|pc|H6|pg||
 pc|S3|pc|S7|pc|SK|pc|S2|pg||
@@ -119,7 +119,7 @@ pc|H9|pc|H4|pc|S3|pc|HA|pg||
 pc|C3|pc|C5|pc|CK|pc|C4|pg||
 pc|C6|pc|C7|pc|CA|pc|H2|pg||
 mc|6|pg||
-pn|Juuri Oja J,Duboin G,Koistinen K,Bocchi N,,,,|qx|o8|md|2SQJ983HAQT6DT6CQ5,ST52HJ875D85CAK74,SA76HK4DAK743CT83|sv|0|
+pn|Juuri Oja J,Duboin G,Koistinen K,Noberto Bocchi,,,,|qx|o8|md|2SQJ983HAQT6DT6CQ5,ST52HJ875D85CAK74,SA76HK4DAK743CT83|sv|0|
 mb|p|mb|1N|mb|p|mb|2C|mb|p|mb|2N|mb|p|mb|3S|mb|p|mb|4D|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
 pc|CA|pc|C3|pc|C2|pc|C5|pg||
 pc|CK|pc|C8|pc|C6|pc|CQ|pg||
@@ -141,7 +141,7 @@ pc|D3|pc|D9|pc|C5|pc|C7|pg||
 pc|C6|pc|CQ|pc|CK|pc|C3|pg||
 pc|ST|pc|SA|pc|H3|pc|S8|pg||
 mc|10|pg||
-pn|Juuri Oja J,Duboin G,Koistinen K,Bocchi N,,,,|qx|o9|md|3S64HK87DT8652C865,SAT9HAQJT52DQJ7CA,SKQ752H64DAK9CJ94|sv|e|
+pn|Juuri Oja J,Duboin G,Koistinen K,Noberto Bocchi,,,,|qx|o9|md|3S64HK87DT8652C865,SAT9HAQJT52DQJ7CA,SKQ752H64DAK9CJ94|sv|e|
 mb|1S|mb|p|mb|p|mb|d|mb|p|mb|2C|mb|p|mb|3H|mb|p|mb|4H|mb|p|mb|p|mb|p|pg||
 pc|DA|pc|D3|pc|DT|pc|D7|pg||
 pc|SK|pc|S3|pc|S4|pc|SA|pg||
@@ -161,7 +161,7 @@ pc|H6|pc|H3|pc|H7|pc|HJ|pg||
 pc|HQ|pc|CJ|pc|C3|pc|H8|pg||
 pc|D7|pc|D9|pc|C7|pc|DT|pg||
 mc|9|pg||
-pn|Juuri Oja J,Duboin G,Koistinen K,Bocchi N,,,,|qx|o10|md|4S9654HKQ65DK85C94,SKQTH92DT76CAT732,SA8H843DJ432CQJ86|sv|b|
+pn|Juuri Oja J,Duboin G,Koistinen K,Noberto Bocchi,,,,|qx|o10|md|4S9654HKQ65DK85C94,SKQTH92DT76CAT732,SA8H843DJ432CQJ86|sv|b|
 mb|1N|mb|p|mb|2C|mb|p|mb|2H|mb|p|mb|2N|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
 pc|S5|pc|SK|pc|S8|pc|S2|pg||
 pc|H9|pc|H8|pc|H7|pc|HQ|pg||
@@ -180,7 +180,7 @@ pc|SQ|pc|SA|pc|S3|pc|S6|pg||
 pc|H4|pc|H7|pc|H5|pc|H9|pg||
 pc|ST|pc|D2|pc|S7|pc|S5|pg||
 mc|10|pg||
-pn|Juuri Oja J,Duboin G,Koistinen K,Bocchi N,,,,|qx|o11|md|1S97HQ3DKQ532CA876,SAT4HAJ74DCQJT943,S8HK9862D9874CK52|sv|0|
+pn|Juuri Oja J,Duboin G,Koistinen K,Noberto Bocchi,,,,|qx|o11|md|1S97HQ3DKQ532CA876,SAT4HAJ74DCQJT943,S8HK9862D9874CK52|sv|0|
 mb|p|mb|1C|mb|p|mb|1H|mb|2D|mb|p|mb|4D|mb|5D|mb|p|mb|5N|mb|p|mb|6S|mb|p|mb|7S|mb|p|mb|p|mb|p|pg||
 pc|CA|pc|C3|pc|C2|pc|S2|pg||
 pc|SK|pc|S7|pc|SA|pc|S8|pg||
@@ -194,7 +194,7 @@ pc|D6|pc|D3|pc|ST|pc|D7|pg||
 pc|C4|pc|CK|pc|S2|pc|C6|pg||
 pc|DT|pc|D5|pc|SA|pc|D9|pg||
 pc|S4|pg||mc|12|pg||
-pn|Juuri Oja J,Duboin G,Koistinen K,Bocchi N,,,,|qx|o12|md|2S9832HQ643DKJ32CJ,S75HJ98D5CKQ98642,SAKQ6HK752D876CA5|sv|n|
+pn|Juuri Oja J,Duboin G,Koistinen K,Noberto Bocchi,,,,|qx|o12|md|2S9832HQ643DKJ32CJ,S75HJ98D5CKQ98642,SAKQ6HK752D876CA5|sv|n|
 mb|3C|mb|d|mb|3N|mb|4C|mb|p|mb|4S|mb|5C|mb|d|mb|p|mb|p|mb|p|pg||
 pc|SA|pc|S4|pc|S9|pc|S5|pg||
 pc|SK|pc|ST|pc|S2|pc|S7|pg||

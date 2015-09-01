@@ -114,7 +114,7 @@ pc|CQ|pc|C7|pc|D4|pc|C2|pg||
 pc|D6|pc|DA|pc|C6|pc|D9|pg||
 pc|H6|pc|HT|pc|HJ|pc|D8|pg||
 mc|7|pg||
-pn|Bill Pollack,Giorgio Duboin,Drew Casen,Norberto Bocchi|qx|o10,BOARD 10|rh||ah|Board 10|md|4SQ3HJT65DKQ8C9543,SJ5HAQ974D3CAKT62,SA92HKDJ9642CQJ87|sv|b|
+pn|Bill Pollack,Giorgio Duboin,Drew Casen,NorbertoBocchi|qx|o10,BOARD 10|rh||ah|Board 10|md|4SQ3HJT65DKQ8C9543,SJ5HAQ974D3CAKT62,SA92HKDJ9642CQJ87|sv|b|
 sa|0|mb|2S|mb|p|mb|2N|mb|p|mb|4D|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
 pc|H6|pc|HA|pc|HK|pc|H2|pg||
 pc|CA|pc|C7|pc|H3|pc|C3|pg||
@@ -125,7 +125,7 @@ pc|D5|pc|DQ|pc|S5|pc|D4|pg||
 pc|HQ|pc|SA|pc|D7|pc|H5|pg||
 pc|S2|pc|S6|pc|SQ|pc|SJ|pg||
 mc|9|pg||
-pn|Bill Pollack,Giorgio Duboin,Drew Casen,Norberto Bocchi|qx|o11,BOARD 11|rh||ah|Board 11|md|1SAJ94HAJ7DA864C64,SKQ8HKT43DKQCJT72,ST53H6DT9732CQ853|sv|0|
+pn|Bill Pollack,Giorgio Duboin,Drew Casen,NorbertoBocchi|qx|o11,BOARD 11|rh||ah|Board 11|md|1SAJ94HAJ7DA864C64,SKQ8HKT43DKQCJT72,ST53H6DT9732CQ853|sv|0|
 sa|0|mb|1D|mb|d|mb|3D|mb|4H|mb|d|mb|p|mb|p|mb|p|pg||
 pc|C6|pc|C2|pc|CQ|pc|CA|pg||
 pc|HQ|pc|HA|pc|H3|pc|H6|pg||
@@ -136,7 +136,7 @@ pc|C4|pc|C7|pc|C3|pc|CK|pg||
 pc|H9|pc|H7|pc|H4|pc|D7|pg||
 pc|H2|pc|HJ|pc|HK|pc|S5|pg||
 mc|10|pg||
-pn|Bill Pollack,Giorgio Duboin,Drew Casen,Norberto Bocchi|qx|o12,BOARD 12|rh||ah|Board 12|md|2SAQJ5HK7DT863CJ52,ST3H983DAQJ52C973,S9762HA642DK9CT84|sv|n|
+pn|Bill Pollack,Giorgio Duboin,Drew Casen,NorbertoBocchi|qx|o12,BOARD 12|rh||ah|Board 12|md|2SAQJ5HK7DT863CJ52,ST3H983DAQJ52C973,S9762HA642DK9CT84|sv|n|
 sa|0|mb|p|mb|p|mb|1N|mb|p|mb|p|mb|p|pg||
 pc|D6|pc|DQ|pc|DK|pc|D7|pg||
 pc|H2|pc|HQ|pc|HK|pc|H3|pg||
@@ -148,7 +148,7 @@ pc|CK|pc|C5|pc|C7|pc|CT|pg||
 pc|CQ|pc|CJ|pc|C9|pc|S2|pg||
 pc|C6|pc|S5|pc|D2|pc|S6|pg||
 pc|H5|mc|7|pg||
-pn|Ron Smith,Bob Hamman,Billy Cohen,Zia Mahmood|qx|o13,BOARD 13|rh||ah|Board 13|md|3ST52HQ9652DT7CQT5,SAK64HKJT43D9CKJ4,SJ987HDQ86432CA73|sv|b|
+pn|Ron Smith,BobHamman,Billy Cohen,Zia Mahmood|qx|o13,BOARD 13|rh||ah|Board 13|md|3ST52HQ9652DT7CQT5,SAK64HKJT43D9CKJ4,SJ987HDQ86432CA73|sv|b|
 sa|0|mb|p|mb|1D|mb|p|mb|1H|mb|p|mb|1N|mb|p|mb|2D|mb|p|mb|3H|mb|p|mb|4H|mb|p|mb|p|mb|p|pg||
 pc|S7|pc|S3|pc|ST|pc|SK|pg||
 pc|D9|pc|D3|pc|DA|pc|D7|pg||
@@ -161,7 +161,7 @@ pc|S6|pc|S9|pc|H8|pc|S5|pg||
 pc|C6|pc|CQ|pc|H3|pc|C3|pg||
 pc|SA|pc|SJ|pc|HA|pc|H5|pg||
 mc|11|pg||
-pn|Ron Smith,Bob Hamman,Billy Cohen,Zia Mahmood|qx|o14,BOARD 14|rh||ah|Board 14|md|4S7HAKT2D84CAKQJ74,SAT6HQ7643DKT3C52,SQJ9HJ5D9652CT863|sv|0|
+pn|Ron Smith,BobHamman,Billy Cohen,Zia Mahmood|qx|o14,BOARD 14|rh||ah|Board 14|md|4S7HAKT2D84CAKQJ74,SAT6HQ7643DKT3C52,SQJ9HJ5D9652CT863|sv|0|
 sa|0|mb|2S|mb|d|mb|3S|mb|p|mb|p|mb|d|mb|p|mb|p|mb|p|pg||
 pc|HA|pc|H3|pc|H5|pc|H8|pg||
 pc|CK|pc|C2|pc|C3|pc|C9|pg||
@@ -171,14 +171,14 @@ pc|D8|pc|DT|pc|D2|pc|D7|pg||
 pc|ST|pc|SQ|pc|SK|pc|S7|pg||
 pc|S3|pc|C4|pc|SA|pc|S9|pg||
 mc|9|pg||
-pn|Ron Smith,Bob Hamman,Billy Cohen,Zia Mahmood|qx|o15,BOARD 15|rh||ah|Board 15|md|1SA5HJ642D765CK932,SKQ87432HAK8DQJ8C,SJTHQ93DKT42CQJ74|sv|n|
+pn|Ron Smith,BobHamman,Billy Cohen,Zia Mahmood|qx|o15,BOARD 15|rh||ah|Board 15|md|1SA5HJ642D765CK932,SKQ87432HAK8DQJ8C,SJTHQ93DKT42CQJ74|sv|n|
 sa|0|mb|p|mb|1S|mb|p|mb|1N|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
 pc|CQ|pc|CA|pc|C3|pc|H8|pg||
 pc|S9|pc|S5|pc|SK|pc|SJ|pg||
 pc|DQ|pc|DK|pc|DA|pc|D5|pg||
 pc|S6|pc|SA|pc|S2|pc|ST|pg||
 mc|11|pg||
-pn|Fred Gitelman,George Jacobs,Brad Moss,Ralph Katz|qx|o16,BOARD 16|rh||ah|Board 16|md|2SAT8HJ62D8732CJ98,S53HKDAKQT4CAKQT4,SQJ6HQT9875DJ5C53|sv|e|
+pn|FredFred Gitelman,George Jacobs,Brad Moss,Ralph Katz|qx|o16,BOARD 16|rh||ah|Board 16|md|2SAT8HJ62D8732CJ98,S53HKDAKQT4CAKQT4,SQJ6HQT9875DJ5C53|sv|e|
 sa|0|mb|1D|mb|2H|mb|p|mb|p|mb|3C|mb|p|mb|p|mb|p|pg||
 pc|SQ|pc|SK|pc|SA|pc|S3|pg||
 pc|H2|pc|HK|pc|H5|pc|H3|pg||
@@ -191,7 +191,7 @@ pc|DT|pc|H8|pc|C7|pc|D8|pg||
 pc|HA|pc|H6|pc|S5|pc|H9|pg||
 pc|H4|pc|HJ|pc|C4|pc|HT|pg||
 mc|12|pg||
-pn|Fred Gitelman,George Jacobs,Brad Moss,Ralph Katz|qx|o17,BOARD 17|rh||ah|Board 17|md|3SAQ9HK6DT85CAT762,SJT2HT32D76CKQ854,S5HJ874DAKQJ94C93|sv|0|
+pn|FredFred Gitelman,George Jacobs,Brad Moss,Ralph Katz|qx|o17,BOARD 17|rh||ah|Board 17|md|3SAQ9HK6DT85CAT762,SJT2HT32D76CKQ854,S5HJ874DAKQJ94C93|sv|0|
 sa|0|mb|1D|mb|1S|mb|2C|mb|2S|mb|3D|mb|3H|mb|3N|mb|p|mb|p|mb|p|pg||
 pc|SJ|pc|S5|pc|SK|pc|SA|pg||
 pc|D8|pc|D6|pc|DA|pc|D2|pg||
@@ -200,7 +200,7 @@ pc|S8|pc|SQ|pc|S2|pc|C3|pg||
 pc|HK|pc|H3|pc|H7|pc|H5|pg||
 pc|DT|pc|D7|pc|DK|pc|D3|pg||
 mc|10|pg||
-pn|Fred Gitelman,George Jacobs,Brad Moss,Ralph Katz|qx|o18,BOARD 18|rh||ah|Board 18|md|4SA932HADKQT95CK74,ST6HQ874DJ4CAJ865,SJHKT962DA763CT92|sv|n|
+pn|FredFred Gitelman,George Jacobs,Brad Moss,Ralph Katz|qx|o18,BOARD 18|rh||ah|Board 18|md|4SA932HADKQT95CK74,ST6HQ874DJ4CAJ865,SJHKT962DA763CT92|sv|n|
 sa|0|mb|2S|mb|2N|mb|p|mb|3D|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
 pc|C6|pc|CT|pc|CQ|pc|CK|pg||
 pc|DK|pc|D4|pc|D3|pc|D2|pg||
@@ -246,7 +246,7 @@ pc|DK|pc|D3|pc|D7|pc|D5|pg||
 pc|SK|pc|S6|pc|S7|pc|SQ|pg||
 pc|DA|pc|D8|pc|D4|pc|D6|pg||
 mc|8|pg||
-pn|Martin Fleisher,Mike Moss,Eric Rodwell,Bjorn Fallenius|qx|o22,BOARD 22|rh||ah|Board 22|md|4SK32HQ5DAJ53CQ543,SA64HT2DQ84CAKT86,SQJ975HA843DT76C7|sv|e|
+pn|Martin Fleisher,Mike Moss,Eric Rodwell,BjornFallenius|qx|o22,BOARD 22|rh||ah|Board 22|md|4SK32HQ5DAJ53CQ543,SA64HT2DQ84CAKT86,SQJ975HA843DT76C7|sv|e|
 sa|0|mb|p|mb|1N|mb|d|mb|2S|mb|3H|mb|p|mb|p|mb|p|pg||
 pc|S2|pc|SA|pc|S5|pc|S8|pg||
 pc|HT|pc|H3|pc|H6|pc|HQ|pg||
@@ -260,12 +260,12 @@ pc|C2|pc|C5|pc|CT|pc|D6|pg||
 pc|CA|pc|H8|pc|CJ|pc|CQ|pg||
 pc|SQ|pc|D2|pc|D5|pc|D8|pg||
 mc|7|pg||
-pn|Martin Fleisher,Mike Moss,Eric Rodwell,Bjorn Fallenius|qx|o23,BOARD 23|rh||ah|Board 23|md|1SKJT4HKJ7DA732CA7,SA7H92DJ654CKJT43,S983HAQT54DK8C962|sv|b|
+pn|Martin Fleisher,Mike Moss,Eric Rodwell,BjornFallenius|qx|o23,BOARD 23|rh||ah|Board 23|md|1SKJT4HKJ7DA732CA7,SA7H92DJ654CKJT43,S983HAQT54DK8C962|sv|b|
 sa|0|mb|1D|mb|p|mb|1H|mb|p|mb|1N|mb|p|mb|2C|mb|p|mb|2D|mb|p|mb|3N|mb|p|mb|4H|mb|p|mb|p|mb|p|pg||
 pc|S2|pc|S4|pc|SA|pc|S3|pg||
 pc|S7|pc|S8|pc|S5|pc|ST|pg||
 mc|11|pg||
-pn|Martin Fleisher,Mike Moss,Eric Rodwell,Bjorn Fallenius|qx|o24,BOARD 24|rh||ah|Board 24|md|2SK62HKQTDKQ7654CK,SJ74H3DA932CQJ542,SAT98HA8542DJ8CT3|sv|0|
+pn|Martin Fleisher,Mike Moss,Eric Rodwell,BjornFallenius|qx|o24,BOARD 24|rh||ah|Board 24|md|2SK62HKQTDKQ7654CK,SJ74H3DA932CQJ542,SAT98HA8542DJ8CT3|sv|0|
 sa|0|mb|p|mb|p|mb|p|mb|1D|mb|p|mb|1H|mb|p|mb|2H|mb|p|mb|4H|mb|p|mb|p|mb|p|pg||
 pc|S3|pc|S2|pc|SJ|pc|SA|pg||
 pc|H4|pc|H6|pc|HK|pc|H3|pg||

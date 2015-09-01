@@ -98,7 +98,7 @@ sa|0|mb|1H|mb|p|mb|3D|mb|p|mb|3H|mb|p|mb|3N|mb|p|mb|4C|mb|p|mb|4H|mb|p|mb|4N|mb|
 pc|SA|pc|S4|pc|S2|pc|S8|pg||
 pc|CK|pc|CA|pc|C3|pc|C8|pg||
 pc|HK|pc|H5|pc|HA|mc|12|pg||
-pn|Paul Chemla,Fred Gitelman,Alain Levy,Brad Moss|qx|o10,BOARD 10|rh||ah|Board 10|md|4SJHAJT953DJ953CKT,SA543H76DK76C8742,SKT2HKQ8DAQTCQJ95|sv|b|
+pn|Paul Chemla,FredFred Gitelman,Alain Levy,Brad Moss|qx|o10,BOARD 10|rh||ah|Board 10|md|4SJHAJT953DJ953CKT,SA543H76DK76C8742,SKT2HKQ8DAQTCQJ95|sv|b|
 sa|0|mb|p|mb|2H|mb|p|mb|2N|mb|p|mb|3C|mb|p|mb|4H|mb|p|mb|p|mb|p|pg||
 pc|D6|pc|DA|pc|D8|pc|D3|pg||
 pc|HK|pc|H2|pc|H3|pc|H7|pg||
@@ -107,12 +107,12 @@ pc|CT|pc|C2|pc|C5|pc|CA|pg||
 pc|S6|pc|SJ|pc|SA|pc|S2|pg||
 pc|DK|pc|DT|pc|D2|pc|D5|pg||
 mc|10|pg||
-pn|Paul Chemla,Fred Gitelman,Alain Levy,Brad Moss|qx|o11,BOARD 11|rh||ah|Board 11|md|1SJ6H8D843CKQJT543,SK953HA74DJT652C6,SQT874HT95DA97C87|sv|0|
+pn|Paul Chemla,FredFred Gitelman,Alain Levy,Brad Moss|qx|o11,BOARD 11|rh||ah|Board 11|md|1SJ6H8D843CKQJT543,SK953HA74DJT652C6,SQT874HT95DA97C87|sv|0|
 sa|0|mb|3C|mb|p|mb|p|mb|4H|mb|p|mb|p|mb|p|pg||
 pc|CK|pc|C6|pc|C8|pc|CA|pg||
 pc|HK|pc|H8|pc|H4|pc|H5|pg||
 pc|DK|pc|D3|pc|D2|mc|12|pg||
-pn|Paul Chemla,Fred Gitelman,Alain Levy,Brad Moss|qx|o12,BOARD 12|rh||ah|Board 12|md|2SQ9854H9843DJT65C,SAKJ6HKJ6D42CA932,S73HQ7DAKQ97CQT64|sv|n|
+pn|Paul Chemla,FredFred Gitelman,Alain Levy,Brad Moss|qx|o12,BOARD 12|rh||ah|Board 12|md|2SQ9854H9843DJT65C,SAKJ6HKJ6D42CA932,S73HQ7DAKQ97CQT64|sv|n|
 sa|0|mb|1N|mb|p|mb|2C|mb|p|mb|2S|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
 pc|DK|pc|D3|pc|DJ|pc|D4|pg||
 pc|DA|pc|D8|pc|D5|pc|D2|pg||
@@ -125,7 +125,7 @@ pc|SK|pc|S3|pc|C8|pc|S9|pg||
 pc|C9|pc|C4|pc|CJ|pc|H3|pg||
 pc|CK|pc|H4|pc|SJ|pc|CT|pg||
 mc|8|pg||
-pn|Henry Mansell,Bob Hamman,Sam Lev,Zia Mahmood|qx|o13,BOARD 13|rh||ah|Board 13|md|3SAK2H72DQT62CKQJ4,ST9873HKT63D85C75,SJ4HQ84DAJ974C962|sv|b|
+pn|Henry Mansell,BobHamman,Sam Lev,Zia Mahmood|qx|o13,BOARD 13|rh||ah|Board 13|md|3SAK2H72DQT62CKQJ4,ST9873HKT63D85C75,SJ4HQ84DAJ974C962|sv|b|
 sa|0|mb|p|mb|1H|mb|d|mb|2H|mb|3D|mb|p|mb|p|mb|p|pg||
 pc|C3|pc|CK|pc|C7|pc|C6|pg||
 pc|DQ|pc|D5|pc|DA|pc|D3|pg||
@@ -133,7 +133,7 @@ pc|D9|pc|DK|pc|D2|pc|D8|pg||
 pc|S6|pc|SA|pc|S3|pc|S4|pg||
 pc|CQ|pc|C5|pc|C2|pc|CA|pg||
 pc|C8|pc|CJ|mc|9|pg||
-pn|Henry Mansell,Bob Hamman,Sam Lev,Zia Mahmood|qx|o14,BOARD 14|rh||ah|Board 14|md|4S9652HQT43DKCKQJT,SKJ83H5DAQ742C532,SAQ74HKJ7DJT86C84|sv|0|
+pn|Henry Mansell,BobHamman,Sam Lev,Zia Mahmood|qx|o14,BOARD 14|rh||ah|Board 14|md|4S9652HQT43DKCKQJT,SKJ83H5DAQ742C532,SAQ74HKJ7DJT86C84|sv|0|
 sa|0|mb|p|mb|p|mb|1D|mb|p|mb|1H|mb|d|mb|p|mb|2S|mb|3D|mb|3S|mb|p|mb|p|mb|p|pg||
 pc|D9|pc|DK|pc|DA|pc|D6|pg||
 pc|H5|pc|HK|pc|HA|pc|H3|pg||
@@ -145,7 +145,7 @@ pc|S5|pc|S3|pc|SQ|pc|ST|pg||
 pc|SA|pc|C7|pc|S6|pc|S8|pg||
 pc|DT|pc|D5|pc|S9|pc|D2|pg||
 pc|CJ|pc|SJ|pc|DJ|mc|8|pg||
-pn|Henry Mansell,Bob Hamman,Sam Lev,Zia Mahmood|qx|o15,BOARD 15|rh||ah|Board 15|md|1ST5H98DA632CQ9873,SAQ842HAJ52DK4CJ5,SK73HK74DQJ75CA64|sv|n|
+pn|Henry Mansell,BobHamman,Sam Lev,Zia Mahmood|qx|o15,BOARD 15|rh||ah|Board 15|md|1ST5H98DA632CQ9873,SAQ842HAJ52DK4CJ5,SK73HK74DQJ75CA64|sv|n|
 sa|0|mb|p|mb|1S|mb|p|mb|1N|mb|p|mb|2H|mb|p|mb|p|mb|p|pg||
 pc|DQ|pc|D8|pc|DA|pc|D4|pg||
 pc|D2|pc|DK|pc|D5|pc|D9|pg||
@@ -186,7 +186,7 @@ pc|DQ|pc|DK|pc|C8|pc|DJ|pg||
 pc|C2|pc|C7|pc|CK|pc|C3|pg||
 pc|CQ|pc|C4|pc|C6|pc|CA|pg||
 mc|10|pg||
-pn|Giorgio Duboin,Bill Eisenberg,Norberto Bocchi,Fred Hamilton|qx|o19,BOARD 19|rh||ah|Board 19|md|1SAJT9875HJT6D82C2,SK64H95DK7CQT9863,S32HAKQ742DJT5CAK|sv|e|
+pn|Giorgio Duboin,Bill Eisenberg,NorbertoBocchi,Fred Hamilton|qx|o19,BOARD 19|rh||ah|Board 19|md|1SAJT9875HJT6D82C2,SK64H95DK7CQT9863,S32HAKQ742DJT5CAK|sv|e|
 sa|0|mb|3S|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
 pc|DK|pc|D5|pc|D3|pc|D2|pg||
 pc|D7|pc|DT|pc|DA|pc|D8|pg||
@@ -195,7 +195,7 @@ pc|C2|pc|C6|pc|CA|pc|C4|pg||
 pc|S2|pc|SQ|pc|SA|pc|S4|pg||
 pc|SJ|pc|SK|pc|S3|pc|D4|pg||
 mc|10|pg||
-pn|Giorgio Duboin,Bill Eisenberg,Norberto Bocchi,Fred Hamilton|qx|o20,BOARD 20|rh||ah|Board 20|md|2SKJ5H742DAT42C652,ST972HKJ53DKQ5CJT,SQ86HQT8D8763C987|sv|b|
+pn|Giorgio Duboin,Bill Eisenberg,NorbertoBocchi,Fred Hamilton|qx|o20,BOARD 20|rh||ah|Board 20|md|2SKJ5H742DAT42C652,ST972HKJ53DKQ5CJT,SQ86HQT8D8763C987|sv|b|
 sa|0|mb|p|mb|p|mb|1C|mb|p|mb|1H|mb|p|mb|2N|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
 pc|D2|pc|D5|pc|D6|pc|D9|pg||
 pc|DJ|pc|DA|pc|DQ|pc|D3|pg||
@@ -209,7 +209,7 @@ pc|CQ|pc|SJ|pc|ST|pc|SQ|pg||
 pc|H6|pc|H4|pc|HK|pc|H8|pg||
 pc|H3|pc|HT|pc|HA|pc|H7|pg||
 mc|10|pg||
-pn|Giorgio Duboin,Bill Eisenberg,Norberto Bocchi,Fred Hamilton|qx|o21,BOARD 21|rh||ah|Board 21|md|3S4HJT7DA64CT87643,SJT9HAQ83DQ7CA952,SA72H962DJT8532CK|sv|n|
+pn|Giorgio Duboin,Bill Eisenberg,NorbertoBocchi,Fred Hamilton|qx|o21,BOARD 21|rh||ah|Board 21|md|3S4HJT7DA64CT87643,SJT9HAQ83DQ7CA952,SA72H962DJT8532CK|sv|n|
 sa|0|mb|p|mb|1S|mb|p|mb|2C|mb|p|mb|2S|mb|p|mb|3S|mb|p|mb|3N|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
 pc|HT|pc|HA|pc|H6|pc|H4|pg||
 pc|SJ|pc|S2|pc|S3|pc|S4|pg||
@@ -221,7 +221,7 @@ pc|S8|pc|D4|pc|C2|pc|D3|pg||
 pc|HK|pc|H7|pc|H3|pc|H2|pg||
 pc|H5|pc|HJ|pc|HQ|pc|H9|pg||
 mc|11|pg||
-pn|Fred Gitelman,Bob Blanchard,Brad Moss,Jim Krekorian|qx|o22,BOARD 22|rh||ah|Board 22|md|4S2HA75DAQ98CJ8532,SJT974H6DJT764C64,SK65HJ932DK3CAKQT|sv|e|
+pn|FredFred Gitelman,Bob Blanchard,Brad Moss,Jim Krekorian|qx|o22,BOARD 22|rh||ah|Board 22|md|4S2HA75DAQ98CJ8532,SJT974H6DJT764C64,SK65HJ932DK3CAKQT|sv|e|
 sa|0|mb|1H|mb|p|mb|p|mb|1N|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
 pc|HQ|pc|H5|pc|H6|pc|H2|pg||
 pc|D5|pc|D8|pc|DT|pc|DK|pg||
@@ -229,7 +229,7 @@ pc|CA|pc|C7|pc|C2|pc|C6|pg||
 pc|CK|pc|C9|pc|C3|pc|C4|pg||
 pc|CQ|pc|H4|pc|C5|pc|S4|pg||
 pc|CT|mc|10|pg||
-pn|Fred Gitelman,Bob Blanchard,Brad Moss,Jim Krekorian|qx|o23,BOARD 23|rh||ah|Board 23|md|1SAKQ76H98DKQT4CAJ,SJ9HAJ64D962CK872,S832HK52DA7CQT943|sv|b|
+pn|FredFred Gitelman,Bob Blanchard,Brad Moss,Jim Krekorian|qx|o23,BOARD 23|rh||ah|Board 23|md|1SAKQ76H98DKQT4CAJ,SJ9HAJ64D962CK872,S832HK52DA7CQT943|sv|b|
 sa|0|mb|1S|mb|p|mb|2S|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
 pc|D2|pc|D7|pc|DJ|pc|DK|pg||
 pc|SA|pc|S9|pc|S2|pc|S5|pg||
@@ -238,7 +238,7 @@ pc|SQ|pc|D9|pc|S8|pc|ST|pg||
 pc|D4|pc|D6|pc|DA|pc|D3|pg||
 pc|C3|pc|C6|pc|CJ|pc|CK|pg||
 pc|HA|mc|11|pg||
-pn|Fred Gitelman,Bob Blanchard,Brad Moss,Jim Krekorian|qx|o24,BOARD 24|rh||ah|Board 24|md|2SAKJ9HQ92DT96CT94,SQ873HKT43DA32CJ5,S5HAJ87DKQJ7CA632|sv|0|
+pn|FredFred Gitelman,Bob Blanchard,Brad Moss,Jim Krekorian|qx|o24,BOARD 24|rh||ah|Board 24|md|2SAKJ9HQ92DT96CT94,SQ873HKT43DA32CJ5,S5HAJ87DKQJ7CA632|sv|0|
 sa|0|mb|p|mb|1D|mb|p|mb|1S|mb|p|mb|2C|mb|p|mb|2N|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
 pc|H3|pc|H7|pc|H5|pc|H9|pg||
 pc|HQ|pc|HK|pc|HA|pc|H6|pg||

@@ -40,7 +40,7 @@ pc|SA|pc|S5|pc|C8|pc|S6|pg||
 pc|S7|pc|ST|pc|H8|pc|S9|pg||
 pc|CT|pc|CA|pc|C9|pc|C5|pg||
 pc|H2|pc|HA|pc|H6|mc|7|pg||
-pn|Bjorn Fallenius,Guido Ferraro,Roy Welland,Giorgio Duboin|qx|o4,BOARD 4|rh||ah|Board 4|md|2ST852HQ962DKQT5C8,SAK9HKJDA3CKQT743,SJ73HA54DJ742CA96|sv|b|
+pn|BjornFallenius,Guido Ferraro,Roy Welland,Giorgio Duboin|qx|o4,BOARD 4|rh||ah|Board 4|md|2ST852HQ962DKQT5C8,SAK9HKJDA3CKQT743,SJ73HA54DJ742CA96|sv|b|
 sa|0|mb|1C|mb|p|mb|p|mb|p|pg||
 pc|D4|pc|D6|pc|DQ|pc|DA|pg||
 pc|CK|pc|CA|pc|C2|pc|C8|pg||
@@ -50,7 +50,7 @@ pc|CT|pc|C6|pc|C5|pc|DT|pg||
 pc|C4|pc|C9|pc|CJ|pc|S2|pg||
 pc|H3|pc|H6|pc|HJ|pc|HA|pg||
 mc|10|pg||
-pn|Bjorn Fallenius,Guido Ferraro,Roy Welland,Giorgio Duboin|qx|o5,BOARD 5|rh||ah|Board 5|md|3SQ97H852DT82CJ987,SAKHA4DAKQ93CA632,SJT5HKJT97DJ76CT5|sv|n|
+pn|BjornFallenius,Guido Ferraro,Roy Welland,Giorgio Duboin|qx|o5,BOARD 5|rh||ah|Board 5|md|3SQ97H852DT82CJ987,SAKHA4DAKQ93CA632,SJT5HKJT97DJ76CT5|sv|n|
 sa|0|mb|p|mb|p|mb|p|mb|2C|mb|p|mb|2D|mb|p|mb|3D|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
 pc|C7|pc|C2|pc|CT|pc|CK|pg||
 pc|D4|pc|D2|pc|DA|pc|D7|pg||
@@ -59,7 +59,7 @@ pc|DQ|pc|D6|pc|S2|pc|DT|pg||
 pc|D9|pc|S5|pc|S3|pc|H2|pg||
 pc|D3|pc|H7|pc|S4|pc|H8|pg||
 pc|H4|pc|HK|pc|H3|mc|12|pg||
-pn|Bjorn Fallenius,Guido Ferraro,Roy Welland,Giorgio Duboin|qx|o6,BOARD 6|rh||ah|Board 6|md|4SQJ872HT95DQ7CK94,SHA3DAJT963CT7632,SKT54HKJ6D42CQJ85|sv|e|
+pn|BjornFallenius,Guido Ferraro,Roy Welland,Giorgio Duboin|qx|o6,BOARD 6|rh||ah|Board 6|md|4SQJ872HT95DQ7CK94,SHA3DAJT963CT7632,SKT54HKJ6D42CQJ85|sv|e|
 sa|0|mb|1H|mb|p|mb|2D|mb|p|mb|2H|mb|p|mb|3D|mb|p|mb|3S|mb|p|mb|4H|mb|p|mb|5D|mb|p|mb|p|mb|p|pg||
 pc|CJ|pc|CA|pc|C9|pc|C2|pg||
 pc|SA|pc|S2|pc|H3|pc|S4|pg||
@@ -108,7 +108,7 @@ pc|S5|pc|SQ|pc|S8|pc|S9|pg||
 pc|CK|pc|C4|pc|C2|pc|C3|pg||
 pc|C5|pc|C6|pc|CA|pc|CJ|pg||
 pc|SA|mc|7|pg||
-pn|Nick Nickell,Claudio Nunes,Bob Hamman,Fulvio Fantoni|qx|o10,BOARD 10|rh||ah|Board 10|md|4SA943HAJ7DAKQ4CA5,SJ765HQ2DT82CJ986,SQ82HKT6DJ73CQ743|sv|b|
+pn|Nick Nickell,Claudio Nunes,BobHamman,FulvioFantoni|qx|o10,BOARD 10|rh||ah|Board 10|md|4SA943HAJ7DAKQ4CA5,SJ765HQ2DT82CJ986,SQ82HKT6DJ73CQ743|sv|b|
 sa|0|mb|p|mb|1D|mb|p|mb|1N|mb|p|mb|2S|mb|p|mb|2N|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
 pc|H8|pc|HJ|pc|HQ|pc|HK|pg||
 pc|S2|pc|ST|pc|SA|pc|S5|pg||
@@ -118,7 +118,7 @@ pc|S8|pc|D6|pc|S4|pc|SJ|pg||
 pc|DT|pc|D7|pc|D5|pc|DA|pg||
 pc|C5|pc|C6|pc|CQ|pc|CK|pg||
 mc|10|pg||
-pn|Nick Nickell,Claudio Nunes,Bob Hamman,Fulvio Fantoni|qx|o11,BOARD 11|rh||ah|Board 11|md|1SAKJ5HJ96DJ9CAT54,ST7HKT85DK53CKJ72,S982HA4DQT876C963|sv|0|
+pn|Nick Nickell,Claudio Nunes,BobHamman,FulvioFantoni|qx|o11,BOARD 11|rh||ah|Board 11|md|1SAKJ5HJ96DJ9CAT54,ST7HKT85DK53CKJ72,S982HA4DQT876C963|sv|0|
 sa|0|mb|1C|mb|p|mb|1D|mb|p|mb|1S|mb|p|mb|p|mb|p|pg||
 pc|H8|pc|HA|pc|H2|pc|H6|pg||
 pc|H4|pc|HQ|pc|H9|pc|H5|pg||
@@ -132,7 +132,7 @@ pc|H7|pc|S5|pc|HT|pc|D6|pg||
 pc|SA|pc|ST|pc|D7|pc|S4|pg||
 pc|SK|pc|D3|pc|D8|pc|S6|pg||
 pc|D9|pc|DK|mc|7|pg||
-pn|Nick Nickell,Claudio Nunes,Bob Hamman,Fulvio Fantoni|qx|o12,BOARD 12|rh||ah|Board 12|md|2SJ5H73DAT94CAKQT3,SAK863HKQJ96DJ7C9,SQT94HT842D65CJ76|sv|n|
+pn|Nick Nickell,Claudio Nunes,BobHamman,FulvioFantoni|qx|o12,BOARD 12|rh||ah|Board 12|md|2SJ5H73DAT94CAKQT3,SAK863HKQJ96DJ7C9,SQT94HT842D65CJ76|sv|n|
 sa|0|mb|1S|mb|p|mb|1N|mb|2C|mb|3H|mb|p|mb|4H|mb|p|mb|p|mb|p|pg||
 pc|CJ|pc|C2|pc|CQ|pc|C9|pg||
 pc|CT|pc|H6|pc|C7|pc|C4|pg||
@@ -146,7 +146,7 @@ pc|HQ|pc|H4|pc|D3|pc|H7|pg||
 pc|S6|pc|SQ|pc|C5|pc|DT|pg||
 pc|C6|pc|C8|pc|CK|pc|H9|pg||
 mc|9|pg||
-pn|Nick Nickell,Jan Jansma,Bob Hamman,Louk Verhees|qx|o13,BOARD 13|rh||ah|Board 13|md|3SQJ853HAQT82D7CJ2,SK964HJ6DQ963CA63,ST7HK973DAK8CT875|sv|b|
+pn|Nick Nickell,Jan Jansma,BobHamman,Louk Verhees|qx|o13,BOARD 13|rh||ah|Board 13|md|3SQJ853HAQT82D7CJ2,SK964HJ6DQ963CA63,ST7HK973DAK8CT875|sv|b|
 sa|0|mb|p|mb|p|mb|1S|mb|p|mb|1N|mb|p|mb|2H|mb|p|mb|3H|mb|p|mb|p|mb|p|pg||
 pc|D6|pc|DA|pc|D5|pc|D7|pg||
 pc|DK|pc|D2|pc|C2|pc|D3|pg||
@@ -158,7 +158,7 @@ pc|SQ|pc|SK|pc|S7|pc|S2|pg||
 pc|C3|pc|C7|pc|C9|pc|H8|pg||
 pc|S5|pc|S6|pc|H7|pc|DJ|pg||
 pc|HK|pc|H5|mc|10|pg||
-pn|Nick Nickell,Jan Jansma,Bob Hamman,Louk Verhees|qx|o14,BOARD 14|rh||ah|Board 14|md|4SAK4HJ962DK54C964,ST6HQ74DQT63CA872,SQJ9753HT53D2CKT3|sv|0|
+pn|Nick Nickell,Jan Jansma,BobHamman,Louk Verhees|qx|o14,BOARD 14|rh||ah|Board 14|md|4SAK4HJ962DK54C964,ST6HQ74DQT63CA872,SQJ9753HT53D2CKT3|sv|0|
 sa|0|mb|1N|mb|p|mb|2N|mb|p|mb|p|mb|p|pg||
 pc|H2|pc|H4|pc|HT|pc|HK|pg||
 pc|C5|pc|C4|pc|CA|pc|C3|pg||
@@ -169,7 +169,7 @@ pc|DA|pc|D5|pc|D3|pc|H3|pg||
 pc|H8|pc|H6|pc|HQ|pc|S3|pg||
 pc|DT|pc|S5|pc|D7|pc|D4|pg||
 pc|D6|pc|CT|pc|DJ|mc|8|pg||
-pn|Nick Nickell,Jan Jansma,Bob Hamman,Louk Verhees|qx|o15,BOARD 15|rh||ah|Board 15|md|1S9865HA6DK82CAKJ7,SK42HQJT3DAQT64C8,SAQ73HK95DJ93CT64|sv|n|
+pn|Nick Nickell,Jan Jansma,BobHamman,Louk Verhees|qx|o15,BOARD 15|rh||ah|Board 15|md|1S9865HA6DK82CAKJ7,SK42HQJT3DAQT64C8,SAQ73HK95DJ93CT64|sv|n|
 sa|0|mb|1N|mb|d|mb|r|mb|p|mb|p|mb|2D|mb|p|mb|p|mb|2S|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
 pc|HQ|pc|H5|pc|H2|pc|HA|pg||
 pc|S5|pc|S4|pc|SQ|pc|SJ|pg||
@@ -181,7 +181,7 @@ pc|C3|pc|C7|pc|SK|pc|C6|pg||
 pc|D4|pc|D9|pc|D5|pc|D2|pg||
 pc|CT|pc|C5|pc|CJ|pc|D6|pg||
 pc|CK|mc|10|pg||
-pn|Bjorn Fallenius,Nick Nickell,Roy Welland,Bob Hamman|qx|o16,BOARD 16|rh||ah|Board 16|md|2SKT65HAK83DT85CJ2,S9HQJT94D72CK8763,SAQJ42H52DAQ3CQT9|sv|e|
+pn|BjornFallenius,Nick Nickell,Roy Welland,BobHamman|qx|o16,BOARD 16|rh||ah|Board 16|md|2SKT65HAK83DT85CJ2,S9HQJT94D72CK8763,SAQJ42H52DAQ3CQT9|sv|e|
 sa|0|mb|p|mb|1S|mb|p|mb|3C|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
 pc|S3|pc|ST|pc|S9|pc|S4|pg||
 pc|C2|pc|C3|pc|CQ|pc|CA|pg||
@@ -190,7 +190,7 @@ pc|SQ|pc|S8|pc|SK|pc|C8|pg||
 pc|CJ|pc|CK|pc|CT|pc|C5|pg||
 pc|D7|pc|DQ|pc|DK|pc|D5|pg||
 mc|10|pg||
-pn|Bjorn Fallenius,Nick Nickell,Roy Welland,Bob Hamman|qx|o17,BOARD 17|rh||ah|Board 17|md|3SKJ963HQ3DJ43CJT7,SAT72HA97DAK8CK92,SQ85HT85DQT765C53|sv|0|
+pn|BjornFallenius,Nick Nickell,Roy Welland,BobHamman|qx|o17,BOARD 17|rh||ah|Board 17|md|3SKJ963HQ3DJ43CJT7,SAT72HA97DAK8CK92,SQ85HT85DQT765C53|sv|0|
 sa|0|mb|p|mb|1H|mb|p|mb|2N|mb|p|mb|3C|mb|p|mb|3H|mb|p|mb|4H|mb|p|mb|4N|mb|p|mb|5H|mb|p|mb|6H|mb|p|mb|p|mb|p|pg||
 pc|CJ|pc|C2|pc|C3|pc|CA|pg||
 pc|HK|pc|H3|pc|H7|pc|H5|pg||
@@ -198,7 +198,7 @@ pc|H2|pc|HQ|pc|HA|pc|H8|pg||
 pc|H9|pc|HT|pc|HJ|pc|S3|pg||
 pc|C4|pc|C7|pc|C9|pc|C5|pg||
 pc|CK|mc|13|pg||
-pn|Bjorn Fallenius,Nick Nickell,Roy Welland,Bob Hamman|qx|o18,BOARD 18|rh||ah|Board 18|md|4ST87HA7532DT8C643,SK3HKJ6DQ6532CAJ7,SQJ9652HDA9CKQT98|sv|n|
+pn|BjornFallenius,Nick Nickell,Roy Welland,BobHamman|qx|o18,BOARD 18|rh||ah|Board 18|md|4ST87HA7532DT8C643,SK3HKJ6DQ6532CAJ7,SQJ9652HDA9CKQT98|sv|n|
 sa|0|mb|p|mb|p|mb|1D|mb|1S|mb|2H|mb|p|mb|p|mb|3C|mb|3D|mb|3S|mb|4H|mb|4S|mb|p|mb|p|mb|p|pg||
 pc|D4|pc|D8|pc|DQ|pc|DA|pg||
 pc|S6|pc|SA|pc|S7|pc|S3|pg||
@@ -210,12 +210,12 @@ pc|HK|pc|SQ|pc|H4|pc|H2|pg||
 pc|S5|pc|H8|pc|S8|pc|D2|pg||
 pc|C4|pc|CA|pc|C9|pc|C2|pg||
 mc|9|pg||
-pn|Bjorn Fallenius,J-C Quantin,Roy Welland,Michel Abecassis|qx|o19,BOARD 19|rh||ah|Board 19|md|1SK954HJTDAKQT93C5,SA62HK74DCAKQ7632,SQJT7H98652D54CJT|sv|e|
+pn|BjornFallenius,J-C Quantin,Roy Welland,Michel Abecassis|qx|o19,BOARD 19|rh||ah|Board 19|md|1SK954HJTDAKQT93C5,SA62HK74DCAKQ7632,SQJT7H98652D54CJT|sv|e|
 sa|0|mb|1D|mb|d|mb|p|mb|1N|mb|p|mb|3C|mb|p|mb|3H|mb|p|mb|3S|mb|d|mb|p|mb|p|mb|r|mb|p|mb|4C|mb|p|mb|4D|mb|p|mb|4H|mb|p|mb|5C|mb|p|mb|p|mb|p|pg||
 pc|D5|pc|D2|pc|DK|pc|C2|pg||
 pc|CA|pc|CJ|pc|C4|pc|C5|pg||
 pc|CK|mc|12|pg||
-pn|Bjorn Fallenius,J-C Quantin,Roy Welland,Michel Abecassis|qx|o20,BOARD 20|rh||ah|Board 20|md|2SQT87632H43D6CAJ6,SAHJ2DAQJT9CQ7432,SJ95HKT86D732CK85|sv|b|
+pn|BjornFallenius,J-C Quantin,Roy Welland,Michel Abecassis|qx|o20,BOARD 20|rh||ah|Board 20|md|2SQT87632H43D6CAJ6,SAHJ2DAQJT9CQ7432,SJ95HKT86D732CK85|sv|b|
 sa|0|mb|1D|mb|p|mb|1H|mb|2S|mb|p|mb|p|mb|d|mb|p|mb|3C|mb|p|mb|3S|mb|p|mb|5C|mb|p|mb|5D|mb|p|mb|p|mb|p|pg||
 pc|S5|pc|S4|pc|S2|pc|SA|pg||
 pc|C2|pc|C5|pc|C9|pc|CJ|pg||
@@ -224,7 +224,7 @@ pc|S6|pc|H2|pc|S9|pc|SK|pg||
 pc|D4|pc|D6|pc|D9|pc|D2|pg||
 pc|C4|pc|CK|pc|D8|pc|C6|pg||
 mc|11|pg||
-pn|Bjorn Fallenius,J-C Quantin,Roy Welland,Michel Abecassis|qx|o21,BOARD 21|rh||ah|Board 21|md|3S94HKQT75D92CJT43,SKQ86HJ6DAK753C87,SAJT732H432DT84C6|sv|n|
+pn|BjornFallenius,J-C Quantin,Roy Welland,Michel Abecassis|qx|o21,BOARD 21|rh||ah|Board 21|md|3S94HKQT75D92CJT43,SKQ86HJ6DAK753C87,SAJT732H432DT84C6|sv|n|
 sa|0|mb|p|mb|1C|mb|p|mb|1D|mb|2S|mb|d|mb|p|mb|p|mb|p|pg||
 pc|CA|pc|C3|pc|C8|pc|C6|pg||
 pc|S5|pc|S4|pc|SQ|pc|SA|pg||
@@ -264,7 +264,7 @@ pc|DK|pc|H2|pc|D3|pc|D8|pg||
 pc|C8|pc|CT|pc|HK|pc|S3|pg||
 pc|HQ|pc|H3|pc|H5|pc|H7|pg||
 mc|10|pg||
-pn|J-C Quantin,Claudio Nunes,Michel Abecassis,Fulvio Fantoni|qx|o25,BOARD 25|rh||ah|Board 25|md|3SQ6HKQ943DA975CJ5,SK3HA8762DKT4C983,SJ987HJTDJ62CQ642|sv|e|
+pn|J-C Quantin,Claudio Nunes,Michel Abecassis,FulvioFantoni|qx|o25,BOARD 25|rh||ah|Board 25|md|3SQ6HKQ943DA975CJ5,SK3HA8762DKT4C983,SJ987HJTDJ62CQ642|sv|e|
 sa|0|mb|p|mb|1S|mb|p|mb|1N|mb|p|mb|2C|mb|p|mb|2D|mb|p|mb|2H|mb|d|mb|r|mb|p|mb|2S|mb|p|mb|2N|mb|p|mb|p|mb|p|pg||
 pc|HJ|pc|H5|pc|H3|pc|H2|pg||
 pc|HT|pc|D3|pc|HQ|pc|H6|pg||
@@ -274,7 +274,7 @@ pc|H4|pc|H7|pc|D2|pc|CT|pg||
 pc|SK|pc|S7|pc|S4|pc|S6|pg||
 pc|S3|pc|S8|pc|SA|pc|SQ|pg||
 mc|8|pg||
-pn|J-C Quantin,Claudio Nunes,Michel Abecassis,Fulvio Fantoni|qx|o26,BOARD 26|rh||ah|Board 26|md|4ST63H52DKJ65CQ974,SJ9752HK87D93CT82,SK84HA9DAT874CAJ3|sv|b|
+pn|J-C Quantin,Claudio Nunes,Michel Abecassis,FulvioFantoni|qx|o26,BOARD 26|rh||ah|Board 26|md|4ST63H52DKJ65CQ974,SJ9752HK87D93CT82,SK84HA9DAT874CAJ3|sv|b|
 sa|0|mb|1H|mb|p|mb|2H|mb|d|mb|p|mb|2N|mb|p|mb|3D|mb|3H|mb|p|mb|p|mb|p|pg||
 pc|H2|pc|H7|pc|HA|pc|H3|pg||
 pc|CA|pc|C6|pc|C7|pc|C2|pg||
@@ -283,7 +283,7 @@ pc|HQ|pc|H5|pc|H8|pc|H9|pg||
 pc|C5|pc|CQ|pc|CT|pc|CJ|pg||
 pc|D6|pc|D3|pc|DA|pc|D2|pg||
 pc|D7|pc|DQ|pc|DK|mc|8|pg||
-pn|J-C Quantin,Claudio Nunes,Michel Abecassis,Fulvio Fantoni|qx|o27,BOARD 27|rh||ah|Board 27|md|1S84HJ853DKQ64CJ52,SJ7H64DJT9752CKT7,SKQ9652HK97DA3C43|sv|0|
+pn|J-C Quantin,Claudio Nunes,Michel Abecassis,FulvioFantoni|qx|o27,BOARD 27|rh||ah|Board 27|md|1S84HJ853DKQ64CJ52,SJ7H64DJT9752CKT7,SKQ9652HK97DA3C43|sv|0|
 sa|0|mb|p|mb|p|mb|1S|mb|2C|mb|p|mb|3C|mb|p|mb|3H|mb|p|mb|4C|mb|p|mb|p|mb|p|pg||
 pc|S8|pc|S7|pc|SQ|pc|SA|pg||
 pc|S3|pc|S4|pc|SJ|pc|SK|pg||

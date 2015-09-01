@@ -54,11 +54,11 @@ pc|C6|pc|C4|pc|C8|pc|CJ|pg||
 pc|HA|pc|H5|pc|H6|pc|H2|pg||
 pc|HK|pc|HJ|pc|H7|pc|H9|pg||
 mc|10|pg||
-pn|Howard Weinstein,Bjorn Fallenius,Steve Garner,Roy Welland|qx|o7,BOARD 7|rh||ah|Board 7|md|1SAK94H8732DT9CK54,SQ7HKT954DKJ842C8,SJT852H6D763CQT76|sv|b|
+pn|Howard Weinstein,BjornFallenius,Steve Garner,Roy Welland|qx|o7,BOARD 7|rh||ah|Board 7|md|1SAK94H8732DT9CK54,SQ7HKT954DKJ842C8,SJT852H6D763CQT76|sv|b|
 sa|0|mb|p|mb|p|mb|p|mb|1C|mb|p|mb|1H|mb|p|mb|2D|mb|p|mb|4D|mb|p|mb|4H|mb|p|mb|p|mb|p|pg||
 pc|SJ|pc|S3|pc|SK|pc|S7|pg||
 pc|SA|mc|11|pg||
-pn|Howard Weinstein,Bjorn Fallenius,Steve Garner,Roy Welland|qx|o8,BOARD 8|rh||ah|Board 8|md|2SKQ9HAQT6D9543CJ5,SAT7HK8742DA7CK84,S4HJ95DKT86CAQ972|sv|0|
+pn|Howard Weinstein,BjornFallenius,Steve Garner,Roy Welland|qx|o8,BOARD 8|rh||ah|Board 8|md|2SKQ9HAQT6D9543CJ5,SAT7HK8742DA7CK84,S4HJ95DKT86CAQ972|sv|0|
 sa|0|mb|1N|mb|p|mb|2H|mb|p|mb|2S|mb|p|mb|p|mb|p|pg||
 pc|H5|pc|H3|pc|HA|pc|H7|pg||
 pc|C5|pc|C4|pc|CQ|pc|C3|pg||
@@ -68,14 +68,14 @@ pc|D3|pc|D7|pc|DK|pc|D2|pg||
 pc|DT|pc|DJ|pc|D4|pc|DA|pg||
 pc|SA|pc|S4|pc|S2|pc|SQ|pg||
 mc|7|pg||
-pn|Howard Weinstein,Bjorn Fallenius,Steve Garner,Roy Welland|qx|o9,BOARD 9|rh||ah|Board 9|md|3SQ4HAT65DAK942CT7,SAJT8H98432D7C932,S32HKJDQJT653CA64|sv|e|
+pn|Howard Weinstein,BjornFallenius,Steve Garner,Roy Welland|qx|o9,BOARD 9|rh||ah|Board 9|md|3SQ4HAT65DAK942CT7,SAJT8H98432D7C932,S32HKJDQJT653CA64|sv|e|
 sa|0|mb|1D|mb|1S|mb|d|mb|3D|mb|p|mb|3H|mb|3S|mb|p|mb|4D|mb|p|mb|p|mb|p|pg||
 pc|CK|pc|C7|pc|C2|pc|CA|pg||
 pc|DJ|pc|D8|pc|D2|pc|D7|pg||
 pc|HJ|pc|HQ|pc|HA|pc|H2|pg||
 pc|H5|pc|H4|pc|HK|pc|H7|pg||
 pc|D3|mc|11|pg||
-pn|Brad Moss,Billy Eisenberg,Fred Gitelman,Zia Mahmood|qx|o10,BOARD 10|rh||ah|Board 10|md|4S9754HQ943DQ2CT65,SKQJ3HKT7DK63CK73,ST862H86DAJ54CQ92|sv|b|
+pn|Brad Moss,Billy Eisenberg,FredFred Gitelman,Zia Mahmood|qx|o10,BOARD 10|rh||ah|Board 10|md|4S9754HQ943DQ2CT65,SKQJ3HKT7DK63CK73,ST862H86DAJ54CQ92|sv|b|
 sa|0|mb|1D|mb|p|mb|1S|mb|p|mb|1N|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
 pc|H3|pc|H7|pc|H8|pc|HJ|pg||
 pc|H5|pc|H4|pc|HT|pc|H6|pg||
@@ -87,7 +87,7 @@ pc|H2|pc|H9|pc|HK|pc|S2|pg||
 pc|SK|pc|S6|pc|D7|pc|S5|pg||
 pc|SQ|pc|S8|pc|D8|pc|S7|pg||
 mc|12|pg||
-pn|Brad Moss,Billy Eisenberg,Fred Gitelman,Zia Mahmood|qx|o11,BOARD 11|rh||ah|Board 11|md|1SA632H3DAK84CA954,S9854HQ654D52CK87,SQ7HAJ82DQJT73CJT|sv|0|
+pn|Brad Moss,Billy Eisenberg,FredFred Gitelman,Zia Mahmood|qx|o11,BOARD 11|rh||ah|Board 11|md|1SA632H3DAK84CA954,S9854HQ654D52CK87,SQ7HAJ82DQJT73CJT|sv|0|
 sa|0|mb|1D|mb|p|mb|1H|mb|p|mb|1S|mb|p|mb|2C|mb|p|mb|2D|mb|p|mb|3D|mb|p|mb|4C|mb|p|mb|4D|mb|p|mb|5C|mb|p|mb|5D|mb|p|mb|p|mb|p|pg||
 pc|H4|pc|HA|pc|HT|pc|H3|pg||
 pc|H2|pc|H9|pc|D4|pc|H5|pg||
@@ -99,7 +99,7 @@ pc|S2|pc|S8|pc|D3|pc|SJ|pg||
 pc|HJ|pc|HK|pc|DA|pc|HQ|pg||
 pc|CA|pc|C7|pc|CT|pc|C2|pg||
 mc|11|pg||
-pn|Brad Moss,Billy Eisenberg,Fred Gitelman,Zia Mahmood|qx|o12,BOARD 12|rh||ah|Board 12|md|2SJ9HJ7654D64CQJ98,ST7543HA8DQ9C7532,S2HKQTDAT87532C64|sv|n|
+pn|Brad Moss,Billy Eisenberg,FredFred Gitelman,Zia Mahmood|qx|o12,BOARD 12|rh||ah|Board 12|md|2SJ9HJ7654D64CQJ98,ST7543HA8DQ9C7532,S2HKQTDAT87532C64|sv|n|
 sa|0|mb|p|mb|p|mb|2N|mb|p|mb|3H|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
 pc|CQ|pc|C2|pc|C6|pc|CK|pg||
 pc|SK|pc|S9|pc|S3|pc|S2|pg||
@@ -108,7 +108,7 @@ pc|S8|pc|H4|pc|ST|pc|D5|pg||
 pc|D9|pc|DA|pc|DK|pc|D4|pg||
 pc|C4|pc|CA|pc|C8|pc|C3|pg||
 mc|10|pg||
-pn|Brad Moss,Curtis Cheek,Fred Gitelman,Billy Miller|qx|o13,BOARD 13|rh||ah|Board 13|md|3SK6H9754DK43CKQT6,ST985HQJ63DJ98CA9,SQJ742HADQ765C754|sv|b|
+pn|Brad Moss,Curtis Cheek,FredFred Gitelman,Billy Miller|qx|o13,BOARD 13|rh||ah|Board 13|md|3SK6H9754DK43CKQT6,ST985HQJ63DJ98CA9,SQJ742HADQ765C754|sv|b|
 sa|0|mb|p|mb|1C|mb|p|mb|1H|mb|1S|mb|2H|mb|2S|mb|p|mb|p|mb|p|pg||
 pc|H8|pc|H9|pc|H6|pc|HA|pg||
 pc|S2|pc|S3|pc|SK|pc|S5|pg||
@@ -121,9 +121,9 @@ pc|C4|pc|C3|pc|CQ|pc|CA|pg||
 pc|ST|pc|D6|pc|D2|pc|C6|pg||
 pc|HQ|pc|C5|pc|HK|pc|CT|pg||
 pc|CJ|mc|7|pg||
-pn|Brad Moss,Curtis Cheek,Fred Gitelman,Billy Miller|qx|o14,BOARD 14|rh||ah|Board 14|md|4SA432HA9DQT96CJ43,S876HQ863DA75CA95,SKT9HT742DJ82CKQ6|sv|0|
+pn|Brad Moss,Curtis Cheek,FredFred Gitelman,Billy Miller|qx|o14,BOARD 14|rh||ah|Board 14|md|4SA432HA9DQT96CJ43,S876HQ863DA75CA95,SKT9HT742DJ82CKQ6|sv|0|
 sa|0|mb|p|mb|p|mb|p|mb|p|pg||
-pn|Brad Moss,Curtis Cheek,Fred Gitelman,Billy Miller|qx|o15,BOARD 15|rh||ah|Board 15|md|1SAJT84H32DT52CKQJ,SK9HT4D9763CA9753,SQ732HAK76DAQ4C42|sv|n|
+pn|Brad Moss,Curtis Cheek,FredFred Gitelman,Billy Miller|qx|o15,BOARD 15|rh||ah|Board 15|md|1SAJT84H32DT52CKQJ,SK9HT4D9763CA9753,SQ732HAK76DAQ4C42|sv|n|
 sa|0|mb|1S|mb|p|mb|3C|mb|p|mb|3N|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
 pc|D6|pc|D4|pc|DJ|pc|D5|pg||
 pc|C6|pc|CQ|pc|CA|pc|C2|pg||
@@ -133,7 +133,7 @@ pc|CJ|pc|C5|pc|DQ|pc|CT|pg||
 pc|H3|pc|H4|pc|HA|pc|H5|pg||
 pc|S2|pc|S5|pc|SJ|pc|SK|pg||
 pc|HT|pc|HK|pc|H9|mc|10|pg||
-pn|Brad Moss,Alfredo Versace,Fred Gitelman,Valerio Guibilo|qx|o16,BOARD 16|rh||ah|Board 16|md|2ST764HJ76DAT92CA3,SAKQ9852H53D64CJ2,SHAK984DK8753CQ97|sv|e|
+pn|Brad Moss,Alfredo Versace,FredFred Gitelman,Valerio Guibilo|qx|o16,BOARD 16|rh||ah|Board 16|md|2ST764HJ76DAT92CA3,SAKQ9852H53D64CJ2,SHAK984DK8753CQ97|sv|e|
 sa|0|mb|1S|mb|2H|mb|p|mb|2S|mb|3S|mb|4D|mb|4S|mb|5D|mb|p|mb|p|mb|p|pg||
 pc|SJ|pc|S4|pc|SA|pc|D3|pg||
 pc|HA|pc|H2|pc|H6|pc|H3|pg||
@@ -142,10 +142,10 @@ pc|H7|pc|H5|pc|HK|pc|HT|pg||
 pc|H4|pc|HQ|pc|HJ|pc|SQ|pg||
 pc|S3|pc|S6|pc|S8|pc|D7|pg||
 pc|DK|pc|DQ|mc|12|pg||
-pn|Brad Moss,Alfredo Versace,Fred Gitelman,Valerio Guibilo|qx|o17,BOARD 17|rh||ah|Board 17|md|3SJT96HKJ842DA8C84,S72HAT3DK43CAQT75,SKQ43H96DT7652C32|sv|0|
+pn|Brad Moss,Alfredo Versace,FredFred Gitelman,Valerio Guibilo|qx|o17,BOARD 17|rh||ah|Board 17|md|3SJT96HKJ842DA8C84,S72HAT3DK43CAQT75,SKQ43H96DT7652C32|sv|0|
 sa|0|mb|p|mb|1C|mb|1H|mb|2C|mb|p|mb|2D|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
 mc|9|pg||
-pn|Brad Moss,Alfredo Versace,Fred Gitelman,Valerio Guibilo|qx|o18,BOARD 18|rh||ah|Board 18|md|4SAT9H764DAT6CJ763,S82HQT82DKQ952C95,SQJ543HKJD73CAT84|sv|n|
+pn|Brad Moss,Alfredo Versace,FredFred Gitelman,Valerio Guibilo|qx|o18,BOARD 18|rh||ah|Board 18|md|4SAT9H764DAT6CJ763,S82HQT82DKQ952C95,SQJ543HKJD73CAT84|sv|n|
 sa|0|mb|1C|mb|p|mb|1D|mb|1S|mb|p|mb|2S|mb|d|mb|p|mb|3H|mb|p|mb|p|mb|p|pg||
 pc|H6|pc|H2|pc|HK|pc|HA|pg||
 pc|H3|pc|H7|pc|HT|pc|HJ|pg||
