@@ -1,6 +1,16 @@
 Status
 ==
 
+Tuesday, August 31, 2015
+===
+
+Worked on the last names Brogeland, Fantoni, Fisher, Helgemo, Helness, Levin, Meckstroth, Nunes, Rodwell, Schwarz, Weinstein.
+
+Changed generation code to Title Case player names and not repeat what is in the LIN file. Makes it easier to sort.
+
+Pushed to Internet.
+
+
 Monday, August 31, 2015
 ===
 
