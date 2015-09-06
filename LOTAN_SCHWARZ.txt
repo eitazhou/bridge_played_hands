@@ -1,0 +1,215 @@
+01124:Israeli Team Champ_ 2008 - Final,3 of 4,I,1,30,Bogach,60,Herbst,66
+01709:Israel Teams Cup Final,3rd (last),I,1,16,Bareket Ilan,92,Emody Gila,60
+09057:43rd Israel Festival - teams  Final,2 of 2,I,1,27,Tarnovski,33,Langy,12
+09247:White House Juniors 2009 ,Round Robin 1_23,I,1,10,Israel U25,0,Israel U20,0
+09265:White House Juniors 2009,Round Robin 11_23,I,11,20,Norway,0,Israel U 25,0
+09287:White House Juniors,Final 1 of 2,I,1,12,Israel,0,Poland,0
+10836:Greek Islands Festival - Rhodes - Teams ,1st session,I,1,32,Fantonakis,0,Red Sea Festival,0
+11178:Israel Teams Cup Final 2009,1 of 3,I,1,32,Liran Inon,0,Gillboa Uri,0
+11186:Israel Teams Cup Final 2009,3 of 3,I,1,16,Liran Inon,60,Gilboa Uri,72
+16471:Israeli Juniors Championship 2011,9 of 11,I,1,28,Team 1,0,Team 2,0
+16473:Israeli Juniors Chamionship ,10 of 11,I,1,28,Team 1,0,Team 2,0
+16646:Israel Juniors Team Trials ,18 (of 20),I,1,30,Team 1,0,Team 2,0
+16648:Israeli Juniors Trials ,19 (of 20),I,1,30,Team 1,0,Team 2,0
+16649:Israeli Juniors Team Trials,20 (last),I,1,30,Team 1,0,Team 2,0
+17139:White House Juniors 2011,RR 10 of 23,I,1,10,Israel,0,England juniors,0
+17140:White House Juniors 2011,RR 10 of 23,I,1,10,Israel,0,England juniors,0
+17149:White House Juniors 2011,RR 17 of 23,I,11,20,France,0,Israel Juniors,0
+17150:White House Juniors 2011,RR 17 of 23,I,11,20,France,0,Israel Juniors,0
+17152:White House Juniors 2011,RR 18 of 23,I,21,30,Israel Juniors,0,Poland,0
+17157:White House Juniors 2011,RR 21 of 23,I,21,30,USA,0,Israel Juniors,0
+17162:White House Juniors 2011,RR 23 of 23,I,11,20,Israel Juniors,0,Sweden,0
+17173:White House Juniors 2011,SF A 1 of 2,I,1,12,Israel Juniors,0,Sweden,0
+17177:White House Juniors 2011,Final 1 of 2,I,11,22,Israel ,0,France,0
+17179:White House Juniors 2011,Final 1 of 2,I,1,12,Israel,0,France,0
+17182:White House Juniors 2011,Final 2 of 2,I,13,24,Israel,21,France,12
+19154:C Euro Bridge Championships - Juniors,Round 1_21,I,1,20,England,0,Israel,0
+19208:A 23 Euro Juniors Championships Albena Bulgaria,round 6_21,I,1,20,Israel,0,Greece,0
+19247:A 23 Euro Juniors Championships Albena Bulgaria,Round 8_21,I,1,20,Israel,0,Germany,0
+19275:A 23 Euro Juniors Championships Albena Bulgaria,Round 13_21,I,1,20,Israel,0,Denmark,0
+19295:C 23 Euro Juniors Championships Albena Bulgaria,Round 14_21,I,1,20,Sweden,0,Israel,0
+19311:C 23 Euro Juniors Championships Albena Bulgaria,Round 17_21,I,1,20,Israel,0,Netherlands,0
+19317:C 23 Euro Juniors Championships Albena Bulgaria,Round 18_21,I,1,20,Israel,0,Italy,0
+19333:B 23 Euro Juniors Championships Albena Bulgaria,R 19_21,I,1,20,Poland,0,Israel,0
+19342:B 23 Euro Juniors Championships Albena Bulgaria,R 20_21,I,1,20,Israel,0,Belgium,0
+19360:B 23 Euro Juniors Championships Albena Bulgaria,R 21_21,I,1,20,Norway,0,Israel,0
+19653:White House Juniors 2011,Final 2 of 2,I,13,24,Israel,21,France,12
+19804:Fantoni Vacations - Greek Islands Festival,Teams Open 7_7,I,1,32,Major B,0,The Contractor,0
+20309:3rd Balakan city cup Stara Zagora,Round 1,I,1,12,Israel,0,Bucharest 2,0
+20323:3rd Balkan Intercity cup -Stara Zagora,Round 8,I,1,12,Israel ,0,Stara Zagora,0
+20324:3rd Balkan Intercity cup - Stara Zagora,Round 9,I,1,12,Israel,0,VITO,0
+20362:XXX Bridge Festival - Stara Zagora OPEN TEAMS,Round 4,I,1,8,Israel JUNIORS,0,Chicago,0
+20367:XXX Bridge Festival - Stara Zagora OPEN TEAMS,Round 5,I,1,8,Seniors BG,0,Israel JUNIORS,0
+20371:XXX Bridge Festival - Stara Zagora OPEN TEAMS,Round 7,I,1,8,Israel Juniors,0,VITO,0
+20386:XXX Bridge Festival - Stara Zagora OPEN TEAMS,Semi Final,I,1,12,Israel JUNIORS,10,Udarnik,0
+20394:XXX Bridge Festival - Stara Zagora OPEN TEAMS,FINAL,I,1,12,Israel JUNIORS,4,Cro Pirates,0
+20844:H - Transnationals 2011,Quarter Final 1_2,I,1,16,China Open,0,Israel Juniors,0
+20863:G - Transnationals 2011,Semi Final 1_2,I,1,16,Israel Juniors,0,Gordon,0
+20865:G - Transnationals 2011,Semi Final 2_2,I,17,32,Gordon,32,Israel Juniors,45
+20868:G - Transnationals 2011,Final 1_3,I,1,16,Oz open,0,Israel Juniors,0
+20872:G - Transnational,Final 2_3,I,1,16,OZ OPEN,28,ISRAEL JUNIORS,55
+20877:G - Transnationals 2011,Final 3_3,I,17,32,OZ open,52,Israel Juniors,100
+21566:Israel Team Champ_ 2011 - Final,3 of 4,I,1,30,Herbst,68,Fisher,30
+21567:Israel Team Champ_ Final,4 of 4,I,1,30,Herbst,87,Fisher,64
+22147:Israel Open Trials Final,1 of 7,I,1,32,Fisher Lotan,0,Bareket Ilan,0
+22172:Israel Open Team Trials ,4 of 7,I,1,32,Israel Juniors,100,Bareket Ilan,58
+22177:Israel Open Team Trials,5 of 7,I,1,32,Israel Juniors,131,Bareket Ilan,91
+22190:Israel Open Team Trials,5 of 7,I,1,32,Israel Juniors,131,Bareket Ilan,91
+22205:Israel Open Team Trials,6 of 7,I,1,32,Israel Juniors,157,Bareket Ilan,105
+22213:Israel Open team Trials,7 of 7,I,1,32,Israel Juniors,183,Bareket Ilan,149
+22877:Extra Match Netherlands - Israel at 't Onstein,6_9,I,1,16,Netherlands,0,Israel,0
+22890:Extra Match Netherlands - Israel at 't Onstein,6_9,I,1,16,Netherlands,0,Israel,0
+22898:Extra Match Netherlands-Israel at 't Onstein,8_9,I,1,14,Netherlands,0,Israel,0
+23766:51st European Team Championships,M03 - Open B,I,1,20,Germany,0,Isreal,0
+23810:BBO2 _ 51st European Team Championships,M07 _ Open A,I,1,20,Bulgaria,0,Israel,0
+23867:BBO3 - Euro Teams 2012 ,M13 - Open A,I,1,20,Israel,0,Hungary,0
+23878:BBO3 - Euro Teams 2012,M15 - Open A,I,1,20,Israel,0,Norway,0
+23926:BBO4 - Euro Team 2012,OF-02,I,1,20,Switzerland,0,Israel,0
+23965:BBO2 - Euro Team 2012,OF06,I,1,20,Israel,0,Monaco,0
+23975:BBO1 - Euro Team 2012,OF-08,I,1,20,Poland,0,Israel,0
+23988:BBO2 - Euro Team 2012,OF - 09,I,1,20,Israel,0,England,0
+25617:IV Balkan Intercity Cup,Round 1_9,I,1,8,Cernato,0,Israel,0
+25625:IV Balkan Intercity Cup,Round 5_9,I,1,8,Radkov,0,Israel,0
+25630:IV Balkan Intercity Cup - Stara Zagora,Semifinal A1-B2,I,1,10,Israel,2,Stegaroiu,0
+25633:IV Balkan Intercity Cup - Stara Zagora,FINAL,I,11,20,Israel,0,VITO,2
+25685:XXXI Bridge Festival Stara Zagora - Bulgaria,Teams Swiss - 8_11,I,25,32,VITO,0,DianaDamyanova,0
+25694:XXXI Bridge Festival Stara Zagora - Bulgaria,Teams - Final,I,1,12,VITO,0,DianaDamyanova,2
+25729:Monaco Cavendish Team,R5_9,I,1,30,Israël Juniors,0,Cronier,0
+25730:Monaco Cavendish Team,R 6_9,I,1,30,Israël Junior,0,Zimmermann,0
+25761:Monaco Cavendish Pair,Final session 1_2,I,1,22,Fisher,0,Away,0
+25773:Monaco Cavendish Pair,Final S2_2,I,1,42,Fisher,0,Away,0
+26042:11th European Champions Cup R2_5,2,I,1,20,Israel White,0,Het Witte Huis,0
+26044:11th European Champions Cup,Round 2_5,I,21,40,Israel White,0,Het Witte Huis,0
+27053:Slava Cup 2013,RR 1,I,1,10,Vainikonis,0,Israel,0
+27056:Slava Cup 2013,RR 2,I,11,20,Israel,0,Sweden,0
+27068:Slava Cup 2013,RR 5,I,9,18,Monaco,0,Israel,0
+27081:Slava Cup 2013,RR 7,I,29,38,White Bears,0,Israel,0
+27092:Slava Cup 2013,SF 3_3,I,21,30,Real,0,Israel,33
+27097:Slava Cup 2013,Final 2_4,I,9,16,Monaco,35,Israel,23
+27100:Slava Cup 2013,Final 2_4,I,9,16,Monaco,35,Israel,23
+27105:Slava Cup 2013,Final 3_4,I,17,24,Monaco,37,Israel,25
+27106:Slava Cup 2013,Final 4_4,I,25,32,Monaco,6,Israel,0
+28616:Netherlands - Israel test match,1_9,I,1,16,Israel,0,Netherlands,0
+28627:Netherlands - Israel Test match,2_9,I,1,16,Netherlands,0,Israel,0
+28638:Netherlands - Israel Test match,3_9,I,1,16,Netherlands,0,Israel,0
+28672:Netherlands - Israel Test match,4_9,I,1,16,Netherlands,0,Israel,0
+28680:Netherlands - Israel Test match,5_9,I,1,16,Netherlands,0,Israel,0
+28683:Netherlands - Israel Test match table 3,6_9,I,1,16,Israel,0,Netherlands,0
+28720:Netherlands - Israel Test  match,7_9,I,1,16,Netherlands,0,Israel,0
+28725:Netherlands - Israel Test match table 3,8_9,I,1,16,Israel,0,Netherlands,0
+28728:Netherlands - Israel Test match,9_9,I,1,16,Netherlands,0,Israel,0
+28989:6th EOBC-BBO4-Open Teams,Swiss 2_10,I,11,20,MONACO  Z,0,VITAS,0
+28997:6th EOBC-BBO1-Open Teams,Swiss 4_10,I,1,10,BARRACUDA,0,VITAS,0
+29003:6th EOBC-BBO1-Open Teams,Swiss 5_10,I,11,20,VITAS,0,DE BOTTON,0
+29018:6th EOBC-BBO3-Open Teams,Swiss 7_10,I,1,10,VITAS,0,ISRAEL EIDI,0
+29797:2013 Spingold B QF,Segment 4 of 4,I,49,64,Schwartz,95,Lynch,53
+29812:2013 Spingold A SF,Segment 1 of 4,I,1,16,Grue,0,Schwartz,0
+29823:2013 Spingold A SF,Segment 3 of 4,I,33,48,Grue,71,Schwartz,40
+29827:2013 Spingold A Semi Final,Segment 4 of 4,I,49,64,Grue,91,Schwartz,78
+30632:NN-CUP-13,SEMIFINAL 1_4,I,1,5,Vytas,0,Gudkov,0
+30636:NN-CUP-2013 (GOULASH),SF 2_4,I,6,10,Vytas,44,Gudkov,15
+30639:NN-CUP-2013 (GOULASH),SF 3_4,I,11,15,Vytas,65,Gudkov,34
+30674:NN-CUP-2013 (GOULASH),FINAL 3_6,I,11,15,Vytas,52,Real,34
+30678:NN-CUP-2013 (GOULASH),FINAL 4_6,I,16,20,Vytas,89,Real,39
+30767:Torneo di Roma Angelini,13° Turno,I,17,24,Lavazza,0,Vitas,0
+30770:Torneo di Roma Angelini,14° Turno,I,25,32,White House J,0,Vitas,0
+30774:Torneo di Roma - Angelini,Finale,I,1,8,Vitas,0,Ventin,0
+30818:Patton de Monaco,Qualif Suisse R3_4,I,1,42,Vitas,0,Eidi,0
+30842:Patton de Monaco,Final S1_2,I,1,42,Vitas,0,Zimmermann,0
+30863:Cavendish Monaco 2013,R5_7 BBO1,I,1,42,Zimmermann,0,Vitas,0
+31751:Israel Team Championship Final 2013,3 (of 4),I,1,30,Bareket Ilan,47,Herbst Ilan,59
+31752:Israel Team Championship Final 2013,4 (Last),I,1,30,Bareket Ilan,64,Herbst Ilan,73
+32696:2014 Vanderbilt R16 A,Segment 2 of 4,I,17,32,Nickell,34,Schwartz,45
+34182:52nd EBTC-BBO2,OPEN-RR2,I,1,16,ISRAEL,0,ITALY,0
+34197:52nd EBTC-BBO3,OPEN-RR5,I,17,32,ISRAEL,0,BULGARIA,0
+34211:52nd EBTC-BBO4,OPEN-RR8,I,1,16,HUNGARY,0,ISRAEL,0
+34255:52nd EBTC-BBO2,OPEN-RRR13,I,1,16,NETHERLANDS,0,ISRAEL,0
+34298:52nd EBTC-BBO5,OPEN-F2,I,1,16,CROATIA,0,ISRAEL,0
+34308:52nd EBTC-BBO1,OPEN-F4,I,1,16,ISRAEL,0,MONACO,0
+34320:52nd EBTC-BBO1,OPEN-F7,I,17,32,GERMANY,0,ISRAEL,0
+34332:52nd EBTC-BBO2,OPEN-F9,I,17,32,ISRAEL,0,NORWAY,0
+34336:52nd EBTC-BBO2,OPEN-F9,I,17,32,ISRAEL,0,NORWAY,0
+34590:2014 Spingold Round of 32,Segment 1 of 4,I,1,16,Levine,0,Schwartz,0
+34619:2014 Spingold QF C,Segment 1 of 4,I,1,16,Schwartz,0,Meltzer,0
+34621:2014 Spingold QF C,Segment 1 of 4,I,1,16,Schwartz,0,Meltzer,0
+34624:2014 Spingold QF C,Segment 2 of 4,I,17,32,Schwartz,37,Meltzer,33
+34632:2014 Spingold QF C,Segment 4 of 4,I,49,64,Schwartz,97,Meltzer,126
+34642:2014 Spingold SemiFinal B,Segment 1 of 4,I,1,16,Team Assael,0,Schwartz,0
+34648:2014 Spingold Semi-Final B,Segment 2 of 4,I,17,32,Team Assael,26,Schwartz,11
+34650:2014 Spingold Semi-Final B,Segment 4 of 4,I,49,64,Team Assael,85,Schwartz,74
+34651:2014 Spingold Final,Segment 1 of 4,I,1,16,Monaco,0,Schwartz,0
+34652:2014 Spingold Final,Segment 2 of 4,I,17,32,Monaco,41,Schwartz,7
+34654:2014 Spingold Final,Segment 4 of 4,I,49,64,Monaco,89,Schwartz,107
+35151:Israel Teams Cup 2014 Final,2nd (of 3),I,1,30,Team 1,0,Team 2,0
+35195:Israel Team Cup Final 2014,2nd (of 3),I,1,30,Stern,31,Tranovski,6
+35218:BBO1 2014 Cavendish Monaco,Teams SW 3_7,I,1,42,DE BOTTON,0,VAINIKONIS,0
+35222:BBO1 2014 Cavendish Monaco,Teams SW 5_7,I,1,42,Eidi,0,Vainikonis,0
+35229:BBO2 2014 Cavendish Monaco,Teams SW 7_7,I,1,42,Vainikonis,0,PRI Investment,0
+35232:BBO1 2014 Cavendish Monaco,Final 1_2,I,1,42,Eidi,0,Vainikonis,3
+35262:2014 Monaco's Patton,SW QB 2_4,I,1,8,Vainikonis,0,PBL,0
+35264:2014 Monaco's Patton,SW QS4_4,I,1,8,Vainikonis,0,Blueberry,0
+35607:VV Cup,MATCH 4_14,I,1,8,VYTAS,0,VENTIN,0
+35633:VV Cup,MATCH 8_14,I,9,16,VENTIN,0,VYTAS,0
+35643:VV Cup,MATCH 10_14,I,1,8,ERA,0,VYTAS,0
+35810:Goulyash by E_Gladysh,SF 3_4,I,11,15,Vytas,0,Bogach,0
+35812:Goulyash by E_Gladysh,SF 3_4,I,11,15,Vytas,0,Bogach,0
+35820:Goulyash by E_Gladysh,SF 4_4,I,16,20,Vytas,0,Bogach,0
+35844:Goulyash by E_Gladysh,F 2_6,I,6,10,Vytas,0,Real,0
+35852:Goulyash by E_Gladysh,F 3_6,I,11,15,Vytas,0,Real,0
+35854:Goulyash by E_Gladysh,F4_6,I,16,20,Vytas,0,Real,0
+35856:Goulash by E_Gladysh,F5_6,I,21,25,Vytas,0,Real,0
+35864:Goulash by E_Gladysh,F6_6,I,26,30,Vytas,0,Real,0
+36077:14th Red Bull WBS-Rosenblum-BBO4,SFA 6_8,I,8,14,VITAS,0,MCMULLIN,0
+36084:14th Red Bull WBS-Rosenblum-BBO4,SFA 8_8,I,22,28,VITAS,0,CHINA OPN-B,0
+36117:14th Red Bull WBS-Rosenblum-BBO6,R16 3_3,I,15,28,DIAMOND,88,VITAS,31
+36735:8 Reisinger 2nd Final,Boards 1-3,B,1,3,Schwartz,0,Woolsey,0
+36738:9 Reisinger 2nd Final,Boards 4-6,B,4,6,Fleisher,0,Schwartz,0
+36742:8 Reisinger 2nd Final,Boards 10-12,B,10,12,Schwartz,0,Brink,0
+36747:5 Reisinger 2nd Final,Boards 7-9,B,7,9,Schwartz,0,Gromov,0
+36749:8 Reisinger 2nd Final,Boards 13-15,B,13,15,Schwartz,0,Bocchi,0
+36751:8 Reisinger 2nd Final,Boards 16-18,B,16,18,Schwartz,0,Liu,0
+36754:8 Reisinger 2nd Final,Round 8 of 9,B,22,24,Nickell,0,Schwartz,0
+36757:8 Reisinger 2nd Final,Round 7 of 9,B,19,21,Schwartz,0,Strul,0
+36759:8 Reisinger 2nd Final,Round 9 of 9,B,25,27,Schwartz,0,Hans,0
+36797:A-4th SportAccord WMG-Teams,O-RR1,I,1,16,MONACO,0,ISRAEL,0
+36802:B-4th SportAccord WMG-Teams,O-RR3,I,1,16,USA,0,ISRAEL,0
+36836:A-4th SportAccord WMG-Teams,O-RR6,I,17,32,ISRAEL,0,USA,0
+36865:A-4th SportAccord WMG-Teams,O-FINAL1_3,I,1,16,USA,0,ISRAEL,0
+36883:A-4th SportAccord WMG-Teams,O-FF3,I,1,16,USA,46,Israel,86
+37103:Polish Premier League ROUND ROBIN,RND 10_15 SEG 1_2,I,1,12,RAL Poznan,0,SIWIK HOLIDAY BT,0
+37123:Polish Premier League ROUND ROBIN,RND 13_15 SEG 1_2,I,1,12,AZS POLITECHNIKA Wr,0,RAL Poznan,0
+37126:Polish Premier League ROUND ROBIN,RND 13_15 SEG 2_2,I,13,24,AZS POLITECHNIKA Wr,29,RAL Poznan,30
+37131:Polish Premier League ROUND ROBIN,RND 14_15 SEG 1_2,I,1,12,KONKRET Chelmno,0,RAL Poznan,0
+37133:Polish Premier League ROUND ROBIN,RND 14_15 SEG 2_2,I,13,24,KONKRET Chelmno,26,RAL Poznan,12
+37645:SLAVA CUP 2015,RR 1_9,I,1,8,Vitas,0,Poland,0
+37656:Slava Cup 2015,RR 4_9,I,25,32,Vitas,0,Germany,0
+37660:Salava Cup 2015,RR 6_9,I,9,16,Vitas,0,Zaleski,0
+37676:Slava Cup 2015,RR 9_9,I,1,8,SWEDEN,0,VITAS,0
+37714:Slava Cup 2015,FINAL 2_3,I,5,16,VITAS,0,MONACO,0
+37722:Slava Cup 2015,Final 3_3,I,17,28,Vitas,0,Monaco,0
+38623:Schapiro Spring Fours 2015 Final,Stanza 1 of 4,I,1,8,Hinden,0,Vitas,0
+38625:Schapiro Spring Fours 2015 Final,Stanza 2 of 4,I,1,16,Hinden,24,Vitas,12
+38626:Schapiro Spring Fours 2015 Final,Stanza 3 of 4,I,1,24,Hinden,34,Vitas,19
+38627:Schapiro Spring Fours 2015 Final,Stanza 4 of 4,I,1,32,Hinden,47,Vitas,47
+39532:Polish Premier League play-off,SEGMENT 1_6,I,1,12,CONSUS Kalisz,7,RAL Poznan,0
+39534:Polish Premier League play-off,SEGMENT 3_6,I,1,12,CONSUS Kalisz,39,RAL Poznan,76
+39535:Polish Premier League play-off,SEGMENT 4_6,I,13,24,CONSUS Kalisz,44,RAL Poznan,118
+39557:Polish Premier League - semifinal A,SEGMENT 1_6,I,1,12,AZS PWr Wroclaw,7,RAL Poznan,0
+39561:Polish Premier League - semifinal A,SEGMENT 3_6,I,1,12,AZS PWr Wroclaw,47,RAL Poznan,24
+39565:Polish Premier League - semifinal,SEGMENT 4_6,I,13,24,AZS PWr Wroclaw,78,RAL Poznan,40
+39573:Polish Premier League - semifinal A,SEGMENT 6_6,I,13,24,AZS PWr Wroclaw,146,RAL Poznan,84
+39637:PALACE CUP 2015,MATCH 9_11,I,19,24,VYTAS,0,CASTNER,0
+39643:PALACE CUP 2015 INVITATIONAL TEAMS,FINAL 2_3,I,11,20,ERA,38,VYTAS,24
+39901:BBO1 2015 EOBC - Open Teams,R16 1_2,I,1,14,VITAS,0,VINCIGUERRA,0
+39910:BBO1 2015 EOBC - Open Teams,QF 1_2,I,1,14,ORANGE WHITE,0,VITAS,0
+39915:BBO1 2015 EOBC - Open Teams,QF 2_2,I,15,28,ORANGE WHITE,28,VITAS,7
+40353:2015 Spingold R32,Segment 3 of 4,I,1,15,Cayne,40,Blanchard,70
+40363:2015 Spingold R16B,Segment 2 of 4,I,16,30,Cayne,43,Team Wolff,19
+40388:2015 Spingold QFA,Segment 2 of 4,I,16,30,Schwartz,28,Cayne,20
+40395:2015 Spingold QFA,Segment 3 of 4,I,1,15,Schwartz,44,Cayne,43
+40400:2015 Spingold QFA,Segment 4 of 4,I,16,30,Schwartz,83,Cayne,78
+40419:2015 Spingold SFA,Segment 2 of 4,I,16,30,Cayne,38,Lavazza,19
+40423:2015 Spingold SFA,Segment 3 of 4,I,1,15,Cayne,71,Lavazza,22
+40425:2015 Spingold SFA,Segment 4 of 4,I,16,30,Cayne,144,Lavazza,71
+40439:2015 Spingold Final,Segment 3 of 4,I,1,15,Cayne,60,Monaco,52
+40440:2015 Spingold Final,Segment 4 of 4,I,16,30,Cayne,88,Monaco,85
