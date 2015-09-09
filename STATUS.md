@@ -1,10 +1,23 @@
 Status
 ==
 
+Wednesday, September 9, 2015
+===
+
+The work on last names has been on-going.
+
+There are 40,000+ LIN files, for the last two weeks I have had a couple of computers processing the hand records. This work is nearing completion.
+
+The analysis engine is starting to generate results.
+
+The LIN files are showing errors, e.g. incorrect declarer, wrong contracts, incorrect number of tricks taken. Analysis of some of these errors shows that the LIN file is inconsistent, not the tools I have written to process them. This means that the LIN file data may be slightly suspect and require manual review.
+
 Tuesday, August 31, 2015
 ===
 
 Worked on the last names Brogeland, Fantoni, Fisher, Helgemo, Helness, Levin, Meckstroth, Nunes, Rodwell, Schwarz, Weinstein.
+
+These names picked so that we have a reference of the top playersto compare against.
 
 Changed generation code to Title Case player names and not repeat what is in the LIN file. Makes it easier to sort.
 
