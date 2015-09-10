@@ -1,0 +1,9 @@
+This directory contains the LIN files that are 'bad' for some reason.
+
+Being in this directory means that they are not processed with the other files.
+
+
+The directory incorrect_nplayers contains files that have an incorrect number of players. Typically this is a player entered as, for example, "Martel, J". The comma is used as a delimiter in the player field so this team looks like it has 9 players not the usual 8. 
+
+The directory no_players contains LIN files with no players.
+
