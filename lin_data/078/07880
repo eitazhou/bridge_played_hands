@@ -106,14 +106,14 @@ pc|D3|pc|S7|pc|C7|pc|H4|pg||
 pc|CK|pc|C5|pc|CT|pc|C4|pg||
 pc|S3|pc|SJ|pc|SA|pc|SK|pg||
 pc|SQ|mc|13|pg||
-pn|Weinstein,Passell,Levin,Wold|qx|o10,BOARD 10|rh||ah|Board 10|md|4SK97H543D852CAT92,S42HAKQ92DATCQJ63,SJT53HDQJ97643C75|sv|b|
+pn|Weinstein,Mike Passell,Levin,Eddie Wold|qx|o10,BOARD 10|rh||ah|Board 10|md|4SK97H543D852CAT92,S42HAKQ92DATCQJ63,SJT53HDQJ97643C75|sv|b|
 sa|0|mb|1H|mb|p|mb|2S|mb|p|mb|3C|mb|p|mb|3D|mb|d|mb|3N|mb|p|mb|4S|mb|p|mb|5C|mb|p|mb|6H|mb|p|mb|p|mb|p|pg||
 pc|H4|pc|HA|pc|D4|pc|H6|pg||
 pc|HK|pc|D7|pc|H7|pc|H5|pg||
 pc|HQ|pc|D3|pc|H8|pc|H3|pg||
 pc|S2|pc|S3|pc|SQ|pc|SK|pg||
 mc|11|pg||
-pn|Weinstein,Passell,Levin,Wold|qx|o11,BOARD 11|rh||ah|Board 11|md|1S973HT5DA653CKQ64,SAJ54HAQJ96D7CJT2,ST86HK732DKT92CA5|sv|0|
+pn|Weinstein,Mike Passell,Levin,Eddie Wold|qx|o11,BOARD 11|rh||ah|Board 11|md|1S973HT5DA653CKQ64,SAJ54HAQJ96D7CJT2,ST86HK732DKT92CA5|sv|0|
 sa|0|mb|p|mb|1H|mb|p|mb|1N|mb|p|mb|2C|mb|p|mb|2H|mb|p|mb|p|mb|p|pg||
 pc|S6|pc|SK|pc|S3|pc|S5|pg||
 pc|H4|pc|H5|pc|HQ|pc|HK|pg||
@@ -125,7 +125,7 @@ pc|C6|pc|H9|pc|ST|pc|C7|pg||
 pc|HA|pc|H2|pc|H8|pc|HT|pg||
 pc|HJ|pc|H3|pc|D8|pc|D3|pg||
 mc|7|pg||
-pn|Weinstein,Passell,Levin,Wold|qx|o12,BOARD 12|rh||ah|Board 12|md|2SAKQ95H65DAKQCJT9,SJ2HAQ83DCKQ87642,S63HKT974D87643CA|sv|n|
+pn|Weinstein,Mike Passell,Levin,Eddie Wold|qx|o12,BOARD 12|rh||ah|Board 12|md|2SAKQ95H65DAKQCJT9,SJ2HAQ83DCKQ87642,S63HKT974D87643CA|sv|n|
 sa|0|mb|1C|mb|1H|mb|p|mb|2S|mb|4C|mb|p|mb|p|mb|d|mb|p|mb|p|mb|p|pg||
 pc|S6|pc|S4|pc|SQ|pc|S2|pg||
 pc|DK|pc|C2|pc|D3|pc|D2|pg||

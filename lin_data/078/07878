@@ -247,7 +247,7 @@ pc|C2|pc|C6|pc|CT|pc|C9|pg||
 pc|HJ|pc|H2|pc|H9|pc|H5|pg||
 pc|HQ|pc|H7|pc|D2|pc|H6|pg||
 mc|8|pg||
-pn|Wold,Chemla,Passell,Mari|qx|o25,BOARD 25|rh||ah|Board 25|md|3SAK94HQT6DJ872C82,SQJ87H87DAQ65C763,ST6532HJ5DK93CAQ9|sv|e|
+pn|Eddie Wold,Chemla,Mike Passell,Mari|qx|o25,BOARD 25|rh||ah|Board 25|md|3SAK94HQT6DJ872C82,SQJ87H87DAQ65C763,ST6532HJ5DK93CAQ9|sv|e|
 sa|0|mb|p|mb|1H|mb|p|mb|1S|mb|p|mb|2C|mb|p|mb|2H|mb|p|mb|3H|mb|p|mb|3N|mb|p|mb|4H|mb|p|mb|p|mb|p|pg||
 pc|SA|pc|S7|pc|S2|pc|H2|pg||
 pc|HA|pc|H6|pc|H7|pc|H5|pg||
@@ -258,13 +258,13 @@ pc|C3|pc|C9|pc|CJ|pc|C2|pg||
 pc|CK|pc|C8|pc|C6|pc|CA|pg||
 pc|D3|pc|H3|pc|D8|pc|D5|pg||
 mc|9|pg||
-pn|Wold,Chemla,Passell,Mari|qx|o26,BOARD 26|rh||ah|Board 26|md|4SAT52H3D82CKJT987,SQJ863H52DKQJ3C53,SK7HAQ986DT75CQ62|sv|b|
+pn|Eddie Wold,Chemla,Mike Passell,Mari|qx|o26,BOARD 26|rh||ah|Board 26|md|4SAT52H3D82CKJT987,SQJ863H52DKQJ3C53,SK7HAQ986DT75CQ62|sv|b|
 sa|0|mb|1H|mb|2C|mb|d|mb|2N|mb|p|mb|3C|mb|p|mb|p|mb|p|pg||
 pc|H5|pc|HA|pc|H4|pc|H3|pg||
 pc|SK|pc|S4|pc|S5|pc|S3|pg||
 pc|S7|pc|S9|pc|SA|pc|S6|pg||
 pc|S2|pc|S8|pc|C6|mc|10|pg||
-pn|Wold,Chemla,Passell,Mari|qx|o27,BOARD 27|rh||ah|Board 27|md|1SKJT83HKQ972D7CAT,SHT83DJT64CJ98654,SQ942HJ4DAQCKQ732|sv|0|
+pn|Eddie Wold,Chemla,Mike Passell,Mari|qx|o27,BOARD 27|rh||ah|Board 27|md|1SKJT83HKQ972D7CAT,SHT83DJT64CJ98654,SQ942HJ4DAQCKQ732|sv|0|
 sa|0|mb|1S|mb|p|mb|2C|mb|2D|mb|2H|mb|3D|mb|3S|mb|p|mb|4C|mb|p|mb|4D|mb|p|mb|4H|mb|p|mb|4N|mb|p|mb|5H|mb|p|mb|5S|mb|d|mb|p|mb|p|mb|5N|mb|p|mb|p|mb|p|pg||
 pc|D5|pc|D7|pc|DT|pc|DQ|pg||
 pc|S9|pc|S6|pc|S3|pc|C5|pg||
