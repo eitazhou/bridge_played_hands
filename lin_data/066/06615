@@ -1,7 +1,7 @@
 vg|Generali Euro Team Champs '97,1997.06.25,I,1,24,G.Britain,0,Poland,0|
 rs|3NN=,3NN=,3CS=,4DW-2,2SN-5,4HE=,2DW+3,4SE+2,3NN-1,4HN-2,5DW-2,4HNx-1,5HWx-3,5HWx-6,1NW-1,1NW-2,3NE-1,3NE-1,1NW-1,2HN+1,2HN-1,2SN-1,4SS-2,4SS-2,7NSx-1,6HN=,4SN+1,4SS+1,6SN-1,4SN=,4SS-1,4SS-1,3CEx-3,2NS+1,5DE-1,2SW-2,1NN-1,1NN-1,4SS=,4SS+1,4HN-1,2HN+1,4SW+1,5SW=,4SW+1,4SE+1,P,,2HS+1,|
-pn|Hackett Ja,Kwiecen M,Hackett Ju,Pszczola J,Zmudzinski A,Tredinnick G,Balicki C,Tredinnick S|pg||
-pn|Hackett Ja,Kwiecen M,Hackett Ju,Pszczola J,,,,|qx|o1|md|3SAKQJ9H5432DAK5C2,S52HAQT7D972CKT75,ST7H986DJ64CAQ984|sv|0|
+pn|Jason Hackett,Kwiecen M,Justin Hackett,Pszczola J,Zmudzinski A,Tredinnick G,Balicki C,Tredinnick S|pg||
+pn|Jason Hackett,Kwiecen M,Justin Hackett,Pszczola J,,,,|qx|o1|md|3SAKQJ9H5432DAK5C2,S52HAQT7D972CKT75,ST7H986DJ64CAQ984|sv|0|
 mb|p|mb|p|mb|1S|mb|p|mb|1N|mb|p|mb|2C|mb|p|mb|2D|mb|p|mb|2H|mb|p|mb|2S|mb|p|mb|3D|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
 pc|D3|pc|D5|pc|D9|pc|DJ|pg||
 pc|ST|pc|S8|pc|S9|pc|S2|pg||
@@ -22,7 +22,7 @@ pc|SJ|pc|D2|pc|D4|pc|S8|pg||
 pc|S9|pc|C7|pc|C8|pc|C3|pg||
 pc|C2|pc|C5|pc|CA|pc|C6|pg||
 pc|D6|pc|D8|pc|DK|pg||mc|9|pg||
-pn|Hackett Ja,Kwiecen M,Hackett Ju,Pszczola J,,,,|qx|o2|md|4S42H5DJT83CAKJT63,SKT9873HDAK42C974,SAQ65HAQT8643D9C8|sv|n|
+pn|Jason Hackett,Kwiecen M,Justin Hackett,Pszczola J,,,,|qx|o2|md|4S42H5DJT83CAKJT63,SKT9873HDAK42C974,SAQ65HAQT8643D9C8|sv|n|
 mb|2D|mb|p|mb|2H|mb|d|mb|p|mb|3C|mb|p|mb|p|mb|p|pg||
 pc|DA|pc|D9|pc|D5|pc|D3|pg||
 pc|C9|pc|C8|pc|C2|pc|CJ|pg||
@@ -46,7 +46,7 @@ pc|SK|pc|S5|pc|H7|pc|S4|pg||
 pc|ST|pc|SA|pc|D6|pc|D8|pg||
 pc|DJ|pc|D4|pc|S6|pc|DQ|pg||
 mc|8|pg||
-pn|Hackett Ja,Kwiecen M,Hackett Ju,Pszczola J,,,,|qx|o3|md|1SJ52H5DAKJ3CK9753,SK6HAJ32DQ98752C6,ST94HQ984DT6CQT84|sv|e|
+pn|Jason Hackett,Kwiecen M,Justin Hackett,Pszczola J,,,,|qx|o3|md|1SJ52H5DAKJ3CK9753,SK6HAJ32DQ98752C6,ST94HQ984DT6CQT84|sv|e|
 mb|1D|mb|p|mb|1S|mb|p|mb|2S|mb|p|mb|p|mb|p|pg||
 pc|D4|pc|D3|pc|DQ|pc|D6|pg||
 pc|C6|pc|CT|pc|CA|pc|C3|pg||
@@ -73,7 +73,7 @@ pc|CJ|pc|C5|pc|H3|pc|CT|pg||
 pc|D8|pc|H8|pc|HT|pc|DK|pg||
 pc|HK|pc|H5|pc|HJ|pc|H4|pg||
 mc|10|pg||
-pn|Hackett Ja,Kwiecen M,Hackett Ju,Pszczola J,,,,|qx|o4|md|2ST95HKQ6DA8CJT942,SA87HAJT3DQJ7432C,S63H8542DT9CAKQ63|sv|b|
+pn|Jason Hackett,Kwiecen M,Justin Hackett,Pszczola J,,,,|qx|o4|md|2ST95HKQ6DA8CJT942,SA87HAJT3DQJ7432C,S63H8542DT9CAKQ63|sv|b|
 mb|1D|mb|p|mb|1S|mb|p|mb|2D|mb|p|mb|p|mb|p|pg||
 pc|CK|pc|C5|pc|C2|pc|D2|pg||
 pc|D3|pc|D9|pc|DK|pc|DA|pg||
@@ -89,7 +89,7 @@ pc|CJ|pc|SA|pc|C3|pc|C5|pg||
 pc|S8|pc|S6|pc|SK|pc|S5|pg||
 pc|SJ|pc|S9|pc|H3|pc|H2|pg||
 mc|12|pg||
-pn|Hackett Ja,Kwiecen M,Hackett Ju,Pszczola J,,,,|qx|o5|md|3SQJ6HJ964DK987CK6,SAKT7HQ752DTCT843,S92HAK83DA532CA52|sv|n|
+pn|Jason Hackett,Kwiecen M,Justin Hackett,Pszczola J,,,,|qx|o5|md|3SQJ6HJ964DK987CK6,SAKT7HQ752DTCT843,S92HAK83DA532CA52|sv|n|
 mb|1N|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
 pc|CQ|pc|CK|pc|C3|pc|C5|pg||
 pc|D7|pc|DT|pc|DA|pc|D4|pg||
@@ -117,7 +117,7 @@ pc|D7|pc|C8|pc|DA|pc|D4|pg||
 pc|D3|pc|DQ|pc|D8|pc|S7|pg||
 pc|D6|pc|D9|pc|H7|pc|D5|pg||
 mc|8|pg||
-pn|Hackett Ja,Kwiecen M,Hackett Ju,Pszczola J,,,,|qx|o6|md|4SAKJ43HJ854DJ63C6,SQ6HAKDAKT752CKT2,S95HQT9732DQCQJ97|sv|e|
+pn|Jason Hackett,Kwiecen M,Justin Hackett,Pszczola J,,,,|qx|o6|md|4SAKJ43HJ854DJ63C6,SQ6HAKDAKT752CKT2,S95HQT9732DQCQJ97|sv|e|
 mb|p|mb|1S|mb|d|mb|p|mb|2C|mb|p|mb|2D|mb|p|mb|3D|mb|p|mb|3S|mb|p|mb|4C|mb|p|mb|4H|mb|p|mb|5D|mb|p|mb|p|mb|p|pg||
 pc|S9|pc|S2|pc|SK|pc|SQ|pg||
 pc|SA|pc|S6|pc|S5|pc|S7|pg||
@@ -134,7 +134,7 @@ pc|C2|pc|CJ|pc|CA|pc|C6|pg||
 pc|D9|pc|DJ|pc|DA|pc|H9|pg||
 pc|S5|pc|S2|pc|SA|pc|S6|pg||
 pc|SK|pc|SQ|pg||mc|9|pg||
-pn|Hackett Ja,Kwiecen M,Hackett Ju,Pszczola J,,,,|qx|o7|md|1SA86532HQD87CKQ64,SQTHA642DKJ5CAT85,SKJ974HK953DQ3C72|sv|b|
+pn|Jason Hackett,Kwiecen M,Justin Hackett,Pszczola J,,,,|qx|o7|md|1SA86532HQD87CKQ64,SQTHA642DKJ5CAT85,SKJ974HK953DQ3C72|sv|b|
 mb|1S|mb|d|mb|2N|mb|3D|mb|4S|mb|p|mb|p|mb|4N|mb|p|mb|5C|mb|p|mb|5D|mb|p|mb|5H|mb|d|mb|p|mb|p|mb|p|pg||
 pc|SK|pc|H7|pc|S6|pc|ST|pg||
 pc|HJ|pc|HQ|pc|HA|pc|H3|pg||
@@ -160,7 +160,7 @@ pc|HK|pc|D6|pc|C4|pc|H6|pg||
 pc|S4|pc|C9|pc|SA|pc|C5|pg||
 pc|S6|pc|D5|pc|S9|pc|D9|pg||
 pc|SJ|pg||mc|5|pg||
-pn|Hackett Ja,Kwiecen M,Hackett Ju,Pszczola J,,,,|qx|o8|md|2SKJ6HJ73DA982CA32,SAT9H6D754CKJ8754,SQ74HQT94DQT6CQT6|sv|0|
+pn|Jason Hackett,Kwiecen M,Justin Hackett,Pszczola J,,,,|qx|o8|md|2SKJ6HJ73DA982CA32,SAT9H6D754CKJ8754,SQ74HQT94DQT6CQT6|sv|0|
 mb|p|mb|p|mb|1H|mb|p|mb|1N|mb|p|mb|p|mb|p|pg||
 pc|S4|pc|S2|pc|SK|pc|SA|pg||
 pc|ST|pc|S7|pc|S3|pc|SJ|pg||
@@ -188,7 +188,7 @@ pc|D9|pc|D5|pc|D6|pc|DJ|pg||
 pc|H8|pc|C2|pc|D7|pc|HT|pg||
 pc|DQ|pc|DK|pc|DA|pc|C8|pg||
 mc|5|pg||
-pn|Hackett Ja,Kwiecen M,Hackett Ju,Pszczola J,,,,|qx|o9|md|3SKJ85HJ75DJ54CK84,S96HA2DA9862CAT95,S32HQT984DQ73CQ73|sv|e|
+pn|Jason Hackett,Kwiecen M,Justin Hackett,Pszczola J,,,,|qx|o9|md|3SKJ85HJ75DJ54CK84,S96HA2DA9862CAT95,S32HQT984DQ73CQ73|sv|e|
 mb|2H|mb|2S|mb|p|mb|3D|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
 pc|H5|pc|H2|pc|HQ|pc|H3|pg||
 pc|HT|pc|H6|pc|H7|pc|HA|pg||
@@ -214,7 +214,7 @@ pc|S3|pc|SA|pc|S5|pc|S9|pg||
 pc|C6|pc|C4|pc|C9|pc|C3|pg||
 pc|CA|pc|C7|pc|CJ|pc|CK|pg||
 mc|8|pg||
-pn|Hackett Ja,Kwiecen M,Hackett Ju,Pszczola J,,,,|qx|o10|md|4SK7542H862DJ94C42,S83HA753DAK72CJT8,SAQHKQJT4D53CKQ65|sv|b|
+pn|Jason Hackett,Kwiecen M,Justin Hackett,Pszczola J,,,,|qx|o10|md|4SK7542H862DJ94C42,S83HA753DAK72CJT8,SAQHKQJT4D53CKQ65|sv|b|
 mb|p|mb|p|mb|1C|mb|1H|mb|1S|mb|p|mb|1N|mb|p|mb|p|mb|p|pg||
 pc|HK|pc|H9|pc|H2|pc|H5|pg||
 pc|HT|pc|C3|pc|H6|pc|H3|pg||
@@ -229,7 +229,7 @@ pn|,,,,Zmudzinski A,Tredinnick G,Balicki C,Tredinnick S|qx|c10|md|4SK7542H862DJ9
 mb|p|mb|p|mb|1D|mb|d|mb|1S|mb|p|mb|1N|mb|2H|mb|p|mb|p|mb|p|pg||
 pc|ST|pc|S2|pc|S8|pc|SQ|pg||
 pc|CK|pc|C3|pc|C2|pg||mc|9|pg||
-pn|Hackett Ja,Kwiecen M,Hackett Ju,Pszczola J,,,,|qx|o11|md|1S9532HQ9853DT9CK3,SKT76HKJ42D63CQ65,SAQ84HATDQ875CA42|sv|0|
+pn|Jason Hackett,Kwiecen M,Justin Hackett,Pszczola J,,,,|qx|o11|md|1S9532HQ9853DT9CK3,SKT76HKJ42D63CQ65,SAQ84HATDQ875CA42|sv|0|
 mb|p|mb|p|mb|1N|mb|p|mb|2D|mb|p|mb|2H|mb|p|mb|p|mb|p|pg||
 pc|DA|pc|D9|pc|D6|pc|D7|pg||
 pc|CJ|pc|C3|pc|C6|pc|CA|pg||
@@ -253,7 +253,7 @@ pc|DK|pc|S2|pc|S6|pc|DQ|pg||
 pc|C6|pc|C2|pc|C7|pc|CK|pg||
 pc|S3|pc|S7|pc|SQ|pc|D2|pg||
 pc|C4|pc|C8|pg||mc|7|pg||
-pn|Hackett Ja,Kwiecen M,Hackett Ju,Pszczola J,,,,|qx|o12|md|2SAJ9863HAK74D93C6,SQT72HT986DQ7C942,SK5H532DAJT52CK75|sv|n|
+pn|Jason Hackett,Kwiecen M,Justin Hackett,Pszczola J,,,,|qx|o12|md|2SAJ9863HAK74D93C6,SQT72HT986DQ7C942,SK5H532DAJT52CK75|sv|n|
 mb|p|mb|1D|mb|2C|mb|2S|mb|p|mb|2N|mb|p|mb|3H|mb|p|mb|3S|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
 pc|C4|pc|C5|pc|CJ|pc|C6|pg||
 pc|HQ|pc|HA|pc|H6|pc|H2|pg||

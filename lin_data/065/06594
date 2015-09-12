@@ -1,6 +1,6 @@
 vg|Generali Euro Team Champs '97,1997.06.24,I,1,24,G.Britain,0,Spain,0|
 rs|4HW+2,6HE=,1NW-3,1NW-3,1NS=,2SN=,6CW+1,5DW+2,5CN+1,6CN=,4HN+2,4HN+1,3NN-3,3NS-2,3NN+1,3NN+1,1NN=,3CE-1,4SW-2,4SW-2,1NE=,1NE=,6SW-1,6SW-2,2NW-2,3CW-1,2SN+1,2HS=,4SS=,4SN=,4SS-2,4SS-1,3NW=,3NE-1,3NS+2,3NS+1,2SN=,2SN=,3NN+3,3NN+3,3NE+1,5DW=,4SNx=,2SN+2,4SS-1,3SS=,2SE+3,2SW+2,|
-pn|Tredinnick S,Torres J,Tredinnick G,Frances A,Wasik A,Hackett Ju,Knap A,Hackett Ja|pg||
+pn|Tredinnick S,Torres J,Tredinnick G,Frances A,Wasik A,Justin Hackett,Knap A,Jason Hackett|pg||
 pn|Tredinnick S,Torres J,Tredinnick G,Frances A,,,,|qx|o1|md|3SQJ63H854DJT7CT42,S84HKQ76DQ95CKQ65,S9752HT3DA42CJ973|sv|0|
 mb|p|mb|1C|mb|p|mb|1H|mb|p|mb|2N|mb|p|mb|3C|mb|p|mb|4C|mb|p|mb|4H|mb|p|mb|p|mb|p|pg||
 pc|S7|pc|SA|pc|S6|pc|S4|pg||
@@ -15,7 +15,7 @@ pc|C8|pc|C4|pc|CK|pc|C9|pg||
 pc|CQ|pc|CJ|pc|D3|pc|CT|pg||
 pc|C6|pc|D4|pc|D6|pc|SQ|pg||
 pc|D9|pg||mc|12|pg||
-pn|,,,,Wasik A,Hackett Ju,Knap A,Hackett Ja|qx|c1|md|3SQJ63H854DJT7CT42,S84HKQ76DQ95CKQ65,S9752HT3DA42CJ973|sv|0|
+pn|,,,,Wasik A,Justin Hackett,Knap A,Jason Hackett|qx|c1|md|3SQJ63H854DJT7CT42,S84HKQ76DQ95CKQ65,S9752HT3DA42CJ973|sv|0|
 mb|p|mb|2N|mb|p|mb|3C|mb|p|mb|3D|mb|p|mb|3S|mb|p|mb|3N|mb|p|mb|4C|mb|p|mb|5H|mb|p|mb|6H|mb|p|mb|p|mb|p|pg||
 pc|DJ|pc|D5|pc|DA|pc|D3|pg||
 pc|S2|pc|SA|pc|S3|pc|S4|pg||
@@ -37,7 +37,7 @@ pc|HJ|pc|H2|pc|H8|pc|H6|pg||
 pc|HT|pc|H7|pc|HQ|pc|S7|pg||
 pc|H9|pc|ST|pc|S6|pc|DT|pg||
 mc|4|pg||
-pn|,,,,Wasik A,Hackett Ju,Knap A,Hackett Ja|qx|c2|md|4SK652HKJTDJ32CQ76,SA83HA72DAT87CA95,SQ9HQ984DKQCKJT42|sv|n|
+pn|,,,,Wasik A,Justin Hackett,Knap A,Jason Hackett|qx|c2|md|4SK652HKJTDJ32CQ76,SA83HA72DAT87CA95,SQ9HQ984DKQCKJT42|sv|n|
 mb|p|mb|p|mb|1N|mb|p|mb|p|mb|p|pg||
 pc|CJ|pc|C3|pc|C7|pc|C5|pg||
 pc|C4|pc|C8|pc|CQ|pc|C9|pg||
@@ -64,7 +64,7 @@ pc|CT|pc|CQ|pc|CA|pc|C5|pg||
 pc|C7|pc|CJ|pc|D2|pc|D3|pg||
 pc|HT|pc|H6|pc|HQ|pc|D9|pg||
 pc|ST|pc|DJ|pc|C8|pg||mc|7|pg||
-pn|,,,,Wasik A,Hackett Ju,Knap A,Hackett Ja|qx|c3|md|1SJ97HAKT2DK7CJ852,SK3H98643D8642CKT,SQT842HQJ7DQT3CQ6|sv|e|
+pn|,,,,Wasik A,Justin Hackett,Knap A,Jason Hackett|qx|c3|md|1SJ97HAKT2DK7CJ852,SK3H98643D8642CKT,SQT842HQJ7DQT3CQ6|sv|e|
 mb|1C|mb|p|mb|1S|mb|p|mb|1N|mb|p|mb|p|mb|2C|mb|p|mb|p|mb|2S|mb|p|mb|p|mb|p|pg||
 pc|H5|pc|HA|pc|H3|pc|H7|pg||
 pc|S7|pc|S3|pc|S2|pc|S5|pg||
@@ -84,7 +84,7 @@ pc|DK|pc|H2|pc|D4|pc|DT|pg||
 pc|D3|pc|H4|pc|DQ|pc|DJ|pg||
 pc|D6|pc|S3|pc|D5|pc|H6|pg||
 mc|13|pg||
-pn|,,,,Wasik A,Hackett Ju,Knap A,Hackett Ja|qx|c4|md|2SJ9843HT753DJT7CT,SK76HQ8DAK53CAK96,SQ2HAKJ9642D8CJ53|sv|b|
+pn|,,,,Wasik A,Justin Hackett,Knap A,Jason Hackett|qx|c4|md|2SJ9843HT753DJT7CT,SK76HQ8DAK53CAK96,SQ2HAKJ9642D8CJ53|sv|b|
 mb|2N|mb|p|mb|3C|mb|p|mb|3D|mb|p|mb|3H|mb|p|mb|3N|mb|p|mb|4D|mb|p|mb|4H|mb|p|mb|4S|mb|p|mb|5C|mb|p|mb|5D|mb|p|mb|p|mb|p|pg||
 pc|HA|pc|D2|pc|H3|pc|H8|pg||
 pc|D4|pc|D7|pc|DA|pc|D8|pg||
@@ -98,7 +98,7 @@ pc|C4|pc|C3|pc|CA|pc|C2|pg||
 pc|C6|pc|C8|pc|CK|pc|CJ|pg||
 pc|CQ|pc|H3|pc|C7|pc|CT|pg||
 mc|12|pg||
-pn|,,,,Wasik A,Hackett Ju,Knap A,Hackett Ja|qx|c5|md|3SAK87532H6D3CKQ54,SQJ9HAT853DKJ9CJ3,STHKJ742DA62CA976|sv|n|
+pn|,,,,Wasik A,Justin Hackett,Knap A,Jason Hackett|qx|c5|md|3SAK87532H6D3CKQ54,SQJ9HAT853DKJ9CJ3,STHKJ742DA62CA976|sv|n|
 mb|1H|mb|p|mb|2S|mb|p|mb|3C|mb|p|mb|4C|mb|p|mb|4D|mb|p|mb|4N|mb|p|mb|5S|mb|p|mb|6C|mb|p|mb|p|mb|p|pg||
 pc|D7|pc|D3|pc|DK|pc|DA|pg||
 pc|CA|pc|C2|pc|C4|pc|CJ|pg||
@@ -120,7 +120,7 @@ pc|S2|pc|C2|pc|C7|pc|D6|pg||
 pc|S3|pc|C3|pc|C9|pc|C4|pg||
 pc|DQ|pc|DT|pc|CJ|pc|D7|pg||
 mc|12|pg||
-pn|,,,,Wasik A,Hackett Ju,Knap A,Hackett Ja|qx|c6|md|4SKQJ32HAQ5DQJ92CA,SAT8HJ43DKT5CT632,S94HKT8762DCQJ975|sv|e|
+pn|,,,,Wasik A,Justin Hackett,Knap A,Jason Hackett|qx|c6|md|4SKQJ32HAQ5DQJ92CA,SAT8HJ43DKT5CT632,S94HKT8762DCQJ975|sv|e|
 mb|p|mb|1S|mb|p|mb|1N|mb|p|mb|2N|mb|p|mb|4H|mb|p|mb|p|mb|p|pg||
 pc|DA|pc|D2|pc|DT|pc|H2|pg||
 pc|H6|pc|H9|pc|HA|pc|H3|pg||
@@ -139,7 +139,7 @@ pc|H2|pc|HJ|pc|H7|pc|HA|pg||
 pc|D3|pc|D2|pc|DK|pc|D5|pg||
 pc|D8|pc|C7|pc|DJ|pc|DQ|pg||
 pc|H3|pc|C2|pc|H5|pg||mc|6|pg||
-pn|,,,,Wasik A,Hackett Ju,Knap A,Hackett Ja|qx|c7|md|1SA932HAQDAJT73CJ9,S874HKT632DQ942C5,SQ5HJ4DK86CQ86432|sv|b|
+pn|,,,,Wasik A,Justin Hackett,Knap A,Jason Hackett|qx|c7|md|1SA932HAQDAJT73CJ9,S874HKT632DQ942C5,SQ5HJ4DK86CQ86432|sv|b|
 mb|1N|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
 pc|H3|pc|H4|pc|H8|pc|HQ|pg||
 pc|D3|pc|D2|pc|DK|pc|D5|pg||
@@ -163,7 +163,7 @@ pc|D4|pc|D8|pc|D9|pc|H9|pg||
 pc|DK|pc|S3|pc|S2|pc|DJ|pg||
 pc|HA|pc|S6|pc|S5|pc|HJ|pg||
 mc|10|pg||
-pn|,,,,Wasik A,Hackett Ju,Knap A,Hackett Ja|qx|c8|md|2SJHAT862DK963C874,SAT863H953D72CQ92,SQ752HKQDAQ4CAT63|sv|0|
+pn|,,,,Wasik A,Justin Hackett,Knap A,Jason Hackett|qx|c8|md|2SJHAT862DK963C874,SAT863H953D72CQ92,SQ752HKQDAQ4CAT63|sv|0|
 mb|p|mb|1N|mb|p|mb|2D|mb|p|mb|2H|mb|p|mb|3D|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
 pc|S4|pc|SJ|pc|SA|pc|S5|pg||
 pc|S6|pc|S7|pc|S9|pc|C4|pg||
@@ -189,7 +189,7 @@ pc|C6|pc|S2|pc|C4|pc|CJ|pg||
 pc|H9|pc|H7|pc|D9|pc|DT|pg||
 pc|S8|pc|S4|pc|ST|pc|SK|pg||
 mc|7|pg||
-pn|,,,,Wasik A,Hackett Ju,Knap A,Hackett Ja|qx|c9|md|3ST652HK62DKQ98CQ2,SK73HTDJT532CAT74,SAQ8HA984D764CJ93|sv|e|
+pn|,,,,Wasik A,Justin Hackett,Knap A,Jason Hackett|qx|c9|md|3ST652HK62DKQ98CQ2,SK73HTDJT532CAT74,SAQ8HA984D764CJ93|sv|e|
 mb|p|mb|1H|mb|p|mb|1N|mb|p|mb|2C|mb|p|mb|3C|mb|p|mb|p|mb|p|pg||
 pc|DK|pc|D2|pc|D7|pc|DA|pg||
 pc|H5|pc|HK|pc|HT|pc|H4|pg||
@@ -215,7 +215,7 @@ pc|HJ|pc|H6|pc|HT|pc|H9|pg||
 pc|CQ|pc|CK|pc|CA|pc|C8|pg||
 pc|C4|pc|C9|pc|C5|pc|C6|pg||
 mc|8|pg||
-pn|,,,,Wasik A,Hackett Ju,Knap A,Hackett Ja|qx|c10|md|4S8HKQT8DJT654CAJ4,SAKQ732HA97D2CT98,ST94HJ52DA87CQ753|sv|b|
+pn|,,,,Wasik A,Justin Hackett,Knap A,Jason Hackett|qx|c10|md|4S8HKQT8DJT654CAJ4,SAKQ732HA97D2CT98,ST94HJ52DA87CQ753|sv|b|
 mb|p|mb|p|mb|1S|mb|p|mb|1N|mb|d|mb|3S|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
 pc|C3|pc|C2|pc|CJ|pc|C8|pg||
 pc|HK|pc|HA|pc|H5|pc|H3|pg||
@@ -237,7 +237,7 @@ pc|S2|pc|S7|pc|S5|pc|SQ|pg||
 pc|DT|pc|D4|pc|S8|pc|ST|pg||
 pc|D9|pc|H5|pc|CJ|pc|SJ|pg||
 mc|7|pg||
-pn|,,,,Wasik A,Hackett Ju,Knap A,Hackett Ja|qx|c11|md|1S92HJ52DAJ43CAT84,SK8763H86DK5CKQJ3,SAJT5HAT94D62C752|sv|0|
+pn|,,,,Wasik A,Justin Hackett,Knap A,Jason Hackett|qx|c11|md|1S92HJ52DAJ43CAT84,SK8763H86DK5CKQJ3,SAJT5HAT94D62C752|sv|0|
 mb|p|mb|1S|mb|p|mb|1N|mb|p|mb|p|mb|p|pg||
 pc|D3|pc|D5|pc|D2|pc|D9|pg||
 pc|D7|pc|D4|pc|DK|pc|D6|pg||
@@ -257,7 +257,7 @@ pc|SA|pc|S5|pc|S2|pc|S4|pg||
 pc|SK|pc|S6|pc|S3|pc|H6|pg||
 pc|D2|pc|D3|pc|DQ|pc|DK|pg||
 mc|11|pg||
-pn|,,,,Wasik A,Hackett Ju,Knap A,Hackett Ja|qx|c12|md|2S4HKJ862DKJ76CQ97,SAKQJT98HA75D92CT,S65HT94D53CKJ8532|sv|n|
+pn|,,,,Wasik A,Justin Hackett,Knap A,Jason Hackett|qx|c12|md|2S4HKJ862DKJ76CQ97,SAKQJT98HA75D92CT,S65HT94D53CKJ8532|sv|n|
 mb|1S|mb|p|mb|2D|mb|p|mb|4N|mb|p|mb|5S|mb|p|mb|6S|mb|p|mb|p|mb|p|pg||
 pc|C5|pc|CA|pc|C9|pc|CT|pg||
 pc|S2|pc|S4|pc|SA|pc|S5|pg||
