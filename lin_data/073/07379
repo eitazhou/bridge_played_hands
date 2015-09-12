@@ -150,7 +150,7 @@ pc|C6|pc|C3|pc|CT|pc|CA|pg||
 pc|CQ|pc|C8|pc|D4|pc|S4|pg||
 pc|DK|pc|D8|pc|D6|pc|D5|pg||
 pc|DT|mc|10|pg||
-pn|Michal Kwiecien,Sam Lev,Jacek Pszczola,Geir Helgemo|qx|o16,BOARD 16|rh||ah|Board 16|md|2SJT82H75DAK3CK632,SQ97HK6DT94CQJT74,SA64HA943DQJ76CA9|sv|e|
+pn|Michal Kwiecien,Sam Lev,Jacek Pzszcola,Geir Helgemo|qx|o16,BOARD 16|rh||ah|Board 16|md|2SJT82H75DAK3CK632,SQ97HK6DT94CQJT74,SA64HA943DQJ76CA9|sv|e|
 sa|0|mb|p|mb|1N|mb|p|mb|2C|mb|p|mb|2H|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
 pc|HQ|pc|H5|pc|HK|pc|H3|pg||
 pc|H6|pc|H4|pc|H8|pc|H7|pg||
@@ -165,7 +165,7 @@ pc|CK|pc|C7|pc|S4|pc|D8|pg||
 pc|D3|pc|S9|pc|DJ|pc|S5|pg||
 pc|DQ|pc|H2|pc|SJ|pc|SQ|pg||
 pc|S6|pc|SK|mc|8|pg||
-pn|Michal Kwiecien,Sam Lev,Jacek Pszczola,Geir Helgemo|qx|o17,BOARD 17|rh||ah|Board 17|md|3ST98HQ63DA874CJ86,SAJ752H8DT95CAQ97,SQ3HKT974DQ2CKT52|sv|0|
+pn|Michal Kwiecien,Sam Lev,Jacek Pzszcola,Geir Helgemo|qx|o17,BOARD 17|rh||ah|Board 17|md|3ST98HQ63DA874CJ86,SAJ752H8DT95CAQ97,SQ3HKT974DQ2CKT52|sv|0|
 sa|0|mb|p|mb|1D|mb|p|mb|1S|mb|1N|mb|p|mb|2H|mb|d|mb|p|mb|2S|mb|p|mb|3S|mb|p|mb|p|mb|p|pg||
 pc|HT|pc|HA|pc|H6|pc|H8|pg||
 pc|S4|pc|ST|pc|SJ|pc|SQ|pg||
@@ -178,7 +178,7 @@ pc|SA|pc|C2|pc|S6|pc|S8|pg||
 pc|S7|pc|C5|pc|SK|pc|S9|pg||
 pc|DJ|pc|D7|pc|C7|pc|H7|pg||
 pc|HJ|mc|9|pg||
-pn|Michal Kwiecien,Sam Lev,Jacek Pszczola,Geir Helgemo|qx|o18,BOARD 18|rh||ah|Board 18|md|4SJHAQ652DAQ63CJ74,SQ72HK9DJ94CT9652,SAKT43HT8DKT2CAK8|sv|n|
+pn|Michal Kwiecien,Sam Lev,Jacek Pzszcola,Geir Helgemo|qx|o18,BOARD 18|rh||ah|Board 18|md|4SJHAQ652DAQ63CJ74,SQ72HK9DJ94CT9652,SAKT43HT8DKT2CAK8|sv|n|
 sa|0|mb|p|mb|1H|mb|p|mb|1S|mb|p|mb|2D|mb|p|mb|2N|mb|p|mb|3S|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
 pc|D7|pc|D3|pc|DJ|pc|DK|pg||
 pc|S3|pc|S6|pc|SJ|pc|SQ|pg||
