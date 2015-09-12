@@ -315,7 +315,7 @@ pc|SQ|pc|H8|pc|S3|pc|S6|pg||
 pc|C3|pc|C7|pc|C6|pc|C8|pg||
 pc|D4|pc|D5|pc|DK|pc|D2|pg||
 mc|7|pg||
-pn|,,,,Lanzarotti M,Hamdan F,Buratti A,Fahs B|qx|c13|md|3S7HAQT98DKJ63CJ74,SAT832HJ3DQT2CAQ6,SJ964H7642D4CK985|sv|b|
+pn|,,,,Lanzarotti,Hamdan F,Buratti A,Fahs B|qx|c13|md|3S7HAQT98DKJ63CJ74,SAT832HJ3DQT2CAQ6,SJ964H7642D4CK985|sv|b|
 mb|p|mb|1D|mb|1H|mb|1S|mb|3H|mb|d|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
 pc|H2|pc|H5|pc|HQ|pc|H3|pg||
 pc|HA|pc|HJ|pc|H6|pc|HK|pg||
@@ -337,7 +337,7 @@ pc|S6|pc|S3|pc|SJ|pc|S4|pg||
 pc|S7|pc|D4|pc|SA|pc|ST|pg||
 pc|CJ|pc|H2|pc|C3|pc|CQ|pg||
 mc|10|pg||
-pn|,,,,Lanzarotti M,Hamdan F,Buratti A,Fahs B|qx|c14|md|4SAQ865HQ64DK8CJ86,SKT3H98732DJ976C5,SJ72HAJDA2CAT9743|sv|0|
+pn|,,,,Lanzarotti,Hamdan F,Buratti A,Fahs B|qx|c14|md|4SAQ865HQ64DK8CJ86,SKT3H98732DJ976C5,SJ72HAJDA2CAT9743|sv|0|
 mb|p|mb|1N|mb|p|mb|2C|mb|p|mb|2S|mb|p|mb|3C|mb|p|mb|3S|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
 pc|C5|pc|C3|pc|CQ|pc|C6|pg||
 pc|D3|pc|D8|pc|D9|pc|DA|pg||
@@ -356,7 +356,7 @@ pc|HA|pc|HQ|pc|S4|pc|H6|pg||
 pc|S6|pc|S2|pc|SJ|pc|SK|pg||
 pc|C7|pc|H7|pc|C4|pc|CJ|pg||
 pc|S8|pc|C6|pg||mc|8|pg||
-pn|,,,,Lanzarotti M,Hamdan F,Buratti A,Fahs B|qx|c15|md|1S986HAKT8743DA4C8,S2HQ5DT763CAKT964,SAJT74H2DQ952CQJ2|sv|n|
+pn|,,,,Lanzarotti,Hamdan F,Buratti A,Fahs B|qx|c15|md|1S986HAKT8743DA4C8,S2HQ5DT763CAKT964,SAJT74H2DQ952CQJ2|sv|n|
 mb|1H|mb|p|mb|1N|mb|p|mb|2H|mb|p|mb|2S|mb|p|mb|4H|mb|p|mb|p|mb|p|pg||
 pc|CA|pc|C2|pc|C7|pc|C8|pg||
 pc|S2|pc|SJ|pc|SQ|pc|S8|pg||
@@ -379,7 +379,7 @@ pc|H6|pc|H5|pc|HA|pc|H2|pg||
 pc|HJ|pc|H3|pc|H8|pc|HT|pg||
 pc|C5|pc|C8|pc|CQ|pc|C3|pg||
 mc|10|pg||
-pn|,,,,Lanzarotti M,Hamdan F,Buratti A,Fahs B|qx|c16|md|2SK7532HAJ7DA4C752,SA6H932DKT3CKT864,SQ9HKQ864D752CAQ9|sv|e|
+pn|,,,,Lanzarotti,Hamdan F,Buratti A,Fahs B|qx|c16|md|2SK7532HAJ7DA4C752,SA6H932DKT3CKT864,SQ9HKQ864D752CAQ9|sv|e|
 mb|p|mb|1N|mb|p|mb|2C|mb|p|mb|2H|mb|p|mb|2S|mb|p|mb|3H|mb|p|mb|4H|mb|p|mb|p|mb|p|pg||
 pc|DQ|pc|D4|pc|DK|pc|D2|pg||
 pc|C4|pc|C9|pc|CJ|pc|C2|pg||
@@ -401,7 +401,7 @@ pc|DA|pc|D9|pc|DJ|pc|D7|pg||
 pc|D8|pc|DQ|pc|CT|pc|H7|pg||
 pc|HQ|pc|HT|pc|H4|pc|C5|pg||
 mc|8|pg||
-pn|,,,,Lanzarotti M,Hamdan F,Buratti A,Fahs B|qx|c17|md|3SKQJ4H6DKQ9CAJ953,ST83HKQJ82DJT5CKT,S765HAT73D764C872|sv|0|
+pn|,,,,Lanzarotti,Hamdan F,Buratti A,Fahs B|qx|c17|md|3SKQJ4H6DKQ9CAJ953,ST83HKQJ82DJT5CKT,S765HAT73D764C872|sv|0|
 mb|p|mb|p|mb|1C|mb|1H|mb|p|mb|2H|mb|p|mb|p|mb|p|pg||
 pc|S7|pc|S2|pc|SJ|pc|S8|pg||
 pc|SK|pc|S3|pc|S6|pc|SA|pg||
@@ -426,7 +426,7 @@ pc|S3|pc|S7|pc|S8|pc|C4|pg||
 pc|C7|pc|C6|pc|S4|pc|CQ|pg||
 pc|H3|pc|H6|pc|HT|pc|HK|pg||
 mc|10|pg||
-pn|,,,,Lanzarotti M,Hamdan F,Buratti A,Fahs B|qx|c18|md|4SAKT43HA543DA6CKJ,S72HJ6DKJT872CQT9,SJ985HQT2DQ95C732|sv|n|
+pn|,,,,Lanzarotti,Hamdan F,Buratti A,Fahs B|qx|c18|md|4SAKT43HA543DA6CKJ,S72HJ6DKJT872CQT9,SJ985HQT2DQ95C732|sv|n|
 mb|p|mb|1S|mb|p|mb|2S|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
 pc|HJ|pc|HQ|pc|HK|pc|HA|pg||
 pc|SA|pc|S2|pc|S5|pc|S6|pg||
@@ -440,7 +440,7 @@ mc|10|pg||
 pn|Harfouche G,Versace A,Eidi M,Lauria L,,,,|qx|o19|md|1SAQT862HAKQT7DC32,SH532DQJT653CKQT4,SK974HJ6DAK974CA7|sv|e|
 mb|1S|mb|2D|mb|p|mb|p|mb|4H|mb|p|mb|4N|mb|p|mb|5N|mb|p|mb|6D|mb|p|mb|7H|mb|p|mb|7S|mb|p|mb|p|mb|p|pg||
 pc|CK|pg||mc|13|pg||
-pn|,,,,Lanzarotti M,Hamdan F,Buratti A,Fahs B|qx|c19|md|1SAQT862HAKQT7DC32,SH532DQJT653CKQT4,SK974HJ6DAK974CA7|sv|e|
+pn|,,,,Lanzarotti,Hamdan F,Buratti A,Fahs B|qx|c19|md|1SAQT862HAKQT7DC32,SH532DQJT653CKQT4,SK974HJ6DAK974CA7|sv|e|
 mb|1S|mb|p|mb|2D|mb|p|mb|3H|mb|p|mb|3S|mb|p|mb|4D|mb|p|mb|4N|mb|p|mb|6D|mb|p|mb|6H|mb|p|mb|7S|mb|p|mb|p|mb|p|pg||
 pc|CK|pc|CA|pc|C5|pc|C2|pg||
 pc|S4|pc|S3|pc|SA|pc|D3|pg||
@@ -453,7 +453,7 @@ pc|S3|pc|SJ|pc|S4|pc|S5|pg||
 pc|H3|pc|HK|pc|H5|pc|H6|pg||
 pc|D2|pc|DK|pc|D5|pc|D7|pg||
 mc|10|pg||
-pn|,,,,Lanzarotti M,Hamdan F,Buratti A,Fahs B|qx|c20|md|2SA85HJT75DAKJ8CA4,S9732HAQ6DT53CJ73,SQJT6H8432D97CKQT|sv|b|
+pn|,,,,Lanzarotti,Hamdan F,Buratti A,Fahs B|qx|c20|md|2SA85HJT75DAKJ8CA4,S9732HAQ6DT53CJ73,SQJT6H8432D97CKQT|sv|b|
 mb|p|mb|p|mb|p|mb|1C|mb|p|mb|1D|mb|p|mb|2H|mb|p|mb|4H|mb|p|mb|p|mb|p|pg||
 pc|S7|pc|SQ|pc|SK|pc|SA|pg||
 pc|HJ|pc|HQ|pc|H2|pc|H9|pg||
@@ -471,7 +471,7 @@ pc|H2|pc|H3|pc|HA|pc|H6|pg||
 pc|H4|pc|HK|pc|HT|pc|HJ|pg||
 pc|SK|pc|S7|pc|S9|pc|SA|pg||
 mc|11|pg||
-pn|,,,,Lanzarotti M,Hamdan F,Buratti A,Fahs B|qx|c21|md|3SJ92HJ3DJT6542CT9,SAT6HA854DA7CJ876,SKQ543HK76D3CA432|sv|n|
+pn|,,,,Lanzarotti,Hamdan F,Buratti A,Fahs B|qx|c21|md|3SJ92HJ3DJT6542CT9,SAT6HA854DA7CJ876,SKQ543HK76D3CA432|sv|n|
 mb|1S|mb|d|mb|p|mb|2S|mb|p|mb|3H|mb|p|mb|4H|mb|p|mb|p|mb|p|pg||
 pc|SJ|pc|SA|pc|S3|pc|S8|pg||
 pc|HA|pc|H6|pc|H2|pc|H3|pg||
@@ -488,7 +488,7 @@ pc|HA|pc|H2|pc|H7|pc|HJ|pg||
 pc|D2|pc|D5|pc|D9|pc|DJ|pg||
 pc|C3|pc|C2|pc|CK|pc|CA|pg||
 mc|9|pg||
-pn|,,,,Lanzarotti M,Hamdan F,Buratti A,Fahs B|qx|c22|md|4SJ52HJ4DAJ64CQJ83,S73HAT853DK2CT972,SAKQ94H62DQ8753CK|sv|e|
+pn|,,,,Lanzarotti,Hamdan F,Buratti A,Fahs B|qx|c22|md|4SJ52HJ4DAJ64CQJ83,S73HAT853DK2CT972,SAKQ94H62DQ8753CK|sv|e|
 mb|p|mb|p|mb|p|mb|1S|mb|p|mb|1N|mb|p|mb|2D|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
 pc|HK|pc|H4|pc|H8|pc|H2|pg||
 pc|HQ|pc|HJ|pc|HA|pc|H6|pg||
@@ -513,7 +513,7 @@ pc|C4|pc|CQ|pc|CA|pc|C7|pg||
 pc|CJ|pc|C3|pc|C2|pc|CT|pg||
 pc|C5|pc|C6|pc|CK|pc|HK|pg||
 mc|10|pg||
-pn|,,,,Lanzarotti M,Hamdan F,Buratti A,Fahs B|qx|c23|md|1SJT94HK92DKQ53CQT,SA63HA643DA42CAJ5,SQ8752HQTDJ76C763|sv|b|
+pn|,,,,Lanzarotti,Hamdan F,Buratti A,Fahs B|qx|c23|md|1SJT94HK92DKQ53CQT,SA63HA643DA42CAJ5,SQ8752HQTDJ76C763|sv|b|
 mb|p|mb|1N|mb|p|mb|2C|mb|p|mb|2H|mb|p|mb|3H|mb|p|mb|4H|mb|p|mb|p|mb|p|pg||
 pc|D7|pc|D8|pc|DQ|pc|DA|pg||
 pc|S6|pc|S8|pc|SK|pc|S9|pg||
@@ -534,7 +534,7 @@ pc|C6|pc|CQ|pc|C8|pc|C3|pg||
 pc|S2|pc|S7|pc|SQ|pc|S3|pg||
 pc|SA|pc|ST|pc|S4|pc|SK|pg||
 pc|HK|pg||mc|10|pg||
-pn|,,,,Lanzarotti M,Hamdan F,Buratti A,Fahs B|qx|c24|md|2SK7HQJT54DK932C98,SAQ65HK987DAJ5C73,SJT3HA2DT86CKJ642|sv|0|
+pn|,,,,Lanzarotti,Hamdan F,Buratti A,Fahs B|qx|c24|md|2SK7HQJT54DK932C98,SAQ65HK987DAJ5C73,SJT3HA2DT86CKJ642|sv|0|
 mb|1D|mb|p|mb|1S|mb|p|mb|2S|mb|p|mb|p|mb|p|pg||
 pc|HQ|pc|H7|pc|H2|pc|H6|pg||
 pc|C8|pc|C3|pc|CK|pc|CA|pg||

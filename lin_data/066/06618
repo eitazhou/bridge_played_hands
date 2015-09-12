@@ -1,7 +1,7 @@
 vg|Generali Euro Team Champs '97,1997.06.26,I,1,24,Italy,0,Norway,0|
 rs|3NN-1,2SS+2,2NW=,2HE-2,4HW-3,2SN-3,3CN-1,2HE-1,4HE=,3HW+2,3HSx-1,3HS-2,3NE+1,3NE+1,1NN+1,2SS=,2SS=,3SS+1,1NW-1,3DS-2,3NE=,3NE=,3NW+1,3NE+1,4SE+1,4SE+1,4SE-1,4SE-1,3HNx-1,5CW=,4HW+1,4HW=,4SW-1,4SW-1,3NN=,3NN+1,5DW-1,4HSx-2,2SW+1,2SE+2,4HN-2,3HN-1,3NN=,3NN=,4SS=,4SS=,1NS=,4HN=,|
-pn|Lanzarotti M,Grotheim G,Buratti A,Aa T,Helgemo G,Lauria L,Helness T,Versace A|pg||
-pn|Lanzarotti M,Grotheim G,Buratti A,Aa T,,,,|qx|o1|md|3SKT97HAQ3DJ2CJT82,SQ864HTDKQ86CK764,S532HK764DA54CAQ3|sv|0|
+pn|Lanzarotti,Grotheim G,Buratti A,Aa T,Helgemo G,Lauria L,Helness T,Versace A|pg||
+pn|Lanzarotti,Grotheim G,Buratti A,Aa T,,,,|qx|o1|md|3SKT97HAQ3DJ2CJT82,SQ864HTDKQ86CK764,S532HK764DA54CAQ3|sv|0|
 mb|1N|mb|p|mb|2C|mb|p|mb|2H|mb|p|mb|2S|mb|p|mb|2N|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
 pc|DT|pc|DJ|pc|DQ|pc|D4|pg||
 pc|D8|pc|D5|pc|D3|pc|D2|pg||
@@ -11,7 +11,7 @@ pn|,,,,Helgemo G,Lauria L,Helness T,Versace A|qx|c1|md|3SKT97HAQ3DJ2CJT82,SQ864H
 mb|1H|mb|p|mb|1S|mb|p|mb|1N|mb|p|mb|2H|mb|p|mb|2S|mb|p|mb|p|mb|p|pg||
 pc|DK|pc|D4|pc|D3|pc|D2|pg||
 pc|D6|pg||mc|10|pg||
-pn|Lanzarotti M,Grotheim G,Buratti A,Aa T,,,,|qx|o2|md|4SKJ963HJ52DQ84C62,SQT8HA6DAJT6CJT87,SA7HT83D7532CAK93|sv|n|
+pn|Lanzarotti,Grotheim G,Buratti A,Aa T,,,,|qx|o2|md|4SKJ963HJ52DQ84C62,SQT8HA6DAJT6CJT87,SA7HT83D7532CAK93|sv|n|
 mb|1H|mb|p|mb|2C|mb|p|mb|2H|mb|p|mb|2N|mb|p|mb|p|mb|p|pg||
 pc|SA|pc|S2|pc|S3|pc|S8|pg||
 pc|S7|pc|S4|pc|SJ|pc|SQ|pg||
@@ -25,7 +25,7 @@ pc|C9|pc|CQ|pc|H2|pc|CT|pg||
 pc|SK|pc|S8|pc|SA|pc|S2|pg||
 pc|C3|pc|H9|pc|HJ|pc|CJ|pg||
 mc|6|pg||
-pn|Lanzarotti M,Grotheim G,Buratti A,Aa T,,,,|qx|o3|md|1SQ73H543DAQ95CA75,SA85HAK6DKJT82CQ6,SKT642HJ87DCJT843|sv|e|
+pn|Lanzarotti,Grotheim G,Buratti A,Aa T,,,,|qx|o3|md|1SQ73H543DAQ95CA75,SA85HAK6DKJT82CQ6,SKT642HJ87DCJT843|sv|e|
 mb|1N|mb|d|mb|2H|mb|d|mb|2S|mb|3S|mb|p|mb|4C|mb|p|mb|4H|mb|p|mb|p|mb|p|pg||
 pc|S4|pc|S9|pc|SQ|pc|S5|pg||
 pc|S3|pc|SA|pc|S2|pc|SJ|pg||
@@ -44,7 +44,7 @@ pc|CT|pc|C2|pc|C5|pc|CQ|pg||
 pc|S8|pc|SK|pc|D3|pc|S7|pg||
 pc|C4|pc|C9|pc|CA|pc|C6|pg||
 mc|5|pg||
-pn|Lanzarotti M,Grotheim G,Buratti A,Aa T,,,,|qx|o4|md|2SAT652HK83DQ63C86,SKQJ94HJ5D975C974,S87HQ9DJ42CAKJT32|sv|b|
+pn|Lanzarotti,Grotheim G,Buratti A,Aa T,,,,|qx|o4|md|2SAT652HK83DQ63C86,SKQJ94HJ5D975C974,S87HQ9DJ42CAKJT32|sv|b|
 mb|p|mb|p|mb|1H|mb|1S|mb|p|mb|2C|mb|2D|mb|p|mb|2H|mb|3C|mb|p|mb|p|mb|p|pg||
 pc|DA|pc|D3|pc|D5|pc|D4|pg||
 pc|DK|pc|D6|pc|D7|pc|D2|pg||
@@ -62,7 +62,7 @@ pc|DT|pc|DQ|pc|D9|pc|DJ|pg||
 pc|SA|pc|S9|pc|S7|pc|H4|pg||
 pc|HA|pc|H3|pc|H5|pc|H9|pg||
 mc|7|pg||
-pn|Lanzarotti M,Grotheim G,Buratti A,Aa T,,,,|qx|o5|md|3SQJ642HT5DKTC7653,SK95HA8742DAQ2C42,SA73HJ9D8543CAJ98|sv|n|
+pn|Lanzarotti,Grotheim G,Buratti A,Aa T,,,,|qx|o5|md|3SQJ642HT5DKTC7653,SK95HA8742DAQ2C42,SA73HJ9D8543CAJ98|sv|n|
 mb|p|mb|1N|mb|p|mb|2C|mb|p|mb|2H|mb|p|mb|4H|mb|p|mb|p|mb|p|pg||
 pc|SQ|pc|SK|pc|SA|pc|S8|pg||
 pc|S3|pc|ST|pc|SJ|pc|S5|pg||
@@ -75,7 +75,7 @@ pc|H2|pc|H9|pc|HK|pc|H5|pg||
 pc|H3|pc|HT|pc|HA|pc|HJ|pg||
 pc|C2|pc|CA|pc|CT|pc|C3|pg||
 mc|11|pg||
-pn|Lanzarotti M,Grotheim G,Buratti A,Aa T,,,,|qx|o6|md|4S6HJT862DT6532CAQ,SQ987HKQ3DJ4C8754,SAJ52H974DK9CKJ62|sv|e|
+pn|Lanzarotti,Grotheim G,Buratti A,Aa T,,,,|qx|o6|md|4S6HJT862DT6532CAQ,SQ987HKQ3DJ4C8754,SAJ52H974DK9CKJ62|sv|e|
 mb|1D|mb|1H|mb|1S|mb|d|mb|2S|mb|p|mb|p|mb|3H|mb|d|mb|p|mb|p|mb|p|pg||
 pc|S8|pc|SA|pc|S3|pc|S6|pg||
 pc|C2|pc|C3|pc|CA|pc|C4|pg||
@@ -88,7 +88,7 @@ pc|DQ|pc|D3|pc|D4|pc|D9|pg||
 pc|D8|pc|DT|pc|HK|pc|C2|pg||
 pc|S7|pc|SA|pc|S3|pc|S6|pg||
 mc|7|pg||
-pn|Lanzarotti M,Grotheim G,Buratti A,Aa T,,,,|qx|o7|md|1SJHJT3DT98543CKQ4,SAK986HAQ92DAKQC6,SQT532H754DJ7C983|sv|b|
+pn|Lanzarotti,Grotheim G,Buratti A,Aa T,,,,|qx|o7|md|1SJHJT3DT98543CKQ4,SAK986HAQ92DAKQC6,SQT532H754DJ7C983|sv|b|
 mb|p|mb|1C|mb|p|mb|2C|mb|p|mb|2D|mb|p|mb|3C|mb|p|mb|3S|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
 pc|D9|pc|DQ|pc|D7|pc|D2|pg||
 pc|SA|pc|S2|pc|S4|pc|SJ|pg||
@@ -101,7 +101,7 @@ pc|SA|pc|S2|pc|S4|pc|SJ|pg||
 pc|SK|pc|S3|pc|S7|pc|D3|pg||
 pc|S6|pc|ST|pc|C2|pc|D4|pg||
 pc|C9|pg||mc|10|pg||
-pn|Lanzarotti M,Grotheim G,Buratti A,Aa T,,,,|qx|o8|md|2SJ973HA53D876CQJ6,ST6HQ86DQ93CAT754,SKQ82HKJ72DKT4C32|sv|0|
+pn|Lanzarotti,Grotheim G,Buratti A,Aa T,,,,|qx|o8|md|2SJ973HA53D876CQJ6,ST6HQ86DQ93CAT754,SKQ82HKJ72DKT4C32|sv|0|
 mb|p|mb|1N|mb|p|mb|p|mb|p|pg||
 pc|HT|pc|H3|pc|HQ|pc|HK|pg||
 pc|SK|pc|SA|pc|S3|pc|S6|pg||
@@ -116,7 +116,7 @@ pc|C5|pc|C3|pc|CK|pc|C6|pg||
 pc|DA|pc|D6|pc|D3|pc|D4|pg||
 pc|H4|pc|H3|pc|H6|pc|HJ|pg||
 mc|8|pg||
-pn|Lanzarotti M,Grotheim G,Buratti A,Aa T,,,,|qx|o9|md|3SKQ732HJT84DTCAT5,SJHAQ72DA8732CKJ3,SA654H95DKQ65C986|sv|e|
+pn|Lanzarotti,Grotheim G,Buratti A,Aa T,,,,|qx|o9|md|3SKQ732HJT84DTCAT5,SJHAQ72DA8732CKJ3,SA654H95DKQ65C986|sv|e|
 mb|p|mb|p|mb|1S|mb|d|mb|r|mb|p|mb|2S|mb|p|mb|p|mb|p|pg||
 pc|D2|pc|D5|pc|DJ|pc|DT|pg||
 pc|C4|pc|C5|pc|CJ|pc|C6|pg||
@@ -137,7 +137,7 @@ pc|CJ|pc|C8|pc|C4|pc|S3|pg||
 pc|HJ|pc|H7|pc|D6|pc|H6|pg||
 pc|HT|pc|HA|pc|S6|pc|C7|pg||
 mc|10|pg||
-pn|Lanzarotti M,Grotheim G,Buratti A,Aa T,,,,|qx|o10|md|4SKQHAQJ2DA9752CK3,SAJHT943DKJ3CAQJ4,S98543H76DT8CT965|sv|b|
+pn|Lanzarotti,Grotheim G,Buratti A,Aa T,,,,|qx|o10|md|4SKQHAQJ2DA9752CK3,SAJHT943DKJ3CAQJ4,S98543H76DT8CT965|sv|b|
 mb|p|mb|1D|mb|1N|mb|p|mb|p|mb|p|pg||
 pc|DT|pc|D4|pc|D5|pc|DJ|pg||
 pc|HT|pc|H6|pc|H5|pc|HQ|pg||
@@ -154,7 +154,7 @@ pc|C2|pc|C3|pc|CJ|pc|C6|pg||
 pc|CA|pc|C9|pc|C7|pc|CK|pg||
 pc|CQ|pc|CT|pc|C8|pc|D5|pg||
 mc|7|pg||
-pn|Lanzarotti M,Grotheim G,Buratti A,Aa T,,,,|qx|o11|md|1SKQH54DQ62CK87532,SAT964HA3DJT74CT9,SJ532HQ8762DK3C64|sv|0|
+pn|Lanzarotti,Grotheim G,Buratti A,Aa T,,,,|qx|o11|md|1SKQH54DQ62CK87532,SAT964HA3DJT74CT9,SJ532HQ8762DK3C64|sv|0|
 mb|p|mb|p|mb|1N|mb|p|mb|p|mb|2H|mb|p|mb|2S|mb|p|mb|3D|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
 pc|C3|pc|C9|pc|C4|pc|CJ|pg||
 pc|HJ|pc|H4|pc|HA|pc|H6|pg||
@@ -169,7 +169,7 @@ pc|D9|pc|DQ|pc|D7|pc|D3|pg||
 pc|D6|pc|DT|pc|H6|pc|D5|pg||
 pc|DJ|pc|C4|pc|D8|pc|C2|pg||
 mc|9|pg||
-pn|Lanzarotti M,Grotheim G,Buratti A,Aa T,,,,|qx|o12|md|2SKJHT97DJ98542CT8,S53HAJ43D6CAQ7654,ST98764HK865DKTCK|sv|n|
+pn|Lanzarotti,Grotheim G,Buratti A,Aa T,,,,|qx|o12|md|2SKJHT97DJ98542CT8,S53HAJ43D6CAQ7654,ST98764HK865DKTCK|sv|n|
 mb|2C|mb|p|mb|2D|mb|p|mb|3C|mb|p|mb|3D|mb|p|mb|3H|mb|p|mb|3S|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
 pc|ST|pc|S2|pc|SJ|pc|S3|pg||
 pc|SK|pc|S5|pc|S4|pc|SA|pg||

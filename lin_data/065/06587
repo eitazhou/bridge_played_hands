@@ -1,6 +1,6 @@
 vg|Generali Euro Team Champs '97,1997.06.19,I,1,24,Italy,0,Yugoslavia,0|
 rs|3DS=,3DS=,5CE-1,6CE-1,3NS-1,3NN-2,2SS-2,2SN-2,3NN-1,3NS=,3NW-3,3NW-3,4SSx=,5HEx-1,3HN-1,4CE-2,5SE=,4SE+2,3NN+1,3NS+1,4SS=,3SN=,3HN-1,4HS-2,3NN=,3NN=,3NS-1,3DS=,3CW+1,3HS-2,6HW=,6HW=,4SEx-2,5HSx-3,5HS-1,4HS=,6HE=,6HE+1,3SE-1,4SE-1,3NW=,3NW=,5SN=,4SN+1,4SS+1,4SS+1,3NN+1,2NN=|
-pn|Lanzarotti M,Slipcevic N,Buratti A,Radisic G,Djuricic B,Lauria L,Parezanin D,Versace A|pg||
+pn|Lanzarotti,Slipcevic N,Buratti A,Radisic G,Djuricic B,Lauria L,Parezanin D,Versace A|pg||
 qx|o1|md|3SQ2HA6DKJ9432CT82,SJ983HKTDT865CAQ3,SAKT5HJ8743DQCKJ6|sv|0|
 ob|1S|ob|p|ob|2D|ob|p|ob|2H|ob|p|ob|3D|ob|p|ob|p|ob|p|mb|1H|mb|p|mb|1S|mb|p|mb|2C|mb|p|mb|2D|mb|p|mb|2N|mb|p|mb|3D|mb|p|mb|p|mb|p|pg||
 pc|D5|pc|DQ|pc|DA|pc|D2|pg||
@@ -254,7 +254,7 @@ pc|SA|pc|S2|pc|S3|pc|S7|pg||
 pc|SK|pc|S9|pc|S4|pc|SQ|pg||
 pc|ST|pc|SJ|pc|S8|pc|D7|pg||
 mc|8|pg||
-pn|Lanzarotti M,Djuricic B,Buratti A,Parezanin D,Radisic G,Duboin G,Slipcevic N,Noberto Bocchi|pg||
+pn|Lanzarotti,Djuricic B,Buratti A,Parezanin D,Radisic G,Duboin G,Slipcevic N,Noberto Bocchi|pg||
 qx|o13|md|3SQJ72H83DT4CQJT83,SK54HQJT92DQ9852C,S86HA764DAKJCAK95|sv|b|
 ob|1C|ob|p|ob|1S|ob|p|ob|2N|ob|p|ob|3N|ob|p|ob|p|ob|p|mb|1D|mb|p|mb|1S|mb|p|mb|1N|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
 pc|C7|pc|C3|pc|H2|pc|CA|pg||
