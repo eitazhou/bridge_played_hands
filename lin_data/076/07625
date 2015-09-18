@@ -41,7 +41,7 @@ pc|S4|pc|ST|pc|S8|pc|SK|pg||
 pc|CQ|pc|C3|pc|CK|pc|CJ|pg||
 pc|HJ|pc|H6|pc|HT|pc|HA|pg||
 mc|10|pg||
-pn|Hamman,Blanchard,Nickell,Krekorian|qx|o5,BOARD 5|rh||ah|Board 5|md|3SAQJ975HKJ7DJ9CT5,ST4HQ962DAT84CA97,S62HAT5DK752CJ843|sv|n|
+pn|Hamman,Blanchard,Nick Nickell,Krekorian|qx|o5,BOARD 5|rh||ah|Board 5|md|3SAQJ975HKJ7DJ9CT5,ST4HQ962DAT84CA97,S62HAT5DK752CJ843|sv|n|
 sa|0|mb|p|mb|p|mb|1S|mb|p|mb|1N|mb|p|mb|2S|mb|p|mb|p|mb|p|pg||
 pc|H6|pc|HT|pc|H3|pc|H7|pg||
 pc|S2|pc|S3|pc|SQ|pc|S4|pg||
@@ -55,7 +55,7 @@ pc|HQ|pc|C4|pc|C6|pc|HK|pg||
 pc|S5|pc|DT|pc|C8|pc|CK|pg||
 pc|DJ|pc|D8|pc|DK|pc|D6|pg||
 mc|10|pg||
-pn|Hamman,Blanchard,Nickell,Krekorian|qx|o6,BOARD 6|rh||ah|Board 6|md|4SKQ942H542DTCT963,SJ6HAKQ83D743CA75,SAT83HJ9DAKQ986C2|sv|e|
+pn|Hamman,Blanchard,Nick Nickell,Krekorian|qx|o6,BOARD 6|rh||ah|Board 6|md|4SKQ942H542DTCT963,SJ6HAKQ83D743CA75,SAT83HJ9DAKQ986C2|sv|e|
 sa|0|mb|p|mb|2S|mb|3H|mb|4S|mb|d|mb|p|mb|p|mb|p|pg||
 pc|HQ|pc|H9|pc|H6|pc|H2|pg||
 pc|HK|pc|HJ|pc|H7|pc|H4|pg||
@@ -64,7 +64,7 @@ pc|D3|pc|DA|pc|D2|pc|DT|pg||
 pc|S3|pc|S5|pc|SK|pc|S6|pg||
 pc|SQ|pc|SJ|pc|S8|pc|S7|pg||
 pc|H5|mc|10|pg||
-pn|Freed,Nickell,Mike Passell,Hamman|qx|o7,BOARD 7|rh||ah|Board 7|md|1SJ92HQJ9D63CKQJ94,SA64H642DKQT7CT82,S875HAT73DAJ94CA5|sv|b|
+pn|Freed,Nick Nickell,Mike Passell,Hamman|qx|o7,BOARD 7|rh||ah|Board 7|md|1SJ92HQJ9D63CKQJ94,SA64H642DKQT7CT82,S875HAT73DAJ94CA5|sv|b|
 sa|0|mb|p|mb|p|mb|1D|mb|p|mb|2C|mb|p|mb|2N|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
 pc|SK|pc|S2|pc|S4|pc|S5|pg||
 pc|S3|pc|S9|pc|SA|pc|S8|pg||
@@ -79,7 +79,7 @@ pc|HQ|pc|H4|pc|H3|pc|HK|pg||
 pc|D2|pc|HJ|pc|DT|pc|H7|pg||
 pc|DK|pc|HT|pc|D5|pc|H9|pg||
 mc|6|pg||
-pn|Freed,Nickell,Mike Passell,Hamman|qx|o8,BOARD 8|rh||ah|Board 8|md|2S43HT543DA86542CK,ST52H862DKJ3CQ752,SAKJ8HQ7DT9CAJT84|sv|0|
+pn|Freed,Nick Nickell,Mike Passell,Hamman|qx|o8,BOARD 8|rh||ah|Board 8|md|2S43HT543DA86542CK,ST52H862DKJ3CQ752,SAKJ8HQ7DT9CAJT84|sv|0|
 sa|0|mb|p|mb|1N|mb|p|mb|2C|mb|p|mb|2S|mb|p|mb|2N|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
 pc|HK|pc|H3|pc|H2|pc|H7|pg||
 pc|C9|pc|CK|pc|C2|pc|C4|pg||

@@ -54,7 +54,7 @@ pc|S5|pc|SK|pc|S2|pc|ST|pg||
 pc|C9|pc|DT|pc|D8|pc|S8|pg||
 pc|SA|pc|S7|pc|DQ|pc|SJ|pg||
 pc|S9|pc|SQ|pc|HJ|pc|HT|pg||
-pn|Onstott,Nickell,Compton,Hamman|qx|o5,BOARD 5|rh||ah|Board 5|md|3S532HAKJ3DT965CQ8,SQ6HQ98DK843CKT76,SAKT874HT754DCJ94|sv|n|
+pn|Onstott,Nick Nickell,Compton,Hamman|qx|o5,BOARD 5|rh||ah|Board 5|md|3S532HAKJ3DT965CQ8,SQ6HQ98DK843CKT76,SAKT874HT754DCJ94|sv|n|
 sa|0|mb|2S|mb|p|mb|p|mb|p|pg||
 pc|H6|pc|HA|pc|H8|pc|H5|pg||
 pc|C8|pc|C7|pc|C4|pc|CA|pg||
@@ -62,7 +62,7 @@ pc|H2|pc|HK|pc|H9|pc|H4|pg||
 pc|S2|pc|S6|pc|SA|pc|S9|pg||
 pc|SK|pc|SJ|pc|S3|pc|SQ|pg||
 mc|10|pg||
-pn|Onstott,Nickell,Compton,Hamman|qx|o6,BOARD 6|rh||ah|Board 6|md|4SKT6HT9532DJ93CKT,S753HAQ87DQ5CA763,SAQJ2HJ4DAT62CJ42|sv|e|
+pn|Onstott,Nick Nickell,Compton,Hamman|qx|o6,BOARD 6|rh||ah|Board 6|md|4SKT6HT9532DJ93CKT,S753HAQ87DQ5CA763,SAQJ2HJ4DAT62CJ42|sv|e|
 sa|0|mb|p|mb|p|mb|1H|mb|d|mb|p|mb|1N|mb|p|mb|p|mb|p|pg||
 pc|C3|pc|C2|pc|CQ|pc|CK|pg||
 pc|D9|pc|DQ|pc|DA|pc|D4|pg||
@@ -74,7 +74,7 @@ pc|SQ|pc|S9|pc|ST|pc|S7|pg||
 pc|SJ|pc|D8|pc|D3|pc|H7|pg||
 pc|CJ|pc|C5|pc|H2|pc|CA|pg||
 pc|C7|mc|8|pg||
-pn|Chemla,Nickell,Mari,Hamman|qx|o7,BOARD 7|rh||ah|Board 7|md|1S7H5DKQJ9842CAJ98,SAJT832HK98D5C742,S54HQJ76DAT63CQT3|sv|b|
+pn|Chemla,Nick Nickell,Mari,Hamman|qx|o7,BOARD 7|rh||ah|Board 7|md|1S7H5DKQJ9842CAJ98,SAJT832HK98D5C742,S54HQJ76DAT63CQT3|sv|b|
 sa|0|mb|1D|mb|1S|mb|d|mb|4S|mb|5D|mb|p|mb|p|mb|5S|mb|p|mb|p|mb|d|mb|p|mb|p|mb|p|pg||
 pc|DA|pc|D7|pc|D2|pc|D5|pg||
 pc|S4|pc|S6|pc|S7|pc|S8|pg||
@@ -86,7 +86,7 @@ pc|CQ|pc|CK|pc|CA|pc|C2|pg||
 pc|CJ|pc|C4|pc|C3|pc|C5|pg||
 pc|C8|pc|C7|pc|CT|pc|C6|pg||
 mc|8|pg||
-pn|Chemla,Nickell,Mari,Hamman|qx|o8,BOARD 8|rh||ah|Board 8|md|2STHJ732DJT76CAK82,SK2HADAKQ984CQ943,SQ743HKQ94D53CT75|sv|0|
+pn|Chemla,Nick Nickell,Mari,Hamman|qx|o8,BOARD 8|rh||ah|Board 8|md|2STHJ732DJT76CAK82,SK2HADAKQ984CQ943,SQ743HKQ94D53CT75|sv|0|
 sa|0|mb|1D|mb|p|mb|1S|mb|p|mb|3C|mb|p|mb|3S|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
 pc|CA|pc|C3|pc|C5|pc|C6|pg||
 pc|CK|pc|C4|pc|CT|pc|CJ|pg||
@@ -141,14 +141,14 @@ pc|C2|pc|C3|pc|C9|pc|S8|pg||
 pc|CA|pc|ST|pc|CT|pc|CK|pg||
 pc|S4|pc|SA|pc|S7|pc|H7|pg||
 mc|11|pg||
-pn|Letizia,Nickell,Stewart,Hamman|qx|o13,BOARD 13|rh||ah|Board 13|md|3SQHQ8632DT95CKT63,SA984HAK954D63CQ7,S76532HTDQ872C985|sv|b|
+pn|Letizia,Nick Nickell,Stewart,Hamman|qx|o13,BOARD 13|rh||ah|Board 13|md|3SQHQ8632DT95CKT63,SA984HAK954D63CQ7,S76532HTDQ872C985|sv|b|
 sa|0|mb|p|mb|1D|mb|p|mb|1H|mb|p|mb|2N|mb|p|mb|3C|mb|p|mb|3D|mb|p|mb|3S|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
 pc|C3|pc|CQ|pc|C5|pc|C4|pg||
 pc|H4|pc|HT|pc|HJ|pc|HQ|pg||
 pc|H2|pc|HA|pc|S2|pc|H7|pg||
 pc|S4|pc|S3|pc|SJ|pc|SQ|pg||
 mc|11|pg||
-pn|Letizia,Nickell,Stewart,Hamman|qx|o14,BOARD 14|rh||ah|Board 14|md|4SAQ62HA5D74CKQ654,S75HQ73DAQJT985CJ,SKT3HK962D632C973|sv|0|
+pn|Letizia,Nick Nickell,Stewart,Hamman|qx|o14,BOARD 14|rh||ah|Board 14|md|4SAQ62HA5D74CKQ654,S75HQ73DAQJT985CJ,SKT3HK962D632C973|sv|0|
 sa|0|mb|p|mb|1D|mb|3D|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
 pc|C4|pc|CJ|pc|C3|pc|C2|pg||
 pc|H3|pc|H6|pc|HJ|pc|HA|pg||
@@ -181,7 +181,7 @@ pc|H5|pc|S9|pc|ST|pc|C6|pg||
 pc|H4|pc|DQ|pc|D7|pc|C3|pg||
 pc|HT|pc|SA|pc|SJ|pc|SQ|pg||
 mc|10|pg||
-pn|Sontag,Nickell,Weichsel,Hamman|qx|o17,BOARD 17|rh||ah|Board 17|md|3SQT9854H94DAJCK82,SAK6HT62DQ8643CT3,S32HAJ5DK9CAQ9754|sv|0|
+pn|Sontag,Nick Nickell,Weichsel,Hamman|qx|o17,BOARD 17|rh||ah|Board 17|md|3SQT9854H94DAJCK82,SAK6HT62DQ8643CT3,S32HAJ5DK9CAQ9754|sv|0|
 sa|0|mb|2C|mb|p|mb|2S|mb|p|mb|p|mb|p|pg||
 pc|H2|pc|HA|pc|H8|pc|H4|pg||
 pc|S3|pc|S7|pc|ST|pc|SK|pg||
@@ -189,7 +189,7 @@ pc|HT|pc|HJ|pc|HQ|pc|H9|pg||
 pc|DT|pc|DJ|pc|DQ|pc|DK|pg||
 pc|S2|pc|SJ|pc|SQ|pc|SA|pg||
 mc|10|pg||
-pn|Sontag,Nickell,Weichsel,Hamman|qx|o18,BOARD 18|rh||ah|Board 18|md|4SK87HJ63DK74CJ862,SAJT2HQDT96532CT7,SQ963HT954DAJ8CQ9|sv|n|
+pn|Sontag,Nick Nickell,Weichsel,Hamman|qx|o18,BOARD 18|rh||ah|Board 18|md|4SK87HJ63DK74CJ862,SAJT2HQDT96532CT7,SQ963HT954DAJ8CQ9|sv|n|
 sa|0|mb|1H|mb|p|mb|1N|mb|p|mb|2C|mb|p|mb|2D|mb|p|mb|p|mb|p|pg||
 pc|S6|pc|S4|pc|SK|pc|SA|pg||
 pc|HQ|pc|H4|pc|H2|pc|H3|pg||
@@ -203,7 +203,7 @@ pc|ST|pc|S9|pc|C3|pc|S8|pg||
 pc|D5|pc|D8|pc|C4|pc|D7|pg||
 pc|S3|pc|C5|pc|DK|pc|D6|pg||
 mc|8|pg||
-pn|Gitelman,Nickell,Moss,Hamman|qx|o19,BOARD 19|rh||ah|Board 19|md|1SKQ874HDAQ82CAJ85,SA9532HKT984DKJC9,STHQJ62D653CKQT63|sv|e|
+pn|Gitelman,Nick Nickell,Moss,Hamman|qx|o19,BOARD 19|rh||ah|Board 19|md|1SKQ874HDAQ82CAJ85,SA9532HKT984DKJC9,STHQJ62D653CKQT63|sv|e|
 sa|0|mb|1S|mb|p|mb|1N|mb|p|mb|2C|mb|p|mb|3C|mb|p|mb|5C|mb|p|mb|p|mb|p|pg||
 pc|HT|pc|HQ|pc|HA|pc|C5|pg||
 pc|SQ|pc|SA|pc|ST|pc|S6|pg||
@@ -217,7 +217,7 @@ pc|H6|pc|H7|pc|CJ|pc|H8|pg||
 pc|CA|pc|H9|pc|C3|pc|C2|pg||
 pc|D8|pc|S5|pc|HJ|pc|C4|pg||
 mc|11|pg||
-pn|Gitelman,Nickell,Moss,Hamman|qx|o20,BOARD 20|rh||ah|Board 20|md|2SAT43H9864DA86CJ8,SQHQ7DK532CAKQ972,SJ52HAJT52DQ97CT5|sv|b|
+pn|Gitelman,Nick Nickell,Moss,Hamman|qx|o20,BOARD 20|rh||ah|Board 20|md|2SAT43H9864DA86CJ8,SQHQ7DK532CAKQ972,SJ52HAJT52DQ97CT5|sv|b|
 sa|0|mb|1C|mb|1H|mb|1S|mb|2S|mb|3C|mb|p|mb|p|mb|3H|mb|p|mb|p|mb|p|pg||
 pc|C3|pc|C8|pc|CK|pc|CT|pg||
 pc|CQ|pc|C5|pc|C4|pc|CJ|pg||
