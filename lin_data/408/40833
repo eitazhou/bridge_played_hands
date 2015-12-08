@@ -1,0 +1,280 @@
+vg|PRA PON 2015,RR6_13 Pa,I,17,32,DKI Jakarta,0,Sumatera Selatan,0|
+rs|4SW=,4SW=,4SW+1,3NW-1,4HS=,4HS=,5CS=,5CS=,4SS+2,4HN+1,5SS-1,5HN=,2HW+2,4HW=,5DE-1,3NE+1,4HN+1,6DS-1,4SSx+1,4SS+1,3HS=,3HS=,4SW-2,4SW-1,2SE-2,1NE=,3NS+1,3NN-1,2SE=,3DE-1,4HE+1,4HW+1|
+pn|Asbi,Rumengan,Tobing,PIskanto,Ansori,Hutahaean,Kaligis,Karwur|pg||
+qx|o17|st||md|3SQTHK743DJ532CQT3,SJ8653HADKT98CAK4,SK42HQJ96D64CJ975,SA97HT852DAQ7C862|sv|o|mb|p|mb|p|mb|p|mb|1S|mb|p|mb|2C|mb|p|mb|2D|mb|p|mb|3S|mb|p|mb|4S|mb|p|mb|p|mb|p|pc|hQ|pc|h2|pc|h3|pc|hA|pg||
+pc|s3|pc|s4|pc|s7|pc|sT|pg||
+pc|c3|pc|cA|pc|c5|pc|c2|pg||
+pc|s5|pc|s2|pc|sA|pc|sQ|pg||
+pc|dA|pc|d2|pc|d8|pc|d4|pg||
+pc|dQ|pc|d3|pc|d9|pc|d6|pg||
+pc|d7|pc|d5|pc|dK|pc|sK|pg||
+mc|10|pg||
+qx|c17|st||md|3SQTHK743DJ532CQT3,SJ8653HADKT98CAK4,SK42HQJ96D64CJ975,SA97HT852DAQ7C862|sv|o|mb|p|mb|p|mb|p|mb|1S|mb|p|mb|2S|mb|p|mb|4S|mb|p|mb|p|mb|p|pc|hQ|pc|h2|pc|h3|pc|hA|pg||
+pc|s3|pc|s2|pc|s9|pc|sT|pg||
+pc|hK|pc|s5|pc|h6|pc|h5|pg||
+pc|s6|pc|s4|pc|sA|pc|sQ|pg||
+pc|dA|pc|d2|pc|d8|pc|d4|pg||
+pc|dQ|pc|d3|pc|d9|pc|d6|pg||
+pc|d7|pc|d5|pc|dK|mc|10|pg||
+qx|o18|st||md|4S52HKQT2DQ84CT743,SK74H543DA3CAKQ96,SJ983HA9876DJT5CJ,SAQT6HJDK9762C852|sv|n|mb|1D|mb|p|mb|2C|mb|p|mb|2D|mb|p|mb|2S|mb|p|mb|3S|mb|p|mb|4S|mb|p|mb|p|mb|p|pc|hA|pc|hJ|pc|hT|pc|h4|pg||
+pc|dJ|pc|d2|pc|d8|pc|dA|pg||
+pc|sK|pc|s3|pc|s6|pc|s2|pg||
+pc|d3|pc|d5|pc|dK|pc|d4|pg||
+pc|d6|pc|dQ|pc|s4|pc|dT|pg||
+pc|s7|pc|s9|pc|sA|pc|s5|pg||
+pc|sQ|pc|h2|pc|h3|pc|s8|pg||
+pc|d9|mc|11|pg||
+qx|c18|st||md|4S52HKQT2DQ84CT743,SK74H543DA3CAKQ96,SJ983HA9876DJT5CJ,SAQT6HJDK9762C852|sv|n|mb|p|mb|p|mb|1N|mb|p|mb|2C|mb|p|mb|2D!|mb|p|mb|3D|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|h7|pc|hJ|pc|hK|pc|h3|pg||
+pc|hQ|pc|h4|pc|h6|pc|d2|pg||
+pc|hT|pc|h5|pc|hA|mc|8|pg||
+qx|o19|st||md|1SA73HAT9DAQJ3C984,SKJ9H632DT842CAJ7,ST6HKQJ54D975CKT2,SQ8542H87DK6CQ653|sv|e|mb|1C|mb|p|mb|1D!|mb|p|mb|1N|mb|p|mb|2D|mb|p|mb|2H|mb|p|mb|4H|mb|p|mb|p|mb|p|pc|h6|pc|h4|pc|h7|pc|hA|pg||
+pc|h9|pc|h3|pc|hK|pc|h8|pg||
+pc|d5|pc|dK|pc|dA|pc|d2|pg||
+pc|dQ|pc|d4|pc|d7|pc|d6|pg||
+pc|dJ|pc|d8|pc|d9|pc|s2|pg||
+pc|c9|pc|c7|pc|c2|pc|cQ|pg||
+pc|s4|pc|sA|pc|s9|pc|s6|pg||
+pc|c4|pc|cA|pc|cT|pc|c3|pg||
+pc|sK|pc|sT|pc|s5|pc|s3|pg||
+mc|10|pg||
+qx|c19|st||md|1SA73HAT9DAQJ3C984,SKJ9H632DT842CAJ7,ST6HKQJ54D975CKT2,SQ8542H87DK6CQ653|sv|e|mb|1N|mb|p|mb|2D!|mb|p|mb|2H|mb|p|mb|3N|mb|p|mb|4H|mb|p|mb|p|mb|p|pc|h2|pc|hK|pc|h7|pc|h9|pg||
+pc|d5|pc|dK|pc|dA|pc|d2|pg||
+pc|hA|pc|h3|pc|h4|pc|h8|pg||
+pc|hT|pc|h6|pc|h5|pc|s5|pg||
+pc|dQ|pc|d4|pc|d7|pc|d6|pg||
+pc|c9|pc|c7|pc|c2|pc|cQ|pg||
+pc|s2|pc|s7|pc|sJ|pc|s6|pg||
+pc|dT|pc|d9|pc|c3|pc|dJ|pg||
+pc|d3|pc|d8|pc|hJ|pc|s4|pg||
+pc|sT|pc|sQ|pc|sA|pc|s9|pg||
+pc|c4|pc|cA|mc|10|pg||
+qx|c20|st||md|2SAQ8H9DJ97CAJT953,S64HJ842DQT8632C8,ST93HKT5DA54CKQ74,SKJ752HAQ763DKC62|sv|b|mb|p|mb|1D!|mb|1S|mb|2C|mb|p|mb|3C|mb|p|mb|3H|mb|p|mb|3S|mb|d|mb|r|mb|p|mb|4D|mb|p|mb|5C|mb|p|mb|p|mb|p|pc|s6|pc|s3|pc|s5|pc|s8|pg||
+pc|c9|pc|c8|pc|cK|pc|c2|pg||
+pc|c4|pc|c6|pc|cA|pc|d2|pg||
+pc|c5|pc|d6|pc|cQ|pc|h3|pg||
+pc|s9|pc|sK|pc|sA|pc|s4|pg||
+pc|sQ|pc|h2|pc|sT|pc|sJ|pg||
+pc|h9|pc|hJ|pc|hK|nt|sibuea: Hi VuGraph Operator|pg||
+pc|hA|pg||
+nt|Vugraphzme: Hi|pg||
+nt|sibuea: what happened with other VuGraph?|pg||
+nt|sibuea: I mean open room|pg||
+pc|dK|pc|d7|pc|d8|pc|d4|pg||
+pc|hQ|mc|11|pg||
+qx|c21|st||md|3SKHKQT973DJ76CAT8,SQ543HJ2DA84CK642,SAJT7HA5DKQ95CJ97,S9862H864DT32CQ53|sv|n|mb|1N|mb|p|nt|sibuea: South Sumatera lead 11 IMPs after a non fit 3NT contract and Opp find a deadly lead  |pg||
+mb|2D!|mb|p|mb|2H|mb|p|mb|3S!|mb|p|mb|4H|mb|p|mb|p|mb|p|pc|c3|pc|cA|pc|c2|pc|c7|pg||
+pc|sK|pc|s3|pc|s7|pc|s2|pg||
+pc|hK|pc|h2|pc|h5|pc|h8|pg||
+pc|h3|pc|hJ|pc|hA|pc|h4|pg||
+pc|sA|pc|s6|pc|c8|pc|s4|pg||
+pc|sJ|pc|s8|pc|cT|pc|sQ|pg||
+mc|11|pg||
+qx|o22|st||md|4SJT96HT832DQJ862C,S5HA65DA75CQ96542,SAKQ7HKQJ974DTCA7,S8432HDK943CKJT83|sv|e|mb|p|mb|p|mb|p|mb|2C|mb|p|mb|2D|mb|p|nt|vugraphzmd: sory have some trouble with PC :(|pg||
+nt|vugraphzmd: wlcback :)|pg||
+mb|2H|mb|p|mb|2S|mb|p|mb|3S|nt|sibuea: Hi VuGraph Operator, is it okay now?|pg||
+nt|vugraphzmd: Ok Mr Jonni :)|pg||
+mb|p|mb|5C|mb|p|mb|5S|mb|p|mb|p|nt|sibuea: think that 5@c accepted by N as a slam inv.|pg||
+mb|p|nt|sibuea: or showing first round control|pg||
+nt|vugraphzmd: 5@c is exclution |pg||
+pc|dA|pc|dT|pc|dK|pc|d2|pg||
+pc|hA|pc|h4|pc|c3|pc|h2|pg||
+pc|h5|pc|hK|pc|s2|pc|h3|pg||
+nt|sibuea: y, indeed but opps didnt showing any bid, may be NS have agreement about it|pg||
+mc|10|nt|vugraphzmd: y|pg||
+pg||
+qx|c22|st||md|4SJT96HT832DQJ862C,S5HA65DA75CQ96542,SAKQ7HKQJ974DTCA7,S8432HDK943CKJT83|sv|e|mb|p|mb|p|mb|p|mb|1C!|mb|p|mb|1D!|mb|p|mb|1H!|mb|p|mb|2D|mb|p|mb|2H|mb|p|mb|4C!|mb|p|mb|4N!|mb|p|mb|5D!|mb|p|mb|5H|mb|p|mb|p|mb|p|pc|c3|pc|h8|pc|c2|pc|c7|pg||
+pc|h2|pc|h6|pc|hK|pc|c8|pg||
+pc|h4|pc|cT|pc|hT|pc|hA|pg||
+pc|s5|pc|sA|pc|s2|pc|s6|pg||
+pc|hQ|mc|11|pg||
+qx|o23|st||md|1SK97HT2DJT875CK74,S2HAQ964DAQ9CQ965,ST543HK73D632CA82,SAQJ86HJ85DK4CJT3|sv|b|mb|p|mb|1H|mb|p|mb|1N|mb|p|mb|2C|mb|p|mb|2H|mb|p|mb|p|mb|p|pc|d2|pc|dK|pc|d8|pc|d9|pg||
+pc|h5|pc|h2|pc|hQ|pc|hK|pg||
+pc|h3|pc|h8|pc|hT|pc|hA|pg||
+pc|h4|pc|h7|pc|hJ|nt|sibuea: think Board 22 will produce a big score for one of contestant here|pg||
+pc|d5|pg||
+mc|10|pg||
+qx|c23|st||md|1SK97HT2DJT875CK74,S2HAQ964DAQ9CQ965,ST543HK73D632CA82,SAQJ86HJ85DK4CJT3|sv|b|mb|p|mb|1H|mb|p|mb|1S|mb|p|mb|2C|mb|p|mb|4H|mb|p|mb|p|mb|p|pc|d2|pc|dK|pc|d5|pc|d9|pg||
+pc|h5|pc|h2|pc|hQ|pc|h3|pg||
+pc|hA|pc|h7|pc|h8|pc|hT|pg||
+pc|c5|mc|10|pg||
+qx|o24|st||md|2SKT853HT76DQ9CT83,SJ42HQJDKT654CQ95,S976H98432D7CAKJ6,SAQHAK5DAJ832C742|sv|o|mb|p|mb|p|mb|1C|mb|p|mb|2N|mb|p|mb|3C|mb|p|mb|3S|mb|p|mb|4D|mb|p|mb|4N|mb|p|mb|5D|mb|p|mb|p|mb|p|nt|sibuea: woww, my prediction is come true|pg||
+nt|vugraphzmd: right :)|pg||
+pc|h6|pc|hJ|pc|h4|pc|h5|pg||
+pc|dK|pc|d7|pc|d2|pc|d9|pg||
+pc|d4|pc|h2|pc|dA|pc|dQ|pg||
+pc|hA|pc|h7|pc|hQ|pc|h3|pg||
+pc|hK|pc|hT|pc|c5|pc|h8|pg||
+mc|10|nt|sibuea: what was 2 NT resp. after 1@c strong bid meaning here Rizky|pg||
+pg||
+qx|c24|st||md|2SKT853HT76DQ9CT83,SJ42HQJDKT654CQ95,S976H98432D7CAKJ6,SAQHAK5DAJ832C742|sv|o|mb|p|mb|p|mb|1C!|mb|p|mb|2D|mb|p|mb|2N|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|s5|pc|s2|pc|s9|pc|sQ|pg||
+pc|d3|pc|d9|pc|dK|pc|d7|pg||
+pc|d4|pc|h9|pc|dA|pc|dQ|pg||
+pc|dJ|pc|s3|pc|d5|pc|h2|pg||
+pc|d8|pc|s8|pc|dT|pc|s7|pg||
+pc|d6|pc|h3|pc|d2|pc|h6|pg||
+pc|s4|pc|s6|pc|sA|mc|10|pg||
+qx|o25|st||md|3ST74HAJ754DAT96CT,SK93HK63DJ84CQJ54,SAHQT8DK732CAK976,SQJ8652H92DQ5C832|sv|e|nt|sibuea: did W alerted?|pg||
+nt|vugraphzmd: 2NT is 5 card minor bal :)|pg||
+mb|1C|mb|p|mb|1D!|mb|p|mb|1N|mb|p|mb|2D!|mb|p|mb|2H|mb|p|mb|4H|mb|p|mb|p|mb|p|pc|sQ|pc|s4|pc|s9|pc|sA|pg||
+pc|hQ|pc|h2|pc|h4|pc|hK|pg||
+pc|sK|pc|h8|pc|s5|pc|s7|pg||
+pc|hT|pc|h9|pc|hA|pc|h3|pg||
+pc|hJ|pc|h6|pc|d2|pc|s2|pg||
+pc|cT|pc|cQ|pc|cA|pc|c3|pg||
+pc|cK|pc|c2|pc|sT|pc|c4|pg||
+pc|c6|pc|c8|pc|h5|pc|c5|pg||
+pc|dT|pc|d8|pc|dK|pc|d5|pg||
+pc|d3|pc|dQ|pc|dA|pc|d4|pg||
+pc|d6|pc|dJ|pc|d7|pc|s6|pg||
+pc|cJ|pc|c7|pc|s8|pc|h7|pg||
+pc|d9|pc|s3|pc|c9|pc|sJ|pg||
+pg||
+qx|c25|st||md|3ST74HAJ754DAT96CT,SK93HK63DJ84CQJ54,SAHQT8DK732CAK976,SQJ8652H92DQ5C832|sv|e|mb|1N|mb|p|mb|2D!|mb|p|mb|2H|mb|p|mb|3D|mb|p|mb|4D!|mb|p|mb|4H|mb|p|mb|4N|mb|p|mb|5H!|mb|p|mb|6D|mb|p|mb|p|mb|p|pc|s3|pc|sA|pc|s2|pc|s7|pg||
+pc|d2|pc|d5|pc|dA|pc|d8|pg||
+pc|d6|pc|d4|pc|dK|pc|dQ|pg||
+pc|hQ|pc|h2|pc|h4|pc|hK|pg||
+mc|11|pg||
+qx|o26|st||md|4SJ6432H9DAK8632CJ,ST9HQ854D75CAQ764,SKQ875HT632DJCK95,SAHAKJ7DQT94CT832|sv|b|mb|1D|mb|1S|mb|d|nt|sibuea: 10 IMPs for DKI from board 24|pg||
+mb|4S|mb|d|mb|p|mb|p|mb|p|pc|d7|pc|dJ|pc|dQ|pc|dA|pg||
+pc|s2|pc|s9|pc|sK|pc|sA|pg||
+pc|hA|pc|h9|pc|h4|pc|h2|pg||
+pc|hK|pc|s3|pc|h5|pc|h3|pg||
+nt|sibuea: good for DKI|pg||
+pc|d3|pc|d5|pc|sQ|pc|d4|pg||
+pc|s5|nt|sibuea: the xed seems doent work|pg||
+pc|c3|pc|sJ|pc|sT|pg||
+pc|d2|pc|c7|pc|s7|pc|d9|pg||
+pc|h6|pc|h7|pc|s4|pc|h8|pg||
+pc|dK|mc|11|pg||
+qx|c26|st||md|4SJ6432H9DAK8632CJ,ST9HQ854D75CAQ764,SKQ875HT632DJCK95,SAHAKJ7DQT94CT832|sv|b|mb|1D!|mb|1S|mb|d|mb|4S|mb|p|mb|p|mb|p|pc|d7|pc|dJ|pc|dQ|pc|dA|pg||
+pc|d3|pc|d5|pc|s5|pc|dT|pg||
+pc|sK|pc|sA|pc|s2|pc|s9|pg||
+pc|hA|pc|h9|pc|h4|pc|h2|pg||
+pc|hK|pc|s3|pc|h5|pc|h3|pg||
+pc|d2|pc|c7|pc|s7|pc|d4|pg||
+pc|s8|mc|11|pg||
+qx|o27|st||md|1SJ9HAQJ632DKCA743,SAQ54HT8DAJT842C8,ST8732H54DQ9CKQ62,SK6HK97D7653CJT95|sv|o|mb|1H|mb|2D|mb|d|mb|3D|mb|3H|mb|p|mb|p|mb|p|pc|c8|pc|cK|pc|c5|pc|c3|pg||
+pc|h4|pc|h7|pc|hA|pc|h8|pg||
+pc|hJ|pc|hT|pc|h5|pc|hK|pg||
+pc|sK|pc|s9|pc|s4|pc|s2|pg||
+pc|s6|pc|sJ|pc|sA|pc|s3|pg||
+pc|dA|pc|d9|pc|d5|pc|dK|pg||
+pc|d4|pc|dQ|pc|d3|pc|c4|pg||
+pc|s7|pc|d6|pc|h2|pc|s5|pg||
+pc|hQ|pc|d2|pc|c2|pc|h9|pg||
+mc|9|pg||
+qx|c27|st||md|1SJ9HAQJ632DKCA743,SAQ54HT8DAJT842C8,ST8732H54DQ9CKQ62,SK6HK97D7653CJT95|sv|o|mb|1H|mb|2D|mb|d|mb|3D|mb|3H|mb|p|mb|p|mb|p|pc|c8|pc|cK|pc|cJ|pc|c3|pg||
+pc|h4|pc|h9|pc|hA|pc|h8|pg||
+pc|hQ|pc|hT|pc|h5|pc|hK|pg||
+pc|d5|pc|dK|pc|dA|pc|d9|pg||
+pc|sA|pc|s2|pc|s6|pc|s9|pg||
+pc|s4|pc|s7|pc|sK|pc|sJ|pg||
+pc|c5|pc|c4|pc|d2|mc|9|pg||
+qx|o28|st||md|2SHJT2DQ7632CAK874,SKQT94H76DAKCJ953,SJ7652HA984DT85C6,SA83HKQ53DJ94CQT2|sv|n|mb|1S|mb|p|mb|2N|mb|p|mb|3N|mb|p|nt|sibuea: DKI lead now after 4@s xed +1 and other table only got 4@s make|pg||
+mb|4S|mb|p|mb|p|mb|p|nt|sibuea: Hi Aurora|pg||
+pc|d5|pc|d4|pc|dQ|pc|dA|pg||
+pc|sK|pc|s2|pc|s3|pc|c7|pg||
+pc|h6|pc|hA|pc|h3|pc|hJ|pg||
+pc|c6|pc|c2|pc|cK|pc|c3|pg||
+pc|cA|pc|cJ|pc|d8|pc|cT|pg||
+pc|c4|pc|c5|pc|s5|pc|cQ|pg||
+pc|dT|pc|d9|pc|d2|pc|dK|pg||
+pc|s4|pc|s6|pc|s8|pc|d3|pg||
+pc|sA|pc|h2|pc|s9|pc|s7|pg||
+pc|dJ|pc|d6|pc|sT|pc|sJ|pg||
+pc|h4|pc|hK|pc|hT|pc|h7|pg||
+pc|hQ|pc|d7|pc|c9|pc|h8|pg||
+pc|h5|pc|c8|pc|sQ|pc|h9|pg||
+pg||
+qx|c28|st||md|2SHJT2DQ7632CAK874,SKQT94H76DAKCJ953,SJ7652HA984DT85C6,SA83HKQ53DJ94CQT2|sv|n|mb|1S|mb|p|mb|2C!|mb|p|mb|2D!|mb|p|mb|4S|mb|p|mb|p|mb|p|pc|c6|pc|c2|pc|cK|pc|c5|pg||
+pc|cA|pc|c3|pc|d8|pc|cT|pg||
+pc|c7|pc|c9|pc|s2|pc|cQ|pg||
+pc|hA|pc|h3|pc|h2|pc|h6|pg||
+pc|h4|pc|hK|pc|hT|pc|h7|pg||
+pc|s3|pc|d2|pc|sK|pc|s5|pg||
+nt|sibuea: no x no trouble|pg||
+pc|s4|pc|s6|pc|s8|pc|d3|pg||
+pc|sA|pc|c4|pc|s9|pc|s7|pg||
+pc|d4|pc|d6|pc|dK|pc|d5|pg||
+pc|sQ|mc|9|pg||
+qx|o29|st||md|3SQ95HJ5DAT962CKT5,SKJ32HA9743DQCJ94,SA84HKQT6DJ754C87,ST76H82DK83CAQ632|sv|b|mb|p|mb|p|mb|p|mb|2H|mb|p|mb|2S|mb|p|mb|p|mb|p|pc|c5|pc|c9|pc|c7|pc|c3|pg||
+pc|h3|pc|hQ|pc|h2|pc|h5|pg||
+pc|c8|pc|cA|pc|cT|pc|c4|pg||
+pc|h8|pc|hJ|pc|hA|pc|h6|pg||
+pc|h4|pc|hT|pc|sT|pc|sQ|pg||
+pc|dA|pc|dQ|pc|d4|pc|d3|pg||
+pc|cK|pc|cJ|pc|d5|pc|c2|pg||
+pc|d6|pc|h7|pc|dJ|pc|dK|pg||
+pc|d8|pc|d9|pc|s2|pc|d7|pg||
+pc|h9|pc|hK|pc|s7|pc|s9|pg||
+pc|s5|pc|sJ|pc|sA|pc|s6|pg||
+pc|s8|pc|c6|pc|d2|pc|sK|pg||
+pc|s3|pc|s4|pc|cQ|pc|dT|pg||
+pg||
+qx|c29|st||md|3SQ95HJ5DAT962CKT5,SKJ32HA9743DQCJ94,SA84HKQT6DJ754C87,ST76H82DK83CAQ632|sv|b|mb|p|mb|p|mb|p|mb|1H|mb|p|mb|1N!|mb|p|mb|p|mb|p|pc|d6|pc|dQ|pc|d4|pc|d3|pg||
+pc|cJ|pc|c7|pc|c3|pc|c5|pg||
+pc|c9|pc|c8|pc|cQ|pc|cK|pg||
+pc|s9|nt|sibuea: S now think how to reach his pard hand|pg||
+pc|s2|pc|sA|pc|s6|pg||
+pc|dJ|pc|dK|pc|dA|nt|sibuea: in order to return @d|pg||
+pc|h3|pg||
+pc|dT|pc|h4|pc|d5|nt|sibuea: and there they are|pg||
+pc|d8|pg||
+pc|d9|pc|h7|pc|d7|pc|h2|pg||
+pc|d2|pc|s3|mc|7|pg||
+qx|o30|st||md|4S86HAK2DKQ8653CA3,SKQ93H96DAJ42CQ74,SAT542HQJ53DTCK92,SJ7HT874D97CJT865|sv|o|mb|p|mb|1D|mb|p|mb|2H|mb|p|mb|2N|mb|p|mb|3D|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|h9|pc|hQ|pc|h4|pc|h2|pg||
+pc|dT|pc|d7|pc|d5|pc|dJ|pg||
+pc|sK|pc|sA|pc|s7|pc|s6|pg||
+pc|h3|pc|h7|pc|hA|pc|h6|pg||
+pc|dQ|pc|d2|pc|c2|pc|d9|pg||
+pc|d6|pc|dA|pc|h5|pc|cJ|pg||
+pc|s3|pc|s2|pc|sJ|pc|s8|pg||
+pc|c8|mc|10|pg||
+qx|c30|st||md|4S86HAK2DKQ8653CA3,SKQ93H96DAJ42CQ74,SAT542HQJ53DTCK92,SJ7HT874D97CJT865|sv|o|mb|p|mb|1C!|mb|p|nt|sibuea: both Major will produce game|pg||
+mb|1S|mb|p|mb|2D|mb|p|mb|2H|mb|p|nt|sibuea: S has to choose 5-2 or 4 - 3 in Major|pg||
+mb|3D|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|cJ|pc|c3|pc|c7|pc|cK|pg||
+pc|dT|pc|d7|pc|d3|pc|dJ|pg||
+pc|cQ|pc|c2|pc|c5|pc|cA|pg||
+pc|dK|pc|dA|pc|s2|pc|d9|pg||
+nt|sibuea: 8 real tricks and N try to find for 9th trick |pg||
+pc|c4|pc|c9|pc|cT|pc|s6|pg||
+pc|c8|pc|d5|pc|h9|pc|s4|pg||
+mc|8|pg||
+qx|o31|st||md|1SA4H8762DK9CJ5432,S2HA43DQJT843CT76,SK753HKJ9DA762CQ8,SQJT986HQT5D5CAK9|sv|n|mb|p|mb|p|mb|1N|nt|vugraphzmd: 1NT (11)12-14hcp|pg||
+mb|2D!|mb|p|mb|2H|mb|p|mb|2S|mb|p|mb|p|mb|p|pc|h6|pc|h3|pc|hK|pc|h5|pg||
+pc|c8|pc|cA|pc|c5|pc|c6|pg||
+pc|sQ|pc|s4|pc|s2|pc|sK|pg||
+pc|cQ|pc|cK|pc|c4|pc|c7|pg||
+pc|sJ|pc|sA|pc|d3|pc|s3|pg||
+pc|cJ|pc|cT|pc|d2|pc|c9|pg||
+mc|8|pg||
+qx|c31|st||md|1SA4H8762DK9CJ5432,S2HA43DQJT843CT76,SK753HKJ9DA762CQ8,SQJT986HQT5D5CAK9|sv|n|mb|p|mb|2N!|an|Prem !d|nt|sibuea: the @h lead in other table has easily declr. to booked his 3NT contract|pg||
+mb|p|mb|3D|mb|p|mb|p|mb|p|pc|c2|pc|cT|pc|cQ|pc|cA|pg||
+pc|d5|pc|dK|pc|d3|pc|d2|pg||
+pc|d9|pc|dQ|nt|sibuea: E duly bid 3@d although he can also bid 2@s|pg||
+pc|dA|pc|s6|pg||
+pc|c8|pc|cK|pc|c5|pc|c6|pg||
+pc|sJ|pc|sA|pc|s2|pc|s5|pg||
+pc|cJ|pc|c7|pc|s7|pc|c9|pg||
+pc|c4|pc|d8|pc|h9|pc|s8|pg||
+pc|dJ|pc|d6|pc|s9|pc|h2|pg||
+pc|dT|pc|d7|pc|sT|pc|c3|pg||
+nt|sibuea: wil be a push board|pg||
+pc|hA|pc|hJ|mc|8|pg||
+qx|o32|st||md|2SKT82H4DT54CAJ652,S743HKQ52DQJ97CK4,SJ95H763D632CQT98,SAQ6HAJT98DAK8C73|sv|e|nt|vugraphzmd: last boar for this match|pg||
+mb|p|mb|p|mb|1C|mb|p|mb|1S!|mb|p|mb|2H|mb|p|mb|3H|mb|p|mb|4H|mb|p|mb|p|mb|p|pc|d4|nt|vugraphzmd: next match will start at 15.45pm GMT +7|pg||
+mc|11|nt|vugraphzmd: bye all :)|pg||
+pg||
+qx|c32|st||md|2SKT82H4DT54CAJ652,S743HKQ52DQJ97CK4,SJ95H763D632CQT98,SAQ6HAJT98DAK8C73|sv|e|mb|p|mb|p|mb|1C!|mb|p|mb|1H!|an|Bal|mb|p|mb|2H|mb|p|mb|3H|mb|p|mb|4H|mb|p|mb|p|mb|p|pc|h3|pc|hJ|pc|h4|pc|h2|pg||
+pc|h8|pc|c5|pc|h5|pc|h6|pg||
+pc|h9|pc|c2|pc|hK|pc|h7|pg||
+pc|d7|pc|d2|pc|dA|pc|d4|pg||
+pc|dK|pc|d5|pc|d9|pc|d3|pg||
+pc|c3|pc|c6|pc|cK|pc|c8|pg||
+pc|dQ|pc|d6|pc|d8|pc|dT|pg||
+pc|dJ|pc|c9|pc|c7|pc|s2|pg||
+pc|c4|pc|cT|pc|hT|pc|cJ|pg||
+pc|s6|pc|s8|mc|11|nt|sibuea: nicely played|pg||
+nt|Vugraphzme: ty all..|pg||
+nt|Vugraphzme: bye..|pg||
+pg||
