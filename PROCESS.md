@@ -36,7 +36,9 @@ Random checks are made on hands and the double dummy results compared against BB
 ### Players
 A list of players for each LIN file is generated listing the LIN file number and the title of the event.
 
-These are concatanted together to produce one big PLAYERS.txt file.
+These are concatenated together to produce one big PLAYERS.txt file.
+
+This is then sorted to create a PLAYERS_BY_NAME.txt and PLAYERS_BY_EVENT.txt file.
 
 ### Play of Hand
 For each LIN file these are converted to JSON then imported to Bridgescore+.
