@@ -11,7 +11,70 @@ require 'FileUtils'
 # so there is some history of the changes.
 
 def change_line(line)
+  line.gsub!("Claudio Nunes Claudio", "Claudio Nunes")
+  line.gsub!("Claudio Nunes Clau", "Claudio Nunes")
+  line.gsub!("Claudio Nunes. C", "Claudio Nunes")
+  line.gsub!("NUNES Clau", "Claudio Nunes")
+  line.gsub!("Fulvio Fantoni G.", "Fulvio Fantoni")
+  line.gsub!("fantoni.f", "Fulvio Fantoni")
+  line.gsub!("fantoni", "Fulvio Fantoni")
+	# An example of the difficulty of changing one name
+	# Search the list of ALL names to find the match
+  line.gsub!("A Sementa", "Antonio Sementa")
+  line.gsub!("A.Sementa", "Antonio Sementa")
+  line.gsub!("Sementa A.", "Antonio Sementa")
+  line.gsub!("Sementa A", "Antonio Sementa")
+  line.gsub!("Sementa. A", "Antonio Sementa")
+  line.gsub!("sementa", "Antonio Sementa")
+	# Now replace all the 'Sementa' with 'Antonio Sementa'
+  line.gsub!("Sementa", "Antonio Sementa")
+	# Now we have lots of "Antonio Antonio Sementa"
+  line.gsub!("Antonio Antonio Sementa", "Antonio Sementa")
 
+  line.gsub!("Ag Agustin Madala", "Agustin Madala")
+  line.gsub!("Ag.Agustin Madala", "Agustin Madala")
+  line.gsub!("A. Madala", "Agustin Madala")
+  line.gsub!("Madala A.", "Agustin Madala")
+	# Must make sure that madala is not part of someone else's name!!
+  line.gsub!("madala", "Agustin Madala")
+  line.gsub!("Madala", "Agustin Madala")
+  line.gsub!("Agustin Agustin Madala", "Agustin Madala")
+	
+  line.gsub!("Bob Bob Hamman", "Bob Hamman")
+
+  line.gsub!("B Senior", "Brian Senior")
+  line.gsub!("BRINK Sjoert", "Sjoert Brink")
+  line.gsub!("BRINK Sjoe", "Sjoert Brink")
+  line.gsub!("BROCK Sall", "Sally Brock")
+
+  line.gsub!("Helness Tor", "Tor Helness")
+  line.gsub!("Helness To", "Tor Helness")
+  line.gsub!("Helness T.", "Tor Helness")
+  line.gsub!("Helness T", "Tor Helness")
+  line.gsub!("Helness.T", "Tor Helness")
+  line.gsub!("T. Helness", "Tor Helness")
+  line.gsub!("T.Helness", "Tor Helness")
+  line.gsub!("TorHelness", "Tor Helness")
+  line.gsub!("helness tor", "Tor Helness")
+  line.gsub!("helness", "Tor Helness")
+
+  line.gsub!("Versace Alfredo", "Alfredo Versace")
+  line.gsub!("Versace Al", "Alfredo Versace")
+  line.gsub!("Versace Al", "Alfredo Versace")
+  line.gsub!("Versace A.", "Alfredo Versace")
+  line.gsub!("Versace. A", "Alfredo Versace")
+  line.gsub!("Versace.A", "Alfredo Versace")
+  line.gsub!("versace", "Alfredo Versace")
+	# Chance all Versace - unique name
+  line.gsub!("Versace", "Alfredo Versace")
+  line.gsub!("Alfredo Alfredo Versace", "Alfredo Versace")
+	# Not quite unique
+  line.gsub!("Alfredo Versace L.", "L. Versace")
+	return line
+end
+
+
+def old_change_line(line)
   line.gsub!("LEVINE", "Levine")
   line.gsub!("LEVIN", "Levin")
   line.gsub!("J Levin", "Jill Levin")
@@ -28,11 +91,6 @@ def change_line(line)
   line.gsub!("N Smith", "Nicola Smith")
   line.gsub!("T Helness", "Tor Helness")
   line.gsub!("J\.lall", "Justin Lall")
-
-	return line
-end
-
-def old_change_line(line)
   line.gsub!("Hamman", "Bob Hamman")
   line.gsub!("DUBOIN", "DUBOIN")
   line.gsub!("BOCCHI", "BOCCHI")
