@@ -11,6 +11,22 @@ require 'FileUtils'
 # so there is some history of the changes.
 
 def change_line(line)
+	# Typical example: first time did Versace got some duplicate names so have to redo.
+  line.gsub!("A. Alfredo Versace", "Alfredo Versace")
+  line.gsub!("Alfredo Versace A", "Alfredo Versace")
+
+  line.gsub!("A. Sementa", "Antonio Sementa")
+#  line.gsub!("Sementa", "Antonio Sementa")
+#  line.gsub!("A. Sementa", "Antonio Sementa")
+  line.gsub!("A. Madala", "Agustin Madala")
+  line.gsub!("Madala", "Agustin Madala")
+  line.gsub!("Agustin Agustin Madala", "Agustin Madala")
+
+	return line
+end
+
+
+def old_change_line(line)
   line.gsub!("Claudio Nunes Claudio", "Claudio Nunes")
   line.gsub!("Claudio Nunes Clau", "Claudio Nunes")
   line.gsub!("Claudio Nunes. C", "Claudio Nunes")
@@ -30,7 +46,6 @@ def change_line(line)
   line.gsub!("Sementa", "Antonio Sementa")
 	# Now we have lots of "Antonio Antonio Sementa"
   line.gsub!("Antonio Antonio Sementa", "Antonio Sementa")
-
   line.gsub!("Ag Agustin Madala", "Agustin Madala")
   line.gsub!("Ag.Agustin Madala", "Agustin Madala")
   line.gsub!("A. Madala", "Agustin Madala")
@@ -39,14 +54,11 @@ def change_line(line)
   line.gsub!("madala", "Agustin Madala")
   line.gsub!("Madala", "Agustin Madala")
   line.gsub!("Agustin Agustin Madala", "Agustin Madala")
-	
   line.gsub!("Bob Bob Hamman", "Bob Hamman")
-
   line.gsub!("B Senior", "Brian Senior")
   line.gsub!("BRINK Sjoert", "Sjoert Brink")
   line.gsub!("BRINK Sjoe", "Sjoert Brink")
   line.gsub!("BROCK Sall", "Sally Brock")
-
   line.gsub!("Helness Tor", "Tor Helness")
   line.gsub!("Helness To", "Tor Helness")
   line.gsub!("Helness T.", "Tor Helness")
@@ -57,7 +69,6 @@ def change_line(line)
   line.gsub!("TorHelness", "Tor Helness")
   line.gsub!("helness tor", "Tor Helness")
   line.gsub!("helness", "Tor Helness")
-
   line.gsub!("Versace Alfredo", "Alfredo Versace")
   line.gsub!("Versace Al", "Alfredo Versace")
   line.gsub!("Versace Al", "Alfredo Versace")
@@ -70,11 +81,8 @@ def change_line(line)
   line.gsub!("Alfredo Alfredo Versace", "Alfredo Versace")
 	# Not quite unique
   line.gsub!("Alfredo Versace L.", "L. Versace")
-	return line
-end
 
 
-def old_change_line(line)
   line.gsub!("LEVINE", "Levine")
   line.gsub!("LEVIN", "Levin")
   line.gsub!("J Levin", "Jill Levin")
