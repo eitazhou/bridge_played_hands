@@ -1,6 +1,6 @@
 vg|Generali Euro Team Champs '97,1997.06.24,I,1,24,Finland,0,Italy,0|
 rs|4SW+1,4SW+1,4SE+1,4SE+1,3SN+1,3SN=,2SE+2,1NW+3,3DN-1,2DN=,2HN-2,3HS-2,2NN-2,3NN-3,4SS-1,4SN=,4HW-1,3HW=,3NE=,3NE+1,7SE=,5SE+1,5CWx-1,4HN=,1NS+1,1NS+1,4SE=,3DW=,3NW=,1SNx-2,3SN-1,3CN=,7SWx-5,6CN+1,1NW+2,2SE=,4SS-2,3SS=,3NNx-5,4HWx-1,3CE-1,2HN-2,4SS=,4SS=,2HN+1,1NN=,3NW+1,3NW=,|
-pn|Juuri Oja J,Duboin G,Koistinen K,Noberto Bocchi,Lauria L,Viitasalo P,Alfredo Versace A,Salomaa M|pg||
+pn|Juuri Oja J,Duboin G,Koistinen K,Noberto Bocchi,Lauria L,Viitasalo P,Alfredo Versace,Salomaa M|pg||
 pn|Juuri Oja J,Duboin G,Koistinen K,Noberto Bocchi,,,,|qx|o1|md|3S752HJT5D963CAJT3,SKQJ86H98743DJ8CQ,STHAQ2DKT42CK9754|sv|0|
 mb|1D|mb|p|mb|p|mb|1S|mb|p|mb|2D|mb|p|mb|2H|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
 pc|C4|pc|C2|pc|CA|pc|CQ|pg||
@@ -11,7 +11,7 @@ pc|CK|pc|C8|pc|C3|pc|S8|pg||
 pc|H7|pc|HQ|pc|S9|pc|HJ|pg||
 pc|S3|pc|S2|pc|SJ|pc|ST|pg||
 pc|DJ|pg||mc|11|pg||
-pn|,,,,Lauria L,Viitasalo P,Alfredo Versace A,Salomaa M|qx|c1|md|3S752HJT5D963CAJT3,SKQJ86H98743DJ8CQ,STHAQ2DKT42CK9754|sv|0|
+pn|,,,,Lauria L,Viitasalo P,Alfredo Versace,Salomaa M|qx|c1|md|3S752HJT5D963CAJT3,SKQJ86H98743DJ8CQ,STHAQ2DKT42CK9754|sv|0|
 mb|1C|mb|p|mb|1N|mb|2S|mb|3C|mb|4S|mb|p|mb|p|mb|p|pg||
 pc|C5|pc|C2|pc|CA|pc|CQ|pg||
 pc|CT|pc|S6|pc|C4|pc|C6|pg||
@@ -30,7 +30,7 @@ pc|S7|pc|C2|pc|SA|pc|ST|pg||
 pc|DA|pc|D2|pc|D5|pc|D4|pg||
 pc|D3|pc|DK|pc|D6|pc|C5|pg||
 pc|HA|pg||mc|11|pg||
-pn|,,,,Lauria L,Viitasalo P,Alfredo Versace A,Salomaa M|qx|c2|md|4SJT3HAJ9753DK2CJ4,SKQ7H42DQJT9865CQ,S98HKQT6D4CKT8652|sv|n|
+pn|,,,,Lauria L,Viitasalo P,Alfredo Versace,Salomaa M|qx|c2|md|4SJT3HAJ9753DK2CJ4,SKQ7H42DQJT9865CQ,S98HKQT6D4CKT8652|sv|n|
 mb|1S|mb|p|mb|2S|mb|p|mb|3C|mb|p|mb|3D|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
 pc|HA|pc|H2|pc|HT|pc|H8|pg||
 pc|H9|pc|H4|pc|HQ|pc|S2|pg||
@@ -42,7 +42,7 @@ pn|Juuri Oja J,Duboin G,Koistinen K,Noberto Bocchi,,,,|qx|o3|md|1ST65HAJ843DA63C
 mb|p|mb|1C|mb|1S|mb|2C|mb|2H|mb|p|mb|p|mb|3D|mb|3S|mb|p|mb|p|mb|p|pg||
 pc|DK|pc|DA|pc|D9|pc|D4|pg||
 mc|10|pg||
-pn|,,,,Lauria L,Viitasalo P,Alfredo Versace A,Salomaa M|qx|c3|md|1ST65HAJ843DA63C93,SQJ2HK97D9CAJ8765,SAK874HQT2D874CK4|sv|e|
+pn|,,,,Lauria L,Viitasalo P,Alfredo Versace,Salomaa M|qx|c3|md|1ST65HAJ843DA63C93,SQJ2HK97D9CAJ8765,SAK874HQT2D874CK4|sv|e|
 mb|p|mb|2C|mb|2S|mb|p|mb|3C|mb|p|mb|3S|mb|p|mb|p|mb|p|pg||
 pc|DK|pc|D3|pc|D9|pc|D4|pg||
 pc|DQ|pc|DA|pc|S2|pc|D7|pg||
@@ -59,7 +59,7 @@ pc|SQ|pc|S8|pc|S9|pc|S5|pg||
 pc|S2|pc|ST|pc|C2|pc|SJ|pg||
 pc|C5|pc|C7|pc|C3|pc|C4|pg||
 mc|10|pg||
-pn|,,,,Lauria L,Viitasalo P,Alfredo Versace A,Salomaa M|qx|c4|md|2ST87HKQ5DK3CKJ863,S94HT98DQ42CAQT42,SKJ5HJ632DJ9876C5|sv|b|
+pn|,,,,Lauria L,Viitasalo P,Alfredo Versace,Salomaa M|qx|c4|md|2ST87HKQ5DK3CKJ863,S94HT98DQ42CAQT42,SKJ5HJ632DJ9876C5|sv|b|
 mb|p|mb|p|mb|1S|mb|p|mb|1N|mb|p|mb|p|mb|p|pg||
 pc|D9|pc|DT|pc|DK|pc|D2|pg||
 pc|C3|pc|C2|pc|C5|pc|C7|pg||
@@ -78,7 +78,7 @@ pc|DQ|pc|S2|pc|H2|pc|DA|pg||
 pc|CJ|pc|CK|pc|C4|pc|C3|pg||
 pc|D9|pc|S4|pc|S8|pc|DJ|pg||
 pc|D8|pc|D4|pg||mc|8|pg||
-pn|,,,,Lauria L,Viitasalo P,Alfredo Versace A,Salomaa M|qx|c5|md|3S9875HKT92D3CAT83,SJT3HAJ84DAJ85CJ5,SQHQ3DKQ97642CKQ6|sv|n|
+pn|,,,,Lauria L,Viitasalo P,Alfredo Versace,Salomaa M|qx|c5|md|3S9875HKT92D3CAT83,SJT3HAJ84DAJ85CJ5,SQHQ3DKQ97642CKQ6|sv|n|
 mb|1D|mb|p|mb|1H|mb|p|mb|2D|mb|p|mb|p|mb|p|pg||
 pc|SA|pc|S5|pc|SJ|pc|SQ|pg||
 pc|S4|pc|S9|pc|ST|pc|D2|pg||
@@ -91,7 +91,7 @@ pn|Juuri Oja J,Duboin G,Koistinen K,Noberto Bocchi,,,,|qx|o6|md|4SAQT7HA3DKQ62CQ
 mb|p|mb|1C|mb|p|mb|2H|mb|p|mb|p|mb|p|pg||
 pc|DJ|pc|DQ|pc|DA|pc|D4|pg||
 mc|6|pg||
-pn|,,,,Lauria L,Viitasalo P,Alfredo Versace A,Salomaa M|qx|c6|md|4SAQT7HA3DKQ62CQJ3,SKJ6HKDA975CK9865,S9542HT98764D4CT2|sv|e|
+pn|,,,,Lauria L,Viitasalo P,Alfredo Versace,Salomaa M|qx|c6|md|4SAQT7HA3DKQ62CQJ3,SKJ6HKDA975CK9865,S9542HT98764D4CT2|sv|e|
 mb|p|mb|2D|mb|p|mb|2N|mb|p|mb|3C|mb|p|mb|3D|mb|p|mb|3H|mb|p|mb|p|mb|p|pg||
 pc|C5|pc|C2|pc|CA|pc|C3|pg||
 pc|S8|pc|SQ|pc|SK|pc|S2|pg||
@@ -111,7 +111,7 @@ pc|D5|pc|DA|pc|D2|pc|D3|pg||
 pc|H9|pc|C6|pc|C4|pc|H8|pg||
 pc|H2|pc|C9|pc|C7|pc|C2|pg||
 mc|6|pg||
-pn|,,,,Lauria L,Viitasalo P,Alfredo Versace A,Salomaa M|qx|c7|md|1SJ82H543DK2CKQJ96,SAT93HKD8643CT874,SQ7HA876DQJ75CA32|sv|b|
+pn|,,,,Lauria L,Viitasalo P,Alfredo Versace,Salomaa M|qx|c7|md|1SJ82H543DK2CKQJ96,SAT93HKD8643CT874,SQ7HA876DQJ75CA32|sv|b|
 mb|p|mb|p|mb|1D|mb|1H|mb|2C|mb|p|mb|2N|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
 pc|HQ|pc|H3|pc|HK|pc|H6|pg||
 pc|S9|pc|S7|pc|SK|pc|S2|pg||
@@ -130,7 +130,7 @@ pc|SA|pc|S4|pc|S8|pc|S2|pg||
 pc|S7|pc|C9|pc|SJ|pc|ST|pg||
 pc|DT|pc|D8|pc|DK|pc|D2|pg||
 mc|9|pg||
-pn|,,,,Lauria L,Viitasalo P,Alfredo Versace A,Salomaa M|qx|c8|md|2SQJ983HAQT6DT6CQ5,ST52HJ875D85CAK74,SA76HK4DAK743CT83|sv|0|
+pn|,,,,Lauria L,Viitasalo P,Alfredo Versace,Salomaa M|qx|c8|md|2SQJ983HAQT6DT6CQ5,ST52HJ875D85CAK74,SA76HK4DAK743CT83|sv|0|
 mb|p|mb|1N|mb|p|mb|2D|mb|p|mb|2H|mb|p|mb|3H|mb|p|mb|3S|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
 pc|DQ|pc|D6|pc|D8|pc|DA|pg||
 pc|H4|pc|H2|pc|HQ|pc|H5|pg||
@@ -151,7 +151,7 @@ pc|S2|pc|SJ|pc|H7|pc|ST|pg||
 pc|C5|pc|CA|pc|C4|pc|C2|pg||
 pc|DQ|pc|D9|pc|H3|pc|D5|pg||
 mc|9|pg||
-pn|,,,,Lauria L,Viitasalo P,Alfredo Versace A,Salomaa M|qx|c9|md|3S64HK87DT8652C865,SAT9HAQJT52DQJ7CA,SKQ752H64DAK9CJ94|sv|e|
+pn|,,,,Lauria L,Viitasalo P,Alfredo Versace,Salomaa M|qx|c9|md|3S64HK87DT8652C865,SAT9HAQJT52DQJ7CA,SKQ752H64DAK9CJ94|sv|e|
 mb|1S|mb|p|mb|1N|mb|d|mb|p|mb|2C|mb|p|mb|2H|mb|p|mb|3C|mb|p|mb|3H|mb|p|mb|p|mb|p|pg||
 pc|C4|pc|C2|pc|C5|pc|CA|pg||
 pc|DQ|pc|DK|pc|D3|pc|D2|pg||
@@ -172,7 +172,7 @@ pc|D8|pc|DT|pc|D3|pc|DA|pg||
 pc|S7|pc|S6|pc|ST|pc|C6|pg||
 pc|H2|pc|H3|pc|HJ|pc|HK|pg||
 mc|9|pg||
-pn|,,,,Lauria L,Viitasalo P,Alfredo Versace A,Salomaa M|qx|c10|md|4S9654HKQ65DK85C94,SKQTH92DT76CAT732,SA8H843DJ432CQJ86|sv|b|
+pn|,,,,Lauria L,Viitasalo P,Alfredo Versace,Salomaa M|qx|c10|md|4S9654HKQ65DK85C94,SKQTH92DT76CAT732,SA8H843DJ432CQJ86|sv|b|
 mb|1C|mb|p|mb|1D|mb|p|mb|1N|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
 pc|HQ|pc|H2|pc|H3|pc|HA|pg||
 pc|S2|pc|S4|pc|SK|pc|S8|pg||
@@ -186,7 +186,7 @@ pc|CA|pc|C3|pc|C2|pc|S2|pg||
 pc|SK|pc|S7|pc|SA|pc|S8|pg||
 pc|C4|pc|C5|pc|SQ|pc|C6|pg||
 pc|S5|pg||mc|13|pg||
-pn|,,,,Lauria L,Viitasalo P,Alfredo Versace A,Salomaa M|qx|c11|md|1S97HQ3DKQ532CA876,SAT4HAJ74DCQJT943,S8HK9862D9874CK52|sv|0|
+pn|,,,,Lauria L,Viitasalo P,Alfredo Versace,Salomaa M|qx|c11|md|1S97HQ3DKQ532CA876,SAT4HAJ74DCQJT943,S8HK9862D9874CK52|sv|0|
 mb|1D|mb|d|mb|2H|mb|3H|mb|p|mb|4C|mb|p|mb|4S|mb|p|mb|5C|mb|p|mb|5S|mb|p|mb|p|mb|p|pg||
 pc|DK|pc|H4|pc|D8|pc|DA|pg||
 pc|DJ|pc|D2|pc|C3|pc|D4|pg||
@@ -205,7 +205,7 @@ pc|CQ|pc|C5|pc|C3|pc|CJ|pg||
 pc|C4|pc|CA|pc|C7|pc|H3|pg||
 pc|H2|pc|HA|pc|H4|pc|H8|pg||
 pc|D4|pc|D3|pg||mc|10|pg||
-pn|,,,,Lauria L,Viitasalo P,Alfredo Versace A,Salomaa M|qx|c12|md|2S9832HQ643DKJ32CJ,S75HJ98D5CKQ98642,SAKQ6HK752D876CA5|sv|n|
+pn|,,,,Lauria L,Viitasalo P,Alfredo Versace,Salomaa M|qx|c12|md|2S9832HQ643DKJ32CJ,S75HJ98D5CKQ98642,SAKQ6HK752D876CA5|sv|n|
 mb|3C|mb|d|mb|p|mb|4C|mb|p|mb|4H|mb|p|mb|p|mb|p|pg||
 pc|C3|pc|CJ|pc|CQ|pc|CA|pg||
 pc|H2|pc|HT|pc|HQ|pc|HJ|pg||
