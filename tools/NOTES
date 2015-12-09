@@ -1,0 +1,18 @@
+Set of tools to process the data.
+Please list the tools by function
+
+
+##################
+# Normalize names
+##################
+
+To normalize the names, use the change_names.sh script and change_names.rb program.
+
+Put all the changes that you want to make into the change_names.rb program.
+
+To run the script
+
+cd lin_data
+sh ../../tools/change_names.sh
+
+
