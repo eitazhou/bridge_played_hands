@@ -3,7 +3,7 @@ rs|2SN+2,,4HN+1,,3CN=,,2SW=,,1NE+1,,3NS=,,5DW-1,,6HS=,,2HW+2,,4SE-2,,2SN=,,3NW+3
 pw|Lauria,Di Maio,Versace,Pietri,,,,,Stewart,Lauria,Weinstein,Versace,,,,,Helgemo,Ferguson,Helness,Lewis,,,,,Wolff,Helgemo,Deutsch,Helness,,,,,Zia,Meckstroth,Rosenberg,Johnson,,,,,Baran,Smith,Molson,Cohen,,,,,Weichsel,Hamman,Albert,Goren,,,,,Zia,Jansma,Rosenberg,Van Cleeff,,,,,Gawrys,Zeine,Lev,Martens,,,,,Freed,Helgemo,Passell,Helness,,,,,Berkowitz,Sontag,Cohen,Jacobus,,,,,Helgemo,Levin,Helness,Baldwin,,,,,Mahaffey,Lev,Soloway,Gawrys,,,,,Hampson,Schermer,Greco,Chambers,,,,,Zia,K. Sanborn,Rosenberg,S. Sanborn,,,,|
 mp|,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,|
 bn|1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30|pg||
-pn|Lauria,Di Maio,Versace,Pietri|qx|o1|md|3SA986H74DAJ8CAJT7,S752HJ2DK5432C643,SQJ43HQ63DQT97CK9|sv|0|mb|p|mb|1H|mb|d|mb|p|mb|1S|mb|2H|mb|2S|mb|p|mb|p|mb|p|pg||
+pn|Lauria,Di Maio,Alfredo Versace,Pietri|qx|o1|md|3SA986H74DAJ8CAJT7,S752HJ2DK5432C643,SQJ43HQ63DQT97CK9|sv|0|mb|p|mb|1H|mb|d|mb|p|mb|1S|mb|2H|mb|2S|mb|p|mb|p|mb|p|pg||
 pc|HA|pc|H4|pc|H2|pc|H6|pg||
 pc|HK|pc|H7|pc|HJ|pc|H3|pg||
 pc|H5|pc|S9|pc|D5|pc|HQ|pg||
@@ -13,7 +13,7 @@ pc|S6|pc|S5|pc|SJ|pc|ST|pg||
 pc|S3|pc|H8|pc|S8|pc|S7|pg||
 pc|DA|pc|D2|pc|D7|pc|D6|pg||
 pc|DJ|pc|DK|pc|D9|mc|10|pg||
-pn|Lauria,Di Maio,Versace,Pietri|qx|o2|md|4S72HA8643DQ963CA4,SAT96HJTDAJT52CJ2,SKQ854HQ975DCKQ97|sv|n|mb|p|mb|p|mb|1S|mb|p|mb|p|mb|d|mb|2D|mb|2H|mb|3D|mb|d|mb|p|mb|4C|mb|p|mb|4H|mb|p|mb|p|mb|p|pg||
+pn|Lauria,Di Maio,Alfredo Versace,Pietri|qx|o2|md|4S72HA8643DQ963CA4,SAT96HJTDAJT52CJ2,SKQ854HQ975DCKQ97|sv|n|mb|p|mb|p|mb|1S|mb|p|mb|p|mb|d|mb|2D|mb|2H|mb|3D|mb|d|mb|p|mb|4C|mb|p|mb|4H|mb|p|mb|p|mb|p|pg||
 pc|C6|pc|CA|pc|C2|pc|C7|pg||
 pc|S2|pc|S6|pc|SK|pc|S3|pg||
 pc|H5|pc|H2|pc|HA|pc|HJ|pg||
@@ -21,7 +21,7 @@ pc|S7|pc|SA|pc|S4|pc|SJ|pg||
 pc|ST|pc|S5|pc|D4|pc|H3|pg||
 pc|C4|pc|CJ|pc|CK|pc|C3|pg||
 mc|11|pg||
-pn|Stewart,Lauria,Weinstein,Versace|qx|o3|md|1SAJ83H53DQ9753C76,SK2HKQ76DKT4C8542,SQT6HT8DA82CAQJT9|sv|e|mb|p|mb|p|mb|2C|mb|p|mb|3C|mb|p|mb|p|mb|p|pg||
+pn|Stewart,Lauria,Weinstein,Alfredo Versace|qx|o3|md|1SAJ83H53DQ9753C76,SK2HKQ76DKT4C8542,SQT6HT8DA82CAQJT9|sv|e|mb|p|mb|p|mb|2C|mb|p|mb|3C|mb|p|mb|p|mb|p|pg||
 pc|S7|pc|S3|pc|S2|pc|ST|pg||
 pc|CJ|pc|CK|pc|C6|pc|C2|pg||
 pc|DJ|pc|DQ|pc|DK|pc|DA|pg||
@@ -30,7 +30,7 @@ pc|CQ|pc|S4|pc|H3|pc|C5|pg||
 pc|CT|pc|S5|pc|S8|pc|C8|pg||
 pc|D8|pc|D6|pc|D3|pc|DT|pg||
 mc|9|pg||
-pn|Stewart,Lauria,Weinstein,Versace|qx|o4|md|2SKJ75HK8D32CQJ852,SA93H643DKQJ6CA96,S6HA975DAT87CT743|sv|b|mb|1D|mb|p|mb|2H|mb|p|mb|2S|mb|p|mb|p|mb|p|pg||
+pn|Stewart,Lauria,Weinstein,Alfredo Versace|qx|o4|md|2SKJ75HK8D32CQJ852,SA93H643DKQJ6CA96,S6HA975DAT87CT743|sv|b|mb|1D|mb|p|mb|2H|mb|p|mb|2S|mb|p|mb|p|mb|p|pg||
 pc|S6|pc|S2|pc|S5|pc|S9|pg||
 pc|C6|pc|C7|pc|CK|pc|C2|pg||
 pc|SQ|pc|SK|pc|SA|pc|C3|pg||
