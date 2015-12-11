@@ -1,6 +1,6 @@
 vg|Camrose Trophy Match 2,10 Jan 2004,I,1,30,N Ireland,0,England,0|
 rs|1NE-1,1NE-3,4HS-1,4HS-1,3NE+2,3NE=,4HE=,4HE=,1SNx-3,4HW+1,3CE+2,3DN=,4CW-2,3HN-1,1NW=,3DE-2,4SW-1,4NE+1,4HE+2,4HE=,1NW+2,2NE-1,4HE=,5HE-1,3SW=,3HS=,3CE=,3NW-2,4HE=,3NE+1,4HS=,4HS=,4SE-1,3NW+3,2NW=,1NW+1,2HWx-3,1NS+4,2SN-1,2CN=,4HE=,4HE=,5SS-1,6SSx-3,5SN+1,4SS+2,4HN-1,4HN-1,3SW+1,4SWx-1,4SE=,4SE=,5SS-1,4SS=,5DW-2,5CNx-1,3NE+1,3NE+1,1NE+2,1NW+1|
-pn|Tranmer,Davies,Plunkett,Armstrong,Malinowski,Lavery,Erichsen,Coffey|pg||
+pn|Paul Tranmer,Danny Davies,Plunkett,Armstrong,Malinowski,Lavery,Espen Erichsen,Coffey|pg||
 mn|Camrose Trophy Match 2 - 10 Jan 2004|
 
 qx|o1,BOARD 1|rh||ah|Board 1|md|3SA64H62DA865CAQ96,S8732HJ543DK974CT,SJT5HKT87DQJTC854|sv|0|
@@ -63,7 +63,7 @@ mc|12|pg||
 qx|c10,BOARD 10|rh||ah|Board 10|md|4SQJT3H74DJ863CA73,S952H3DAK75CKT862,SK8HKT8DT42CQJ954|sv|b|
 sa|0|mb|1H|mb|p|mb|1N|mb|p|mb|4H|mb|p|mb|p|mb|p|pg||
 mc|10|pg||
-pn|Lavery,Davies,Coffey,Armstrong,Mould,Anderson,Hyett,Greenwood|pg||
+pn|Lavery,Danny Davies,Coffey,Armstrong,Mould,Rex Anderson,Hyett,David Greenwoood|pg||
 qx|o11,BOARD 11|rh||ah|Board 11|md|1S9843H72DKQ3CJT62,S762HQJ86D65CAQ54,SKJTHKT43DA842C93|sv|0|
 sa|0|mb|p|mb|p|mb|1H|mb|d|mb|p|mb|1N|mb|p|mb|p|mb|p|pg||
 mc|9|pg||
@@ -124,7 +124,7 @@ mc|7|pg||
 qx|c20,BOARD 20|rh||ah|Board 20|md|2SAQ72H642DA4CAQ85,SJ65HJ8DT972CJ974,SK98H953DQ53CT632|sv|b|
 sa|0|mb|p|mb|p|mb|1H|mb|d|mb|p|mb|2C|mb|p|mb|p|mb|p|pg||
 mc|8|pg||
-pn|Lavery,Davies,Coffey,Armstrong,Mould,Anderson,Hyett,Greenwood|pg||
+pn|Lavery,Danny Davies,Coffey,Armstrong,Mould,Rex Anderson,Hyett,David Greenwoood|pg||
 qx|o21,BOARD 21|rh||ah|Board 21|md|3SAKT42H8D962CQJ86,SQHT3DAQJTCAK7432,SJ9865HK92DK75CT9|sv|n|
 sa|0|mb|p|mb|3H|mb|p|mb|4H|mb|p|mb|p|mb|p|pg||
 mc|10|pg||
@@ -185,5 +185,5 @@ mc|9|pg||
 qx|c30,BOARD 30|rh||ah|Board 30|md|4S984HQ42D943CQ982,SKT52HJ75DAK5CKT5,SAJ76HA83DJT8CA74|sv|0|
 sa|0|mb|p|mb|p|mb|1N|mb|p|mb|p|mb|p|pg||
 mc|8|pg||
-pn|Tranmer,Davies,Plunkett,Armstrong,Malinowski,Lavery,Erichsen,Coffey|pg||
+pn|Paul Tranmer,Danny Davies,Plunkett,Armstrong,Malinowski,Lavery,Espen Erichsen,Coffey|pg||
 

@@ -1,6 +1,6 @@
 vg|TEST VUGRAPH,IT IS A TEST,I,1,20,ITALY-TEST1,0,NETHERLAND-TEST2,0|
 rs|PASS,3HN+1,,3DW=,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,|
-pn|South,West,North,East,South,West,North,East|pg||
+pn|Can South,West C,Can North,East D,Can South,West C,Can North,East D|pg||
 qx|o1|st||md|3SKQ42HJ84DK764C74,SA73H752DACAJT983,SJ95HAKQT3D532CK5,ST86H96DQJT98CQ62|sv|o|nt|vugraphzbf: IT IS A TEST|pg||
 mb|p|mb|p|mb|p|mb|p|pg||
 qx|c1|st||md|3SKQ42HJ84DK764C74,SA73H752DACAJT983,SJ95HAKQT3D532CK5,ST86H96DQJT98CQ62|sv|o|nt|Walddk4: Good morning everyone and welcome to Tallinn in Estonia|pg||

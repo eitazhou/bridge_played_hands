@@ -1,6 +1,6 @@
 vg|Camrose Trophy Match 1,7th Feb 2004,I,1,30,N Ireland,0,Scotland,0|
 rs|6SW=,6SW=,4SS-1,4SS=,4SSx-1,4HW=,4HN-1,3NN+1,3SW=,4SW-2,3NW=,4SE+1,3CW=,1NW-2,6DW+1,4HNx-2,4SN+1,4SN+1,3NE-2,3NW-1,4HE+3,4DNx-1,6DE+1,6DE+1,4SW+1,4SE+1,4HE-1,2SE=,4DN=,6NSx-2,6SNx-2,7SNx-3,5SW-1,5DNx=,3SE-1,3SE=,4SSx-2,4SSxx-2,3DE=,3SN-1,4SW=,4SW=,6CS=,5CN+1,3NW=,2NE=,5DN=,5DS=,3NN+2,3NS+3,4SNx-1,5DW+2,1NS+1,3NS+2,3NN-1,3NSx=,5CE-2,5SSx-2,1NE-2,1NE-1|
-pn|Tranmer,Patrick,Plunkett,Matheson,Piper,Anderson,Murdoch,Greenwood|pg||
+pn|Paul Tranmer,Jim Patrick,Plunkett,Jim Matheson,Douglas Piper,Rex Anderson,John Murdoch,David Greenwoood|pg||
 mn|Camrose Trophy Match 1 - 7th Feb 2004|
 qx|o1,BOARD 1|rh||ah|Board 1|md|3SJ5HJ97652DKQCK73,SAK98642HQ3D3CAJT,S73HTDJT97542CQ84|sv|0|
 sa|0|mb|3D|mb|p|mb|p|mb|4S|mb|p|mb|4N|mb|5D|mb|p|mb|p|mb|6S|mb|p|mb|p|mb|p|pg||
@@ -62,7 +62,7 @@ mc|7|pg||
 qx|c10,BOARD 10|rh||ah|Board 10|md|4SK932H83DJ83CAJ64,S876HAKQ2DAQ74CT2,SQT5HJT94DK62C875|sv|b|
 sa|0|mb|p|mb|p|mb|1N|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
 mc|8|pg||
-pn|Ferguson,Patrick,Hamilton,Matheson,Piper,Anderson,Murdoch,Greenwood|pg||
+pn|Jim Ferguson,Jim Patrick,Ian Hamilton,Jim Matheson,Douglas Piper,Rex Anderson,John Murdoch,David Greenwoood|pg||
 qx|o11,BOARD 11|rh||ah|Board 11|md|1SQJ973H9543D982C9,SA542HQ872D4CQJ76,SK86H6DKQJT76CT83|sv|0|
 sa|0|mb|p|mb|p|mb|2D|mb|d|mb|p|mb|3D|mb|d|mb|3H|mb|4D|mb|4H|mb|p|mb|p|mb|p|pg||
 mc|13|pg||
@@ -123,7 +123,7 @@ mc|9|pg||
 qx|c20,BOARD 20|rh||ah|Board 20|md|2SJT5H7652DKT5C983,S8HAQ84D82CAQ7642,SAK974HKJ9DA64CJT|sv|b|
 sa|0|mb|1C|mb|1S|mb|p|mb|2S|mb|p|mb|3D|mb|p|mb|3S|mb|p|mb|p|mb|p|pg||
 mc|8|pg||
-pn|Ferguson,Sime,Hamilton,Saunders,Piper,Tranmer,Murdoch,Plunkett|pg||
+pn|Jim Ferguson,Iain Sime,Ian Hamilton,Anthony Saunders,Douglas Piper,Paul Tranmer,John Murdoch,Plunkett|pg||
 qx|o21,BOARD 21|rh||ah|Board 21|md|3S65HQ7DT7542C9754,SJ9743H943DA93CK8,SQTHAKJ86DJ6CQJT2|sv|n|
 sa|0|mb|1H|mb|d|mb|p|mb|2S|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
 mc|10|pg||
@@ -184,4 +184,4 @@ mc|5|pg||
 qx|c30,BOARD 30|rh||ah|Board 30|md|4SA97HAQ92DQ72C743,SQT82H85DJ9CAJ986,SJ43HJ74DAT64CKT5|sv|0|
 sa|0|mb|1D|mb|p|mb|1S|mb|p|mb|1N|mb|p|mb|p|mb|p|pg||
 mc|6|pg||
-pn|Tranmer,Patrick,Plunkett,Matheson,Piper,Anderson,Murdoch,Greenwood|pg||
+pn|Paul Tranmer,Jim Patrick,Plunkett,Jim Matheson,Douglas Piper,Rex Anderson,John Murdoch,David Greenwoood|pg||

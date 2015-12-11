@@ -1,6 +1,6 @@
 vg|Camrose Trophy Match 1,1st Feb 2003,I,1,30,Scotland,0,Wales,0|
 rs|3NN+1,3NN=,5DW+1,3NW+1,4SN=,4SN=,6HW-1,6HW-1,4SE=,3NW-1,2DE=,3CS=,3HWx-1,3CS=,3NW-1,3NW=,3NW-1,4SE-1,3CW+1,3SS-1,3NE+2,3NE+2,4HW-1,3NW-1,3NN+3,4HN=,3SS=,3DE+1,4SN=,4SS-2,4HN=,4HN=,7SW=,7SW=,2CS-1,2CS=,3NW-1,3SNx-1,5DN=,5DN=,3NN+1,4SN=,1NW-1,2DS+1,3NS=,3NN=,2NW=,2NW=,4SS+1,4SS+1,2HN+3,3CE+1,2DW-3,2SE-1,4NN+1,5CN-1,2SN=,2SS+1,4SS+1,4SS+1|
-pn|McGeorge,Ratcliff,Steel,Jourdain,Denning,Matheson,Thomas,Coyle|pg||
+pn|Mcgeorge J,Tony Ratcliff,Les Steel,Patrick Jourdain,Paul Denning,John Matheson,Thomas A,Willie Coyle|pg||
 mn|Camrose Trophy Match 1 - 01 Feb 2003|
 qx|o1,BOARD 1|rh||ah|Board 1|md|3SKJ7HK76DT8764CQ3,SQT832HT9D5CKT952,SA94HAQ3DAQCAJ864|sv|0|
 sa|0|mb|2D|mb|p|mb|3H|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
@@ -62,7 +62,7 @@ mc|10|pg||
 qx|c10,BOARD 10|rh||ah|Board 10|md|4SQJ83HAJ3D8543C54,S6H4DAT9762CAKJT8,SAKT4HK962DKJC932|sv|b|
 sa|0|mb|p|mb|p|mb|1D|mb|d|mb|1H|mb|1S|mb|2C|mb|2S|mb|p|mb|p|mb|3C|mb|p|mb|p|mb|3S|mb|p|mb|p|mb|p|pg||
 mc|8|pg||
-pn|Coyle,Thomas,Matheson,Denning,Rees,McGowan,Kurbalija,Baxter|pg||
+pn|Willie Coyle,Thomas A,John Matheson,Paul Denning,Tim Rees,Liz Mcgowan,Filip Kurbalija,Ken Baxter|pg||
 qx|o11,BOARD 11|rh||ah|Board 11|md|1SJ9643HATDT985CJ3,SHK98764D43CA8652,ST852HQ32DKJCQT74|sv|0|
 sa|0|mb|p|mb|2H|mb|p|mb|2N|mb|p|mb|3H|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
 mc|11|pg||
@@ -123,7 +123,7 @@ mc|11|pg||
 qx|c20,BOARD 20|rh||ah|Board 20|md|2S76HQ932DQJ843CA4,S98HKJ8DK7CKQJ973,SAKQT2H4DA9652C65|sv|b|
 sa|0|mb|2C|mb|2S|mb|3C|mb|d|mb|p|mb|4D|mb|p|mb|5D|mb|p|mb|p|mb|p|pg||
 mc|11|pg||
-pn|McGeorge,Ratcliff,Steel,Jourdain,Rees,McGowan,Kurbalija,Baxter|pg||
+pn|Mcgeorge J,Tony Ratcliff,Les Steel,Patrick Jourdain,Tim Rees,Liz Mcgowan,Filip Kurbalija,Ken Baxter|pg||
 qx|o21,BOARD 21|rh||ah|Board 21|md|3SKJ732H74DK52CQ76,STHAJ3DQJ9643C943,SA94HKQ82DA87CK52|sv|n|
 sa|0|mb|1N|mb|p|mb|2H|mb|p|mb|2S|mb|p|mb|2N|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
 mc|10|pg||
@@ -184,4 +184,4 @@ mc|11|pg||
 qx|c30,BOARD 30|rh||ah|Board 30|md|4SAK432HAJ652DATC7,S76H9743DKQ5CKQ82,ST85HQTD742CAJ964|sv|0|
 sa|0|mb|p|mb|1S|mb|p|mb|2S|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
 mc|11|pg||
-pn|McGeorge,Ratcliff,Steel,Jourdain,Denning,Matheson,Thomas,Coyle|pg||
+pn|Mcgeorge J,Tony Ratcliff,Les Steel,Patrick Jourdain,Paul Denning,John Matheson,Thomas A,Willie Coyle|pg||

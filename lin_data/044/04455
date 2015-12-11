@@ -1,7 +1,7 @@
 vg|2007 Cavendish Pairs,Session 2 Table 1,P,1,27,Team 1,0,Team 2,0|
 rs|4HS=,,4SEx-1,,4SWx-1,,3SN-1,,4SEx=,,7NW=,,4SW-2,,5DS-1,,2SE-1,,P,,3NN+1,,3NN+1,,6SE=,,3NS+1,,6DEx-1,,2SN=,,2SE+1,,3CE+1,,5CSx-2,,5CSx-1,,5DE=,,4HW=,,2HS=,,6DW-1,,3NS=,,3NE+1,,2DN+2|
 pw|Feigenbaum,Woolsey,Zaleski,Stewart,,,,,,,,,Versace,Moss,Giubilo,Gitelman,,,,,,,,,Chemla,Sadek,Levy,Hussein,,,,,,,,,H Weinstein,S Weinstein,Cohler,B Levin,,,,,,,,,Elinescu,Fallenius,Wladlow,Schwartz,,,,,,,,,Wolpert,Shen,Kranyak,Shih,,,,,,,,,Berkowitz,Wildavsky,Pollack,Doub,,,,,,,,,S Weinstein,Giubilo,B Levin,Versace,,,,,,,,,Welland,Diamond,Willenken,Krekorian|pg||
-pn|Feigenbaum,Woolsey,Zaleski,Stewart|pg||
+pn|Feigenbaum,Kit Woolsey,Zaleski,Fred Stewart|pg||
 qx|o1|md|3SQJ3HKQT42DJ8CAJ8,SAT6H753DQ932CK42,SK985HJ98DAK754C6,S742HA6DT6CQT9753|sv|o|mb|p|mb|p|mb|1H|mb|p|mb|2C|mb|p|mb|2N|mb|p|mb|3D|mb|p|mb|3N|mb|p|mb|4H|mb|p|mb|p|mb|p|pg||
 pc|h5|pc|h8|pc|hA|pc|h2|pg||
 pc|h6|pc|h4|pc|h3|pc|h9|pg||
@@ -28,7 +28,7 @@ pc|d5|pc|dQ|pc|d3|pc|d8|pg||
 pc|sT|pc|s6|pc|sA|pc|s3|pg||
 mc|9|pg||
 
-pn|Alfredo Versace,Moss,Giubilo,Gitelman|pg||
+pn|Alfredo Versace,Brad Moss,Giubilo,Fred Gitelman|pg||
 qx|o4|md|2SAKQ2HT92DJ87CT52,SJ9HA854DQT64C863,S87653HK76DA52CA7,ST4HQJ3DK93CKQJ94|sv|b|mb|p|mb|1S|mb|2C|mb|3C|mb|p|mb|3S|mb|p|mb|p|mb|p|pg||
 pc|cK|pc|c2|pc|c8|pc|cA|pg||
 pc|s3|pc|s4|pc|sA|pc|s9|pg||
@@ -53,7 +53,7 @@ pc|s8|pc|h7|mc|10|pg||
 qx|o6|md|4SKJ6H95DT732C7654,SA7H64DAKQCAKQT98,ST985432HJ73DCJ32,SQHAKQT82DJ98654C|sv|e|mb|1H|mb|p|mb|2C!|an|FG|mb|3S|mb|4D|mb|4S|mb|7N|mb|p|mb|p|mb|p|pg||
 pc|sT|mc|13|pg||
 
-pn|Chemla,Sadek,Levy,Hussein|pg||
+pn|Paul Chemla,Tarek Mohamed Sadek,Alain Levy,Ahmed Hussein|pg||
 qx|o7|md|1SQ2HKJ83DKQ87CJ97,SKJT873HQ6DJ64C52,S5HAT975DA95CT643,SA964H42DT32CAKQ8|sv|b|mb|1D|mb|1S|mb|d|mb|2D|an|good spade raise|mb|2H|mb|p|mb|3H|mb|4S|mb|p|mb|p|mb|p|pg||
 pc|hA|pc|h2|pc|h3|pc|h6|pg||
 pc|hT|pc|h4|pc|hK|pc|hQ|pg||
@@ -103,7 +103,7 @@ pc|c2|pc|cJ|pc|cT|pc|c3|pg||
 pc|sQ|pc|s5|pc|s9|pc|sK|pg||
 mc|10|pg||
 
-pn|Elinescu,Fallenius,Wladlow,Schwartz|pg||
+pn|Michael Elinescu,Bjorn Fallenius,Entscho Wladow,Schwartz|pg||
 qx|o13|md|3SQ8H43DQT643CKT65,S976542HK96DA9CA4,SHQJ852DJ7CJ98732,SAKJT3HAT7DK852CQ|sv|b|mb|p|mb|1S|mb|p|mb|2N!|an|fg raise|mb|p|mb|3D!|an|14-16 some shortness|mb|p|mb|3H!|an|asking|mb|p|mb|3S|an|club splinter|mb|p|mb|4D|mb|p|mb|4H|mb|p|mb|4N|mb|p|mb|5C|mb|p|mb|6S|mb|p|mb|p|mb|p|pg||
 pc|h3|pc|h6|pc|hJ|pc|hA|pg||
 pc|sA|pc|s8|pc|s2|pc|h2|pg||
@@ -133,7 +133,7 @@ pc|sK|pc|sQ|pc|c2|pc|sT|pg||
 pc|cK|pc|c8|pc|c7|pc|d7|pg||
 mc|11|pg||
 
-pn|Wolpert,Shen,Kranyak,Shih|pg||
+pn|Gavin Wolpert,C K Shen,Kranyak,Juei-yu Shih|pg||
 qx|o16|md|2ST8764HQ3DQ987CQ3,SK952H952D5CAJ952,SAJ3HAJT7DAKT6C64,SQHK864DJ432CKT87|sv|e|mb|p|mb|1N|mb|p|mb|2H!|an|TRFR|mb|p|mb|2S|mb|p|mb|p|mb|p|pg||
 pc|d2|pc|dQ|pc|d5|pc|d6|pg||
 pc|hQ|pc|h9|pc|hA|pc|h4|pg||
@@ -165,7 +165,7 @@ pc|h5|pc|h8|pc|h4|pc|d7|pg||
 pc|d9|pc|d5|pc|dT|pc|c6|pg||
 pc|cQ|pc|cK|pc|cA|mc|10|pg||
 
-pn|Berkowitz,Wildavsky,Pollack,Doub|pg||
+pn|Berkowitz,Adam Wildavsky,Pollack,Doug Doub|pg||
 qx|o19|md|1S4H973DAJT54CQJ62,SKQT62HJ85DK83C75,SJ98HATDQ97CKT843,SA753HKQ642D62CA9|sv|e|mb|p|mb|p|mb|p|mb|1H|mb|p|mb|2C!|mb|p|mb|2D!|mb|d|mb|2H|an|3 hearts|mb|2N|mb|3D|mb|4C|mb|4H|mb|p|mb|p|mb|4N|mb|p|mb|5C|mb|d|mb|p|mb|p|mb|p|pg||
 pc|sQ|pc|s8|pc|s3|pc|s4|pg||
 pc|h5|pc|hA|pc|h2|pc|h3|pg||
@@ -224,7 +224,7 @@ pc|hK|pc|h4|pc|c5|pc|h6|pg||
 pc|hQ|pc|h9|pc|sT|pc|h8|pg||
 mc|11|pg||
 
-pn|Welland,John Diamond,Willenken,Krekorian|pg||
+pn|Roy Welland,John Diamond,Chris Willenken,James Krekorian|pg||
 qx|o25|
 nt|North/South for board 25 were actually Pszczola and Vainkonis|pg||
 md|3SAT5HKJ5DQ743CKT3,SK762HAT9742DT2C9,SQ4HQ86DAKJ6C8652,SJ983H3D985CAQJ74|sv|e|mb|1C|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||

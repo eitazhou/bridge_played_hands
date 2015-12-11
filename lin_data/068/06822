@@ -3,7 +3,7 @@ rs|2SN+2,,4HN+1,,3CN=,,2SW=,,1NE+1,,3NS=,,5DW-1,,6HS=,,2HW+2,,4SE-2,,2SN=,,3NW+3
 pw|Lauria,Di Maio,Versace,Pietri,,,,,Stewart,Lauria,Weinstein,Versace,,,,,Helgemo,Ferguson,Helness,Lewis,,,,,Wolff,Helgemo,Deutsch,Helness,,,,,Zia,Meckstroth,Rosenberg,Johnson,,,,,Baran,Smith,Molson,Cohen,,,,,Weichsel,Hamman,Albert,Goren,,,,,Zia,Jansma,Rosenberg,Van Cleeff,,,,,Gawrys,Zeine,Lev,Martens,,,,,Freed,Helgemo,Passell,Helness,,,,,Berkowitz,Sontag,Cohen,Jacobus,,,,,Helgemo,Levin,Helness,Baldwin,,,,,Mahaffey,Lev,Soloway,Gawrys,,,,,Hampson,Schermer,Greco,Chambers,,,,,Zia,K. Sanborn,Rosenberg,S. Sanborn,,,,|
 mp|,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,|
 bn|1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30|pg||
-pn|Lauria,Di Maio,Alfredo Versace,Pietri|qx|o1|md|3SA986H74DAJ8CAJT7,S752HJ2DK5432C643,SQJ43HQ63DQT97CK9|sv|0|mb|p|mb|1H|mb|d|mb|p|mb|1S|mb|2H|mb|2S|mb|p|mb|p|mb|p|pg||
+pn|Lorenzo Lauria,Di Maio,Alfredo Versace,Pietri|qx|o1|md|3SA986H74DAJ8CAJT7,S752HJ2DK5432C643,SQJ43HQ63DQT97CK9|sv|0|mb|p|mb|1H|mb|d|mb|p|mb|1S|mb|2H|mb|2S|mb|p|mb|p|mb|p|pg||
 pc|HA|pc|H4|pc|H2|pc|H6|pg||
 pc|HK|pc|H7|pc|HJ|pc|H3|pg||
 pc|H5|pc|S9|pc|D5|pc|HQ|pg||
@@ -13,7 +13,7 @@ pc|S6|pc|S5|pc|SJ|pc|ST|pg||
 pc|S3|pc|H8|pc|S8|pc|S7|pg||
 pc|DA|pc|D2|pc|D7|pc|D6|pg||
 pc|DJ|pc|DK|pc|D9|mc|10|pg||
-pn|Lauria,Di Maio,Alfredo Versace,Pietri|qx|o2|md|4S72HA8643DQ963CA4,SAT96HJTDAJT52CJ2,SKQ854HQ975DCKQ97|sv|n|mb|p|mb|p|mb|1S|mb|p|mb|p|mb|d|mb|2D|mb|2H|mb|3D|mb|d|mb|p|mb|4C|mb|p|mb|4H|mb|p|mb|p|mb|p|pg||
+pn|Lorenzo Lauria,Di Maio,Alfredo Versace,Pietri|qx|o2|md|4S72HA8643DQ963CA4,SAT96HJTDAJT52CJ2,SKQ854HQ975DCKQ97|sv|n|mb|p|mb|p|mb|1S|mb|p|mb|p|mb|d|mb|2D|mb|2H|mb|3D|mb|d|mb|p|mb|4C|mb|p|mb|4H|mb|p|mb|p|mb|p|pg||
 pc|C6|pc|CA|pc|C2|pc|C7|pg||
 pc|S2|pc|S6|pc|SK|pc|S3|pg||
 pc|H5|pc|H2|pc|HA|pc|HJ|pg||
@@ -39,7 +39,7 @@ pc|H8|pc|H4|pc|HA|pc|H2|pg||
 pc|H9|pc|HT|pc|S7|pc|H6|pg||
 pc|D3|pc|DK|pc|DA|pc|D4|pg||
 mc|8|pg||
-pn|Helgemo,Ferguson,Helness,Lewis|qx|o5|md|3SKJ5HAT8DJT74CJ87,SQ42HJ52DQ852CK64,ST76HK963DA6CT532|sv|n|mb|p|mb|1N|mb|p|mb|p|mb|p|pg||
+pn|Geir Helgemo,Ferguson,Tor Helness,Lewis|qx|o5|md|3SKJ5HAT8DJT74CJ87,SQ42HJ52DQ852CK64,ST76HK963DA6CT532|sv|n|mb|p|mb|1N|mb|p|mb|p|mb|p|pg||
 pc|D4|pc|D2|pc|DA|pc|D3|pg||
 pc|D6|pc|DK|pc|D7|pc|D5|pg||
 pc|S3|pc|SK|pc|S2|pc|S6|pg||
@@ -51,7 +51,7 @@ pc|CA|pc|C7|pc|C4|pc|C2|pg||
 pc|CQ|pc|C8|pc|C6|pc|C3|pg||
 pc|C9|pc|CJ|pc|CK|pc|CT|pg||
 pc|H5|mc|8|pg||
-pn|Helgemo,Ferguson,Helness,Lewis|qx|o6|md|4SKQ63HT4DAK65CK96,SJ9842HQJ2D7CA432,SA5HA873DJ983CQJT|sv|e|mb|p|mb|1N|mb|p|mb|2C|mb|p|mb|2S|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
+pn|Geir Helgemo,Ferguson,Tor Helness,Lewis|qx|o6|md|4SKQ63HT4DAK65CK96,SJ9842HQJ2D7CA432,SA5HA873DJ983CQJT|sv|e|mb|p|mb|1N|mb|p|mb|2C|mb|p|mb|2S|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
 pc|S2|pc|S5|pc|ST|pc|SQ|pg||
 pc|C6|pc|C4|pc|CT|pc|C5|pg||
 pc|CJ|pc|C8|pc|C9|pc|C2|pg||
@@ -88,7 +88,7 @@ pc|HJ|pc|HA|pc|H2|pc|S8|pg||
 pc|H9|pc|HQ|pc|C8|pc|H6|pg||
 pc|C3|pc|C6|pc|CJ|pc|C9|pg||
 mc|12|pg||
-pn|Zia,Jeff Meckstroth,Rosenberg,Johnson|qx|o9|md|3SJ743H8652D32C532,SKT985HAKT74DCA98,SAHQJ3DAQ975CKJT4|sv|e|mb|1D|mb|p|mb|1S|mb|2H|mb|p|mb|p|mb|p|pg||
+pn|Zia Mahmood,Jeff Meckstroth,Michael Rosenberg,Johnson|qx|o9|md|3SJ743H8652D32C532,SKT985HAKT74DCA98,SAHQJ3DAQ975CKJT4|sv|e|mb|1D|mb|p|mb|1S|mb|2H|mb|p|mb|p|mb|p|pg||
 pc|SA|pc|S2|pc|S7|pc|S9|pg||
 pc|CJ|pc|CQ|pc|C2|pc|C8|pg||
 pc|H9|pc|H5|pc|H4|pc|HJ|pg||
@@ -99,7 +99,7 @@ pc|HT|pc|D5|pc|D8|pc|H8|pg||
 pc|S5|pc|D7|pc|SQ|pc|S3|pg||
 pc|S6|pc|SJ|pc|SK|pc|D9|pg||
 pc|S8|pc|DQ|mc|10|pg||
-pn|Zia,Jeff Meckstroth,Rosenberg,Johnson|qx|o10|md|4SJT9H9865DKT3CT64,SQ862HAT73DA64CK7,SK5HKQ4DQ72CJ9852|sv|b|mb|1D|mb|p|mb|1H|mb|p|mb|1S|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
+pn|Zia Mahmood,Jeff Meckstroth,Michael Rosenberg,Johnson|qx|o10|md|4SJT9H9865DKT3CT64,SQ862HAT73DA64CK7,SK5HKQ4DQ72CJ9852|sv|b|mb|1D|mb|p|mb|1H|mb|p|mb|1S|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
 pc|C6|pc|CK|pc|C2|pc|C3|pg||
 pc|S2|pc|S5|pc|SA|pc|ST|pg||
 pc|S3|pc|SJ|pc|SQ|pc|SK|pg||
@@ -146,7 +146,7 @@ pc|D8|pc|DT|pc|DA|pc|S2|pg||
 pc|SA|pc|S7|pc|S4|pc|SJ|pg||
 pc|S6|pc|ST|pc|SQ|pc|SK|pg||
 mc|10|pg||
-pn|Zia,Jansma,Rosenberg,Van Cleeff|qx|o15|md|1S6HQT9843DCA87653,SKT7HKJ7DK543CK94,S842HA652DAQ76CQT|sv|n|mb|2H|mb|p|mb|2N|mb|4S|mb|5C|mb|p|mb|5H|mb|p|mb|p|mb|d|mb|p|mb|p|mb|p|pg||
+pn|Zia Mahmood,Jansma,Michael Rosenberg,Van Cleeff|qx|o15|md|1S6HQT9843DCA87653,SKT7HKJ7DK543CK94,S842HA652DAQ76CQT|sv|n|mb|2H|mb|p|mb|2N|mb|4S|mb|5C|mb|p|mb|5H|mb|p|mb|p|mb|d|mb|p|mb|p|mb|p|pg||
 pc|S7|pc|S2|pc|SA|pc|S6|pg||
 pc|SQ|pc|H8|pc|ST|pc|S4|pg||
 pc|HQ|pc|HK|pc|HA|pc|S5|pg||
@@ -154,7 +154,7 @@ pc|CT|pc|C2|pc|C3|pc|CK|pg||
 pc|SK|pc|S8|pc|S9|pc|H3|pg||
 pc|C5|pc|C9|pc|CQ|pc|CJ|pg||
 mc|10|pg||
-pn|Zia,Jansma,Rosenberg,Van Cleeff|qx|o16|md|2SKQJ9HQ72DK84CJ97,SA73H8653DAQ7CKQ3,ST52HA4D632CAT865|sv|e|mb|1N|mb|p|mb|p|mb|p|pg||
+pn|Zia Mahmood,Jansma,Michael Rosenberg,Van Cleeff|qx|o16|md|2SKQJ9HQ72DK84CJ97,SA73H8653DAQ7CKQ3,ST52HA4D632CAT865|sv|e|mb|1N|mb|p|mb|p|mb|p|pg||
 pc|C6|pc|C2|pc|CJ|pc|CK|pg||
 pc|H8|pc|H4|pc|H9|pc|H2|pg||
 pc|D5|pc|D8|pc|DQ|pc|D2|pg||
@@ -164,7 +164,7 @@ pc|H3|pc|D3|pc|HK|pc|HQ|pg||
 pc|HJ|pc|C9|pc|H6|pc|S2|pg||
 pc|D9|pc|D4|pc|DA|pc|D6|pg||
 mc|7|pg||
-pn|Gawrys,Zeine,Lev,Martens|qx|o17|md|3S62HA765DK7CKJ832,SAT953HKT84DAJCQ6,SQJ874H2D8542CA95|sv|0|mb|p|mb|p|mb|1C|mb|1S|mb|p|mb|p|mb|p|pg||
+pn|Piotr Gawrys,Zeine,Sam Lev,Martens|qx|o17|md|3S62HA765DK7CKJ832,SAT953HKT84DAJCQ6,SQJ874H2D8542CA95|sv|0|mb|p|mb|p|mb|1C|mb|1S|mb|p|mb|p|mb|p|pg||
 pc|D5|pc|D3|pc|D7|pc|DJ|pg||
 pc|DA|pc|D2|pc|D6|pc|DK|pg||
 pc|S3|pc|S4|pc|SK|pc|S2|pg||
@@ -176,7 +176,7 @@ pc|CA|pc|C4|pc|C3|pc|C6|pg||
 pc|C9|pc|C7|pc|CK|pc|CQ|pg||
 pc|H7|pc|HT|pc|S8|pc|HJ|pg||
 mc|7|pg||
-pn|Gawrys,Zeine,Lev,Martens|qx|o18|md|4SA85H94DAQ74CQT93,SJ4HAKQJD985CAKJ6,SK76HT862DKT2C752|sv|n|mb|p|mb|1C|mb|d|mb|p|mb|1S|mb|p|mb|1N|mb|p|mb|2S|mb|p|mb|p|mb|p|pg||
+pn|Piotr Gawrys,Zeine,Sam Lev,Martens|qx|o18|md|4SA85H94DAQ74CQT93,SJ4HAKQJD985CAKJ6,SK76HT862DKT2C752|sv|n|mb|p|mb|1C|mb|d|mb|p|mb|1S|mb|p|mb|1N|mb|p|mb|2S|mb|p|mb|p|mb|p|pg||
 pc|H9|pc|HJ|pc|H2|pc|H3|pg||
 pc|HQ|pc|HT|pc|H5|pc|H4|pg||
 pc|HK|pc|H8|pc|H7|pc|S5|pg||
@@ -206,12 +206,12 @@ pc|HT|pc|H2|pc|HA|pc|H4|pg||
 pc|C7|pc|CQ|pc|CA|pc|C5|pg||
 pc|HK|pc|H5|pc|H6|pc|H3|pg||
 mc|9|pg||
-pn|Berkowitz,Sontag,Cohen,Jacobus|qx|o21|md|3SQ862HKQDJ9642CQ5,ST753H542DQ7CK872,SAH873DAT853CAJT4|sv|n|mb|1D|mb|1H|mb|1S|mb|2H|mb|p|mb|p|mb|3D|mb|p|mb|p|mb|p|pg||
+pn|David Berkowitz,Sontag,Larry Cohen,Jacobus|qx|o21|md|3SQ862HKQDJ9642CQ5,ST753H542DQ7CK872,SAH873DAT853CAJT4|sv|n|mb|1D|mb|1H|mb|1S|mb|2H|mb|p|mb|p|mb|3D|mb|p|mb|p|mb|p|pg||
 pc|S9|pc|S2|pc|S3|pc|SA|pg||
 pc|DA|pc|DK|pc|D2|pc|D7|pg||
 pc|D5|pc|HT|pc|D4|pc|DQ|pg||
 pc|S5|mc|11|pg||
-pn|Berkowitz,Sontag,Cohen,Jacobus|qx|o22|md|4SK4H63DQJTCKT8765,S863HAT9DK954CA32,SQJ7HQ52DA73CQJ94|sv|e|mb|p|mb|1N|mb|p|mb|p|mb|d|mb|2C|mb|p|mb|p|mb|2H|mb|p|mb|p|mb|3C|mb|p|mb|p|mb|3H|mb|p|mb|p|mb|p|pg||
+pn|David Berkowitz,Sontag,Larry Cohen,Jacobus|qx|o22|md|4SK4H63DQJTCKT8765,S863HAT9DK954CA32,SQJ7HQ52DA73CQJ94|sv|e|mb|p|mb|1N|mb|p|mb|p|mb|d|mb|2C|mb|p|mb|p|mb|2H|mb|p|mb|p|mb|3C|mb|p|mb|p|mb|3H|mb|p|mb|p|mb|p|pg||
 pc|DQ|pc|D4|pc|D3|pc|D6|pg||
 pc|DJ|pc|D5|pc|D7|pc|D8|pg||
 pc|SK|pc|S3|pc|S7|pc|SA|pg||
@@ -219,7 +219,7 @@ pc|H4|pc|H3|pc|HA|pc|H2|pg||
 pc|CA|pc|C4|pc|D2|pc|C8|pg||
 pc|HT|pc|H5|pc|H7|pc|H6|pg||
 mc|9|pg||
-pn|Helgemo,Levin,Helness,Baldwin|qx|o23|md|1SAK64HAK2DKT3CQJ7,SQJ2HQT9DAQ2CA852,ST9853H653DJ96C94|sv|b|mb|2N|mb|p|mb|3H|mb|p|mb|3S|mb|p|mb|p|mb|p|pg||
+pn|Geir Helgemo,Levin,Tor Helness,Baldwin|qx|o23|md|1SAK64HAK2DKT3CQJ7,SQJ2HQT9DAQ2CA852,ST9853H653DJ96C94|sv|b|mb|2N|mb|p|mb|3H|mb|p|mb|3S|mb|p|mb|p|mb|p|pg||
 pc|SJ|pc|S3|pc|S7|pc|SA|pg||
 pc|SK|pc|S2|pc|S5|pc|D4|pg||
 pc|S4|pc|SQ|pc|S8|pc|D5|pg||
@@ -228,7 +228,7 @@ pc|CQ|pc|CA|pc|C4|pc|C6|pg||
 pc|HQ|pc|H5|pc|H7|pc|HA|pg||
 pc|H2|pc|H9|pc|H6|pc|HJ|pg||
 pc|D8|mc|7|pg||
-pn|Helgemo,Levin,Helness,Baldwin|qx|o24|md|2SKQHAT5DKQ4CQ9865,S9874HQJ6432D5C42,SJ32H7DAJT98CKJT7|sv|0|mb|p|mb|p|mb|p|mb|1N|mb|p|mb|2C|mb|p|mb|2D|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
+pn|Geir Helgemo,Levin,Tor Helness,Baldwin|qx|o24|md|2SKQHAT5DKQ4CQ9865,S9874HQJ6432D5C42,SJ32H7DAJT98CKJT7|sv|0|mb|p|mb|p|mb|p|mb|1N|mb|p|mb|2C|mb|p|mb|2D|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
 pc|H4|pc|H7|pc|HK|pc|HA|pg||
 pc|C5|pc|C4|pc|CJ|pc|CA|pg||
 pc|H9|pc|HT|pc|HJ|pc|S2|pg||
@@ -270,7 +270,7 @@ pc|C3|pc|CK|pc|CA|pc|S2|pg||
 pc|SA|pc|SQ|pc|S6|pc|S9|pg||
 pc|DT|pc|D2|pc|D7|pc|DA|pg||
 pc|SK|mc|9|pg||
-pn|Zia,K. Sanborn,Rosenberg,S. Sanborn|qx|o29|md|3SK5HA98762DQ72C85,SQT6HKQJD9853CAK9,SJ87HT543DK64CT64|sv|b|mb|p|mb|1S|mb|p|mb|2N|mb|p|mb|3C|mb|p|mb|3S|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
+pn|Zia Mahmood,K. Sanborn,Michael Rosenberg,S. Sanborn|qx|o29|md|3SK5HA98762DQ72C85,SQT6HKQJD9853CAK9,SJ87HT543DK64CT64|sv|b|mb|p|mb|1S|mb|p|mb|2N|mb|p|mb|3C|mb|p|mb|3S|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
 pc|H7|pc|HJ|pc|H3|pc|DT|pg||
 pc|SQ|pc|S8|pc|S2|pc|SK|pg||
 pc|D2|pc|D3|pc|DK|pc|DA|pg||
@@ -279,7 +279,7 @@ pc|ST|pc|S7|pc|S3|pc|S5|pg||
 pc|S6|pc|SJ|pc|SA|pc|H9|pg||
 pc|C3|pc|C8|pc|CK|pc|C4|pg||
 mc|11|pg||
-pn|Zia,K. Sanborn,Rosenberg,S. Sanborn|qx|o30|md|4SAK75HKJ7D643CA76,ST8HQ63DA8CQJT543,SQ43HT54DJT952C92|sv|0|mb|1D|mb|d|mb|2C|mb|p|mb|p|mb|p|pg||
+pn|Zia Mahmood,K. Sanborn,Michael Rosenberg,S. Sanborn|qx|o30|md|4SAK75HKJ7D643CA76,ST8HQ63DA8CQJT543,SQ43HT54DJT952C92|sv|0|mb|1D|mb|d|mb|2C|mb|p|mb|p|mb|p|pg||
 pc|H5|pc|H2|pc|HK|pc|H6|pg||
 pc|SK|pc|ST|pc|S4|pc|S2|pg||
 pc|H7|pc|HQ|pc|HT|pc|H8|pg||

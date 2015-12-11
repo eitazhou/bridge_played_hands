@@ -1,6 +1,6 @@
 vg|Camrose Trophy 2005,Weekend 2 Ballymena,I,1,32,Scotland,0,NIreland,0|
 rs|4SW+2,4SE+2,3DN+1,1NWx-2,4HE-1,2HE+2,3DE=,1SN+1,3NE+1,3NE+2,4HE=,4HWx=,3NN+1,3NN=,5DN-2,3NN-2,3NE+1,4SE=,3CN+2,3NN-1,2SN=,4SN-2,5DS+1,5CW-3,3NN+1,3NN+1,6NW-2,6NE-1,5HN+1,4SWx-2,3NW-1,4HW=,1NS-1,1NN=,4SW+1,4SW+1,2NS=,1NS=,4HE+1,4HE+1,3NE=,4SW+1,6SE=,7SE-1,P,2SE+2,5DSx-1,5DN-1,4HE-3,3DN-1,4HS+1,5CEx-2,3NE-2,1NN=,3NS+2,3NS+2,4SN-2,1NS+1,3CN+1,4HN-2,1NS+1,1NS=,2SE=,2SW+1|
-pn|Piper,Murchan,Murdoch,Burns,Anderson,McGeorge,Greenwood,Steel|pg||
+pn|Douglas Piper,John Murch,John Murdoch,Ciara Burn,Rex Anderson,Mcgeorge J,David Greenwoood,Les Steel|pg||
 nt|For boards 1 to 16, bidding and play are available in the Closed Room; Bidding only in the Open Room|pg||
 
 qx|o1|md|3ST8HAQ4D8764CT975,SQ9432HJ82DAK32CJ,SHKT53DJT95CQ6432,SAKJ765H976DQCAK8|sv|0|mb|p|mb|1C!|mb|p|mb|1S!|mb|p|mb|2S|mb|p|mb|4C!|mb|p|mb|4D|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
@@ -53,7 +53,7 @@ qx|o16|md|2SKJ98HKT5DK864C84,S6HQJ432DA73CAJ92,SQT73H76DT952CK63,SA542HA98DQJCQT
 qx|c16|md|2SKJ98HKT5DK864C84,S6HQJ432DA73CAJ92,SQT73H76DT952CK63,SA542HA98DQJCQT75|sv|e|mb|1H|mb|p|mb|1S|mb|p|mb|2C|mb|p|mb|2D|mb|p|mb|2N|mb|p|mb|3H|mb|p|mb|4H|mb|p|mb|p|mb|p|pg||pc|d2|pc|dJ|pc|dK|pc|dA|pg||pc|h2|pc|h6|pc|hA|pc|h5|pg||pc|h8|mc|10|pg||
 nt|For boards 17 to 32, bidding and play are available in the Open Room; Bidding only in the Closed Room|pg||
 
-pn|McGeorge,Campbell,Steel,MacKenzie,Murchan,Cuthbertson,Burns,Walker|pg||
+pn|Mcgeorge J,H Campbell,Les Steel,G Mackenzi,John Murch,Malcolm Cuthbertson,Ciara Burn,David Walker|pg||
 qx|c17|md|3SQ2HT543DA98CAKT8,SK863HA976DT76CJ3,SJ9HKQDQ542CQ9752,SAT754HJ82DKJ3C64|sv|0|mb|p|mb|p|mb|1D|mb|p|mb|1N|mb|p|mb|p|mb|p|pg||
 qx|o17|md|3SQ2HT543DA98CAKT8,SK863HA976DT76CJ3,SJ9HKQDQ542CQ9752,SAT754HJ82DKJ3C64|sv|0|mb|p|mb|p|mb|1C|mb|p|mb|1D|mb|p|mb|1N|mb|p|mb|p|mb|p|pg||pc|s6|pc|s9|pc|sA|pc|s2|pg||pc|s5|pc|sQ|pc|sK|pc|sJ|pg||pc|s8|pc|d2|pc|sT|pc|h4|pg||pc|s7|pc|h3|pc|s3|pc|d4|pg||pc|s4|pc|h5|pc|d6|mc|6|pg||
 
@@ -101,7 +101,7 @@ qx|o31|md|1S962HK75DJ652CAQ2,SQ84H9DKQ843CT987,SKJ5HQ863DA97CK65,SAT73HAJT42DTCJ
 
 qx|c32|md|2SK5HQT2DQ64CAKT64,SA2HA85DAJ72CQ872,S9873HJ96DKT93C93,SQJT64HK743D85CJ5|sv|e|mb|1N|mb|p|mb|2H!|mb|p|mb|2S|mb|p|mb|p|mb|p|pg||
 qx|o32|md|2SK5HQT2DQ64CAKT64,SA2HA85DAJ72CQ872,S9873HJ96DKT93C93,SQJT64HK743D85CJ5|sv|e|mb|1D|mb|p|mb|1S|mb|p|mb|1N|mb|p|mb|2H|mb|p|mb|2S|mb|p|mb|p|mb|p|pg||pc|cK|pc|c2|pc|c3|pc|c5|pg||pc|d4|pc|dA|pc|d3|pc|d5|pg||pc|c7|pc|c9|pc|cJ|pc|cA|pg||pc|dQ|pc|d2|pc|d9|pc|d8|pg||pc|d6|pc|d7|pc|dT|pc|s4|pg||pc|s6|pc|s5|pc|sA|pc|s3|pg||pc|s2|pc|s9|pc|sT|pc|sK|pg||pc|h2|pc|h5|pc|hJ|pc|hK|pg||pc|sQ|pc|c6|pc|dJ|pc|s7|pg||pc|sJ|pc|hT|pc|h8|pc|s8|mc|8|pg||
-pn|Piper,Murchan,Murdoch,Burns,Anderson,McGeorge,Greenwood,Steel|pg||
+pn|Douglas Piper,John Murch,John Murdoch,Ciara Burn,Rex Anderson,Mcgeorge J,David Greenwoood,Les Steel|pg||
 
 
 

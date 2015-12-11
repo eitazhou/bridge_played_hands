@@ -1,6 +1,6 @@
 vg|Testing,R1,P,1,12,Team 1,0,Team 2,0|
 rs|,3NS+3,3NE-2,3DE-1,2CNxx-1,2SN=,3NW=,3NE=,,PASS,,3CN+1,,6HE=,,6SS=,,2SN-2,,3NW+1,,4SN+1,,5DS-1|
-pn|Yoda,Han Solo,Vader,Skywalker,South,West,North,East|pg||
+pn|Yoda,Han Solo,Vader,Skywalker,Can South,West C,Can North,East D|pg||
 qx|o2|st||md|4ST6H6DJ93CAQJT954,SQ53HQ7542DQ872C6,SAJ92HAKJT98DA6C2,SK874H3DKT54CK873|sv|n|mb|1N|mb|p|mb|2C|mb|p|mb|2D|mb|p|mb|2N|an|!|mb|p!|mb|3C|an|!|mb|p|mb|3N|mb|p|mb|p|mb|p|pc|cQ|pc|c6|pc|c2|pc|cK|pg||
 pc|s4|pc|s6|pc|sQ|pc|sA|pg||
 pc|hA|pc|h3|pc|h6|pc|h2|pg||

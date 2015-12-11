@@ -1,6 +1,6 @@
 vg|Camrose 2002/03 Match 2,22 Feb 2003,I,1,30,England,0,Scotland,0|
 rs|4SE=,4HW=,3NS-1,1NS+1,2HS=,1NS=,5HE-1,5HE=,4DN=,3NS-2,5SN=,4SN+1,4HS-1,4SS-2,4DE=,3NE=,3NE+4,3DW+4,5DSx-1,3NN-3,2SN-2,3SN-2,3NN=,3NNx=,3DN-2,2HN-2,3HS-1,3NE-4,3CE=,3CE=,3NS+1,3NS+1,4SSx-3,4SN-2,6DE=,3NE+3,5HSx-1,5HSx-1,3NS=,1NS+1,3SE-1,2SE+1,3HE=,2DS=,2HS=,2HS=,1NW=,1NW+2,2SN=,4SSx-2,4SW=,4HS=,5CEx-1,4CE=,3NN+1,3NN+1,4SN=,4SNx-1,5SNx-4,5SN-4|
-pn|Fawcett,Mathieson,Liggins,Coyle,Baxter,Mould,McGowan,Hyett|pg||
+pn|Joe Fawcett,John Matheson,Glyn Liggins,Willie Coyle,Ken Baxter,Mould,Liz Mcgowan,Hyett|pg||
 mn|Camrose 2002/03 Match 2 - 22 Feb 2003|
 qx|o1,BOARD 1|rh||ah|Board 1|md|3ST7HA5DKJ9762C732,SKQ5HJ873DACAKQ98,SJ82HKT9DQT84CJT5|sv|0|
 sa|0|mb|p|mb|p|mb|2D|mb|d|mb|3H|mb|3S|mb|4D|mb|4S|mb|p|mb|p|mb|p|pg||
@@ -62,7 +62,7 @@ mc|10|pg||
 qx|c10,BOARD 10|rh||ah|Board 10|md|4SQ3H7DJT9732CAKQ5,SAT4HAT9652DAC942,SKJ9HK43DKQ64CJ83|sv|b|
 sa|0|mb|p|mb|1D|mb|1H|mb|2H|mb|p|mb|3C|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
 mc|6|pg||
-pn|Fawcett,Matheson,Liggins,Coyle,McGeorge,Collings,Steel,Jones|pg||
+pn|Joe Fawcett,John Matheson,Glyn Liggins,Willie Coyle,Mcgeorge J,Collings,Les Steel,Jones|pg||
 qx|o11,BOARD 11|rh||ah|Board 11|md|1S4H752DA742CT8765,SQ963HAQT984DCJ42,SAKJ872HKDQ83CAQ3|sv|0|
 sa|0|mb|p|mb|2D|mb|d|mb|p|mb|p|mb|2H|mb|2S|mb|p|mb|p|mb|p|pg||
 mc|6|pg||
@@ -123,7 +123,7 @@ mc|9|pg||
 qx|c20,BOARD 20|rh||ah|Board 20|md|2SKQ87HAQJ8DJ73CQ2,SAJ9HKT9542D6CAT8,S432H3DKQT54CK974|sv|b|
 sa|0|mb|1H|mb|p|mb|p|mb|1N|mb|p|mb|p|mb|p|pg||
 mc|8|pg||
-pn|Collings,Baxter,Jones,McGowan,McGeorge,Mould,Steel,Hyett|pg||
+pn|Collings,Ken Baxter,Jones,Liz Mcgowan,Mcgeorge J,Mould,Les Steel,Hyett|pg||
 qx|o21,BOARD 21|rh||ah|Board 21|md|3SK6HKT984DA875CQ5,SQJ8743H6DT93CA93,ST92HJ753DK6CK862|sv|n|
 sa|0|mb|p|mb|1N|mb|p|mb|2H|mb|p|mb|2S|mb|p|mb|3S|mb|p|mb|p|mb|p|pg||
 mc|8|pg||
@@ -184,5 +184,5 @@ mc|7|pg||
 qx|c30,BOARD 30|rh||ah|Board 30|md|4SAK5H98DQJT8654C3,SHQ432DK72CQJT754,SQJ986HJDA9CA9862|sv|0|
 sa|0|mb|1H|mb|2D|mb|4H|mb|4S|mb|5H|mb|5S|mb|p|mb|p|mb|p|pg||
 mc|7|pg||
-pn|Fawcett,Mathieson,Liggins,Coyle,Baxter,Mould,McGowan,Hyett|pg||
+pn|Joe Fawcett,John Matheson,Glyn Liggins,Willie Coyle,Ken Baxter,Mould,Liz Mcgowan,Hyett|pg||
 

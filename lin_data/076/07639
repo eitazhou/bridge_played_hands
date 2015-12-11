@@ -1,6 +1,6 @@
 vg|Camrose 2002/03 Match 2,11 January 2003,I,1,30,England,0,Wales,0|
 rs|3NW=,3NE=,3NW-1,1NW+1,3NS+1,3NS=,3CW-2,2SN-1,1NE+1,2NE+3,1NE+2,1NE=,4HE+2,4HW+2,3NN+2,3NN+2,4SW-1,3NW-2,3NW=,3NW=,3NS-1,4CN-1,4SE=,4SE=,3HN-2,4HN-2,4SE=,4SE=,4SN-2,4SN-2,4SN=,4SN=,3NE=,3NE=,4SS+3,4SS+3,4HW=,4SN-1,4SS=,4SS=,4HN+1,3HN+2,3HS-2,3HS-1,3NS=,4HW=,4HE=,5CNx-2,5DEx-3,4SS-1,5CE-1,3NW-1,3SE=,5HSx-2,6CE-1,4SW=,3NS-1,5DN-1,1SW-3,2DS+1|
-pn|Davies,Denning,Armstrong,Thomas,Rees,Gold,Kurbalija,Townsend|pg||
+pn|Danny Davies,Paul Denning,Armstrong,Thomas A,Tim Rees,David Gold,Filip Kurbalija,Tom Townsend|pg||
 mn|Camrose 2002/03 Match 2 - 11 January 2003|
 qx|o1,BOARD 1|rh||ah|Board 1|md|3S763HKJ72DKQ9542C,ST94HA6DJ6CAQ8763,SQJ82H843D73CKJ52|sv|0|
 sa|0|mb|p|mb|1D|mb|1H|mb|3N|mb|p|mb|p|mb|p|pg||
@@ -62,7 +62,7 @@ mc|9|pg||
 qx|c10,BOARD 10|rh||ah|Board 10|md|4S98743HQ52D764CK9,SATHK9DQT532CAT73,SQJ52HAJ8643DK9C4|sv|b|
 sa|0|mb|p|mb|p|mb|1D|mb|1H|mb|2C|mb|2H|mb|3C|mb|3H|mb|3S|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
 mc|9|pg||
-pn|Davies,Kurbalija,Armstrong,Rees,Denning,Waterlow,Thomas,P. Hackett|pg||
+pn|Danny Davies,Filip Kurbalija,Armstrong,Tim Rees,Paul Denning,Tony Waterlow,Thomas A,Paul D Hackett|pg||
 qx|o11,BOARD 11|rh||ah|Board 11|md|1SQ97HKQ4DT6CQJ642,SKT62HT8752DJ43C3,SJ8HJ9DA852CAKT97|sv|0|
 sa|0|mb|1C|mb|p|mb|1D|mb|p|mb|1N|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
 mc|8|pg||
@@ -123,7 +123,7 @@ mc|10|pg||
 qx|c20,BOARD 20|rh||ah|Board 20|md|2SAJ6532HA3DQT72C3,S94HJT964D654CT98,SQT7HQ52DKJ93CQJ4|sv|b|
 sa|0|mb|p|mb|p|mb|1C|mb|1S|mb|p|mb|2C|mb|3C|mb|3D|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
 mc|10|pg||
-pn|Gold,Kurbalija,Townsend,Rees,Goodman,Waterlow,Dunn,P. Hackett|pg||
+pn|David Gold,Filip Kurbalija,Tom Townsend,Tim Rees,Peter Goodman,Tony Waterlow,Adam Dunn,Paul D Hackett|pg||
 qx|o21,BOARD 21|rh||ah|Board 21|md|3SK9732HQJ874DCA95,ST65HATDA9863CK83,SA4HK532DJ7542CT4|sv|n|
 sa|0|mb|p|mb|1C|mb|2C|mb|d|mb|4H|mb|p|mb|p|mb|p|pg||
 mc|11|pg||
@@ -184,5 +184,5 @@ mc|4|pg||
 qx|c30,BOARD 30|rh||ah|Board 30|md|4SKJTHAJ53DK2CT952,SA7642HKQ9DJ8CQ86,S9853H6DAQT53CKJ3|sv|0|
 sa|0|mb|p|mb|1C|mb|1S|mb|2C|mb|p|mb|2D|mb|p|mb|p|mb|p|pg||
 mc|9|pg||
-pn|Davies,Denning,Armstrong,Thomas,Rees,Gold,Kurbalija,Townsend|pg||
+pn|Danny Davies,Paul Denning,Armstrong,Thomas A,Tim Rees,David Gold,Filip Kurbalija,Tom Townsend|pg||
 

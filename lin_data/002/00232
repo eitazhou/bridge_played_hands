@@ -1,6 +1,6 @@
 vg|Camrose 2003/04 Eng v Ire Match 3,7 Dec 2003,I,1,30,England,0,Ireland,0|
 rs|2HW=,2HW=,4HS+2,4HS+1,6NS-1,6SN+1,1NN+2,2DS-1,5DE-1,3NE-2,2HS-1,2SS-1,4SS+3,5SS+2,1SN+2,2NN-1,3DN-3,2SW+1,4SN=,3SN=,4HE+1,4HE=,3SW-1,1NW-1,4SS-1,3SS=,2SN=,3NW=,2SW=,3HE-1,4HN=,3NS+1,2NN-2,2HN=,4HS=,4HN=,4HS+2,4HS+2,3NW+3,3NW=,4SN+1,4SN+1,4SS+1,3SS+2,4SN+1,4SN+1,5DS-1,4HW=,5CE=,3NE=,3NN+1,3NN+2,3CN=,2HS-1,3NS=,4HS=,4SWx=,4HS=,3SE+1,4SWx=|
-pn|Mould,O'Briain,Hyett,Garvey,Timlin,Bowyer,Keaveney,Jones|pg||
+pn|Mould,Micheal O'briain,Hyett,Donal Garvey,Rory Timlin,Bowyer,Gay Keaveney,Jones|pg||
 mn|Camrose 2003/04 Eng v Ire Match 3 - 7 Dec 2003|
 qx|o1,BOARD 1|rh||ah|Board 1|md|3SAK3HQ875DK43CAQ6,S875HAKJT643DQ9C9,ST42H9DT865CK8752|sv|0|
 sa|0|mb|p|mb|p|mb|1H|mb|p|mb|p|mb|d|mb|1N|mb|2H|mb|p|mb|p|mb|p|pg||
@@ -62,7 +62,7 @@ mc|10|pg||
 qx|c10,BOARD 10|rh||ah|Board 10|md|4SJ92HADKJ953CA853,ST63HKT52DA84CJ72,SAQ875H987DQCT964|sv|b|
 sa|0|mb|1H|mb|d|mb|3H|mb|3S|mb|p|mb|p|mb|p|pg||
 mc|9|pg||
-pn|King,Coyne,McIntosh,Walsh,O'Briain,Mould,Garvey,Hyett|pg||
+pn|Phil King,Ciaran Coyne,Andrew Mcintosh,David Walsh,Micheal O'briain,Mould,Donal Garvey,Hyett|pg||
 qx|o11,BOARD 11|rh||ah|Board 11|md|1SK754HT75DA82CJ93,SQJ62HAKJ4D9CAQ76,SAT83H6DKQJ654CT4|sv|0|
 sa|0|mb|p|mb|1C|mb|1D|mb|1H|mb|2D|mb|4D|mb|p|mb|4H|mb|p|mb|p|mb|p|pg||
 mc|11|pg||
@@ -123,7 +123,7 @@ mc|12|pg||
 qx|c20,BOARD 20|rh||ah|Board 20|md|2SK96HKJ8643D74CQ7,SAQ2HAQ9DQJ2CJ542,S853HT5DK983CA963|sv|b|
 sa|0|mb|1C|mb|p|mb|1D|mb|1H|mb|1N|mb|p|mb|2C|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
 mc|9|pg||
-pn|King,Coyne,McIntosh,Walsh,Timlin,Bowyer,Keaveney,Jones|pg||
+pn|Phil King,Ciaran Coyne,Andrew Mcintosh,David Walsh,Rory Timlin,Bowyer,Gay Keaveney,Jones|pg||
 qx|o21,BOARD 21|rh||ah|Board 21|md|3SQJ6HAQT7DQJ765CA,S9H964D843CQ98654,SKT853HK32DK2CKJ7|sv|n|
 sa|0|mb|1S|mb|p|mb|2D|mb|p|mb|2H|mb|p|mb|2N|mb|p|mb|3N|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
 mc|11|pg||

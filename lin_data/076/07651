@@ -1,6 +1,6 @@
 vg|Camrose Trophy Match 1,30th November 2002,I,1,30,Scotland,0,N Ireland,0|
 rs|4SW-1,4HSx-2,2DE=,2SW=,3NN=,5DS-2,2HW+3,4HW=,3NW-2,2HN=,3DW=,3NE-1,6HS+1,4HN+2,4HN+1,4HN+1,4SW=,4SE=,2HN-1,3NS-4,2NS+1,1CS+1,3SN-2,2DE+1,3NE+2,2DNx-4,3NE-2,3NE-1,3SN-3,2DWx-1,3DN-1,2CW+2,3NS+2,3NS+2,4HE=,3HE=,4HSx-2,3HS-2,3NE+1,3NE+1,2HE+1,2HE+1,3NE=,3NW=,3NE-1,3NW-1,P,1NW+1,4HS-1,4HS-1,4SE=,6NW-2,4SW=,6DW=,4SW-1,3CN+1,5CN+1,6CS=,3NE-2,3NW-1|
-pn|Willie Coyle,Paul Tranmer,John Matheson,Robert Plunkett,Rex Anderson,Liz McGowan,David Greenwoood,Ken Baxter|pg||
+pn|Willie Coyle,Paul Tranmer,John Matheson,Plunkett,Rex Anderson,Liz Mcgowan,David Greenwoood,Ken Baxter|pg||
 mn|Camrose Trophy Match 1 - 30th November 2002|
 qx|o1,BOARD 1|rh||ah|Board 1|md|3SQ3HQ97653DCKJ854,SA74HAK4DKJ98CQ63,SK95HJT82DQT7653C|sv|0|
 sa|0|mb|p|mb|2D!|mb|2H|mb|3H|mb|4H|mb|p|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
@@ -62,7 +62,7 @@ mc|7|pg||
 qx|c10,BOARD 10|rh||ah|Board 10|md|4SQ93H4DAKJ7642CKJ,SAKHQJ9DQ53CAT964,SJT72HK876532D9CQ|sv|b|
 sa|0|mb|p|mb|1D|mb|p|mb|1H|mb|p|mb|3D|mb|p|mb|3H|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
 mc|5|pg||
-pn|Victor Goldberg,Ian Hamilton,Gerald Hasse,John Ferguson,Rex Anderson,John Matheson,David Greenwood,Willie Coyle|pg||
+pn|Victor Goldberg,Ian Hamilton,Gerald Hasse,John Ferguson,Rex Anderson,John Matheson,David Greenwoood,Willie Coyle|pg||
 qx|o11,BOARD 11|rh||ah|Board 11|md|1SKJ93HK43DKQCKQJ7,SAQ62HT52DAT43CT3,ST87HA76DJ87C9642|sv|0|
 sa|0|mb|1C!|mb|p|mb|2C|mb|p|mb|2N|mb|p|mb|p|mb|p|pg||
 mc|9|pg||
@@ -123,7 +123,7 @@ mc|10|pg||
 qx|c20,BOARD 20|rh||ah|Board 20|md|2ST865HT42DK972C87,SKQ2HJ863DJ54CK96,SA93HA95D83CQT543|sv|b|
 sa|0|mb|p|mb|p|mb|1C|mb|p|mb|1H|mb|p|mb|1N|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
 mc|10|pg||
-pn|Ken Baxter,Ian Hamilton,Liz McGowan,John Ferguson,Rex Anderson,Gerald Hasse,David Greenwood,Victor Goldberg|pg||
+pn|Ken Baxter,Ian Hamilton,Liz Mcgowan,John Ferguson,Rex Anderson,Gerald Hasse,David Greenwoood,Victor Goldberg|pg||
 qx|o21,BOARD 21|rh||ah|Board 21|md|3SKQ543HJ8D97CQJ97,SAJ762HT7DAT854CK,ST8HAQ42DQJ6CT852|sv|n|
 sa|0|mb|p|mb|p|mb|p|mb|1S|mb|p|mb|2H|mb|p|mb|p|mb|p|pg||
 mc|9|pg||
@@ -183,4 +183,4 @@ mc|7|pg||
 qx|c30,BOARD 30|rh||ah|Board 30|md|4SKT86HK98D65CAT87,SA42HJ7DA2CKQJ642,SQJ3HT5432DQ973C5|sv|0|
 sa|0|mb|p|mb|p|mb|1C|mb|p|mb|1D|mb|p|mb|3C|mb|p|mb|3H|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
 mc|8|pg||
-pn|Willie Coyle,Paul Tranmer,John Matheson,Robert Plunkett,Rex Anderson,Liz McGowan,David Greenwoood,Ken Baxter|pg||
+pn|Willie Coyle,Paul Tranmer,John Matheson,Plunkett,Rex Anderson,Liz Mcgowan,David Greenwoood,Ken Baxter|pg||

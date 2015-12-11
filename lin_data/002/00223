@@ -1,6 +1,6 @@
 vg|Camrose Trophy Match 3,8th February 2004,I,1,30,Ireland,0,Wales,0|
 rs|3NS=,3NS+1,1NS=,2SN=,3NN+2,4HN+1,4SE=,4SW=,1NW+1,1NW+2,3NW-1,3NW-2,6DS+1,6NN=,3NE=,3NE=,4SE+1,4SW=,3NN+2,3NS+2,2DN-1,1SE+1,3NE+2,3NW+1,4SS+1,4SN+1,2HE=,3NN-1,4HS=,3NW-2,4SN-2,3HE=,2SW=,2CW-1,4SW-1,4SW-1,3NW+2,3NW+1,3DS+1,5DSx=,3NE-1,3NE-1,4SNx-3,2HE+1,3NS=,4HN-2,2SW+1,4SW-2,4SN-1,4SN-1,1NS-1,2SS-4,4HS+1,4HS+1,4HW-1,3NE-2,2SW+3,4HW=,4SWx-2,3NN+1|
-pn|Ciaran Coyne,Peter Goodman,David Walsh,Adam Dunn,Alex Hogg,Hugh McGann,Ted Martin,Tom Hanlon|pg||
+pn|Ciaran Coyne,Peter Goodman,David Walsh,Adam Dunn,Alex Ho,Hugh Mcgann,Ted Martin,Tom Hanlon|pg||
 mn|Camrose Trophy Match 3 - 8th February 2004|
 qx|o1,BOARD 1|rh||ah|Board 1|md|3SAJ73HAK32D32CQJ2,SQ9654H87654DJC63,SKT2H9DAQT865CAT7|sv|0|
 sa|0|mb|1D|mb|p|mb|1H|mb|p|mb|2D|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
@@ -62,7 +62,7 @@ mc|11|pg||
 qx|c10,BOARD 10|rh||ah|Board 10|md|4SAKJ8H5DKQT93CT86,S732HA32DJ872CKJ4,ST95HKQT986DACAQ5|sv|b|
 sa|0|mb|p|mb|1D|mb|p|mb|2C|mb|p|mb|2D|mb|p|mb|2H|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
 mc|11|pg||
-pn|Michael O'Briain,Tony Ratcliff,Donal Garvey,Patrick Jourdain,Alex Hogg,Hugh McGann,Ted Martin,Tom Hanlon|pg||
+pn|Michael O'Briain,Tony Ratcliff,Donal Garvey,Patrick Jourdain,Alex Ho,Hugh Mcgann,Ted Martin,Tom Hanlon|pg||
 qx|o11,BOARD 11|rh||ah|Board 11|md|1SA83H97DJ85CQ9764,S9HQJT52DAT76CT53,SJT7HK643DKQ92CKJ|sv|0|
 sa|0|mb|p|mb|p|mb|1H|mb|1S|mb|d|mb|p|mb|2D|mb|p|mb|p|mb|p|pg||
 mc|7|pg||
@@ -123,7 +123,7 @@ mc|10|pg||
 qx|c20,BOARD 20|rh||ah|Board 20|md|2SAKJHA632DKQ983C9,S9873HKQ985D4CA53,ST5HT7DT7652CKT62|sv|b|
 sa|0|mb|1H|mb|p|mb|1S|mb|2D|mb|2S|mb|3D|mb|d|mb|p|mb|3S|mb|p|mb|p|mb|5D|mb|p|mb|p|mb|d|mb|p|mb|p|mb|p|pg||
 mc|11|pg||
-pn|Michael O'Briain,Ted Martin,Donal Garvey,Alex Hogg,Adam Dunn,Ciaran Coyne,Peter Goodman,David Walsh|pg||
+pn|Michael O'Briain,Ted Martin,Donal Garvey,Alex Ho,Adam Dunn,Ciaran Coyne,Peter Goodman,David Walsh|pg||
 qx|o21,BOARD 21|rh||ah|Board 21|md|3SJT7HK9DAQ984CT53,SK3HQ875DJTCKJ976,S942HJ432D762CA84|sv|n|
 sa|0|mb|p|mb|1S|mb|p|mb|2C|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
 mc|8|pg||
@@ -184,4 +184,4 @@ mc|8|pg||
 qx|c30,BOARD 30|rh||ah|Board 30|md|4S52HKQ63DAQT63C63,SQJT7HJ975D8CAQ87,SA94HAT42DJ94CK95|sv|0|
 sa|0|mb|p|mb|1D|mb|d|mb|r|mb|1S|mb|p|mb|2S|mb|3N|mb|p|mb|p|mb|p|pg||
 mc|10|pg||
-pn|Ciaran Coyne,Peter Goodman,David Walsh,Adam Dunn,Alex Hogg,Hugh McGann,Ted Martin,Tom Hanlon|pg||
+pn|Ciaran Coyne,Peter Goodman,David Walsh,Adam Dunn,Alex Ho,Hugh Mcgann,Ted Martin,Tom Hanlon|pg||

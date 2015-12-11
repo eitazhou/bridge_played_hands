@@ -1,6 +1,6 @@
 vg|Camrose Trophy Match 2,6th March 2004,I,1,30,Wales,0,N Ireland,0|
 rs|3NN=,3NN+1,2DE=,3HN-1,4HS-2,4HS-2,3NS+1,3NS+1,3NE=,3NE=,3NN=,2NN=,4HE-1,2HE+2,3HS=,4HN-1,4SW=,5CNx-4,1HE-1,3DN+1,1NSx-1,3NW+1,3NE+1,3NW+2,2SS=,3SN-1,4HS-1,4HS+1,3NW=,3CS-4,3HS-1,4HNx-2,6DW=,3SN-2,4SN-1,4SN-1,4DSx-1,3NN-3,7HS=,7HN=,6SS=,6SS=,P,P,3NE+1,3NE+1,3NE+1,3CW-1,6DW+1,6DW+1,3NS-2,3NS-2,4HS-1,4HN-2,6SE+1,4SE+3,3NN+1,3NN+3,5DE-1,3HS=|
-pn|Dafydd Jones,Ian Hamilton,Gary Jones,Jim Ferguson,Rex Anderson,Ted Martin,David Greenwood,Alex Hogg|pg||
+pn|Dafydd Jones,Ian Hamilton,Gary Jones,Jim Ferguson,Rex Anderson,Ted Martin,David Greenwoood,Alex Ho|pg||
 nt|Player names will change as you move through each ten board stanza.
 
 A Camrose Trophy event consists of three matches played over a weekend; each match has 30 bds played in three ten-bd stanzas. IMP scoring is used and then converted to VPs on a 25VP scale
@@ -48,7 +48,7 @@ mb|1C!|mb|d|mb|3C!|mb|4S|mb|5C|mb|d|mb|p|mb|p|mb|p|pg||
 qx|o10|md|4S86HAK5DQJ86CK763,S9432HT93DA972CJ8,SKT7HJ86DKT543CQ9,SAQJ5HQ742DCAT542|sv|b|
 mb|1C!|mb|p|mb|1D|mb|p|mb|1H|mb|p|mb|p|mb|p|pg||
 qx|c10|md|4S86HAK5DQJ86CK763,S9432HT93DA972CJ8,SKT7HJ86DKT543CQ9,SAQJ5HQ742DCAT542|sv|b|mb|1S|mb|d!|mb|2S|mb|3D|mb|p|mb|p|mb|p|pg||pc|sA|pc|s6|pc|s2|pc|s7|pg||pc|cA|pc|c3|pc|c8|pc|c9|pg||pc|c5|pc|c6|pc|cJ|pc|cQ|pg||pc|d4|pc|c2|pc|dQ|pc|dA|pg||pc|s3|pc|sK|pc|s5|pc|s8|pg||pc|sT|pc|sJ|pc|d6|pc|s4|mc|10|pg||
-pn|John Salisbury,Rex Anderson,Mike Tedd,David Greenwood,John Lavery,Ted Martin,Michael Coffey,Alex Hogg|pg||
+pn|John Salisbury,Rex Anderson,Mike Tedd,David Greenwoood,John Lavery,Ted Martin,Michael Coffey,Alex Ho|pg||
 
 qx|o11|md|1ST62HAJDAK983C842,SAJ7HK843DQ76CJ65,SQ984HT95DJ54C973,SK53HQ762DT2CAKQT|sv|0|
 mb|1N|mb|p|mb|p|mb|d|mb|p|mb|p|mb|p|pg||
@@ -95,7 +95,7 @@ mb|2D!|mb|p|mb|2H!|mb|p|mb|3D!|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||pc|sQ|pc|c2|pc|s5|p
 qx|o20|md|2SAJ43HKQ732DAK93C,ST8752HJ8DQJ75CQ4,SKQHA954D6CA98653,S96HT6DT842CKJT72|sv|b|
 mb|p|mb|1C|mb|p|mb|1H|mb|p|mb|3H|mb|p|mb|5N!|mb|p|mb|6H!|mb|p|mb|7H|mb|p|mb|p|mb|p|pg||
 qx|c20|md|2SAJ43HKQ732DAK93C,ST8752HJ8DQJ75CQ4,SKQHA954D6CA98653,S96HT6DT842CKJT72|sv|b|mb|p|mb|2C!|mb|p|mb|2N!|mb|p|mb|3H!|mb|p|mb|4N!|mb|p|mb|5H!|mb|p|mb|5N!|mb|p|mb|6D|mb|p|mb|7H|mb|p|mb|p|mb|p|pg||pc|h6|pc|h2|pc|hJ|pc|hA|pg||pc|h4|pc|hT|pc|hK|pc|h8|mc|13|pg||
-pn|Dafydd Jones,Ian Hamilton,Gary Jones,John Ferguson,Rex Anderson,Mike Tedd,David Greenwood,Alex Salisbury|pg||
+pn|Dafydd Jones,Ian Hamilton,Gary Jones,John Ferguson,Rex Anderson,Mike Tedd,David Greenwoood,Alex Salisbury|pg||
 
 qx|o21|md|3SAJT97HA9754DJ73C,S6HK32DKQT984CK64,SKQ85H6D5CAQT9532,S432HQJT8DA62CJ87|sv|n|
 mb|1C|mb|p|mb|1S|mb|3D!|mb|4D|mb|d|mb|p|mb|p|mb|4H|mb|p|mb|6S|mb|p|mb|p|mb|p|pg||
@@ -137,7 +137,7 @@ qx|c29|md|3S5HK6DQT742CKJT54,SQ8643HQ8732D65C7,SKJ9HAJ9DAKJ3C986,SAT72HT54D98CAQ
 qx|o30|md|4SKJT7HKT98DTCJT75,SA3H732DK976542C6,SQ962HA54DCKQ9432,S854HQJ6DAQJ83CA8|sv|0|
 mb|1D!|mb|p|mb|5D|mb|p|mb|p|mb|p|pg||
 qx|c30|md|4SKJT7HKT98DTCJT75,SA3H732DK976542C6,SQ962HA54DCKQ9432,S854HQJ6DAQJ83CA8|sv|0|mb|1N|mb|p|mb|2S!|mb|p|mb|3C|mb|p|mb|3D|mb|d|mb|p|mb|3H|mb|p|mb|p|mb|p|pg||pc|c6|pc|cK|pc|cA|pc|cT|pg||pc|dQ|pc|dT|pc|d7|pc|h4|pg||pc|hA|pc|h6|pc|h8|pc|h3|pg||pc|s2|pc|s4|pc|sK|pc|sA|pg||pc|s3|pc|s6|pc|s8|pc|sT|pg||pc|hK|pc|h2|pc|h5|pc|hJ|pg||pc|sJ|pc|d2|pc|s9|pc|s5|pg||pc|s7|pc|h7|pc|sQ|mc|9|pg||
-pn|Dafydd Jones,Ian Hamilton,Gary Jones,Jim Ferguson,Rex Anderson,Ted Martin,David Greenwood,Alex Hogg|pg||
+pn|Dafydd Jones,Ian Hamilton,Gary Jones,Jim Ferguson,Rex Anderson,Ted Martin,David Greenwoood,Alex Ho|pg||
 
 
 

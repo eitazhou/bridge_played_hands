@@ -1,6 +1,6 @@
 vg|Camrose Trophy Match 3,2nd Feb 2003,I,1,30,Scotland,0,Wales,0|
 rs|5HW-2,4HE=,6NE=,6SW=,3DS-1,1NN+3,4HN+2,4HN+2,5SS+2,6SS+1,2SE=,2SE-1,4HS-1,4HS=,4HE=,4HE=,2HN=,3NW=,2NW=,2CE+2,2HE+2,3NE=,4SS+1,4SS+1,3HS-1,2HS=,5SE+1,4SE+1,2HS-1,1NWx-1,6SN-1,4SN+1,3HS-4,2HS-2,3HN=,2HS+2,4SS+1,4SS+1,2SW+2,2NW-1,2HE-1,1NS+3,4SS=,4SS=,6HW=,5HE+1,3HEx-2,3HE-3,5SN=,5SN=,6SW=,4SE+2,2CN-2,3NE-1,4CN-1,3SS+1,4SS-1,4SS-1,3NE-2,3NW-1|
-pn|Coyle,Ratcliff,Matheson,Jourdain,Rees,McGeorge,Kurbalija,Steel|pg||
+pn|Willie Coyle,Tony Ratcliff,John Matheson,Patrick Jourdain,Tim Rees,Mcgeorge J,Filip Kurbalija,Les Steel|pg||
 mn|Camrose Trophy Match 3 - 2nd Feb 2003|
 qx|o1,BOARD 1|rh||ah|Board 1|md|3SAJ63HT654DK52C54,S7HK972DQ86CAQ972,SKQ985H3DJT4CJ863|sv|0|
 sa|0|mb|2S|mb|d|mb|4S|mb|5H|mb|p|mb|p|mb|p|pg||
@@ -62,7 +62,7 @@ mc|8|pg||
 qx|c10,BOARD 10|rh||ah|Board 10|md|4S9654HAK3DK52CQJ4,SA73HQ8642DQT87C5,SKJHJT97D9643CT98|sv|b|
 sa|0|mb|1C|mb|p|mb|1H|mb|p|mb|1S|mb|p|mb|1N|mb|p|mb|2C|mb|p|mb|p|mb|p|pg||
 mc|10|pg||
-pn|Coyle,Thomas,Matheson,Denning,Rees,McGowan,Kurbalija,Baxter|pg||
+pn|Willie Coyle,Thomas A,John Matheson,Paul Denning,Tim Rees,Liz Mcgowan,Filip Kurbalija,Ken Baxter|pg||
 qx|o11,BOARD 11|rh||ah|Board 11|md|1SQ7H987DK987CQJ72,SAJTHKT6532DJTC98,SK953HJ4DQ65CK643|sv|0|
 sa|0|mb|p|mb|2D|mb|p|mb|2H|mb|p|mb|p|mb|p|pg||
 mc|10|pg||
@@ -123,7 +123,7 @@ mc|10|pg||
 qx|c20,BOARD 20|rh||ah|Board 20|md|2SQ74HK984DJT9CJ86,SK6532H52DKQ2CAQT,SJ9HAJT63DA743C92|sv|b|
 sa|0|mb|1N|mb|2C|mb|d|mb|p|mb|2S|mb|p|mb|2N|mb|p|mb|p|mb|p|pg||
 mc|7|pg||
-pn|Rees,McGowan,Kurbalija,Baxter,McGeorge,Thomas,Steel,Denning|pg||
+pn|Tim Rees,Liz Mcgowan,Filip Kurbalija,Ken Baxter,Mcgeorge J,Thomas A,Les Steel,Paul Denning|pg||
 qx|o21,BOARD 21|rh||ah|Board 21|md|3SJ97HAQ74DK72CQJ9,S543HJ95DT95CA854,SA82H8DQJ43CK7632|sv|n|
 sa|0|mb|p|mb|1H|mb|p|mb|1N|mb|d|mb|p|mb|p|mb|2H|mb|p|mb|p|mb|p|pg||
 mc|7|pg||
@@ -184,4 +184,4 @@ mc|7|pg||
 qx|c30,BOARD 30|rh||ah|Board 30|md|4S632HJ94DKTCQ8765,SAQJ75HQ6DAJ54CT2,SKT98HAT83DQ8762C|sv|0|
 sa|0|mb|2C|mb|p|mb|2D|mb|p|mb|2H|mb|p|mb|2S|mb|p|mb|3C|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
 mc|8|pg||
-pn|Coyle,Ratcliff,Matheson,Jourdain,Rees,McGeorge,Kurbalija,Steel|pg||
+pn|Willie Coyle,Tony Ratcliff,John Matheson,Patrick Jourdain,Tim Rees,Mcgeorge J,Filip Kurbalija,Les Steel|pg||

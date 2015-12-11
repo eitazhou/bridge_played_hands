@@ -1,6 +1,6 @@
 vg|Camrose Trophy Match 3,1st Dec 2002,I,1,30,Wales,0,Ireland,0|
 rs|4HW+2,4HW+2,5HWx=,4HW+1,2HS-2,2HS-1,6HN-2,4HN+1,6SN=,6SN=,3NS+2,3NS+1,4SW+2,4SW+1,2DS-2,2SE-1,6HN-1,6HS=,2HW=,2HW=,5DWx-1,6SS-2,2SN=,3CE+1,5HN=,4HN+1,2HE-2,3HS-3,6HW=,4HW+2,7SS=,6SS+1,3SN-1,1NN-2,3SW-1,3HN=,3NE+2,3NE+2,3NN+1,3NN-1,3HE-1,3HE-2,3HS+1,3DE=,1NS-1,3NS-3,4SW-1,4HN=,2NE-1,3CW-1,2HE-1,2HE-1,6SN=,6SN=,1SN+2,2DW=,3CE-1,3CE=,2SW=,2SE+1|
-pn|Goodman,McGann,Dunn,Hanlon,Carroll,Kurbalija,T Garvey,Rees|pg||
+pn|Peter Goodman,Hugh Mcgann,Adam Dunn,Tom Hanlon,John Carroll,Filip Kurbalija,Tommy Garvey,Tim Rees|pg||
 mn|Camrose Trophy Match 3 - 1st Dec 2002|
 qx|o1,BOARD 1|rh||ah|Board 1|md|3S4HK97DT7643CKJ98,ST98HAQJ3DQJ952C3,SKQJ7532H52D8C542|sv|0|
 sa|0|mb|3S|mb|d|mb|p|mb|4H|mb|p|mb|p|mb|p|pg||
@@ -62,7 +62,7 @@ mc|8|pg||
 qx|c10,BOARD 10|rh||ah|Board 10|md|4S876HQ542DKT4CJT9,S92HAKJ873DJ6CQ74,SKQJHTDA8532CA632|sv|b|
 sa|0|mb|p|mb|p|mb|1H|mb|d|mb|1S|mb|p|mb|2H|mb|p|mb|p|mb|p|pg||
 mc|8|pg||
-pn|D Jones,Carroll,G Jones,T Garvey,McGann,Kurbalija,Hanlon,Rees|pg||
+pn|Dafydd Jones,John Carroll,Gary Jones,Tommy Garvey,Hugh Mcgann,Filip Kurbalija,Tom Hanlon,Tim Rees|pg||
 qx|o11,BOARD 11|rh||ah|Board 11|md|1SK732HKQ763D7CKT3,ST8HJT942DKQT985C,SAJ54HA8DJ2CAQ542|sv|0|
 sa|0|mb|1H|mb|3D|mb|d|mb|5D|mb|p|mb|p|mb|d|mb|p|mb|p|mb|p|pg||
 mc|10|pg||
@@ -123,7 +123,7 @@ mc|10|pg||
 qx|c20,BOARD 20|rh||ah|Board 20|md|2SKT4HQ8DKQ96C7652,SQ932HT9754DTCQ98,SJ65HKJ63DA87CAK3|sv|b|
 sa|0|mb|p|mb|1N|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
 mc|8|pg||
-pn|D Jones,O'Briain,G Jones,D Garvey,Carroll,Kurbalija,T Garvey,Rees|pg||
+pn|Dafydd Jones,Micheal O'briain,Gary Jones,Donal Garvey,John Carroll,Filip Kurbalija,Tommy Garvey,Tim Rees|pg||
 qx|o21,BOARD 21|rh||ah|Board 21|md|3SQT8643HAQ6DQCA72,SAH9732DJ9832CQJT,SJ2HT5DAT764C9865|sv|n|
 sa|0|mb|p|mb|1H|mb|1S|mb|3H|mb|p|mb|p|mb|p|pg||
 mc|8|pg||
@@ -184,4 +184,4 @@ mc|8|pg||
 qx|c30,BOARD 30|rh||ah|Board 30|md|4SQJ6HJ63DKQ43CAQ9,SAK732H54DT6CJT62,ST4HK9872D72C8543|sv|0|
 sa|0|mb|1N|mb|p|mb|2H|mb|p|mb|2S|mb|p|mb|p|mb|p|pg||
 mc|9|pg||
-pn|Goodman,McGann,Dunn,Hanlon,Carroll,Kurbalija,T Garvey,Rees|pg||
+pn|Peter Goodman,Hugh Mcgann,Adam Dunn,Tom Hanlon,John Carroll,Filip Kurbalija,Tommy Garvey,Tim Rees|pg||
