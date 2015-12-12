@@ -15,7 +15,7 @@ pc|HJ|pc|S6|pc|H8|pc|H4|pg||
 pc|SK|pc|S2|pc|S3|pc|S4|pg||
 pc|S7|pc|ST|pc|SA|pc|S8|pg||
 pc|SQ|mc|0|pg||
-pn|De Wijs,Paping,Van Prooijen,Berendregt|qx|o2,BOARD 2|rh||ah|Board 2|md|4SHKQJ32DAK54CK652,SKQ7H875DT963CT83,ST963HAT94D82CAJ9|sv|n|
+pn|De Wijs,Paping,Ricco Van Prooijen,Berendregt|qx|o2,BOARD 2|rh||ah|Board 2|md|4SHKQJ32DAK54CK652,SKQ7H875DT963CT83,ST963HAT94D82CAJ9|sv|n|
 em|NS -4|
 sa|0|mb|2D|mb|3H|mb|p|mb|4H|mb|p|mb|p|mb|p|pg||
 pc|SK|pc|S3|pc|S2|pc|H2|pg||
@@ -26,7 +26,7 @@ pc|H4|pc|H6|pc|HK|pc|H5|pg||
 pc|D5|pc|D9|pc|HA|pc|S5|pg||
 pc|H9|pc|S4|pc|HQ|pc|H7|pg||
 pc|HJ|pc|H8|mc|0|pg||
-pn|Leufkens,Oltmans A,Westra,Oltmans E|qx|o3,BOARD 3|rh||ah|Board 3|md|1SQJ972HKQT72D8C92,SK854HA95DKT4CQ73,ST6HJ643D975CAT86|sv|e|
+pn|Leufkens,A Oltmans,Berry Westra,E Oltmans|qx|o3,BOARD 3|rh||ah|Board 3|md|1SQJ972HKQT72D8C92,SK854HA95DKT4CQ73,ST6HJ643D975CAT86|sv|e|
 em|NS 13|
 sa|0|mb|p|mb|1C|mb|p|mb|2D|mb|p|mb|2H|mb|p|mb|3C|mb|p|mb|3D|mb|p|mb|3S|mb|p|mb|4D|mb|p|mb|4H|mb|p|mb|4S|mb|p|mb|4N|mb|p|mb|5H|mb|p|mb|6D|mb|p|mb|p|mb|p|pg||
 pc|HK|pc|HA|pc|H6|pc|H8|pg||
@@ -42,7 +42,7 @@ pc|D6|pc|HQ|pc|H9|pc|HJ|pg||
 pc|SA|pc|S9|pc|S5|pc|S6|pg||
 pc|S3|pc|SJ|pc|SK|pc|ST|pg||
 pc|S8|pc|C8|pc|C5|pc|SQ|pg||
-pn|Leufkens,Oltmans A,Westra,Oltmans E|qx|o4,BOARD 4|rh||ah|Board 4|md|2SQ73HAQT4DJ854CA4,SJT982H86DQTCJ532,SAK5H53DK96CKQT86|sv|b|
+pn|Leufkens,A Oltmans,Berry Westra,E Oltmans|qx|o4,BOARD 4|rh||ah|Board 4|md|2SQ73HAQT4DJ854CA4,SJT982H86DQTCJ532,SAK5H53DK96CKQT86|sv|b|
 em|NS 0|
 sa|0|mb|p|mb|1N|mb|p|mb|2C|mb|p|mb|2D|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
 pc|H2|pc|HT|pc|H6|pc|H3|pg||
@@ -55,7 +55,7 @@ pc|H5|pc|H9|pc|HQ|pc|H8|pg||
 pc|D8|pc|DT|pc|DK|pc|DA|pg||
 pc|D7|pc|DJ|pc|DQ|pc|D6|pg||
 mc|0|pg||
-pn|Muller,Nab,De Boer,Ramer|qx|o5,BOARD 5|rh||ah|Board 5|md|3SA4H765D63CT97543,SKJ5HJ93DQJ82CAQ8,SQ87HAKQDA94CKJ62|sv|n|
+pn|Bauke Muller,Nab,De Boer W,Ramer|qx|o5,BOARD 5|rh||ah|Board 5|md|3SA4H765D63CT97543,SKJ5HJ93DQJ82CAQ8,SQ87HAKQDA94CKJ62|sv|n|
 em|NS 8|
 sa|0|mb|1C|mb|p|mb|2C|mb|d|mb|3N|mb|4S|mb|p|mb|p|mb|d|mb|p|mb|p|mb|p|pg||
 pc|D6|pc|DQ|pc|DA|pc|D5|pg||
@@ -66,7 +66,7 @@ pc|D9|pc|DK|pc|D3|pc|D2|pg||
 pc|S2|pc|S4|pc|SJ|pc|SQ|pg||
 pc|D4|pc|D7|pc|SA|pc|D8|pg||
 mc|0|pg||
-pn|Muller,Nab,De Boer,Ramer|qx|o6,BOARD 6|rh||ah|Board 6|md|4SAKQ8HJDKT854CT96,ST93HAKQ65D732C32,S762H983DAQ6CJ874|sv|e|
+pn|Bauke Muller,Nab,De Boer W,Ramer|qx|o6,BOARD 6|rh||ah|Board 6|md|4SAKQ8HJDKT854CT96,ST93HAKQ65D732C32,S762H983DAQ6CJ874|sv|e|
 em|NS -1|
 sa|0|mb|p|mb|1D|mb|1H|mb|2D|mb|3D|mb|3S|mb|p|mb|4D|mb|p|mb|p|mb|p|pg||
 pc|HK|pc|H3|pc|H2|pc|HJ|pg||
@@ -79,7 +79,7 @@ pc|DK|pc|D2|pc|D6|pc|D9|pg||
 pc|D5|pc|D3|pc|DQ|pc|DJ|pg||
 pc|DA|pc|H7|pc|D8|pc|D7|pg||
 pc|S2|pc|S4|pc|SA|mc|0|pg||
-pn|Ramondt,Zhao,Maas,Van Eijck|qx|o7,BOARD 7|rh||ah|Board 7|md|1S8765HT3DKQCKJ943,SK4H954DT6CQT8762,SJT2HJ8762D7542C5|sv|b|
+pn|Vincent Ramondt,Zhao,Maas A,Van Eijck|qx|o7,BOARD 7|rh||ah|Board 7|md|1S8765HT3DKQCKJ943,SK4H954DT6CQT8762,SJT2HJ8762D7542C5|sv|b|
 em|NS 15|
 sa|0|mb|p|mb|p|mb|p|mb|2C|mb|d|mb|r|mb|p|mb|p|mb|p|pg||
 pc|DK|pc|D6|pc|D2|pc|DA|pg||
@@ -94,7 +94,7 @@ pc|S9|pc|S8|pc|DT|pc|D4|pg||
 pc|D3|pc|DQ|pc|C7|pc|D5|pg||
 pc|CT|pc|D7|pc|D8|pc|CJ|pg||
 pc|CK|mc|0|pg||
-pn|Ramondt,Zhao,Maas,Van Eijck|qx|o8,BOARD 8|rh||ah|Board 8|md|2SA987H983DK7CQ764,SKT2HAT76DAQ6CAKT,SQ543HJ42DJ92C832|sv|0|
+pn|Vincent Ramondt,Zhao,Maas A,Van Eijck|qx|o8,BOARD 8|rh||ah|Board 8|md|2SA987H983DK7CQ764,SKT2HAT76DAQ6CAKT,SQ543HJ42DJ92C832|sv|0|
 em|NS -1|
 sa|0|mb|2N|mb|p|mb|3C|mb|p|mb|3D|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
 pc|S4|pc|S6|pc|SA|pc|S2|pg||
@@ -105,7 +105,7 @@ pc|D4|pc|D7|pc|DQ|pc|D9|pg||
 pc|DA|pc|D2|pc|D5|pc|DK|pg||
 pc|D6|pc|DJ|pc|D8|pc|C4|pg||
 pc|S5|pc|C5|pc|S9|mc|0|pg||
-pn|Oltmans E,De Wijs,Oltmans A,Van Prooijen|qx|o9,BOARD 9|rh||ah|Board 9|md|3S964HK642DQ3CKT74,SAQ75HJTD9864C985,SKJ83HQ753DAKJTC6|sv|e|
+pn|E Oltmans,De Wijs,A Oltmans,Ricco Van Prooijen|qx|o9,BOARD 9|rh||ah|Board 9|md|3S964HK642DQ3CKT74,SAQ75HJTD9864C985,SKJ83HQ753DAKJTC6|sv|e|
 em|NS -1|
 sa|0|mb|1D|mb|p|mb|1H|mb|p|mb|1S|mb|p|mb|1N|mb|p|mb|3H|mb|p|mb|p|mb|p|pg||
 pc|HJ|pc|H3|pc|H8|pc|HK|pg||
@@ -113,7 +113,7 @@ pc|D3|pc|D4|pc|DA|pc|D7|pg||
 pc|C6|pc|C3|pc|CT|pc|C5|pg||
 pc|C4|pc|C8|pc|H5|pc|C2|pg||
 mc|0|pg||
-pn|Oltmans E,De Wijs,Oltmans A,Van Prooijen|qx|o10,BOARD 10|rh||ah|Board 10|md|4SA8HAKJ973DQ9CT64,S9HQ6DK7653CAKJ72,SKJ432H854DA82C93|sv|b|
+pn|E Oltmans,De Wijs,A Oltmans,Ricco Van Prooijen|qx|o10,BOARD 10|rh||ah|Board 10|md|4SA8HAKJ973DQ9CT64,S9HQ6DK7653CAKJ72,SKJ432H854DA82C93|sv|b|
 em|NS 6|
 sa|0|mb|p|mb|1H|mb|2C|mb|d|mb|p|mb|3H|mb|p|mb|4H|mb|p|mb|p|mb|p|pg||
 pc|CA|pc|C3|pc|C8|pc|C6|pg||
@@ -123,7 +123,7 @@ pc|ST|pc|S8|pc|H6|pc|S2|pg||
 pc|CK|pc|H8|pc|C5|pc|CT|pg||
 pc|H5|pc|H2|pc|HA|pc|HQ|pg||
 pc|HK|mc|0|pg||
-pn|Kokkes,De Boer,Schuurmans,Muller|qx|o11,BOARD 11|rh||ah|Board 11|md|1SKJ873HD532CK6532,ST42HK42DT964CJ98,SQHAQT65DA87CAQ74|sv|0|
+pn|Kokkes,De Boer W,Schuurmans,Bauke Muller|qx|o11,BOARD 11|rh||ah|Board 11|md|1SKJ873HD532CK6532,ST42HK42DT964CJ98,SQHAQT65DA87CAQ74|sv|0|
 em|NS 4|
 sa|0|mb|2H|mb|p|mb|2N|mb|p|mb|3C|mb|p|mb|3H|mb|p|mb|3S|mb|p|mb|4C|mb|p|mb|5C|mb|p|mb|p|mb|p|pg||
 pc|DT|pc|DA|pc|DK|pc|D2|pg||
@@ -138,7 +138,7 @@ pc|H5|pc|H8|pc|C5|pc|H4|pg||
 pc|SK|pc|ST|pc|H6|pc|S6|pg||
 pc|CK|pc|CJ|pc|C7|pc|H9|pg||
 pc|SJ|mc|0|pg||
-pn|Kokkes,De Boer,Schuurmans,Muller|qx|o12,BOARD 12|rh||ah|Board 12|md|2SA93HK3DAQJT872C7,SK8742HA854D3CA95,SJ6HJ762D95CKQT64|sv|n|
+pn|Kokkes,De Boer W,Schuurmans,Bauke Muller|qx|o12,BOARD 12|rh||ah|Board 12|md|2SA93HK3DAQJT872C7,SK8742HA854D3CA95,SJ6HJ762D95CKQT64|sv|n|
 em|NS 0|
 sa|0|mb|1S|mb|p|mb|1N|mb|d|mb|p|mb|2H|mb|2S|mb|3D|mb|p|mb|p|mb|p|pg||
 pc|S2|pc|S6|pc|ST|pc|SA|pg||
@@ -153,7 +153,7 @@ pc|D7|pc|S4|pc|H6|pc|C8|pg||
 pc|D2|pc|H8|pc|H7|pc|CJ|pg||
 pc|S9|pc|SK|pc|HJ|pc|H9|pg||
 pc|S8|mc|0|pg||
-pn|Jansen,Westra,Westerhof,Leufkens|qx|o13,BOARD 13|rh||ah|Board 13|md|3S2HAK952D763CKJ72,SQ9HT743DJ942CA64,SAK7653HJ86DKCQT9|sv|b|
+pn|Piet Jansen,Berry Westra,Jan Westerhof,Leufkens|qx|o13,BOARD 13|rh||ah|Board 13|md|3S2HAK952D763CKJ72,SQ9HT743DJ942CA64,SAK7653HJ86DKCQT9|sv|b|
 em|NS 4|
 sa|0|mb|1S|mb|p|mb|2H|mb|p|mb|2S|mb|p|mb|3C|mb|p|mb|4H|mb|p|mb|p|mb|p|pg||
 pc|D2|pc|DK|pc|DA|pc|D6|pg||
@@ -163,7 +163,7 @@ pc|H2|pc|H4|pc|HJ|pc|S4|pg||
 pc|SA|pc|S8|pc|S2|pc|S9|pg||
 pc|SK|pc|ST|pc|D7|pc|SQ|pg||
 pc|CQ|mc|0|pg||
-pn|Jansen,Westra,Westerhof,Leufkens|qx|o14,BOARD 14|rh||ah|Board 14|md|4S75HAKQJTDA8CJT83,S862H76DKQJ7CA942,SA3H9543DT962CQ76|sv|0|
+pn|Piet Jansen,Berry Westra,Jan Westerhof,Leufkens|qx|o14,BOARD 14|rh||ah|Board 14|md|4S75HAKQJTDA8CJT83,S862H76DKQJ7CA942,SA3H9543DT962CQ76|sv|0|
 em|NS 0|
 sa|0|mb|2D|mb|2H|mb|p|mb|p|mb|2S|mb|3C|mb|3S|mb|4H|mb|p|mb|p|mb|p|pg||
 pc|DK|pc|D2|pc|D3|pc|DA|pg||

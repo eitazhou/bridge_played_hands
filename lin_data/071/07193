@@ -10,7 +10,7 @@ pc|CK|pc|C5|pc|CA|pc|C3|pg||
 pc|CQ|pc|H4|pc|C2|pc|C7|pg||
 pc|H2|pc|HQ|pc|HA|pc|H3|pg||
 mc|10|pg||
-pn|Van Middelem,Oosthoek,Engel,Daemen|qx|o2,BOARD 2|rh||ah|Board 2|md|4SKQ85H2DQT74CA962,SJT6HAJ985DK9CQJ4,SA973HKQT63DJ85C7|sv|n|
+pn|Guy Van Middelem,Oosthoek,Zvi Engel,Bert Daemen|qx|o2,BOARD 2|rh||ah|Board 2|md|4SKQ85H2DQT74CA962,SJT6HAJ985DK9CQJ4,SA973HKQT63DJ85C7|sv|n|
 sa|0|mb|p|mb|1C|mb|1H|mb|1S|mb|p|mb|2S|mb|p|mb|p|mb|p|pg||
 pc|H7|pc|H2|pc|HA|pc|H3|pg||
 pc|DK|pc|D8|pc|D3|pc|D4|pg||
@@ -20,7 +20,7 @@ pc|CQ|pc|C7|pc|C3|pc|CA|pg||
 pc|SK|pc|S6|pc|S3|pc|S2|pg||
 pc|SQ|pc|SJ|pc|S7|pc|S4|pg||
 pc|S5|mc|9|pg||
-pn|Van Middelem,Oosthoek,Engel,Daemen|qx|o3,BOARD 3|rh||ah|Board 3|md|1SA43HQ82D95CQT952,SK86HK94D762C8743,ST95HAT3DAKQT3CK6|sv|e|
+pn|Guy Van Middelem,Oosthoek,Zvi Engel,Bert Daemen|qx|o3,BOARD 3|rh||ah|Board 3|md|1SA43HQ82D95CQT952,SK86HK94D762C8743,ST95HAT3DAKQT3CK6|sv|e|
 sa|0|mb|p|mb|p|mb|1N|mb|p|mb|2C|mb|p|mb|2D|mb|p|mb|2N|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
 pc|S2|pc|S3|pc|SK|pc|S5|pg||
 pc|S8|pc|S9|pc|SJ|pc|S4|pg||
@@ -33,11 +33,11 @@ pc|C6|pc|CA|pc|C9|pc|C3|pg||
 pc|SQ|pc|CT|pc|C4|pc|H3|pg||
 pc|H7|pc|H2|pc|H9|pc|HT|pg||
 mc|9|pg||
-pn|Van Middelem,Oosthoek,Engel,Daemen|qx|o4,BOARD 4|rh||ah|Board 4|md|2SQ963H54D872CKQ84,SAJHAKQ97DAKQCA32,ST7542HJTD65CT976|sv|b|
+pn|Guy Van Middelem,Oosthoek,Zvi Engel,Bert Daemen|qx|o4,BOARD 4|rh||ah|Board 4|md|2SQ963H54D872CKQ84,SAJHAKQ97DAKQCA32,ST7542HJTD65CT976|sv|b|
 sa|0|mb|2C|mb|p|mb|2D|mb|p|mb|2H|mb|p|mb|2S|mb|p|mb|3N|mb|p|mb|5H|mb|p|mb|6H|mb|p|mb|p|mb|p|pg||
 pc|CT|pc|C5|pc|C8|pc|CA|pg||
 mc|13|pg||
-pn|Van Middelem,Oosthoek,Engel,Daemen|qx|o5,BOARD 5|rh||ah|Board 5|md|3S98HKJ42DAT3CAT74,S7542HA97DKCKQJ62,SJ63HQT8DJ97542C9|sv|n|
+pn|Guy Van Middelem,Oosthoek,Zvi Engel,Bert Daemen|qx|o5,BOARD 5|rh||ah|Board 5|md|3S98HKJ42DAT3CAT74,S7542HA97DKCKQJ62,SJ63HQT8DJ97542C9|sv|n|
 sa|0|mb|p|mb|p|mb|1C|mb|p|mb|2D|mb|p|mb|p|mb|d|mb|p|mb|2S|mb|p|mb|p|mb|p|pg||
 pc|DA|pc|DK|pc|D2|pc|D6|pg||
 pc|CA|pc|C2|pc|C9|pc|C5|pg||
@@ -46,7 +46,7 @@ pc|HT|pc|H3|pc|H4|pc|HA|pg||
 pc|S2|pc|S3|pc|SA|pc|S8|pg||
 pc|SK|pc|S9|pc|S4|pc|SJ|pg||
 pc|DQ|mc|10|pg||
-pn|Van Middelem,Oosthoek,Engel,Daemen|qx|o6,BOARD 6|rh||ah|Board 6|md|4SKJ9864H5DQ84CA54,S72HKJT62DKT3CQJ2,S5HQ943D975CK9763|sv|e|
+pn|Guy Van Middelem,Oosthoek,Zvi Engel,Bert Daemen|qx|o6,BOARD 6|rh||ah|Board 6|md|4SKJ9864H5DQ84CA54,S72HKJT62DKT3CQJ2,S5HQ943D975CK9763|sv|e|
 sa|0|mb|1N|mb|2S|mb|2N|mb|p|mb|3C|mb|p|mb|3S|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
 pc|H5|pc|HJ|pc|HQ|pc|HA|pg||
 pc|H7|pc|S9|pc|H2|pc|H9|pg||
@@ -61,7 +61,7 @@ pc|DT|pc|D9|pc|D6|pc|DQ|pg||
 pc|SJ|pc|D3|pc|C3|pc|ST|pg||
 pc|CA|pc|CJ|pc|C6|pc|DJ|pg||
 pc|C5|pc|CQ|pc|CK|pc|DA|pg||
-pn|Van Middelem,Oosthoek,Engel,Daemen|qx|o7,BOARD 7|rh||ah|Board 7|md|1SAKT9HJT53D64CK64,SQ43H2DK8752CQ953,S872HAK84DQT93CJ8|sv|b|
+pn|Guy Van Middelem,Oosthoek,Zvi Engel,Bert Daemen|qx|o7,BOARD 7|rh||ah|Board 7|md|1SAKT9HJT53D64CK64,SQ43H2DK8752CQ953,S872HAK84DQT93CJ8|sv|b|
 sa|0|mb|1C|mb|p|mb|1H|mb|p|mb|2H|mb|p|mb|p|mb|p|pg||
 pc|C2|pc|C4|pc|CQ|pc|C8|pg||
 pc|H2|pc|HA|pc|H6|pc|H3|pg||
@@ -74,14 +74,14 @@ pc|CK|pc|C5|pc|S2|pc|C7|pg||
 pc|SK|pc|S4|pc|S8|pc|S6|pg||
 pc|S9|pc|SQ|pc|H8|pc|SJ|pg||
 mc|8|pg||
-pn|Van Middelem,Oosthoek,Engel,Daemen|qx|o8,BOARD 8|rh||ah|Board 8|md|2ST73HT7D85CQJ9875,SAQJ2HK86542DQJ9C,S9654HA9DA62CAT43|sv|0|
+pn|Guy Van Middelem,Oosthoek,Zvi Engel,Bert Daemen|qx|o8,BOARD 8|rh||ah|Board 8|md|2ST73HT7D85CQJ9875,SAQJ2HK86542DQJ9C,S9654HA9DA62CAT43|sv|0|
 sa|0|mb|1H|mb|d|mb|r|mb|2C|mb|p|mb|p|mb|4H|mb|p|mb|p|mb|p|pg||
 pc|CA|pc|C2|pc|CQ|pc|H2|pg||
 pc|H5|pc|HA|pc|H3|pc|H7|pg||
 pc|DA|pc|D3|pc|D5|pc|D9|pg||
 pc|D2|pc|D4|pc|D8|pc|DQ|pg||
 mc|11|pg||
-pn|Van Middelem,Oosthoek,Engel,Daemen|qx|o9,BOARD 9|rh||ah|Board 9|md|3SKJ432H84D6432C42,SQ9HKT7DAQ5CAT865,S7HAQ9652DT98CJ93|sv|e|
+pn|Guy Van Middelem,Oosthoek,Zvi Engel,Bert Daemen|qx|o9,BOARD 9|rh||ah|Board 9|md|3SKJ432H84D6432C42,SQ9HKT7DAQ5CAT865,S7HAQ9652DT98CJ93|sv|e|
 sa|0|mb|2D|mb|2S|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
 pc|H5|pc|H3|pc|H8|pc|HT|pg||
 pc|C5|pc|C3|pc|CK|pc|C4|pg||
@@ -93,7 +93,7 @@ pc|DA|pc|DT|pc|D7|pc|D4|pg||
 pc|DQ|pc|H2|pc|DK|pc|D6|pg||
 pc|DJ|pc|S3|pc|D5|pc|H6|pg||
 pc|SA|mc|10|pg||
-pn|Van Middelem,Oosthoek,Engel,Daemen|qx|o10,BOARD 10|rh||ah|Board 10|md|4SQJ5HAK42D97652CA,SAK872HJDAKJ4CK63,ST9H7653DTCQJ8754|sv|b|
+pn|Guy Van Middelem,Oosthoek,Zvi Engel,Bert Daemen|qx|o10,BOARD 10|rh||ah|Board 10|md|4SQJ5HAK42D97652CA,SAK872HJDAKJ4CK63,ST9H7653DTCQJ8754|sv|b|
 sa|0|mb|p|mb|1D|mb|d|mb|p|mb|1H|mb|p|mb|1S|mb|2C|mb|2S|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
 pc|DT|pc|D3|pc|D2|pc|DA|pg||
 pc|SA|pc|S9|pc|S3|pc|S5|pg||

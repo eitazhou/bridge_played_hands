@@ -218,7 +218,7 @@ sa|0|mb|1C|mb|2H|mb|3D|mb|p|mb|4H|mb|p|mb|6D|mb|p|mb|p|mb|p|pg||
 pc|SQ|pc|S5|pc|S4|pc|D4|pg||
 pc|DJ|pc|D6|pc|DK|pc|H7|pg||
 mc|11|pg||
-pn|George Jacobs,Giorgio Duboin,Ralph Katz,NorbertoBocchi|qx|o22,BOARD 22|rh||ah|Board 22|md|4S64HAJ875D97CJ963,SAQJT98H632DACKT5,SK752HQT9DJ65C874|sv|e|
+pn|George Jacobs,Giorgio Duboin,Ralph Katz,Norberto Bocchi|qx|o22,BOARD 22|rh||ah|Board 22|md|4S64HAJ875D97CJ963,SAQJT98H632DACKT5,SK752HQT9DJ65C874|sv|e|
 sa|0|mb|1D|mb|p|mb|1S|mb|p|mb|3D|mb|p|mb|3S|mb|p|mb|3N|mb|p|mb|4D|mb|p|mb|4H|mb|p|mb|4S|mb|p|mb|4N|mb|p|mb|6D|mb|p|mb|p|mb|p|pg||
 pc|C3|pc|C5|pc|C7|pc|CA|pg||
 pc|S3|pc|S6|pc|SA|pc|S2|pg||
@@ -231,17 +231,17 @@ pc|D4|pc|C6|pc|H3|pc|C8|pg||
 pc|C2|pc|CJ|pc|CK|pc|C4|pg||
 pc|H6|pc|H9|pc|HK|pc|HA|pg||
 mc|11|pg||
-pn|George Jacobs,Giorgio Duboin,Ralph Katz,NorbertoBocchi|qx|o23,BOARD 23|rh||ah|Board 23|md|1S85HKJT653D54CT74,SKJT4HQ87DQ2CKQJ3,S63H942DKT9863C82|sv|b|
+pn|George Jacobs,Giorgio Duboin,Ralph Katz,Norberto Bocchi|qx|o23,BOARD 23|rh||ah|Board 23|md|1S85HKJT653D54CT74,SKJT4HQ87DQ2CKQJ3,S63H942DKT9863C82|sv|b|
 sa|0|mb|p|mb|1N|mb|p|mb|2C|mb|p|mb|2S|mb|p|mb|4C|mb|p|mb|4S|mb|p|mb|6S|mb|p|mb|p|mb|p|pg||
 pc|D8|pc|DA|pc|D5|pc|D2|pg||
 mc|12|pg||
-pn|George Jacobs,Giorgio Duboin,Ralph Katz,NorbertoBocchi|qx|o24,BOARD 24|rh||ah|Board 24|md|2SK943H763D43CT864,ST86HAQDAK95CAQ92,SQ2HKJ984D76CK753|sv|0|
+pn|George Jacobs,Giorgio Duboin,Ralph Katz,Norberto Bocchi|qx|o24,BOARD 24|rh||ah|Board 24|md|2SK943H763D43CT864,ST86HAQDAK95CAQ92,SQ2HKJ984D76CK753|sv|0|
 sa|0|mb|1D|mb|1H|mb|d|mb|p|mb|1N|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
 pc|SQ|pc|SA|pc|S4|pc|S6|pg||
 pc|CJ|pc|C8|pc|C2|pc|CK|pg||
 pc|S2|pc|S5|pc|SK|pc|S8|pg||
 mc|11|pg||
-pn|Michel Abecassis,Steve Garner,Jean Quantin,Howard Weinstein|qx|o25,BOARD 25|rh||ah|Board 25|md|3SK874HJDAT9732CA4,SAQJT6HAQ2DJCKQJ9,S932HK964D85CT763|sv|e|
+pn|Michel Abecassis,Steve Garner,Jean-christophe Quantin,Howard Weinstein|qx|o25,BOARD 25|rh||ah|Board 25|md|3SK874HJDAT9732CA4,SAQJT6HAQ2DJCKQJ9,S932HK964D85CT763|sv|e|
 sa|0|mb|p|mb|p|mb|1D|mb|d|mb|p|mb|1H|mb|2D|mb|d|mb|p|mb|2H|mb|p|mb|2S|mb|p|mb|2N|mb|p|mb|3D|mb|p|mb|3H|mb|p|mb|4H|mb|p|mb|p|mb|p|pg||
 pc|DA|pc|DJ|pc|D8|pc|D4|pg||
 pc|D7|pc|S6|pc|D5|pc|DQ|pg||
@@ -255,14 +255,14 @@ pc|ST|pc|C3|pc|H5|pc|S8|pg||
 pc|C8|pc|C4|pc|CK|pc|C6|pg||
 pc|CQ|pc|CT|pc|DK|pc|D9|pg||
 mc|10|pg||
-pn|Michel Abecassis,Steve Garner,Jean Quantin,Howard Weinstein|qx|o26,BOARD 26|rh||ah|Board 26|md|4SA82HJT42DA8CK852,S975HQ87DKQ75CQ76,SQTH53DT93CAJT943|sv|b|
+pn|Michel Abecassis,Steve Garner,Jean-christophe Quantin,Howard Weinstein|qx|o26,BOARD 26|rh||ah|Board 26|md|4SA82HJT42DA8CK852,S975HQ87DKQ75CQ76,SQTH53DT93CAJT943|sv|b|
 sa|0|mb|1S|mb|d|mb|2S|mb|3C|mb|3S|mb|4C|mb|p|mb|p|mb|p|pg||
 pc|HA|pc|H2|pc|H8|pc|H3|pg||
 pc|HK|pc|H4|pc|H7|pc|H5|pg||
 pc|H9|pc|HT|pc|HQ|pc|C3|pg||
 pc|CJ|pc|S6|pc|CK|pc|C6|pg||
 pc|C2|pc|C7|pc|C9|mc|10|pg||
-pn|Michel Abecassis,Steve Garner,Jean Quantin,Howard Weinstein|qx|o27,BOARD 27|rh||ah|Board 27|md|1SAQJHJT8DAQJ87CK3,ST8742HAQ75D3CAT5,SK63H642DKT6CJ642|sv|0|
+pn|Michel Abecassis,Steve Garner,Jean-christophe Quantin,Howard Weinstein|qx|o27,BOARD 27|rh||ah|Board 27|md|1SAQJHJT8DAQJ87CK3,ST8742HAQ75D3CAT5,SK63H642DKT6CJ642|sv|0|
 sa|0|mb|1D|mb|d|mb|p|mb|2C|mb|d|mb|p|mb|2D|mb|p|mb|p|mb|p|pg||
 pc|S4|pc|S3|pc|S9|pc|SJ|pg||
 pc|DA|pc|D3|pc|D6|pc|D2|pg||

@@ -4,7 +4,7 @@ pw|Ramer,Jansma,Paulissen,Verhees,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,|
 mp|,,,,,,,,,,,,,,,,,,,|
 bn|1,2,3,4,5,6,7,8,9,10|
 pg||
-pn|Ramer,Jansma,Paulissen,Verhees|qx|o1,BOARD 1|rh||ah|Board 1|md|3S42HAKJ64DAQ7CQJ4,SQ86H95DT642CT985,SAKT753HQ3DJ93C72|sv|0|
+pn|Roald Ramer,Jan Jansma,Gert-jan Paulissen,Louk Verhees Jr|qx|o1,BOARD 1|rh||ah|Board 1|md|3S42HAKJ64DAQ7CQJ4,SQ86H95DT642CT985,SAKT753HQ3DJ93C72|sv|0|
 sa|0|mb|2D|mb|p|mb|2N|mb|p|mb|3H|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
 pc|CT|pc|C2|pc|CK|pc|C4|pg||
 pc|D5|pc|DA|pc|D2|pc|D3|pg||
@@ -15,7 +15,7 @@ pc|H3|pc|H8|pc|HA|pc|H9|pg||
 pc|HK|pc|SQ|pc|C7|pc|H7|pg||
 pc|D4|pc|D9|pc|DK|pc|D7|pg||
 mc|10|pg||
-pn|Ramer,Jansma,Paulissen,Verhees|qx|o2,BOARD 2|rh||ah|Board 2|md|4S95H98764DKQT6CQ5,SJ3HAKQ52D8542CK9,SQ876H3DAJ73CAJ63|sv|n|
+pn|Roald Ramer,Jan Jansma,Gert-jan Paulissen,Louk Verhees Jr|qx|o2,BOARD 2|rh||ah|Board 2|md|4S95H98764DKQT6CQ5,SJ3HAKQ52D8542CK9,SQ876H3DAJ73CAJ63|sv|n|
 sa|0|mb|p|mb|p|mb|1H|mb|d|mb|1S|mb|2D|mb|p|mb|p|mb|2H|mb|p|mb|p|mb|3D|mb|p|mb|p|mb|p|pg||
 pc|D2|pc|D3|pc|D9|pc|DQ|pg||
 pc|H7|pc|HQ|pc|H3|pc|HT|pg||
@@ -28,7 +28,7 @@ pc|SJ|pc|SQ|pc|SK|pc|S9|pg||
 pc|CT|pc|DK|pc|H2|pc|C6|pg||
 pc|H4|pc|H5|pc|DJ|pc|HJ|pg||
 mc|7|pg||
-pn|Ramer,Jansma,Paulissen,Verhees|qx|o3,BOARD 3|rh||ah|Board 3|md|1SKQ63HT96DT543CT8,SA82HAJ5DKJ86C754,ST97HKQ72DA97CJ96|sv|e|
+pn|Roald Ramer,Jan Jansma,Gert-jan Paulissen,Louk Verhees Jr|qx|o3,BOARD 3|rh||ah|Board 3|md|1SKQ63HT96DT543CT8,SA82HAJ5DKJ86C754,ST97HKQ72DA97CJ96|sv|e|
 sa|0|mb|p|mb|1D|mb|p|mb|2C|mb|p|mb|2N|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
 pc|HQ|pc|H3|pc|H6|pc|H5|pg||
 pc|H2|pc|H4|pc|H9|pc|HJ|pg||
@@ -43,7 +43,7 @@ pc|H7|pc|H8|pc|SQ|pc|HA|pg||
 pc|SA|pc|ST|pc|S4|pc|SK|pg||
 pc|DJ|pc|D9|pc|S5|pc|D5|pg||
 pc|D8|pc|HK|pc|SJ|pc|DT|pg||
-pn|Ramer,Jansma,Paulissen,Verhees|qx|o4,BOARD 4|rh||ah|Board 4|md|2S87HKJ8DT84CAQ853,SKQ6532H9DKJ72C96,SAT4HA765D653CJ42|sv|b|
+pn|Roald Ramer,Jan Jansma,Gert-jan Paulissen,Louk Verhees Jr|qx|o4,BOARD 4|rh||ah|Board 4|md|2S87HKJ8DT84CAQ853,SKQ6532H9DKJ72C96,SAT4HA765D653CJ42|sv|b|
 sa|0|mb|2D|mb|p|mb|2S|mb|p|mb|p|mb|p|pg||
 pc|D8|pc|D2|pc|D3|pc|DQ|pg||
 pc|SJ|pc|S7|pc|S2|pc|S4|pg||
@@ -52,7 +52,7 @@ pc|C4|pc|CK|pc|CA|pc|C6|pg||
 pc|CQ|pc|C9|pc|C2|pc|CT|pg||
 pc|HK|pc|H9|pc|H6|pc|HQ|pg||
 mc|9|pg||
-pn|Ramer,Jansma,Paulissen,Verhees|qx|o5,BOARD 5|rh||ah|Board 5|md|3SA65HQ96DJ7CAKQ42,S4HK43DAQ964CJT83,S982HT752DT832C76|sv|n|
+pn|Roald Ramer,Jan Jansma,Gert-jan Paulissen,Louk Verhees Jr|qx|o5,BOARD 5|rh||ah|Board 5|md|3SA65HQ96DJ7CAKQ42,S4HK43DAQ964CJT83,S982HT752DT832C76|sv|n|
 sa|0|mb|p|mb|1S|mb|1N|mb|d|mb|p|mb|p|mb|p|pg||
 pc|D4|pc|D2|pc|DK|pc|D7|pg||
 pc|SK|pc|S5|pc|S4|pc|S2|pg||
@@ -64,7 +64,7 @@ pc|DJ|pc|DQ|pc|D3|pc|D5|pg||
 pc|DA|pc|D8|pc|HJ|pc|S6|pg||
 pc|H3|pc|H2|pc|HA|pc|H6|pg||
 pc|SJ|mc|4|pg||
-pn|Ramer,Jansma,Paulissen,Verhees|qx|o6,BOARD 6|rh||ah|Board 6|md|4SK875HT3D754CKQJ9,S2HAJ62DKQ982CT64,SAQT94HQ984DAJC85|sv|e|
+pn|Roald Ramer,Jan Jansma,Gert-jan Paulissen,Louk Verhees Jr|qx|o6,BOARD 6|rh||ah|Board 6|md|4SK875HT3D754CKQJ9,S2HAJ62DKQ982CT64,SAQT94HQ984DAJC85|sv|e|
 sa|0|mb|p|mb|p|mb|p|mb|1S|mb|p|mb|2C|mb|2D|mb|3S|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
 pc|D3|pc|D4|pc|DQ|pc|DA|pg||
 pc|SQ|pc|S6|pc|S5|pc|S2|pg||
@@ -73,7 +73,7 @@ pc|DT|pc|D5|pc|DK|pc|DJ|pg||
 pc|HA|pc|H4|pc|H5|pc|H3|pg||
 pc|H2|pc|H8|pc|HK|pc|HT|pg||
 mc|9|pg||
-pn|Ramer,Jansma,Paulissen,Verhees|qx|o7,BOARD 7|rh||ah|Board 7|md|1SKHJ63DAQ85CJT873,SAJT976HQ975D3C96,SQ854HKTDT976CAQ4|sv|b|
+pn|Roald Ramer,Jan Jansma,Gert-jan Paulissen,Louk Verhees Jr|qx|o7,BOARD 7|rh||ah|Board 7|md|1SKHJ63DAQ85CJT873,SAJT976HQ975D3C96,SQ854HKTDT976CAQ4|sv|b|
 sa|0|mb|p|mb|2D|mb|p|mb|2H|mb|p|mb|2S|mb|p|mb|p|mb|p|pg||
 pc|DT|pc|DJ|pc|DQ|pc|D3|pg||
 pc|H6|pc|H7|pc|HT|pc|HA|pg||
@@ -84,7 +84,7 @@ pc|C4|pc|CK|pc|C8|pc|C6|pg||
 pc|H2|pc|H3|pc|H9|pc|HK|pg||
 pc|CQ|pc|C5|pc|CT|pc|C9|pg||
 mc|9|pg||
-pn|Ramer,Jansma,Paulissen,Verhees|qx|o8,BOARD 8|rh||ah|Board 8|md|2SQ432H62DA876CQ75,ST865HJ73DT2CT643,SKHT985DJ543CKJ98|sv|0|
+pn|Roald Ramer,Jan Jansma,Gert-jan Paulissen,Louk Verhees Jr|qx|o8,BOARD 8|rh||ah|Board 8|md|2SQ432H62DA876CQ75,ST865HJ73DT2CT643,SKHT985DJ543CKJ98|sv|0|
 sa|0|mb|p|mb|p|mb|2C|mb|p|mb|2D|mb|p|mb|2N|mb|p|mb|3C|mb|p|mb|3D|mb|p|mb|3H|mb|p|mb|3S|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
 pc|C7|pc|C3|pc|C8|pc|C2|pg||
 pc|C9|pc|CA|pc|C5|pc|C4|pg||
@@ -99,7 +99,7 @@ pc|D8|pc|DT|pc|DJ|pc|DQ|pg||
 pc|D9|pc|D7|pc|H7|pc|D5|pg||
 pc|HA|pc|S4|pc|ST|pc|HT|pg||
 pc|CT|pc|CJ|pc|HQ|pc|D6|pg||
-pn|Ramer,Jansma,Paulissen,Verhees|qx|o9,BOARD 9|rh||ah|Board 9|md|3SA3HAKQ74DT843CT2,S9864H8D972CQ8764,SKT752HJ3DAKQJCA9|sv|e|
+pn|Roald Ramer,Jan Jansma,Gert-jan Paulissen,Louk Verhees Jr|qx|o9,BOARD 9|rh||ah|Board 9|md|3SA3HAKQ74DT843CT2,S9864H8D972CQ8764,SKT752HJ3DAKQJCA9|sv|e|
 sa|0|mb|1S|mb|p|mb|2H|mb|p|mb|3D|mb|p|mb|4D|mb|p|mb|4H|mb|p|mb|5C|mb|p|mb|5H|mb|p|mb|6H|mb|p|mb|7D|mb|p|mb|p|mb|p|pg||
 pc|H2|pc|H4|pc|H8|pc|HJ|pg||
 pc|DA|pc|D5|pc|D3|pc|D2|pg||
@@ -109,7 +109,7 @@ pc|H3|pc|H9|pc|HA|pc|C6|pg||
 pc|SA|pc|S4|pc|S2|pc|SJ|pg||
 pc|S3|pc|S6|pc|SK|pc|SQ|pg||
 mc|13|pg||
-pn|Ramer,Jansma,Paulissen,Verhees|qx|o10,BOARD 10|rh||ah|Board 10|md|4SHAQ4DA876CQT9853,SKQJ52HJ86DKJ5CK2,SATHK7532D43CA764|sv|b|
+pn|Roald Ramer,Jan Jansma,Gert-jan Paulissen,Louk Verhees Jr|qx|o10,BOARD 10|rh||ah|Board 10|md|4SHAQ4DA876CQT9853,SKQJ52HJ86DKJ5CK2,SATHK7532D43CA764|sv|b|
 sa|0|mb|p|mb|1C|mb|1S|mb|2H|mb|4S|mb|5H|mb|p|mb|p|mb|p|pg||
 pc|CJ|pc|CQ|pc|C2|pc|C4|pg||
 pc|HA|pc|H6|pc|H2|pc|H9|pg||

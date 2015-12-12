@@ -4,7 +4,7 @@ pw|Schippers H,Tuwanakotta,Schippers E,Borm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,|
 mp|,,,,,,,,,,,,,,,,,,,|
 pg||
 qx|o21|
-pn|Schippers H,Tuwanakotta,Schippers E,Borm,South,West,North,East|md|3SJ94H5DJT93CAKT98,SKT63HT932DQ854CJ,S75HKJ876D6CQ7432,SAQ82HAQ4DAK72C65|sv|n|
+pn|Schippers H,Tuwanakotta,Elly Schippers,Borm,Can South,West C,Can North,East D|md|3SJ94H5DJT93CAKT98,SKT63HT932DQ854CJ,S75HKJ876D6CQ7432,SAQ82HAQ4DAK72C65|sv|n|
 mb|P|mb|1D|mb|P|mb|1H|mb|P|mb|2N|mb|P|mb|3C|mb|P|mb|3D|mb|P|mb|4S|mb|P|mb|P|mb|P|pg||
 pc|D6|pc|DA|pc|D3|pc|D4|pg||
 pc|SA|pc|S4|pc|S3|pc|S5|pg||
@@ -17,7 +17,7 @@ pc|CA|pc|ST|pc|C3|pc|C6|pg||
 pc|D5|pc|H8|pc|DK|pc|D9|pg||
 mc|10|pg||
 qx|o22|
-pn|Schippers H,Tuwanakotta,Schippers E,Borm,South,West,North,East|md|4SAKQJ85HKJ73DJCK5,S7643HT62DT7CQ932,S9HQ85DK8642CJT76,ST2HA94DAQ953CA84|sv|e|
+pn|Schippers H,Tuwanakotta,Elly Schippers,Borm,Can South,West C,Can North,East D|md|4SAKQJ85HKJ73DJCK5,S7643HT62DT7CQ932,S9HQ85DK8642CJT76,ST2HA94DAQ953CA84|sv|e|
 mb|1D|mb|D|mb|P|mb|P|mb|P|pg||
 pc|SA|pc|S3|pc|S9|pc|S2|pg||
 pc|SK|pc|S4|pc|H8|pc|ST|pg||
@@ -34,7 +34,7 @@ pc|DQ|pc|H7|pc|C9|pc|D6|pg||
 pc|C8|pc|S5|pc|CQ|pc|D8|pg||
 mc|6|pg||
 qx|o23|
-pn|Schippers H,Tuwanakotta,Schippers E,Borm,South,West,North,East|md|1SA65HJ8DAJ875C754,SKQJ84HQ42DQ9CQT6,ST72HA9765D6CKJ32,S93HKT3DKT432CA98|sv|b|
+pn|Schippers H,Tuwanakotta,Elly Schippers,Borm,Can South,West C,Can North,East D|md|1SA65HJ8DAJ875C754,SKQJ84HQ42DQ9CQT6,ST72HA9765D6CKJ32,S93HKT3DKT432CA98|sv|b|
 mb|P|mb|1S|mb|P|mb|2D|mb|P|mb|2N|mb|P|mb|3N|mb|P|mb|P|mb|P|pg||
 pc|H5|pc|HT|pc|HJ|pc|HQ|pg||
 pc|SK|pc|S7|pc|S3|pc|SA|pg||
@@ -50,7 +50,7 @@ pc|C8|pc|C5|pc|CT|pc|CK|pg||
 pc|HA|pg||
 mc|8|pg||
 qx|o24|
-pn|Schippers H,Tuwanakotta,Schippers E,Borm,South,West,North,East|md|2SK42HJ983DJ86CK32,SJT976HDK952CT975,SA83HQ2D743CAQJ64,SQ5HAKT7654DAQTC8|sv|0|
+pn|Schippers H,Tuwanakotta,Elly Schippers,Borm,Can South,West C,Can North,East D|md|2SK42HJ983DJ86CK32,SJT976HDK952CT975,SA83HQ2D743CAQJ64,SQ5HAKT7654DAQTC8|sv|0|
 mb|P|mb|1N|mb|2D|mb|D|mb|R|mb|P|mb|2H|mb|P|mb|P|mb|P|pg||
 pc|C2|pc|C5|pc|CA|pc|C8|pg||
 pc|C6|pc|H4|pc|C3|pc|C7|pg||
@@ -65,14 +65,14 @@ pc|DT|pc|DJ|pc|DK|pc|CJ|pg||
 pc|D9|pg||
 mc|9|pg||
 qx|o25|
-pn|Schippers H,Tuwanakotta,Schippers E,Borm,South,West,North,East|md|3SAKQJ2HQT5DJTCJ84,ST9HK9732DAK7CKQT,S8743H64DQ8632C53,S65HAJ8D954CA9762|sv|e|
+pn|Schippers H,Tuwanakotta,Elly Schippers,Borm,Can South,West C,Can North,East D|md|3SAKQJ2HQT5DJTCJ84,ST9HK9732DAK7CKQT,S8743H64DQ8632C53,S65HAJ8D954CA9762|sv|e|
 mb|P|mb|P|mb|1N|mb|P|mb|P|mb|P|pg||
 pc|H2|pc|H4|pc|HA|pc|H5|pg||
 pc|HJ|pc|HQ|pc|HK|pc|H6|pg||
 pc|H3|pg||
 mc|6|pg||
 qx|o26|
-pn|Schippers H,Tuwanakotta,Schippers E,Borm,South,West,North,East|md|4SQT2HKTDQTCAQT974,SAKJ6HQJ9875D2C62,S9753H42DAK53CKJ5,S84HA63DJ98764C83|sv|b|
+pn|Schippers H,Tuwanakotta,Elly Schippers,Borm,Can South,West C,Can North,East D|md|4SQT2HKTDQTCAQT974,SAKJ6HQJ9875D2C62,S9753H42DAK53CKJ5,S84HA63DJ98764C83|sv|b|
 mb|P|mb|1D|mb|1H|mb|1S|mb|2H|mb|D|mb|3H|mb|D|mb|P|mb|3S|mb|P|mb|P|mb|P|pg||
 pc|D8|pc|DT|pc|D2|pc|D5|pg||
 pc|DQ|pc|C6|pc|D3|pc|D9|pg||
@@ -86,7 +86,7 @@ pc|HJ|pc|CJ|pc|H3|pc|S2|pg||
 pc|ST|pc|SK|pc|S5|pc|S8|pg||
 mc|8|pg||
 qx|o27|
-pn|Schippers H,Tuwanakotta,Schippers E,Borm,South,West,North,East|md|1SKQT5HQJ9DQ954CA4,SA2HK863DJ87CQJ93,S973HT72DA63CT876,SJ864HA54DKT2CK52|sv|0|
+pn|Schippers H,Tuwanakotta,Elly Schippers,Borm,Can South,West C,Can North,East D|md|1SKQT5HQJ9DQ954CA4,SA2HK863DJ87CQJ93,S973HT72DA63CT876,SJ864HA54DKT2CK52|sv|0|
 mb|1D|mb|P|mb|P|mb|1N|mb|P|mb|2N|mb|P|mb|3N|mb|P|mb|P|mb|P|pg||
 pc|SK|pc|SA|pc|S9|pc|S4|pg||
 pc|CQ|pc|C6|pc|C2|pc|CA|pg||
@@ -98,7 +98,7 @@ pc|D4|pc|D7|pc|DA|pc|D2|pg||
 pc|S3|pc|S6|pc|SQ|pc|D8|pg||
 mc|8|pg||
 qx|o28|
-pn|Schippers H,Tuwanakotta,Schippers E,Borm,South,West,North,East|md|2S42HAT5DT7654CJ75,SAKQT9763H6DJ3CKT,SJHKJ73DQ82CA8643,S85HQ9842DAK9CQ92|sv|n|
+pn|Schippers H,Tuwanakotta,Elly Schippers,Borm,Can South,West C,Can North,East D|md|2S42HAT5DT7654CJ75,SAKQT9763H6DJ3CKT,SJHKJ73DQ82CA8643,S85HQ9842DAK9CQ92|sv|n|
 mb|1S|mb|P|mb|2H|mb|P|mb|3S|mb|P|mb|4S|mb|P|mb|P|mb|P|pg||
 pc|H7|pc|H2|pc|H5|pc|H6|pg||
 pc|H3|pc|H4|pc|HT|pc|S3|pg||
@@ -107,7 +107,7 @@ pc|SK|pc|C3|pc|S8|pc|S4|pg||
 pc|SQ|pg||
 mc|11|pg||
 qx|o29|
-pn|Schippers H,Tuwanakotta,Schippers E,Borm,South,West,North,East|md|3ST9HQ9853DQJTCQT3,SAQ4HAJ2DK92CAJ54,SKJ732HK76D743CK6,S865HT4DA865C9872|sv|b|
+pn|Schippers H,Tuwanakotta,Elly Schippers,Borm,Can South,West C,Can North,East D|md|3ST9HQ9853DQJTCQT3,SAQ4HAJ2DK92CAJ54,SKJ732HK76D743CK6,S865HT4DA865C9872|sv|b|
 mb|P|mb|P|mb|P|mb|1C|mb|1S|mb|P|mb|P|mb|1N|mb|P|mb|P|mb|P|pg||
 pc|S2|pc|S5|pc|S9|pc|SQ|pg||
 pc|C4|pc|C6|pc|C8|pc|CT|pg||
@@ -123,7 +123,7 @@ pc|D9|pc|D4|pc|DA|pc|DJ|pg||
 pc|HT|pc|HQ|pc|HA|pc|H6|pg||
 mc|7|pg||
 qx|o30|
-pn|Schippers H,Tuwanakotta,Schippers E,Borm,South,West,North,East|md|4SJ965HQ92DAKQ7CQT,S74HKJ54D86CAJ972,SQT82HT63D93CK863,SAK3HA87DJT542C54|sv|0|
+pn|Schippers H,Tuwanakotta,Elly Schippers,Borm,Can South,West C,Can North,East D|md|4SJ965HQ92DAKQ7CQT,S74HKJ54D86CAJ972,SQT82HT63D93CK863,SAK3HA87DJT542C54|sv|0|
 mb|1D|mb|D|mb|1H|mb|1S|mb|P|mb|P|mb|2C|mb|P|mb|2H|mb|2S|mb|P|mb|P|mb|P|pg||
 pc|D2|pc|DA|pc|D8|pc|D3|pg||
 pc|S5|pc|S4|pc|SQ|pc|SK|pg||

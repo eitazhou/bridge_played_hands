@@ -16,10 +16,10 @@ pc|HJ|pc|H6|pc|D8|pc|C6|pg||
 pc|HT|pc|D7|pc|DT|pc|CT|pg||
 pc|CJ|pc|D9|pc|DJ|pc|CQ|pg||
 pc|D4|pc|C9|pc|DA|pc|DQ|pg||
-pn|Muller,Nab,De Boer,Bertens|qx|o1,BOARD 1|rh||ah|Board 1|md|3SQ853H72D64CQT863,SAKJ9HKJT9D3CJ972,S742H6543DAK97C54|sv|0|
+pn|Bauke Muller,Bart Nab,De Boer W,Huub Bertens|qx|o1,BOARD 1|rh||ah|Board 1|md|3SQ853H72D64CQT863,SAKJ9HKJT9D3CJ972,S742H6543DAK97C54|sv|0|
 sa|0|mb|p|mb|1D|mb|p|mb|1H|mb|p|mb|3D|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
 mc|11|pg||
-pn|Muller,Nab,De Boer,Bertens|qx|c2,BOARD 2|rh||ah|Board 2|md|4S654HK85D943CT943,S98HAQ97DK75CAKQJ,SAQT73HJ42DQ8C765|sv|n|
+pn|Bauke Muller,Bart Nab,De Boer W,Huub Bertens|qx|c2,BOARD 2|rh||ah|Board 2|md|4S654HK85D943CT943,S98HAQ97DK75CAKQJ,SAQT73HJ42DQ8C765|sv|n|
 sa|0|mb|p|mb|p|mb|1C|mb|1S|mb|1N|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
 pc|S5|pc|S8|pc|SQ|pc|SK|pg||
 pc|D2|pc|D9|pc|DK|pc|D8|pg||
@@ -34,13 +34,13 @@ pc|CJ|pc|S3|pc|H6|pc|S4|pg||
 pc|S9|pc|SA|pc|S2|pc|S6|pg||
 pc|S7|pc|SJ|pc|H8|pc|HQ|pg||
 pc|HT|pc|HK|pc|HA|pc|ST|pg||
-pn|Muller,Nab,De Boer,Bertens|qx|o2,BOARD 2|rh||ah|Board 2|md|4S654HK85D943CT943,S98HAQ97DK75CAKQJ,SAQT73HJ42DQ8C765|sv|n|
+pn|Bauke Muller,Bart Nab,De Boer W,Huub Bertens|qx|o2,BOARD 2|rh||ah|Board 2|md|4S654HK85D943CT943,S98HAQ97DK75CAKQJ,SAQT73HJ42DQ8C765|sv|n|
 sa|0|mb|p|mb|p|mb|1C|mb|1S|mb|2N|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
 pc|S5|pc|S8|pc|SA|pc|S2|pg||
 pc|S3|pc|SJ|pc|S6|pc|S9|pg||
 pc|D2|pc|D9|pc|DK|pc|D8|pg||
 pc|D5|pc|DQ|mc|12|pg||
-pn|Muller,Nab,De Boer,Bertens|qx|c3,BOARD 3|rh||ah|Board 3|md|1SQ54H85DA43CQJ952,ST3HJ9743DK7CAT86,SK986HQT6DQ852C43|sv|e|
+pn|Bauke Muller,Bart Nab,De Boer W,Huub Bertens|qx|c3,BOARD 3|rh||ah|Board 3|md|1SQ54H85DA43CQJ952,ST3HJ9743DK7CAT86,SK986HQT6DQ852C43|sv|e|
 sa|0|mb|p|mb|p|mb|p|mb|1N|mb|p|mb|2D|mb|p|mb|2H|mb|p|mb|2N|mb|p|mb|4H|mb|p|mb|p|mb|p|pg||
 pc|CQ|pc|C6|pc|C4|pc|CK|pg||
 pc|S2|pc|SQ|pc|S3|pc|S6|pg||
@@ -50,7 +50,7 @@ pc|H3|pc|H6|pc|HA|pc|H5|pg||
 pc|HK|pc|H8|pc|H4|pc|HT|pg||
 pc|SA|pc|S4|pc|D7|pc|S9|pg||
 mc|10|pg||
-pn|Muller,Nab,De Boer,Bertens|qx|o3,BOARD 3|rh||ah|Board 3|md|1SQ54H85DA43CQJ952,ST3HJ9743DK7CAT86,SK986HQT6DQ852C43|sv|e|
+pn|Bauke Muller,Bart Nab,De Boer W,Huub Bertens|qx|o3,BOARD 3|rh||ah|Board 3|md|1SQ54H85DA43CQJ952,ST3HJ9743DK7CAT86,SK986HQT6DQ852C43|sv|e|
 sa|0|mb|p|mb|p|mb|p|mb|1N|mb|p|mb|2D|mb|p|mb|2H|mb|p|mb|2N|mb|p|mb|4H|mb|p|mb|p|mb|p|pg||
 pc|CQ|pc|C6|pc|C3|pc|CK|pg||
 pc|DJ|pc|D4|pc|D7|pc|DQ|pg||
@@ -62,7 +62,7 @@ pc|SA|pc|S4|pc|ST|pc|S8|pg||
 pc|S2|pc|S5|pc|H7|pc|S9|pg||
 pc|C8|pc|HQ|pc|SJ|pc|C5|pg||
 mc|9|pg||
-pn|Muller,Nab,De Boer,Bertens|qx|c4,BOARD 4|rh||ah|Board 4|md|2SJ93HAK853DAT42CK,SAKQ82HT72DQ76CA4,ST5H964DKJ3CQ9872|sv|b|
+pn|Bauke Muller,Bart Nab,De Boer W,Huub Bertens|qx|c4,BOARD 4|rh||ah|Board 4|md|2SJ93HAK853DAT42CK,SAKQ82HT72DQ76CA4,ST5H964DKJ3CQ9872|sv|b|
 sa|0|mb|1S|mb|p|mb|p|mb|d|mb|p|mb|2C|mb|2S|mb|p|mb|p|mb|p|pg||
 pc|S5|pc|S6|pc|SJ|pc|SA|pg||
 pc|SK|pc|ST|pc|S4|pc|S3|pg||
@@ -76,7 +76,7 @@ pc|D3|pc|D8|pc|DA|pc|D6|pg||
 pc|D4|pc|DQ|pc|DK|pc|D9|pg||
 pc|DJ|pc|C6|pc|DT|pc|D7|pg||
 mc|7|pg||
-pn|Muller,Nab,De Boer,Bertens|qx|o4,BOARD 4|rh||ah|Board 4|md|2SJ93HAK853DAT42CK,SAKQ82HT72DQ76CA4,ST5H964DKJ3CQ9872|sv|b|
+pn|Bauke Muller,Bart Nab,De Boer W,Huub Bertens|qx|o4,BOARD 4|rh||ah|Board 4|md|2SJ93HAK853DAT42CK,SAKQ82HT72DQ76CA4,ST5H964DKJ3CQ9872|sv|b|
 sa|0|mb|1S|mb|p|mb|1N|mb|2H|mb|2S|mb|3H|mb|p|mb|p|mb|d|mb|p|mb|3S|mb|p|mb|p|mb|p|pg||
 pc|H4|pc|HJ|pc|HK|pc|H2|pg||
 pc|HA|pc|H7|pc|H9|pc|HQ|pg||
@@ -87,7 +87,7 @@ pc|DQ|pc|DK|pc|D9|pc|D4|pg||
 pc|CQ|pc|C3|pc|DT|pc|C4|pg||
 pc|D3|pc|S4|pc|DA|pc|D7|pg||
 mc|8|pg||
-pn|Muller,Nab,De Boer,Bertens|qx|c5,BOARD 5|rh||ah|Board 5|md|3SQJ7H2DJ9653CT752,ST86532HAT54DK4CJ,SAK94H963DQ7CKQ84|sv|n|
+pn|Bauke Muller,Bart Nab,De Boer W,Huub Bertens|qx|c5,BOARD 5|rh||ah|Board 5|md|3SQJ7H2DJ9653CT752,ST86532HAT54DK4CJ,SAK94H963DQ7CKQ84|sv|n|
 sa|0|mb|1N|mb|2H|mb|p|mb|4H|mb|p|mb|p|mb|p|pg||
 pc|SQ|pc|S2|pc|S4|pc|H7|pg||
 pc|CA|pc|C2|pc|CJ|pc|C4|pg||
@@ -102,7 +102,7 @@ pc|D8|pc|D9|pc|HA|pc|H3|pg||
 pc|S6|pc|SA|pc|HQ|pc|D5|pg||
 pc|HK|pc|H2|pc|S8|pc|H6|pg||
 pc|DT|pc|DJ|pc|ST|pc|H9|pg||
-pn|Muller,Nab,De Boer,Bertens|qx|o5,BOARD 5|rh||ah|Board 5|md|3SQJ7H2DJ9653CT752,ST86532HAT54DK4CJ,SAK94H963DQ7CKQ84|sv|n|
+pn|Bauke Muller,Bart Nab,De Boer W,Huub Bertens|qx|o5,BOARD 5|rh||ah|Board 5|md|3SQJ7H2DJ9653CT752,ST86532HAT54DK4CJ,SAK94H963DQ7CKQ84|sv|n|
 sa|0|mb|1C|mb|1H|mb|p|mb|3C|mb|p|mb|3D|mb|p|mb|4H|mb|p|mb|4S|mb|p|mb|5D|mb|p|mb|6H|mb|p|mb|p|mb|p|pg||
 pc|C5|pc|CJ|pc|CQ|pc|CA|pg||
 pc|D2|pc|D5|pc|DK|pc|D7|pg||
@@ -112,14 +112,14 @@ pc|S2|pc|SK|pc|H7|pc|S7|pg||
 pc|C6|pc|C7|pc|H5|pc|C8|pg||
 pc|S3|pc|S4|pc|H8|pc|SJ|pg||
 mc|12|pg||
-pn|Muller,Nab,De Boer,Bertens|qx|c6,BOARD 6|rh||ah|Board 6|md|4SK54HK32DKJ62CKT4,SJ93HAQ8754D7CAJ3,SA76HJ96D98CQ9765|sv|e|
+pn|Bauke Muller,Bart Nab,De Boer W,Huub Bertens|qx|c6,BOARD 6|rh||ah|Board 6|md|4SK54HK32DKJ62CKT4,SJ93HAQ8754D7CAJ3,SA76HJ96D98CQ9765|sv|e|
 sa|0|mb|p|mb|1N|mb|2H|mb|p|mb|p|mb|p|pg||
 pc|D8|pc|DA|pc|D6|pc|D7|pg||
 pc|HT|pc|H3|pc|HQ|pc|H6|pg||
 pc|H7|pc|HJ|pc|D3|pc|HK|pg||
 pc|CT|pc|CJ|pc|CQ|pc|C2|pg||
 mc|8|pg||
-pn|Muller,Nab,De Boer,Bertens|qx|o6,BOARD 6|rh||ah|Board 6|md|4SK54HK32DKJ62CKT4,SJ93HAQ8754D7CAJ3,SA76HJ96D98CQ9765|sv|e|
+pn|Bauke Muller,Bart Nab,De Boer W,Huub Bertens|qx|o6,BOARD 6|rh||ah|Board 6|md|4SK54HK32DKJ62CKT4,SJ93HAQ8754D7CAJ3,SA76HJ96D98CQ9765|sv|e|
 sa|0|mb|p|mb|1D|mb|1H|mb|d|mb|p|mb|1N|mb|2H|mb|p|mb|p|mb|p|pg||
 pc|D9|pc|DA|pc|D2|pc|D7|pg||
 pc|HT|pc|H2|pc|HQ|pc|H6|pg||
@@ -127,7 +127,7 @@ pc|HA|pc|H9|pc|D3|pc|H3|pg||
 pc|H4|pc|HJ|pc|C2|pc|HK|pg||
 pc|S4|pc|S9|pc|SA|pc|S2|pg||
 mc|8|pg||
-pn|Muller,Nab,De Boer,Bertens|qx|c7,BOARD 7|rh||ah|Board 7|md|1SK873HAK83D96CAK4,SJ96HQ65DQJ543CT9,SAT4H92DAK872C862|sv|b|
+pn|Bauke Muller,Bart Nab,De Boer W,Huub Bertens|qx|c7,BOARD 7|rh||ah|Board 7|md|1SK873HAK83D96CAK4,SJ96HQ65DQJ543CT9,SAT4H92DAK872C862|sv|b|
 sa|0|mb|1C|mb|p|mb|1D|mb|p|mb|1N|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
 pc|D4|pc|D2|pc|DT|pc|D9|pg||
 pc|C5|pc|CA|pc|CT|pc|C2|pg||
@@ -141,7 +141,7 @@ pc|H2|pc|HJ|pc|HA|pc|H5|pg||
 pc|HK|pc|H6|pc|H9|pc|HT|pg||
 pc|SK|pc|S9|pc|S4|pc|SQ|pg||
 mc|9|pg||
-pn|Muller,Nab,De Boer,Bertens|qx|o7,BOARD 7|rh||ah|Board 7|md|1SK873HAK83D96CAK4,SJ96HQ65DQJ543CT9,SAT4H92DAK872C862|sv|b|
+pn|Bauke Muller,Bart Nab,De Boer W,Huub Bertens|qx|o7,BOARD 7|rh||ah|Board 7|md|1SK873HAK83D96CAK4,SJ96HQ65DQJ543CT9,SAT4H92DAK872C862|sv|b|
 sa|0|mb|1H|mb|p|mb|2D|mb|p|mb|2S|mb|p|mb|2N|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
 pc|C3|pc|CA|pc|CT|pc|C6|pg||
 pc|D6|pc|D5|pc|D2|pc|DT|pg||
@@ -150,7 +150,7 @@ pc|C5|pc|CK|pc|S6|pc|C8|pg||
 pc|D9|pc|D4|pc|DA|pc|C7|pg||
 pc|ST|pc|S2|pc|S3|pc|SJ|pg||
 mc|9|pg||
-pn|Muller,Nab,De Boer,Bertens|qx|c8,BOARD 8|rh||ah|Board 8|md|2SAJ8763HDJ952CQ84,SKT2HKT95DA864C32,SQ4HAJ432DKQCJ975|sv|0|
+pn|Bauke Muller,Bart Nab,De Boer W,Huub Bertens|qx|c8,BOARD 8|rh||ah|Board 8|md|2SAJ8763HDJ952CQ84,SKT2HKT95DA864C32,SQ4HAJ432DKQCJ975|sv|0|
 sa|0|mb|p|mb|1H|mb|p|mb|1S|mb|p|mb|2C|mb|p|mb|2S|mb|p|mb|p|mb|p|pg||
 pc|C3|pc|C7|pc|CK|pc|C8|pg||
 pc|H6|pc|S3|pc|H5|pc|H2|pg||
@@ -159,10 +159,10 @@ pc|S6|pc|SK|pc|SQ|pc|S9|pg||
 pc|C2|pc|C5|pc|CA|pc|CQ|pg||
 pc|C6|pc|C4|pc|ST|pc|C9|pg||
 mc|8|pg||
-pn|Muller,Nab,De Boer,Bertens|qx|o8,BOARD 8|rh||ah|Board 8|md|2SAJ8763HDJ952CQ84,SKT2HKT95DA864C32,SQ4HAJ432DKQCJ975|sv|0|
+pn|Bauke Muller,Bart Nab,De Boer W,Huub Bertens|qx|o8,BOARD 8|rh||ah|Board 8|md|2SAJ8763HDJ952CQ84,SKT2HKT95DA864C32,SQ4HAJ432DKQCJ975|sv|0|
 sa|0|mb|p|mb|1H|mb|p|mb|1S|mb|p|mb|2C|mb|p|mb|2S|mb|p|mb|p|mb|p|pg||
 mc|8|pg||
-pn|Muller,Nab,De Boer,Bertens|qx|c9,BOARD 9|rh||ah|Board 9|md|3SJ532HKJ94DQ4CJT5,S96H62DKJT76CAK97,SAKQ874HA5D98CQ42|sv|e|
+pn|Bauke Muller,Bart Nab,De Boer W,Huub Bertens|qx|c9,BOARD 9|rh||ah|Board 9|md|3SJ532HKJ94DQ4CJT5,S96H62DKJT76CAK97,SAKQ874HA5D98CQ42|sv|e|
 sa|0|mb|1S|mb|p|mb|2S|mb|p|mb|3N|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
 pc|H7|pc|H9|pc|H6|pc|H5|pg||
 pc|S2|pc|S6|pc|SA|pc|ST|pg||
@@ -171,7 +171,7 @@ pc|HA|pc|H8|pc|H4|pc|H2|pg||
 pc|S7|pc|D5|pc|SJ|pc|D7|pg||
 pc|HK|pc|D6|pc|D9|pc|HT|pg||
 mc|10|pg||
-pn|Muller,Nab,De Boer,Bertens|qx|o9,BOARD 9|rh||ah|Board 9|md|3SJ532HKJ94DQ4CJT5,S96H62DKJT76CAK97,SAKQ874HA5D98CQ42|sv|e|
+pn|Bauke Muller,Bart Nab,De Boer W,Huub Bertens|qx|o9,BOARD 9|rh||ah|Board 9|md|3SJ532HKJ94DQ4CJT5,S96H62DKJT76CAK97,SAKQ874HA5D98CQ42|sv|e|
 sa|0|mb|1S|mb|p|mb|2S|mb|2N|mb|3C|mb|3D|mb|3S|mb|p|mb|p|mb|4D|mb|p|mb|p|mb|p|pg||
 pc|S3|pc|S6|pc|SK|pc|ST|pg||
 pc|SA|pc|D3|pc|S5|pc|S9|pg||
@@ -180,7 +180,7 @@ pc|H2|pc|HA|pc|H3|pc|H4|pg||
 pc|H5|pc|HT|pc|HJ|pc|H6|pg||
 pc|DQ|pc|D6|pc|D9|pc|DA|pg||
 mc|9|pg||
-pn|Muller,Nab,De Boer,Bertens|qx|c10,BOARD 10|rh||ah|Board 10|md|4SJ85HQT62DAJ7C965,SAKHAK74DKQ64CA72,SQT62H983D9532CJ4|sv|b|
+pn|Bauke Muller,Bart Nab,De Boer W,Huub Bertens|qx|c10,BOARD 10|rh||ah|Board 10|md|4SJ85HQT62DAJ7C965,SAKHAK74DKQ64CA72,SQT62H983D9532CJ4|sv|b|
 sa|0|mb|p|mb|p|mb|2C|mb|p|mb|2D|mb|p|mb|2N|mb|p|mb|3C|mb|p|mb|3D|mb|p|mb|3H|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
 pc|D5|pc|DT|pc|DA|pc|D4|pg||
 pc|DJ|pc|DK|pc|D3|pc|D8|pg||
@@ -195,11 +195,11 @@ pc|SA|pc|ST|pc|S7|pc|SJ|pg||
 pc|HA|pc|H3|pc|H5|pc|H6|pg||
 pc|HK|pc|H9|pc|HJ|pc|HT|pg||
 pc|H7|pc|SQ|pc|S9|pc|HQ|pg||
-pn|Muller,Nab,De Boer,Bertens|qx|o10,BOARD 10|rh||ah|Board 10|md|4SJ85HQT62DAJ7C965,SAKHAK74DKQ64CA72,SQT62H983D9532CJ4|sv|b|
+pn|Bauke Muller,Bart Nab,De Boer W,Huub Bertens|qx|o10,BOARD 10|rh||ah|Board 10|md|4SJ85HQT62DAJ7C965,SAKHAK74DKQ64CA72,SQT62H983D9532CJ4|sv|b|
 sa|0|mb|p|mb|p|mb|2D|mb|p|mb|2H|mb|p|mb|2N|mb|p|mb|3C|mb|p|mb|3D|mb|p|mb|3H|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
 pc|D5|pc|D8|pc|DJ|pc|DQ|pg||
 mc|11|pg||
-pn|Muller,Nab,De Boer,Bertens|qx|c11,BOARD 11|rh||ah|Board 11|md|1SAQTHKDKQT6CT9762,S85H7652D94CAKQJ5,SKJ976432HQDJ8C84|sv|0|
+pn|Bauke Muller,Bart Nab,De Boer W,Huub Bertens|qx|c11,BOARD 11|rh||ah|Board 11|md|1SAQTHKDKQT6CT9762,S85H7652D94CAKQJ5,SKJ976432HQDJ8C84|sv|0|
 sa|0|mb|1D|mb|2C|mb|4S|mb|5H|mb|5S|mb|6H|mb|6S|mb|d|mb|p|mb|p|mb|p|pg||
 pc|C3|pc|C2|pc|CQ|pc|C8|pg||
 pc|CA|pc|C4|pc|D7|pc|C6|pg||
@@ -207,7 +207,7 @@ pc|H6|pc|HQ|pc|HA|pc|HK|pg||
 pc|DA|pc|D6|pc|D9|pc|D8|pg||
 pc|D2|pc|DK|pc|D4|pc|DJ|pg||
 mc|9|pg||
-pn|Muller,Nab,De Boer,Bertens|qx|o11,BOARD 11|rh||ah|Board 11|md|1SAQTHKDKQT6CT9762,S85H7652D94CAKQJ5,SKJ976432HQDJ8C84|sv|0|
+pn|Bauke Muller,Bart Nab,De Boer W,Huub Bertens|qx|o11,BOARD 11|rh||ah|Board 11|md|1SAQTHKDKQT6CT9762,S85H7652D94CAKQJ5,SKJ976432HQDJ8C84|sv|0|
 sa|0|mb|1C|mb|p|mb|4S|mb|5H|mb|5S|mb|p|mb|p|mb|p|pg||
 pc|HA|pc|HK|pc|H2|pc|HQ|pg||
 pc|C3|pc|CT|pc|CA|pc|C4|pg||
@@ -216,11 +216,11 @@ pc|C5|pc|S9|pc|D7|pc|C6|pg||
 pc|S4|pc|HT|pc|SQ|pc|S5|pg||
 pc|SA|pc|S8|pc|S2|pc|H3|pg||
 mc|9|pg||
-pn|Muller,Nab,De Boer,Bertens|qx|c12,BOARD 12|rh||ah|Board 12|md|2S985H95DQ2CT86432,SAKJT42HAJ7DA74C5,S73HQ4DKJT8653CK9|sv|n|
+pn|Bauke Muller,Bart Nab,De Boer W,Huub Bertens|qx|c12,BOARD 12|rh||ah|Board 12|md|2S985H95DQ2CT86432,SAKJT42HAJ7DA74C5,S73HQ4DKJT8653CK9|sv|n|
 sa|0|mb|1S|mb|2D|mb|2H|mb|p|mb|4C|mb|p|mb|4D|mb|p|mb|4N|mb|p|mb|5S|mb|p|mb|7H|mb|p|mb|p|mb|p|pg||
 pc|H5|pc|H7|pc|H4|pc|H2|pg||
 mc|13|pg||
-pn|Muller,Nab,De Boer,Bertens|qx|o12,BOARD 12|rh||ah|Board 12|md|2S985H95DQ2CT86432,SAKJT42HAJ7DA74C5,S73HQ4DKJT8653CK9|sv|n|
+pn|Bauke Muller,Bart Nab,De Boer W,Huub Bertens|qx|o12,BOARD 12|rh||ah|Board 12|md|2S985H95DQ2CT86432,SAKJT42HAJ7DA74C5,S73HQ4DKJT8653CK9|sv|n|
 sa|0|mb|1S|mb|2D|mb|d|mb|p|mb|3D|mb|p|mb|3H|mb|p|mb|4S|mb|p|mb|4N|mb|p|mb|5D|mb|p|mb|7S|mb|p|mb|p|mb|p|pg||
 pc|S3|pc|SQ|pc|S5|pc|S2|pg||
 pc|S6|pc|S8|pc|SA|pc|S7|pg||
@@ -230,7 +230,7 @@ pc|ST|pc|D5|pc|CJ|pc|C3|pg||
 pc|H7|pc|H4|pc|HK|pc|H9|pg||
 pc|H3|pc|H5|pc|HJ|pc|HQ|pg||
 mc|11|pg||
-pn|Muller,Nab,De Boer,Bertens|qx|c13,BOARD 13|rh||ah|Board 13|md|3SK874HJ74DA74CA97,SAT2HKQTDKQ53CK52,SQJ963H963DJ86C63|sv|b|
+pn|Bauke Muller,Bart Nab,De Boer W,Huub Bertens|qx|c13,BOARD 13|rh||ah|Board 13|md|3SK874HJ74DA74CA97,SAT2HKQTDKQ53CK52,SQJ963H963DJ86C63|sv|b|
 sa|0|mb|p|mb|p|mb|1C|mb|1N|mb|p|mb|2C|mb|p|mb|2D|mb|p|mb|2N|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
 pc|SQ|pc|S5|pc|S7|pc|S2|pg||
 pc|S6|pc|H2|pc|SK|pc|ST|pg||
@@ -240,10 +240,10 @@ pc|DA|pc|D3|pc|D6|pc|D9|pg||
 pc|S4|pc|D5|pc|S9|pc|H5|pg||
 pc|SJ|pc|C4|pc|D4|pc|HT|pg||
 mc|7|pg||
-pn|Muller,Nab,De Boer,Bertens|qx|o13,BOARD 13|rh||ah|Board 13|md|3SK874HJ74DA74CA97,SAT2HKQTDKQ53CK52,SQJ963H963DJ86C63|sv|b|
+pn|Bauke Muller,Bart Nab,De Boer W,Huub Bertens|qx|o13,BOARD 13|rh||ah|Board 13|md|3SK874HJ74DA74CA97,SAT2HKQTDKQ53CK52,SQJ963H963DJ86C63|sv|b|
 sa|0|mb|p|mb|p|mb|1C|mb|1N|mb|p|mb|2C|mb|p|mb|2D|mb|p|mb|2N|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
 mc|7|pg||
-pn|Muller,Nab,De Boer,Bertens|qx|c14,BOARD 14|rh||ah|Board 14|md|4SAJ832HADQ982CT75,S974HKQJ5432D54C4,S6H976DAKJ7CQ8632|sv|0|
+pn|Bauke Muller,Bart Nab,De Boer W,Huub Bertens|qx|c14,BOARD 14|rh||ah|Board 14|md|4SAJ832HADQ982CT75,S974HKQJ5432D54C4,S6H976DAKJ7CQ8632|sv|0|
 sa|0|mb|1C|mb|2S|mb|4H|mb|p|mb|p|mb|p|pg||
 pc|S6|pc|SK|pc|SA|pc|S7|pg||
 pc|D2|pc|D4|pc|DJ|pc|D3|pg||
@@ -255,7 +255,7 @@ pc|HT|pc|HA|pc|H2|pc|H6|pg||
 pc|S2|pc|HK|pc|C6|pc|ST|pg||
 pc|HQ|pc|H9|pc|H8|pc|D8|pg||
 mc|8|pg||
-pn|Muller,Nab,De Boer,Bertens|qx|o14,BOARD 14|rh||ah|Board 14|md|4SAJ832HADQ982CT75,S974HKQJ5432D54C4,S6H976DAKJ7CQ8632|sv|0|
+pn|Bauke Muller,Bart Nab,De Boer W,Huub Bertens|qx|o14,BOARD 14|rh||ah|Board 14|md|4SAJ832HADQ982CT75,S974HKQJ5432D54C4,S6H976DAKJ7CQ8632|sv|0|
 sa|0|mb|1C|mb|1S|mb|3H|mb|p|mb|p|mb|p|pg||
 pc|S6|pc|SK|pc|SA|pc|S7|pg||
 pc|D2|pc|D4|pc|DJ|pc|D3|pg||
@@ -266,7 +266,7 @@ pc|C4|pc|C6|pc|CA|pc|C5|pg||
 pc|CK|pc|C7|pc|S9|pc|C3|pg||
 pc|H8|pc|HA|pc|H3|pc|H6|pg||
 mc|8|pg||
-pn|Muller,Nab,De Boer,Bertens|qx|c15,BOARD 15|rh||ah|Board 15|md|1ST953HAKJT7DK6CK9,SK64H32DAT972CJ62,S87H865DQ43CQ7543|sv|n|
+pn|Bauke Muller,Bart Nab,De Boer W,Huub Bertens|qx|c15,BOARD 15|rh||ah|Board 15|md|1ST953HAKJT7DK6CK9,SK64H32DAT972CJ62,S87H865DQ43CQ7543|sv|n|
 sa|0|mb|1H|mb|p|mb|p|mb|d|mb|p|mb|2D|mb|p|mb|p|mb|p|pg||
 pc|S7|pc|SA|pc|ST|pc|S4|pg||
 pc|DJ|pc|DK|pc|DA|pc|D4|pg||
@@ -280,7 +280,7 @@ pc|C2|pc|C3|pc|CT|pc|CK|pg||
 pc|S9|pc|C6|pc|C4|pc|SQ|pg||
 pc|CA|pc|C9|pc|CJ|pc|C5|pg||
 mc|9|pg||
-pn|Muller,Nab,De Boer,Bertens|qx|o15,BOARD 15|rh||ah|Board 15|md|1ST953HAKJT7DK6CK9,SK64H32DAT972CJ62,S87H865DQ43CQ7543|sv|n|
+pn|Bauke Muller,Bart Nab,De Boer W,Huub Bertens|qx|o15,BOARD 15|rh||ah|Board 15|md|1ST953HAKJT7DK6CK9,SK64H32DAT972CJ62,S87H865DQ43CQ7543|sv|n|
 sa|0|mb|1H|mb|p|mb|p|mb|1N|mb|p|mb|p|mb|p|pg||
 pc|HK|pc|H2|pc|H8|pc|H4|pg||
 pc|S3|pc|S4|pc|S7|pc|SQ|pg||
@@ -289,7 +289,7 @@ pc|D2|pc|DQ|pc|D8|pc|D6|pg||
 pc|H6|pc|H9|pc|HT|pc|H3|pg||
 pc|HA|pc|C2|pc|H5|pc|HQ|pg||
 mc|7|pg||
-pn|Muller,Nab,De Boer,Bertens|qx|c16,BOARD 16|rh||ah|Board 16|md|2SQT95H6532DQ3CAK8,S2HA874DT76CQ9732,SKJ763HJTDAJ842C6|sv|e|
+pn|Bauke Muller,Bart Nab,De Boer W,Huub Bertens|qx|c16,BOARD 16|rh||ah|Board 16|md|2SQT95H6532DQ3CAK8,S2HA874DT76CQ9732,SKJ763HJTDAJ842C6|sv|e|
 sa|0|mb|p|mb|1S|mb|p|mb|2C|mb|p|mb|2D|mb|p|mb|3S|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
 pc|S4|pc|S5|pc|S2|pc|S3|pg||
 pc|CA|pc|C2|pc|C6|pc|C5|pg||
@@ -300,7 +300,7 @@ pc|CT|pc|C8|pc|C7|pc|S7|pg||
 pc|DA|pc|D5|pc|D3|pc|D6|pg||
 pc|D2|pc|DK|pc|DQ|pc|D7|pg||
 mc|10|pg||
-pn|Muller,Nab,De Boer,Bertens|qx|o16,BOARD 16|rh||ah|Board 16|md|2SQT95H6532DQ3CAK8,S2HA874DT76CQ9732,SKJ763HJTDAJ842C6|sv|e|
+pn|Bauke Muller,Bart Nab,De Boer W,Huub Bertens|qx|o16,BOARD 16|rh||ah|Board 16|md|2SQT95H6532DQ3CAK8,S2HA874DT76CQ9732,SKJ763HJTDAJ842C6|sv|e|
 sa|0|mb|p|mb|2D|mb|p|mb|2H|mb|p|mb|2S|mb|p|mb|3S|mb|p|mb|p|mb|p|pg||
 pc|HK|pc|H2|pc|H4|pc|HT|pg||
 pc|HQ|pc|H3|pc|H7|pc|HJ|pg||

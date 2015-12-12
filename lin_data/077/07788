@@ -2,7 +2,7 @@ vg|13th Cap Gemini World Top Tournament 1999,1999.01.15,P,1,10,Team 1,0,Team 2,0
 rs|4SW+1,,2SW-1,,5DN-3,,2SW+1,,4HW+1,,2SEx-3,,3CN=,,3HE-1,,1NE=,,4HE=,,|
 pw|Mahmood,Ramondt,Forrester,Maas,Mahmood,Ramondt,Forrester,Maas,Mahmood,Ramondt,Forrester,Maas,Mahmood,Ramondt,Forrester,Maas,Mahmood,Ramondt,Forrester,Maas,Mahmood,Ramondt,Forrester,Maas,Mahmood,Ramondt,Forrester,Maas,Mahmood,Ramondt,Forrester,Maas,Mahmood,Ramondt,Forrester,Maas,Mahmood,Ramondt,Forrester,Maas,|pg||bn|21,22,23,24,25,26,27,28,29,30,|pg||
 mp|0,,3,,,11,4,,0,,6,,1,,3,,,2,0,,|pg||
-pn|Mahmood,Ramondt,Forrester,Maas|qx|o1|md|3S95HKJ9643DKJTC74,SAK62HQT52D87CQ83,ST43H87DAQ965CK52|sv|n|
+pn|Mahmood,Vincent Ramondt,Tony Forrester,Maas A|qx|o1|md|3S95HKJ9643DKJTC74,SAK62HQT52D87CQ83,ST43H87DAQ965CK52|sv|n|
 mb|p|mb|1C|mb|1H|mb|1S|mb|d|mb|2S|mb|p|mb|2N|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
 pc|H8|pc|HA|pc|H9|pc|H5|pg||
 pc|SQ|pc|S9|pc|S2|pc|S3|pg||
@@ -12,7 +12,7 @@ pc|CQ|pc|C5|pc|C9|pc|C4|pg||
 pc|C3|pc|CK|pc|CA|pc|C7|pg||
 pc|CJ|pc|H3|pc|C8|pc|C2|pg||
 pc|CT|pg||mc|11|pg||
-pn|Mahmood,Ramondt,Forrester,Maas|qx|o2|md|4S752HKT87DA9653CT,SAKQ86H532D2CQ962,SJ9HA9DK84CAJ8753|sv|e|
+pn|Mahmood,Vincent Ramondt,Tony Forrester,Maas A|qx|o2|md|4S752HKT87DA9653CT,SAKQ86H532D2CQ962,SJ9HA9DK84CAJ8753|sv|e|
 mb|p|mb|p|mb|1S|mb|2C|mb|2S|mb|p|mb|p|mb|p|pg||
 pc|CA|pc|C4|pc|CT|pc|C6|pg||
 pc|HA|pc|H4|pc|H7|pc|H2|pg||
@@ -25,7 +25,7 @@ pc|SA|pc|SJ|pc|S3|pc|S5|pg||
 pc|C9|pc|C3|pc|ST|pc|D3|pg||
 pc|S4|pc|S7|pc|SK|pc|C7|pg||
 mc|7|pg||
-pn|Mahmood,Ramondt,Forrester,Maas|qx|o3|md|1SAQ54H543DKQTCQ85,SJT9HAQ76D532CA42,SK8HJDAJ974CK9763|sv|b|
+pn|Mahmood,Vincent Ramondt,Tony Forrester,Maas A|qx|o3|md|1SAQ54H543DKQTCQ85,SJT9HAQ76D532CA42,SK8HJDAJ974CK9763|sv|b|
 mb|1C|mb|p|mb|1D|mb|p|mb|1N|mb|p|mb|2D|mb|p|mb|2S|mb|p|mb|3C|mb|p|mb|3D|mb|p|mb|4C|mb|p|mb|4D|mb|p|mb|5D|mb|p|mb|p|mb|p|pg||
 pc|H9|pc|H3|pc|HA|pc|HJ|pg||
 pc|HQ|pc|D4|pc|H8|pc|H4|pg||
@@ -38,7 +38,7 @@ pc|SK|pc|S2|pc|S4|pc|S9|pg||
 pc|S8|pc|S3|pc|SA|pc|ST|pg||
 pc|SQ|pc|SJ|pc|C3|pc|S6|pg||
 mc|8|pg||
-pn|Mahmood,Ramondt,Forrester,Maas|qx|o4|md|2SA4HJ9DK52CKT9743,ST9652HKT73DQ84CJ,S7HQ654DJT97CAQ85|sv|0|
+pn|Mahmood,Vincent Ramondt,Tony Forrester,Maas A|qx|o4|md|2SA4HJ9DK52CKT9743,ST9652HKT73DQ84CJ,S7HQ654DJT97CAQ85|sv|0|
 mb|2C|mb|p|mb|2D|mb|p|mb|2S|mb|p|mb|p|mb|p|pg||
 pc|DJ|pc|DA|pc|D5|pc|D8|pg||
 pc|SK|pc|SA|pc|S5|pc|S7|pg||
@@ -50,7 +50,7 @@ pc|HA|pc|HJ|pc|H3|pc|H4|pg||
 pc|H2|pc|H9|pc|HT|pc|HQ|pg||
 pc|DT|pc|D3|pc|DK|pc|D4|pg||
 mc|9|pg||
-pn|Mahmood,Ramondt,Forrester,Maas|qx|o5|md|3SJ9853HJ8DKJ2CAQ8,SAKTHQ94DAT94CK32,S7642H65DQ865CJ94|sv|e|
+pn|Mahmood,Vincent Ramondt,Tony Forrester,Maas A|qx|o5|md|3SJ9853HJ8DKJ2CAQ8,SAKTHQ94DAT94CK32,S7642H65DQ865CJ94|sv|e|
 mb|p|mb|2D|mb|p|mb|4C|mb|p|mb|4D|mb|d|mb|4H|mb|p|mb|p|mb|p|pg||
 pc|D5|pc|D3|pc|DK|pc|DA|pg||
 pc|H4|pc|H5|pc|HA|pc|H8|pg||
@@ -60,7 +60,7 @@ pc|H2|pc|S8|pc|HQ|pc|D6|pg||
 pc|SK|pc|S2|pc|D7|pc|S5|pg||
 pc|SA|pc|S4|pc|C5|pc|S9|pg||
 mc|11|pg||
-pn|Mahmood,Ramondt,Forrester,Maas|qx|o6|md|4ST8732HQ42DA5CKJT,SAQJ954H5DQJ7C985,SKHAKJ7DT93CA7432|sv|b|
+pn|Mahmood,Vincent Ramondt,Tony Forrester,Maas A|qx|o6|md|4ST8732HQ42DA5CKJT,SAQJ954H5DQJ7C985,SKHAKJ7DT93CA7432|sv|b|
 mb|p|mb|p|mb|2D|mb|p|mb|2S|mb|p|mb|p|mb|d|mb|p|mb|p|mb|p|pg||
 pc|S2|pc|S9|pc|SK|pc|S6|pg||
 pc|C3|pc|CQ|pc|CK|pc|C5|pg||
@@ -73,13 +73,13 @@ pc|DQ|pc|D3|pc|D6|pc|DA|pg||
 pc|H4|pc|S5|pc|HJ|pc|H8|pg||
 pc|SQ|pc|C2|pc|H9|pc|S7|pg||
 mc|5|pg||
-pn|Mahmood,Ramondt,Forrester,Maas|qx|o7|md|1SA843HT9D63CAJ632,ST7HK642DQT9872CK,S952HA53DAKCQ9874|sv|0|
+pn|Mahmood,Vincent Ramondt,Tony Forrester,Maas A|qx|o7|md|1SA843HT9D63CAJ632,ST7HK642DQT9872CK,S952HA53DAKCQ9874|sv|0|
 mb|p|mb|p|mb|1C|mb|p|mb|1S|mb|1N|mb|d|mb|p|mb|p|mb|2D|mb|p|mb|p|mb|3C|mb|p|mb|p|mb|p|pg||
 pc|SK|pc|SA|pc|S7|pc|S2|pg||
 pc|D3|pc|D2|pc|DA|pc|D4|pg||
 pc|CQ|pc|C5|pc|C2|pc|CK|pg||
 mc|9|pg||
-pn|Mahmood,Ramondt,Forrester,Maas|qx|o8|md|2SAJ97HJ96DQ8CT954,SK654HK8DK42CJ832,SQ32HT5DAJT93CKQ7|sv|n|
+pn|Mahmood,Vincent Ramondt,Tony Forrester,Maas A|qx|o8|md|2SAJ97HJ96DQ8CT954,SK654HK8DK42CJ832,SQ32HT5DAJT93CKQ7|sv|n|
 mb|1N|mb|p|mb|2H|mb|p|mb|p|mb|d|mb|r|mb|2S|mb|p|mb|p|mb|3H|mb|p|mb|p|mb|p|pg||
 pc|C4|pc|C2|pc|CQ|pc|CA|pg||
 pc|C6|pc|C9|pc|CJ|pc|CK|pg||
@@ -93,7 +93,7 @@ pc|ST|pc|SJ|pc|S4|pc|S3|pg||
 pc|SA|pc|S5|pc|SQ|pc|H4|pg||
 pc|D5|pc|D8|pc|DK|pc|DA|pg||
 mc|8|pg||
-pn|Mahmood,Ramondt,Forrester,Maas|qx|o9|md|3S52HT82DAQ42CA873,SKT7HK63DJ87CKQ96,SQ8643HAJ9DK96CT5|sv|b|
+pn|Mahmood,Vincent Ramondt,Tony Forrester,Maas A|qx|o9|md|3S52HT82DAQ42CA873,SKT7HK63DJ87CKQ96,SQ8643HAJ9DK96CT5|sv|b|
 mb|p|mb|p|mb|p|mb|1C|mb|1S|mb|1N|mb|p|mb|p|mb|p|pg||
 pc|S5|pc|S7|pc|S8|pc|SJ|pg||
 pc|C4|pc|C3|pc|CK|pc|C5|pg||
@@ -102,7 +102,7 @@ pc|C2|pc|CA|pc|C9|pc|S6|pg||
 pc|S2|pc|ST|pc|SQ|pc|SA|pg||
 pc|H5|pc|H2|pc|HK|pc|HA|pg||
 mc|7|pg||
-pn|Mahmood,Ramondt,Forrester,Maas|qx|o10|md|4ST932HK75D2CQJ976,SAQJ8HJ42DQ4CA843,S7654HATDJ9753CK5|sv|0|
+pn|Mahmood,Vincent Ramondt,Tony Forrester,Maas A|qx|o10|md|4ST932HK75D2CQJ976,SAQJ8HJ42DQ4CA843,S7654HATDJ9753CK5|sv|0|
 mb|1H|mb|p|mb|2C|mb|p|mb|2D|mb|p|mb|4H|mb|p|mb|p|mb|p|pg||
 pc|D2|pc|D4|pc|DJ|pc|DA|pg||
 pc|SK|pc|S9|pc|SA|pc|S4|pg||

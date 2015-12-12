@@ -4,7 +4,7 @@ pw|Klaver,Ramondt,Ramer,Maas,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,|
 mp|,,,,,,,,,,,,,,,,,,,|
 pg||
 qx|o11|
-pn|Klaver,Ramondt,Ramer,Maas,South,West,North,East|md|1SQJ985HAJDAQ984CK,SKT7H98654DK73C98,S4HQT732D62CA7643,SA632HKDJT5CQJT52|sv|0|
+pn|Nico Klaver,Vincent Ramondt,Roald Ramer,Maas A,Can South,West C,Can North,East D|md|1SQJ985HAJDAQ984CK,SKT7H98654DK73C98,S4HQT732D62CA7643,SA632HKDJT5CQJT52|sv|0|
 mb|1S|mb|P|mb|1N|mb|2C|mb|2D|mb|P|mb|P|mb|P|pg||
 pc|C9|pc|C3|pc|C5|pc|CK|pg||
 pc|SJ|pc|S7|pc|S4|pc|SA|pg||
@@ -17,14 +17,14 @@ pc|H5|pc|H7|pc|DT|pc|DQ|pg||
 pc|D8|pc|DK|pc|C6|pc|DJ|pg||
 mc|9|pg||
 qx|o12|
-pn|Klaver,Ramondt,Ramer,Maas,South,West,North,East|md|2SAJ765HTDK32C9632,SK98HQ974DT964CJ5,SQT32HK53DCAKQ874,S4HAJ862DAQJ875CT|sv|n|
+pn|Nico Klaver,Vincent Ramondt,Roald Ramer,Maas A,Can South,West C,Can North,East D|md|2SAJ765HTDK32C9632,SK98HQ974DT964CJ5,SQT32HK53DCAKQ874,S4HAJ862DAQJ875CT|sv|n|
 mb|P|mb|1C|mb|2N|mb|P|mb|4H|mb|4S|mb|5D|mb|5H|mb|P|mb|5S|mb|P|mb|P|mb|6D|mb|P|mb|P|mb|6S|mb|P|mb|P|mb|P|pg||
 pc|DA|pc|D2|pc|DT|pc|S2|pg||
 pc|ST|pc|S4|pc|S5|pc|SK|pg||
 pc|H4|pc|HK|pc|HA|pc|HT|pg||
 mc|11|pg||
 qx|o13|
-pn|Klaver,Ramondt,Ramer,Maas,South,West,North,East|md|3SQJ2HJ876D765C972,S63HT932D83CAJ653,SK975HK4DT942CT84,SAT84HAQ5DAKQJCKQ|sv|b|
+pn|Nico Klaver,Vincent Ramondt,Roald Ramer,Maas A,Can South,West C,Can North,East D|md|3SQJ2HJ876D765C972,S63HT932D83CAJ653,SK975HK4DT942CT84,SAT84HAQ5DAKQJCKQ|sv|b|
 mb|P|mb|2C|mb|P|mb|2D|mb|P|mb|2N|mb|P|mb|3C|mb|P|mb|3D|mb|P|mb|3S|mb|P|mb|3N|mb|P|mb|P|mb|P|pg||
 pc|SQ|pc|S3|pc|S5|pc|S4|pg||
 pc|SJ|pc|S6|pc|S7|pc|S8|pg||
@@ -38,19 +38,19 @@ pc|CQ|pc|C9|pc|CA|pc|C8|pg||
 pc|CJ|pg||
 mc|11|pg||
 qx|o14|
-pn|Klaver,Ramondt,Ramer,Maas,South,West,North,East|md|4S8643HQJ95D5C8532,ST5HA7DAQJ83CAQJ7,SA972HKT6DT64C964,SKQJH8432DK972CKT|sv|0|
+pn|Nico Klaver,Vincent Ramondt,Roald Ramer,Maas A,Can South,West C,Can North,East D|md|4S8643HQJ95D5C8532,ST5HA7DAQJ83CAQJ7,SA972HKT6DT64C964,SKQJH8432DK972CKT|sv|0|
 mb|1D|mb|P|mb|2D|mb|P|mb|3D|mb|P|mb|6D|mb|P|mb|P|mb|P|pg||
 pc|HQ|pc|HA|pc|H6|pc|H2|pg||
 pc|ST|pc|SA|pc|SJ|pc|S3|pg||
 pc|HK|pg||
 mc|11|pg||
 qx|o15|
-pn|Klaver,Ramondt,Ramer,Maas,South,West,North,East|md|1ST76HJ87DAQT642C8,SA83HK65DKJ75CQ54,SJ52HQT432D83CT72,SKQ94HA9D9CAKJ963|sv|n|
+pn|Nico Klaver,Vincent Ramondt,Roald Ramer,Maas A,Can South,West C,Can North,East D|md|1ST76HJ87DAQT642C8,SA83HK65DKJ75CQ54,SJ52HQT432D83CT72,SKQ94HA9D9CAKJ963|sv|n|
 mb|P|mb|1D|mb|P|mb|2C|mb|P|mb|2N|mb|P|mb|3S|mb|P|mb|3N|mb|P|mb|4C|mb|P|mb|4D|mb|P|mb|4N|mb|P|mb|5C|mb|P|mb|6C|mb|P|mb|P|mb|P|pg||
 pc|DA|pc|D5|pc|D3|pc|D9|pg||
 mc|12|pg||
 qx|o16|
-pn|Klaver,Ramondt,Ramer,Maas,South,West,North,East|md|2SAJ764HKQDQ96CQ95,S9532HJT964D84CK4,SQHA8DAJT752CA762,SKT8H7532DK3CJT83|sv|e|
+pn|Nico Klaver,Vincent Ramondt,Roald Ramer,Maas A,Can South,West C,Can North,East D|md|2SAJ764HKQDQ96CQ95,S9532HJT964D84CK4,SQHA8DAJT752CA762,SKT8H7532DK3CJT83|sv|e|
 mb|P|mb|1D|mb|P|mb|1S|mb|P|mb|2D|mb|P|mb|3N|mb|P|mb|P|mb|P|pg||
 pc|HJ|pc|H8|pc|H2|pc|HQ|pg||
 pc|DQ|pc|D4|pc|D2|pc|DK|pg||
@@ -60,7 +60,7 @@ pc|C2|pc|C3|pc|CQ|pc|CK|pg||
 pc|S9|pg||
 mc|10|pg||
 qx|o17|
-pn|Klaver,Ramondt,Ramer,Maas,South,West,North,East|md|3S42HJDAJT97CT9853,SAQ763HAT8D862CJ2,SKJ95HQ9764DK43C6,ST8HK532DQ5CAKQ74|sv|0|
+pn|Nico Klaver,Vincent Ramondt,Roald Ramer,Maas A,Can South,West C,Can North,East D|md|3S42HJDAJT97CT9853,SAQ763HAT8D862CJ2,SKJ95HQ9764DK43C6,ST8HK532DQ5CAKQ74|sv|0|
 mb|P|mb|1N|mb|P|mb|2H|mb|P|mb|2S|mb|P|mb|3N|mb|P|mb|P|mb|P|pg||
 pc|DJ|pc|D2|pc|DK|pc|D5|pg||
 pc|D4|pc|DQ|pc|DA|pc|D6|pg||
@@ -68,7 +68,7 @@ pc|DT|pc|D8|pc|D3|pc|H2|pg||
 pc|D9|pg||
 mc|8|pg||
 qx|o18|
-pn|Klaver,Ramondt,Ramer,Maas,South,West,North,East|md|4ST9854H7DKQ95CAJ6,SAJHKJ9843D863C97,SQ3HQ652DJ42CKT83,SK762HATDAT7CQ542|sv|n|
+pn|Nico Klaver,Vincent Ramondt,Roald Ramer,Maas A,Can South,West C,Can North,East D|md|4ST9854H7DKQ95CAJ6,SAJHKJ9843D863C97,SQ3HQ652DJ42CKT83,SK762HATDAT7CQ542|sv|n|
 mb|1C|mb|P|mb|2H|mb|P|mb|2N|mb|P|mb|3N|mb|P|mb|P|mb|P|pg||
 pc|DQ|pc|D3|pc|D2|pc|DA|pg||
 pc|HA|pc|H7|pc|H3|pc|H2|pg||
@@ -80,7 +80,7 @@ pc|D9|pc|C7|pc|H6|pc|C2|pg||
 pc|CA|pg||
 mc|8|pg||
 qx|o19|
-pn|Klaver,Ramondt,Ramer,Maas,South,West,North,East|md|1SKJ762HQDAK4CQT96,SAT8HKJ864D83C742,SQ953HT75DQJT5CJ5,S4HA932D9762CAK83|sv|e|
+pn|Nico Klaver,Vincent Ramondt,Roald Ramer,Maas A,Can South,West C,Can North,East D|md|1SKJ762HQDAK4CQT96,SAT8HKJ864D83C742,SQ953HT75DQJT5CJ5,S4HA932D9762CAK83|sv|e|
 mb|1S|mb|P|mb|3S|mb|P|mb|P|mb|P|pg||
 pc|D8|pc|D5|pc|D9|pc|DA|pg||
 pc|SJ|pc|S8|pc|S3|pc|S4|pg||
@@ -91,7 +91,7 @@ pc|C4|pc|CJ|pc|CA|pc|CT|pg||
 pc|HA|pc|S6|pg||
 mc|9|pg||
 qx|o20|
-pn|Klaver,Ramondt,Ramer,Maas,South,West,North,East|md|2SJT63HJT8DKT54CJ9,SAQ9HQ4D83CAKQT82,S872HAK2DQ76C7654,SK54H97653DAJ92C3|sv|b|
+pn|Nico Klaver,Vincent Ramondt,Roald Ramer,Maas A,Can South,West C,Can North,East D|md|2SJT63HJT8DKT54CJ9,SAQ9HQ4D83CAKQT82,S872HAK2DQ76C7654,SK54H97653DAJ92C3|sv|b|
 mb|1C|mb|P|mb|1H|mb|P|mb|3C|mb|P|mb|P|mb|P|pg||
 pc|HK|pc|H3|pc|HJ|pc|H4|pg||
 pc|S7|pc|S4|pc|ST|pc|SA|pg||
