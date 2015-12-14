@@ -1,6 +1,6 @@
 vg|test namsos,sesion 1,P,1,15,Team 1,0,Team 2,0|
 rs|4HN+1,,PASS,,PASS,,PASS,,PASS,,PASS,,4HN+3,,PASS,,PASS,,PASS,,PASS,,PASS,,PASS,,PASS,,PASS,|
-pn|Can South,West C,Can North,East D,Can South,West C,Can North,East D|pg||
+pn|South,West,North,East,South,West,North,East|pg||
 qx|o1|st||md|3S843HJ42DKJCAK652,SA62HT3D986532CJ8,SJ9HAKQ95DAT74CQ9,SKQT75H876DQCT743|sv|o|mb|p|mb|p|mb|p|pg||
 qx|o2|st||md|4ST732HAJDAT863CJT,SK9H8742DQJ92C532,SQJ854HK65DK7C964,SA6HQT93D54CAKQ87|sv|n|mb|p|mb|p|mb|p|mb|p|pg||
 qx|o3|st||md|1S9H92DJT93CJT9862,SK83HJ54DQ8765CKQ,S752HAQT876DAK4C4,SAQJT64HK3D2CA753|sv|e|mb|p|mb|p|mb|p|mb|p|pg||

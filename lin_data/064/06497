@@ -4,7 +4,7 @@ pw|De Groot,Klaver,Bruggeman,Ramer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,|
 mp|,,,,,,,,,,,,,,,,,,,|
 pg||
 qx|o11|
-pn|De Groot,Nico Klaver,Jeroen Bruggeman,Roald Ramer,Can South,West C,Can North,East D|md|1STHJ985DT65C98764,SK65HAK6DAQ2CAKQ2,SAQ42HQT42DK984C5,SJ9873H73DJ73CJT3|sv|0|
+pn|De Groot,Nico Klaver,Jeroen Bruggeman,Roald Ramer,South,West,North,East|md|1STHJ985DT65C98764,SK65HAK6DAQ2CAKQ2,SAQ42HQT42DK984C5,SJ9873H73DJ73CJT3|sv|0|
 mb|P|mb|2C|mb|P|mb|2D|mb|P|mb|2N|mb|P|mb|3H|mb|P|mb|3S|mb|P|mb|3N|mb|P|mb|4S|mb|P|mb|P|mb|P|pg||
 pc|H4|pc|H3|pc|HJ|pc|HA|pg||
 pc|S5|pc|S2|pc|S9|pc|ST|pg||
@@ -18,7 +18,7 @@ pc|D3|pc|D5|pc|DQ|pc|DK|pg||
 pc|HT|pg||
 mc|8|pg||
 qx|o12|
-pn|De Groot,Nico Klaver,Jeroen Bruggeman,Roald Ramer,Can South,West C,Can North,East D|md|2SKQ986HADAKT6CA86,SAT72HJ862D5C9432,SJ3HKT953D843CQJT,S54HQ74DQJ972CK75|sv|n|
+pn|De Groot,Nico Klaver,Jeroen Bruggeman,Roald Ramer,South,West,North,East|md|2SKQ986HADAKT6CA86,SAT72HJ862D5C9432,SJ3HKT953D843CQJT,S54HQ74DQJ972CK75|sv|n|
 mb|P|mb|P|mb|1D|mb|D|mb|P|mb|1H|mb|P|mb|1S|mb|P|mb|2D|mb|P|mb|3N|mb|P|mb|P|mb|P|pg||
 pc|C4|pc|CQ|pc|C7|pc|C6|pg||
 pc|D3|pc|D7|pc|DT|pc|D5|pg||
@@ -31,7 +31,7 @@ pc|S8|pc|ST|pc|H9|pc|C5|pg||
 pc|C3|pc|CJ|pg||
 mc|11|pg||
 qx|o13|
-pn|De Groot,Nico Klaver,Jeroen Bruggeman,Roald Ramer,Can South,West C,Can North,East D|md|3S93H6DAKQ95CK9654,SQJ8HKT73D86CJT72,ST764HAQJ4D42CQ83,SAK52H9852DJT73CA|sv|b|
+pn|De Groot,Nico Klaver,Jeroen Bruggeman,Roald Ramer,South,West,North,East|md|3S93H6DAKQ95CK9654,SQJ8HKT73D86CJT72,ST764HAQJ4D42CQ83,SAK52H9852DJT73CA|sv|b|
 mb|P|mb|1D|mb|P|mb|1H|mb|P|mb|2H|mb|P|mb|P|mb|P|pg||
 pc|S6|pc|S2|pc|S9|pc|SQ|pg||
 pc|D6|pc|D2|pc|D3|pc|D9|pg||
@@ -46,7 +46,7 @@ pc|HJ|pc|H8|pc|C6|pc|C7|pg||
 pc|CQ|pg||
 mc|6|pg||
 qx|o14|
-pn|De Groot,Nico Klaver,Jeroen Bruggeman,Roald Ramer,Can South,West C,Can North,East D|md|4SA3H8754DA53CAK52,S752HQ3DQT8762CJ3,SQJT4HJT6DJ9CQT94,SK986HAK92DK4C876|sv|0|
+pn|De Groot,Nico Klaver,Jeroen Bruggeman,Roald Ramer,South,West,North,East|md|4SA3H8754DA53CAK52,S752HQ3DQT8762CJ3,SQJT4HJT6DJ9CQT94,SK986HAK92DK4C876|sv|0|
 mb|1C|mb|1N|mb|2D|mb|D|mb|P|mb|2H|mb|P|mb|P|mb|P|pg||
 pc|S5|pc|SQ|pc|S6|pc|S3|pg||
 pc|HJ|pc|HK|pc|H4|pc|H3|pg||
@@ -58,7 +58,7 @@ pc|H9|pc|H8|pc|S7|pc|DJ|pg||
 pc|SK|pg||
 mc|7|pg||
 qx|o15|
-pn|De Groot,Nico Klaver,Jeroen Bruggeman,Roald Ramer,Can South,West C,Can North,East D|md|1SA3HQJ72DK32CJ653,SQ87HAKT9DT874CQ9,ST9642H854D95C842,SKJ5H63DAQJ6CAKT7|sv|n|
+pn|De Groot,Nico Klaver,Jeroen Bruggeman,Roald Ramer,South,West,North,East|md|1SA3HQJ72DK32CJ653,SQ87HAKT9DT874CQ9,ST9642H854D95C842,SKJ5H63DAQJ6CAKT7|sv|n|
 mb|P|mb|P|mb|P|mb|1C|mb|P|mb|1H|mb|P|mb|2D|mb|P|mb|2H|mb|P|mb|3N|mb|P|mb|P|mb|P|pg||
 pc|H2|pc|H9|pc|H8|pc|H3|pg||
 pc|D4|pc|D5|pc|DQ|pc|D2|pg||
@@ -68,7 +68,7 @@ pc|HQ|pc|HA|pc|H5|pc|H6|pg||
 pc|S8|pc|S2|pc|SJ|pc|SA|pg||
 mc|11|pg||
 qx|o16|
-pn|De Groot,Nico Klaver,Jeroen Bruggeman,Roald Ramer,Can South,West C,Can North,East D|md|2SAKT7HQ765DAQ96CJ,SQ3HK32DK4CQT9653,S98642HAJ84DT7C84,SJ5HT9DJ8532CAK72|sv|e|
+pn|De Groot,Nico Klaver,Jeroen Bruggeman,Roald Ramer,South,West,North,East|md|2SAKT7HQ765DAQ96CJ,SQ3HK32DK4CQT9653,S98642HAJ84DT7C84,SJ5HT9DJ8532CAK72|sv|e|
 mb|P|mb|2H|mb|P|mb|4S|mb|P|mb|P|mb|P|pg||
 pc|CT|pc|C4|pc|CK|pc|CJ|pg||
 pc|CA|pc|S7|pc|C3|pc|C8|pg||
@@ -79,7 +79,7 @@ pc|D7|pc|D5|pc|DQ|pc|DK|pg||
 pc|D4|pc|DT|pc|DJ|pc|DA|pg||
 mc|10|pg||
 qx|o17|
-pn|De Groot,Nico Klaver,Jeroen Bruggeman,Roald Ramer,Can South,West C,Can North,East D|md|3SQT72H2DK7543C876,S96HJ9874D62CQJT2,SK54HAKQT63DQCK43,SAJ83H5DAJT98CA95|sv|0|
+pn|De Groot,Nico Klaver,Jeroen Bruggeman,Roald Ramer,South,West,North,East|md|3SQT72H2DK7543C876,S96HJ9874D62CQJT2,SK54HAKQT63DQCK43,SAJ83H5DAJT98CA95|sv|0|
 mb|1H|mb|D|mb|P|mb|2C|mb|2H|mb|P|mb|P|mb|P|pg||
 pc|CA|pc|C6|pc|CQ|pc|C4|pg||
 pc|C9|pc|C7|pc|CT|pc|CK|pg||
@@ -94,7 +94,7 @@ pc|D7|pc|C2|pc|H3|pc|D8|pg||
 pc|H6|pg||
 mc|8|pg||
 qx|o18|
-pn|De Groot,Nico Klaver,Jeroen Bruggeman,Roald Ramer,Can South,West C,Can North,East D|md|4SA75H5432DKQ86CJ4,S632HJ98D75CA9762,SKQT9HQDA942CKQT8,SJ84HAKT76DJT3C53|sv|n|
+pn|De Groot,Nico Klaver,Jeroen Bruggeman,Roald Ramer,South,West,North,East|md|4SA75H5432DKQ86CJ4,S632HJ98D75CA9762,SKQT9HQDA942CKQT8,SJ84HAKT76DJT3C53|sv|n|
 mb|P|mb|P|mb|P|mb|1D|mb|1H|mb|2H|mb|P|mb|3H|mb|P|mb|3S|mb|P|mb|5D|mb|P|mb|P|mb|P|pg||
 pc|HK|pc|H2|pc|H9|pc|HQ|pg||
 pc|S8|pc|S5|pc|S6|pc|ST|pg||
@@ -105,7 +105,7 @@ pc|CJ|pc|C2|pc|C8|pc|C3|pg||
 pc|C4|pg||
 mc|11|pg||
 qx|o19|
-pn|De Groot,Nico Klaver,Jeroen Bruggeman,Roald Ramer,Can South,West C,Can North,East D|md|1S752H853DQ5C87654,SAKQ983HAQ4DT62C2,SJ4HKJ96DAJ83CKT3,ST6HT72DK974CAQJ9|sv|e|
+pn|De Groot,Nico Klaver,Jeroen Bruggeman,Roald Ramer,South,West,North,East|md|1S752H853DQ5C87654,SAKQ983HAQ4DT62C2,SJ4HKJ96DAJ83CKT3,ST6HT72DK974CAQJ9|sv|e|
 mb|P|mb|1S|mb|D|mb|R|mb|2C|mb|3S|mb|P|mb|4S|mb|P|mb|P|mb|P|pg||
 pc|C3|pc|CJ|pc|C8|pc|C2|pg||
 pc|CA|pc|C6|pc|D2|pc|CT|pg||
@@ -120,7 +120,7 @@ pc|CQ|pc|C4|pc|H4|pc|H9|pg||
 pc|H2|pc|H3|pc|HQ|pc|HK|pg||
 mc|11|pg||
 qx|o20|
-pn|De Groot,Nico Klaver,Jeroen Bruggeman,Roald Ramer,Can South,West C,Can North,East D|md|2S82HA4DAQJ542CK72,SAQJ754H5DKT98CA5,SK96HQ87D76CJT983,ST3HKJT9632D3CQ64|sv|b|
+pn|De Groot,Nico Klaver,Jeroen Bruggeman,Roald Ramer,South,West,North,East|md|2S82HA4DAQJ542CK72,SAQJ754H5DKT98CA5,SK96HQ87D76CJT983,ST3HKJT9632D3CQ64|sv|b|
 mb|1S|mb|P|mb|2D|mb|P|mb|2S|mb|P|mb|3H|mb|P|mb|4H|mb|P|mb|P|mb|P|pg||
 pc|DA|pc|D8|pc|D7|pc|D3|pg||
 pc|DJ|pc|DK|pc|D6|pc|C4|pg||

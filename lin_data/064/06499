@@ -4,7 +4,7 @@ pw|De Groot,Schippers H,Bruggeman,Schippers E,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 mp|,,,,,,,,,,,,,,,,,,,|
 pg||
 qx|o11|
-pn|De Groot,Schippers H,Jeroen Bruggeman,Elly Schippers,Can South,West C,Can North,East D|md|1SQ86542HQJ6D5CJ92,SAKTH7DAKJ8643CT5,SJ9HAT2DQT9CKQ876,S73HK98543D72CA43|sv|0|
+pn|De Groot,Schippers H,Jeroen Bruggeman,Elly Schippers,South,West,North,East|md|1SQ86542HQJ6D5CJ92,SAKTH7DAKJ8643CT5,SJ9HAT2DQT9CKQ876,S73HK98543D72CA43|sv|0|
 mb|2S|mb|3N|mb|P|mb|P|mb|P|pg||
 pc|C6|pc|C3|pc|CJ|pc|C5|pg||
 pc|C9|pc|CT|pc|CQ|pc|CA|pg||
@@ -17,7 +17,7 @@ pc|C7|pc|H4|pc|H6|pc|D3|pg||
 pc|HA|pg||
 mc|7|pg||
 qx|o12|
-pn|De Groot,Schippers H,Jeroen Bruggeman,Elly Schippers,Can South,West C,Can North,East D|md|2SAT9HQ8752DAJCA96,S5432HATD876CKQT8,SKH963DKQT943C732,SQJ876HKJ4D52CJ54|sv|n|
+pn|De Groot,Schippers H,Jeroen Bruggeman,Elly Schippers,South,West,North,East|md|2SAT9HQ8752DAJCA96,S5432HATD876CKQT8,SKH963DKQT943C732,SQJ876HKJ4D52CJ54|sv|n|
 mb|P|mb|2C|mb|P|mb|2D|mb|P|mb|P|mb|2S|mb|3D|mb|3S|mb|P|mb|P|mb|P|pg||
 pc|DA|pc|D6|pc|D3|pc|D5|pg||
 pc|DJ|pc|D7|pc|DQ|pc|D2|pg||
@@ -28,7 +28,7 @@ pc|H6|pc|HK|pc|H7|pc|HT|pg||
 pc|S7|pc|ST|pc|S3|pc|D4|pg||
 mc|7|pg||
 qx|o13|
-pn|De Groot,Schippers H,Jeroen Bruggeman,Elly Schippers,Can South,West C,Can North,East D|md|3SK932HJT4DJ9CKQ82,SAQT654HK72D73C97,S8H9863DQT84CJT43,SJ7HAQ5DAK652CA65|sv|b|
+pn|De Groot,Schippers H,Jeroen Bruggeman,Elly Schippers,South,West,North,East|md|3SK932HJT4DJ9CKQ82,SAQT654HK72D73C97,S8H9863DQT84CJT43,SJ7HAQ5DAK652CA65|sv|b|
 mb|P|mb|1C|mb|P|mb|1S|mb|P|mb|1N|mb|P|mb|2D|mb|P|mb|2H|mb|P|mb|2S|mb|P|mb|2N|mb|P|mb|3S|mb|P|mb|4C|mb|P|mb|4H|mb|P|mb|4S|mb|P|mb|P|mb|P|pg||
 pc|D4|pc|DA|pc|D9|pc|D3|pg||
 pc|SJ|pc|S2|pc|S4|pc|S8|pg||
@@ -41,7 +41,7 @@ pc|HQ|pc|S9|pc|H7|pc|H9|pg||
 pc|SK|pc|SA|pc|C3|pc|C5|pg||
 mc|11|pg||
 qx|o14|
-pn|De Groot,Schippers H,Jeroen Bruggeman,Elly Schippers,Can South,West C,Can North,East D|md|4SAJ653HK97DA62CK4,SQT97HT62DK7CJ873,SK42HJ8DQ9CAQT952,S8HAQ543DJT8543C6|sv|0|
+pn|De Groot,Schippers H,Jeroen Bruggeman,Elly Schippers,South,West,North,East|md|4SAJ653HK97DA62CK4,SQT97HT62DK7CJ873,SK42HJ8DQ9CAQT952,S8HAQ543DJT8543C6|sv|0|
 mb|P|mb|1N|mb|P|mb|3N|mb|P|mb|P|mb|P|pg||
 pc|ST|pc|S2|pc|S8|pc|SJ|pg||
 pc|CK|pc|C3|pc|C2|pc|C6|pg||
@@ -54,7 +54,7 @@ pc|S3|pc|S7|pc|SK|pc|D4|pg||
 pc|C9|pg||
 mc|11|pg||
 qx|o15|
-pn|De Groot,Schippers H,Jeroen Bruggeman,Elly Schippers,Can South,West C,Can North,East D|md|1STHKT432DT984CAK9,SAQ6HAQ8DK652CQ32,SKJ987HJ5DQ3CJT54,S5432H976DAJ7C876|sv|n|
+pn|De Groot,Schippers H,Jeroen Bruggeman,Elly Schippers,South,West,North,East|md|1STHKT432DT984CAK9,SAQ6HAQ8DK652CQ32,SKJ987HJ5DQ3CJT54,S5432H976DAJ7C876|sv|n|
 mb|P|mb|1N|mb|P|mb|P|mb|P|pg||
 pc|S7|pc|S2|pc|ST|pc|SQ|pg||
 pc|D2|pc|D3|pc|DJ|pc|D4|pg||
@@ -65,7 +65,7 @@ pc|D5|pc|C4|pc|DA|pc|D9|pg||
 pc|H6|pc|H3|pc|HQ|pc|H5|pg||
 mc|7|pg||
 qx|o16|
-pn|De Groot,Schippers H,Jeroen Bruggeman,Elly Schippers,Can South,West C,Can North,East D|md|2SKTH6D9876CQT7542,S962HAKQ95DQJ43C3,SAJ754HJ82DA5CAK8,SQ83HT743DKT2CJ96|sv|e|
+pn|De Groot,Schippers H,Jeroen Bruggeman,Elly Schippers,South,West,North,East|md|2SKTH6D9876CQT7542,S962HAKQ95DQJ43C3,SAJ754HJ82DA5CAK8,SQ83HT743DKT2CJ96|sv|e|
 mb|1H|mb|1S|mb|2H|mb|P|mb|P|mb|D|mb|P|mb|3C|mb|P|mb|P|mb|P|pg||
 pc|HA|pc|H2|pc|HT|pc|H6|pg||
 pc|HK|pc|H8|pc|H3|pc|C2|pg||
@@ -80,7 +80,7 @@ pc|SA|pc|S8|pc|D7|pc|S9|pg||
 pc|S7|pg||
 mc|11|pg||
 qx|o17|
-pn|De Groot,Schippers H,Jeroen Bruggeman,Elly Schippers,Can South,West C,Can North,East D|md|3SK54H5DAQ76CKT983,SQT87HA32DKJ9854C,SA6HQJ974DT2CJ754,SJ932HKT86D3CAQ62|sv|0|
+pn|De Groot,Schippers H,Jeroen Bruggeman,Elly Schippers,South,West,North,East|md|3SK54H5DAQ76CKT983,SQT87HA32DKJ9854C,SA6HQJ974DT2CJ754,SJ932HKT86D3CAQ62|sv|0|
 mb|2D|mb|P|mb|2H|mb|D|mb|P|mb|3S|mb|P|mb|4S|mb|P|mb|P|mb|P|pg||
 pc|H5|pc|H2|pc|HJ|pc|HK|pg||
 pc|D3|pc|DA|pc|D4|pc|D2|pg||
@@ -94,7 +94,7 @@ pc|CA|pc|C9|pc|H3|pc|C7|pg||
 pc|CQ|pc|CK|pc|ST|pc|CJ|pg||
 mc|8|pg||
 qx|o18|
-pn|De Groot,Schippers H,Jeroen Bruggeman,Elly Schippers,Can South,West C,Can North,East D|md|4SA874HT843D9CQ843,S2HQJ75DKQJ8732CT,SKT6HK962DT65CJ95,SQJ953HADA4CAK762|sv|n|
+pn|De Groot,Schippers H,Jeroen Bruggeman,Elly Schippers,South,West,North,East|md|4SA874HT843D9CQ843,S2HQJ75DKQJ8732CT,SKT6HK962DT65CJ95,SQJ953HADA4CAK762|sv|n|
 mb|1C|mb|P|mb|3C|mb|P|mb|3N|mb|P|mb|4H|mb|P|mb|5C|mb|P|mb|5D|mb|P|mb|P|mb|P|pg||
 pc|S6|pc|SQ|pc|SA|pc|S2|pg||
 pc|S4|pc|D8|pc|ST|pc|S3|pg||
@@ -106,7 +106,7 @@ pc|CK|pc|CQ|pc|H5|pc|C9|pg||
 pc|S5|pc|S7|pc|D3|pc|SK|pg||
 mc|12|pg||
 qx|o19|
-pn|De Groot,Schippers H,Jeroen Bruggeman,Elly Schippers,Can South,West C,Can North,East D|md|1SK84H963D9843C973,SQJ653HJ75DJ2CAJ4,ST972HAQT2DKT5C85,SAHK84DAQ76CKQT62|sv|e|
+pn|De Groot,Schippers H,Jeroen Bruggeman,Elly Schippers,South,West,North,East|md|1SK84H963D9843C973,SQJ653HJ75DJ2CAJ4,ST972HAQT2DKT5C85,SAHK84DAQ76CKQT62|sv|e|
 mb|P|mb|P|mb|2H|mb|D|mb|2S|mb|D|mb|P|mb|3N|mb|P|mb|P|mb|P|pg||
 pc|S4|pc|S5|pc|S2|pc|SA|pg||
 pc|C6|pc|C3|pc|CJ|pc|C5|pg||
@@ -122,7 +122,7 @@ pc|D7|pc|D4|pc|DJ|pc|DK|pg||
 pc|HA|pg||
 mc|9|pg||
 qx|o20|
-pn|De Groot,Schippers H,Jeroen Bruggeman,Elly Schippers,Can South,West C,Can North,East D|md|2SAKQ8HAK96D4CT952,SJ9754HJDKQ98CA74,S632HQT8DA76CJ863,STH75432DJT532CKQ|sv|b|
+pn|De Groot,Schippers H,Jeroen Bruggeman,Elly Schippers,South,West,North,East|md|2SAKQ8HAK96D4CT952,SJ9754HJDKQ98CA74,S632HQT8DA76CJ863,STH75432DJT532CKQ|sv|b|
 mb|P|mb|P|mb|P|mb|1C|mb|1S|mb|2C|mb|P|mb|5C|mb|P|mb|P|mb|P|pg||
 pc|DK|pc|DA|pc|DJ|pc|D4|pg||
 pc|C3|pc|CQ|pc|C2|pc|C4|pg||

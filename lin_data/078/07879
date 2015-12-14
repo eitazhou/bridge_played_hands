@@ -164,7 +164,7 @@ pc|SQ|pc|S8|pc|H5|pc|S5|pg||
 pc|HA|pc|S4|pc|H6|pc|H7|pg||
 pc|DQ|pc|D2|pc|D7|pc|D9|pg||
 mc|7|pg||
-pn|Can South,West C,Can North,East D|qx|o17,BOARD 17|rh||ah|Board 17|md|3SKQT53HK8DJ7CA864,SA82HA975DKT64CJ5,S9764HT6DA92CQT92|sv|0|
+pn|South,West,North,East|qx|o17,BOARD 17|rh||ah|Board 17|md|3SKQT53HK8DJ7CA864,SA82HA975DKT64CJ5,S9764HT6DA92CQT92|sv|0|
 sa|0|mb|p|mb|p|mb|1S|mb|d|mb|3S|mb|4H|mb|p|mb|p|mb|p|pg||
 pc|SK|pc|SA|pc|S4|pc|SJ|pg||
 pc|S2|pc|S6|pc|H2|pc|S5|pg||
@@ -178,9 +178,9 @@ pc|D6|pc|C2|pc|D5|pc|C6|pg||
 pc|C5|pc|C9|pc|CK|pc|CA|pg||
 pc|C8|pc|CJ|pc|CQ|pc|C3|pg||
 mc|10|pg||
-pn|Can South,West C,Can North,East D|qx|o18,BOARD 18|rh||ah|Board 18|md|4SKT97HAQ62DQ97CT9,SJ843HJ7DJ3CAQ653,SA6HKT954DT864CK7|sv|n|
+pn|South,West,North,East|qx|o18,BOARD 18|rh||ah|Board 18|md|4SKT97HAQ62DQ97CT9,SJ843HJ7DJ3CAQ653,SA6HKT954DT864CK7|sv|n|
 sa|0|mb|p|mb|p|mb|p|mb|p|pg||
-pn|Can South,West C,Can North,East D|qx|o19,BOARD 19|rh||ah|Board 19|md|1ST87HKQT4DTCKJT53,SAKQ32H32DAJ75C86,S96HA95D98632C974|sv|e|
+pn|South,West,North,East|qx|o19,BOARD 19|rh||ah|Board 19|md|1ST87HKQT4DTCKJT53,SAKQ32H32DAJ75C86,S96HA95D98632C974|sv|e|
 sa|0|mb|p|mb|1S|mb|p|mb|3N|mb|p|mb|4S|mb|p|mb|p|mb|p|pg||
 pc|D9|pc|DK|pc|DT|pc|D5|pg||
 pc|S4|pc|S7|pc|SA|pc|S6|pg||

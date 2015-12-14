@@ -1,6 +1,6 @@
 vg|Hecht Cup 2005,Segment 2,P,1,36,Team 1,0,Team 2,0|
 rs|3HE=,,1NW+1,,4HW+1,,2NN-4,,6CW+1,,1NSx-2,,5SS=,,3NS+2,,3NS+1,,3SS-1,,2HN+1,,4HW=,,2HN+2,,3HN=,,2SE-1,,2SN-1,,4HSx-2,,5HNx-3,,3NN=,,4SS+2,,5CEx=,,6HE=,,4SS=,,4HS-1,,3SE=,,5DEx-2,,2CN-2,,3NN+2,,4HS-1,,3NS=,,3NS+3,,4HS=,,3NE=,,3SS=,,4SE=,,3CE=,|
-pn|Torkelsen Svendsen,Rossen Gunev,Aase - Tone Langeland,Desislava Popova,Can South,West C,Can North,East D|pg||
+pn|Torkelsen Svendsen,Rossen Gunev,Aase - Tone Langeland,Desislava Popova,South,West,North,East|pg||
 qx|o1|st||md|3SQ7654HQ3DAQ4CKQ9,SAT93HAKJ95DK5CA7,SKJHT7DT876CJ6542,S82H8642DJ932CT83|sv|o|mb|p|mb|p|mb|1N|mb|2C!|mb|p|mb|2H|mb|p|mb|3H|mb|p|mb|p|mb|p|pg||
 pc|cK|pc|cA|pc|c2|pc|c3|pg||
 pc|s3|pc|sK|pc|s2|pc|s4|pg||
@@ -34,7 +34,7 @@ pc|c7|pc|s4|pc|d9|pc|c4|pg||
 pc|c5|pc|dK|pc|s7|pc|s3|pg||
 pc|c3|pc|s6|mc|11|pg||
 
-pn|Andersen, Prickhaertz,Harries, Kalkerup,Can South,West C,Can North,East D|pg||
+pn|Andersen, Prickhaertz,Harries, Kalkerup,South,West,North,East|pg||
 
 qx|o4|st||md|2ST85HKQ85DKT876CA,SAKJ73HT3DJ2CT643,SQ64HJ764DQ954CJ8,S92HA92DA3CKQ9752|sv|b|mb|2S|mb|p|mb|p|mb|d|mb|p|mb|2N|mb|p|mb|p|mb|p|pg||
 pc|s9|pc|sT|pc|s3|pc|sQ|pg||
@@ -63,7 +63,7 @@ pc|d7|pc|dT|pc|dQ|pc|dK|pg||
 pc|dJ|pc|c5|pc|sT|pc|d3|pg||
 pc|cT|pc|c4|pc|c3|pc|cK|pg||
 pc|d9|pc|d8|pc|h5|mc|5|pg||
-pn|Jorgen Hansen,Michael Askgaard,Morten Bilde,Gregers Bjarnarson,Can South,West C,Can North,East D|pg||
+pn|Jorgen Hansen,Michael Askgaard,Morten Bilde,Gregers Bjarnarson,South,West,North,East|pg||
 
 qx|o7|st||md|1SKT9862HAQ95D9CQ3,SJHT4DK7632CAKJ86,SAQ754H76DAJC9754,S3HKJ832DQT854CT2|sv|b|mb|1S|mb|2N!|mb|3D!|mb|5D|mb|5S|mb|p|mb|p|mb|p|pg||
 pc|cA|pc|c4|pc|c2|pc|c3|pg||
@@ -92,7 +92,7 @@ pc|cA|pc|c4|pc|c6|pc|c2|pg||
 pc|cK|pc|sQ|pc|c7|pc|c5|pg||
 pc|c3|pc|h2|pc|cQ|pc|cT|pg||
 mc|10|pg||
-pn|Moeller,David Bakhshi, Boesgaard,Mc Intosh,Can South,West C,Can North,East D|pg||
+pn|Moeller,David Bakhshi, Boesgaard,Mc Intosh,South,West,North,East|pg||
 qx|o10|st||md|4SAQJ7HAQ7D53CKT63,SK8HJ8DT62CAQJ542,ST9653HT96DKJ8C97,S42HK5432DAQ974C8|sv|b|mb|p|mb|1N|mb|p|mb|2H!|mb|d|mb|3S|mb|p|mb|p|mb|p|pg||
 pc|hJ|pc|h6|pc|h5|pc|hQ|pg||
 pc|d5|pc|d2|pc|dK|pc|dA|pg||
@@ -121,7 +121,7 @@ pc|d3|pc|dT|pc|h8|pc|dJ|pg||
 pc|cA|pc|c3|pc|c5|pc|c6|pg||
 pc|c4|pc|cJ|pc|hJ|pc|c7|pg||
 pc|d9|pc|dQ|pc|hT|mc|10|pg||
-pn|Erik Saelensminde,John Carroll,Boye Brogeland,Tommy Garvey,Can South,West C,Can North,East D|pg||
+pn|Erik Saelensminde,John Carroll,Boye Brogeland,Tommy Garvey,South,West,North,East|pg||
 qx|o13|st||md|3SJT6HKT2DA4CAJ872,SQ92HJ98DT87CQT53,S854HA6543DQJ953C,SAK73HQ7DK62CK964|sv|b|mb|p|mb|1N|mb|p|mb|p|mb|2C!|mb|p|mb|2D|mb|p|mb|2H|mb|p|mb|p|mb|p|pg||
 pc|sK|pc|s6|pc|s9|pc|s4|pg||
 pc|s7|pc|sT|pc|sQ|pc|s5|pg||
@@ -156,7 +156,7 @@ pc|h8|pc|hT|pc|s6|pc|h5|pg||
 pc|sJ|pc|sQ|pc|s2|pc|s4|pg||
 pc|sT|pc|c6|pc|sK|pc|c7|pg||
 pc|d5|mc|7|pg||
-pn|PZeeberg,Trine Binderkrantz, UZeeberg,Nadia Bekkouche,Can South,West C,Can North,East D|pg||
+pn|PZeeberg,Trine Binderkrantz, UZeeberg,Nadia Bekkouche,South,West,North,East|pg||
 qx|o16|st||md|2S65HA3DJ972CAT984,SQHKQ8652DK53C652,SKT743HJT7DAQCKQ3,SAJ982H94DT864CJ7|sv|e|mb|2H!|mb|2S|mb|p|mb|p|mb|p|pg||
 pc|h9|pc|h3|pc|hQ|pc|h7|pg||
 pc|h8|pc|hT|pc|h4|pc|hA|pg||
@@ -190,7 +190,7 @@ pc|d7|pc|d5|pc|d3|pc|d8|pg||
 pc|sK|pc|s6|pc|cT|pc|s2|pg||
 pc|hT|pc|h3|pc|hA|pc|d6|pg||
 mc|8|pg||
-pn|Henrik Norman Hansen,Bernd Saurer,Georg Norris,Doris Fischer,Can South,West C,Can North,East D|pg||
+pn|Henrik Norman Hansen,Bernd Saurer,Georg Norris,Doris Fischer,South,West,North,East|pg||
 qx|o19|st||md|1SKJ52HQ8DQ7CQ9873,S86HA542D642CKJT5,SAQHKJ3DAJ985CA64,ST9743HT976DKT3C2|sv|e|mb|p|mb|p|mb|1D|mb|p|mb|1S|mb|p|mb|2N|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
 pc|hT|pc|hQ|pc|hA|pc|h3|pg||
 pc|h2|pc|hJ|pc|h6|pc|h8|pg||
@@ -216,7 +216,7 @@ pc|cQ|pc|cJ|pc|h5|pc|s4|pg||
 pc|d4|pc|d3|pc|dK|pc|d9|pg||
 pc|d2|pc|s5|pc|dA|pc|d7|pg||
 pc|h3|pc|hT|pc|hA|mc|11|pg||
-pn|Bernes, TVLarsen, Schaeffer, Larsson,Can South,West C,Can North,East D|pg||
+pn|Bernes, TVLarsen, Schaeffer, Larsson,South,West,North,East|pg||
 qx|o22|st||md|4SQJ4H64DJ96432C63,SAT8HAQJT7D7CJT92,S9632H95DKQT8CK85,SK75HK832DA5CAQ74|sv|e|mb|1N|mb|p|mb|2D!|mb|p|mb|2H|mb|p|mb|4D|mb|d|mb|r|mb|5D|mb|6H|mb|p|mb|p|mb|p|pg||
 pc|d3|pc|d7|pc|dQ|pc|dA|pg||
 pc|d5|pc|d2|pc|hQ|pc|d8|pg||
@@ -249,7 +249,7 @@ pc|h4|pc|h2|pc|hK|pc|h9|pg||
 pc|sJ|pc|s2|pc|sQ|pc|s5|pg||
 pc|h7|pc|hT|pc|hQ|pc|h6|pg||
 mc|9|pg||
-pn|Bierregaard,Louk Verhees Jr, Nielson,Jan Jansma,Can South,West C,Can North,East D|pg||
+pn|Bierregaard,Louk Verhees Jr, Nielson,Jan Jansma,South,West,North,East|pg||
 qx|o25|st||md|3S432HJ42D963CAK85,SKJ7HT63DAQ87CQ74,SQHAQ85DK542CJ932,SAT9865HK97DJTCT6|sv|e|mb|p|mb|2S|mb|p|mb|p|mb|d|mb|p|mb|2N!|mb|3S|mb|p|mb|p|mb|p|pg||
 pc|cA|pc|c4|pc|c9|pc|c6|pg||
 pc|h4|pc|h3|pc|hA|pc|h7|pg||
@@ -282,7 +282,7 @@ pc|s9|pc|h4|pc|h7|pc|d8|pg||
 pc|h8|pc|d9|pc|hA|pc|h9|pg||
 pc|hT|pc|hK|pc|d5|pc|dJ|pg||
 pg||
-pn|Rossen Gunev, Krefeld,Desislava Popova, Kirstan,Can South,West C,Can North,East D|pg||
+pn|Rossen Gunev, Krefeld,Desislava Popova, Kirstan,South,West,North,East|pg||
 qx|o28|st||md|2SJ6HQJ3DK72CKQJ54,SQ9754HKT864DCAT7,SAKT3H92DAQJ63C86,S82HA75DT9854C932|sv|n|mb|1S|mb|2D|mb|p!|mb|2S|mb|p|mb|2N|mb|p|mb|3D|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
 pc|s8|pc|s6|pc|s7|pc|sT|pg||
 pc|c6|pc|c9|pc|cK|pc|c7|pg||
@@ -319,7 +319,7 @@ pc|c5|pc|dJ|pc|hJ|pc|d6|pg||
 pc|h9|pc|hK|pc|hQ|pc|h3|pg||
 pc|dK|pc|d7|pc|d3|pc|s6|pg||
 pc|s9|mc|9|pg||
-pn|Prickhaertz, Noergard, Kalkerup, Mohr,Can South,West C,Can North,East D|pg||
+pn|Prickhaertz, Noergard, Kalkerup, Mohr,South,West,North,East|pg||
 qx|o31|st||md|1SK732HJ4DAT85CAQ3,SJ854HKQT82DQ9C84,SAT9HA65DKJ4CKJT5,SQ6H973D7632C9762|sv|n|mb|1N|mb|p|mb|3N|mb|p|mb|p|mb|p|pg||
 pc|hQ|pc|h5|pc|h7|pc|h4|pg||
 pc|s5|pc|s9|pc|sQ|pc|sK|pg||
@@ -348,7 +348,7 @@ pc|cA|pc|c6|pc|c2|pc|c4|pg||
 pc|c3|pc|cK|pc|c8|pc|c9|pg||
 pc|h5|pc|h7|pc|hT|pc|hK|pg||
 mc|9|pg||
-pn|Michael Askgaard,Mats Nilsland,Gregers Bjarnarson,B Axelson,Can South,West C,Can North,East D|pg||
+pn|Michael Askgaard,Mats Nilsland,Gregers Bjarnarson,B Axelson,South,West,North,East|pg||
 qx|o34|st||md|4SAQT53HQ6DAT4CT93,SJ76HJ8DKQJ96CA82,SK84HK543D752CKQ7,S92HAT972D83CJ654|sv|n|mb|p|mb|1S|mb|2D|mb|3D!|mb|p|mb|3S|mb|p|mb|p|mb|p|pg||
 pc|dK|pc|d2|pc|d8|pc|dA|pg||
 pc|sA|pc|s6|pc|s4|pc|s2|pg||

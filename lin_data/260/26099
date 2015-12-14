@@ -1,6 +1,6 @@
 vg|win nat bridge tonmnt,QF 1_4,I,1,8,CBC,0,DCD,0|
 rs|4SE-1,,4HSx=,4HSx=,4DS+1,3HW-3,4HE-1,1SE-3,3CE=,3CE+1,6CS-1,3HEx-1,5DS-2,4HN=,4SN=,4HEx-2|
-pn|Can South,West C,Can North,East D,Can South,West C,Can North,East D|pg||
+pn|South,West,North,East,South,West,North,East|pg||
 qx|o1|st||md|3SQJHQJ864DAT62CK8,SA7HK5DKQ987C7532,SK85HA9732DJ54CT4,ST96432HTD3CAQJ96|sv|o|mb|p|mb|p|mb|1H|mb|2D|mb|4H|mb|4S|mb|p|mb|p|mb|p|pc|hQ|pc|hK|pc|hA|pc|hT|pg||
 pc|cT|mc|12|pg||
 qx|o2|st||md|4S84HAKQJ984DC7532,SAT63H53DQ54CAKQT,SJ752H762DAT987C8,SKQ9HTDKJ632CJ964|sv|n|mb|p|mb|3H!|an|weak|mb|d|mb|4H|mb|d|mb|p|mb|p|mb|p|pc|cA|pc|c8|pc|c9|pc|c2|pg||

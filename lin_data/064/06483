@@ -4,7 +4,7 @@ pw|Van Luijk,Klaver,Ter Laare,Ramer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,|
 mp|,,,,,,,,,,,,,,,,,,,|
 pg||
 qx|o11|
-pn|Van Luijk,Nico Klaver,Marco Ter Laare,Roald Ramer,Can South,West C,Can North,East D|md|1SAK94H83DQT75CAQ7,SQ876H92DAKJ43CJ3,SJT5HATD982CK9864,S32HKQJ7654D6CT52|sv|0|
+pn|Van Luijk,Nico Klaver,Marco Ter Laare,Roald Ramer,South,West,North,East|md|1SAK94H83DQT75CAQ7,SQ876H92DAKJ43CJ3,SJT5HATD982CK9864,S32HKQJ7654D6CT52|sv|0|
 mb|1N|mb|P|mb|2C|mb|3H|mb|P|mb|P|mb|P|pg||
 pc|SK|pc|S6|pc|ST|pc|S3|pg||
 pc|D5|pc|DA|pc|D8|pc|D6|pg||
@@ -15,7 +15,7 @@ pc|HT|pc|HK|pc|H8|pc|H9|pg||
 pc|HQ|pg||
 mc|8|pg||
 qx|o12|
-pn|Van Luijk,Nico Klaver,Marco Ter Laare,Roald Ramer,Can South,West C,Can North,East D|md|2SQJ43HK873DKT7CK7,SAT6HT5DA85CAT532,S5HAQ942DJ964CQJ9,SK9872HJ6DQ32C864|sv|n|
+pn|Van Luijk,Nico Klaver,Marco Ter Laare,Roald Ramer,South,West,North,East|md|2SQJ43HK873DKT7CK7,SAT6HT5DA85CAT532,S5HAQ942DJ964CQJ9,SK9872HJ6DQ32C864|sv|n|
 mb|1C|mb|1H|mb|1S|mb|2C|mb|2S|mb|P|mb|P|mb|P|pg||
 pc|H3|pc|H5|pc|HQ|pc|H6|pg||
 pc|D4|pc|DQ|pc|DK|pc|DA|pg||
@@ -29,7 +29,7 @@ pc|CA|pc|C9|pc|C4|pc|C7|pg||
 pc|C2|pc|CJ|pc|C6|pc|CK|pg||
 mc|6|pg||
 qx|o13|
-pn|Van Luijk,Nico Klaver,Marco Ter Laare,Roald Ramer,Can South,West C,Can North,East D|md|3SQJT742H54DJ2CAT3,S85HAT98DKQ85CQJ8,SA93HKQJ63D6CK976,SK6H72DAT9743C542|sv|b|
+pn|Van Luijk,Nico Klaver,Marco Ter Laare,Roald Ramer,South,West,North,East|md|3SQJT742H54DJ2CAT3,S85HAT98DKQ85CQJ8,SA93HKQJ63D6CK976,SK6H72DAT9743C542|sv|b|
 mb|2H|mb|P|mb|P|mb|P|pg||
 pc|SK|pc|S2|pc|S5|pc|SA|pg||
 pc|HQ|pc|H2|pc|H4|pc|HA|pg||
@@ -42,7 +42,7 @@ pc|DK|pc|D6|pc|D7|pc|DJ|pg||
 pc|D5|pc|H3|pc|D9|pc|CT|pg||
 mc|10|pg||
 qx|o14|
-pn|Van Luijk,Nico Klaver,Marco Ter Laare,Roald Ramer,Can South,West C,Can North,East D|md|4S842HJ432DJ42CK92,S76HT975DK93CAT73,SAKT9HQDAQT6CJ864,SQJ53HAK86D875CQ5|sv|0|
+pn|Van Luijk,Nico Klaver,Marco Ter Laare,Roald Ramer,South,West,North,East|md|4S842HJ432DJ42CK92,S76HT975DK93CAT73,SAKT9HQDAQT6CJ864,SQJ53HAK86D875CQ5|sv|0|
 mb|1C|mb|P|mb|1H|mb|D|mb|2H|mb|P|mb|P|mb|D|mb|P|mb|2S|mb|P|mb|P|mb|P|pg||
 pc|HT|pc|HQ|pc|HA|pc|H2|pg||
 pc|H6|pc|HJ|pc|H5|pc|C4|pg||
@@ -58,7 +58,7 @@ pc|CJ|pc|CQ|pc|CK|pc|CA|pg||
 pc|CT|pg||
 mc|8|pg||
 qx|o15|
-pn|Van Luijk,Nico Klaver,Marco Ter Laare,Roald Ramer,Can South,West C,Can North,East D|md|1SAQJ764HAJ83DK2C4,S5HK96542DQ974CAT,SK93HT7DAJ3CKQ763,ST82HQDT865CJ9852|sv|n|
+pn|Van Luijk,Nico Klaver,Marco Ter Laare,Roald Ramer,South,West,North,East|md|1SAQJ764HAJ83DK2C4,S5HK96542DQ974CAT,SK93HT7DAJ3CKQ763,ST82HQDT865CJ9852|sv|n|
 mb|1S|mb|2H|mb|3C|mb|P|mb|3S|mb|P|mb|4S|mb|P|mb|P|mb|P|pg||
 pc|D4|pc|DJ|pc|D5|pc|D2|pg||
 pc|S3|pc|S8|pc|SQ|pc|S5|pg||
@@ -67,7 +67,7 @@ pc|C4|pc|CT|pc|CQ|pc|C2|pg||
 pc|D3|pc|D6|pc|DK|pc|D7|pg||
 mc|12|pg||
 qx|o16|
-pn|Van Luijk,Nico Klaver,Marco Ter Laare,Roald Ramer,Can South,West C,Can North,East D|md|2S62HJ62DQT6532CJ5,ST854HT85DK8CAQ92,SAJ93HAQ9DJ74CKT3,SKQ7HK743DA9C8764|sv|e|
+pn|Van Luijk,Nico Klaver,Marco Ter Laare,Roald Ramer,South,West,North,East|md|2S62HJ62DQT6532CJ5,ST854HT85DK8CAQ92,SAJ93HAQ9DJ74CKT3,SKQ7HK743DA9C8764|sv|e|
 mb|P|mb|1N|mb|P|mb|2N|mb|P|mb|3D|mb|P|mb|P|mb|P|pg||
 pc|SK|pc|S2|pc|S8|pc|S3|pg||
 pc|H3|pc|H2|pc|HT|pc|HQ|pg||
@@ -79,7 +79,7 @@ pc|D5|pc|C2|pc|D7|pc|C6|pg||
 pc|SJ|pc|C4|pc|C5|pc|ST|pg||
 mc|8|pg||
 qx|o17|
-pn|Van Luijk,Nico Klaver,Marco Ter Laare,Roald Ramer,Can South,West C,Can North,East D|md|3SA63H7632DT3CAQ42,SK94HAJ9DK842CT65,SJ75HKT8DAJ95CK73,SQT82HQ54DQ76CJ98|sv|0|
+pn|Van Luijk,Nico Klaver,Marco Ter Laare,Roald Ramer,South,West,North,East|md|3SA63H7632DT3CAQ42,SK94HAJ9DK842CT65,SJ75HKT8DAJ95CK73,SQT82HQ54DQ76CJ98|sv|0|
 mb|1D|mb|P|mb|1H|mb|P|mb|1N|mb|P|mb|P|mb|P|pg||
 pc|S2|pc|S3|pc|SK|pc|S7|pg||
 pc|S9|pc|SJ|pc|SQ|pc|S6|pg||
@@ -96,7 +96,7 @@ pc|D3|pc|D8|pc|DJ|pc|D7|pg||
 pc|DA|pc|HQ|pc|H7|pc|DK|pg||
 mc|8|pg||
 qx|o18|
-pn|Van Luijk,Nico Klaver,Marco Ter Laare,Roald Ramer,Can South,West C,Can North,East D|md|4SQJ92HAQTDJ7CQT97,SK763HK743DQ82CA8,SATH9652DAK43C543,S854HJ8DT965CKJ62|sv|n|
+pn|Van Luijk,Nico Klaver,Marco Ter Laare,Roald Ramer,South,West,North,East|md|4SQJ92HAQTDJ7CQT97,SK763HK743DQ82CA8,SATH9652DAK43C543,S854HJ8DT965CKJ62|sv|n|
 mb|P|mb|1C|mb|D|mb|R|mb|1D|mb|P|mb|P|mb|1H|mb|P|mb|1S|mb|P|mb|2N|mb|P|mb|P|mb|P|pg||
 pc|S5|pc|S2|pc|S6|pc|ST|pg||
 pc|C4|pc|C2|pc|C9|pc|CA|pg||
@@ -110,7 +110,7 @@ pc|D8|pc|D3|pc|D9|pc|D7|pg||
 pc|H8|pg||
 mc|8|pg||
 qx|o19|
-pn|Van Luijk,Nico Klaver,Marco Ter Laare,Roald Ramer,Can South,West C,Can North,East D|md|1S9632HQDJ8432CQ92,SQJ874HT84D6CAK54,SATHA752DKQT7C763,SK5HKJ963DA95CJT8|sv|e|
+pn|Van Luijk,Nico Klaver,Marco Ter Laare,Roald Ramer,South,West,North,East|md|1S9632HQDJ8432CQ92,SQJ874HT84D6CAK54,SATHA752DKQT7C763,SK5HKJ963DA95CJT8|sv|e|
 mb|P|mb|P|mb|1D|mb|1H|mb|3D|mb|D|mb|P|mb|3H|mb|P|mb|4H|mb|P|mb|P|mb|P|pg||
 pc|D3|pc|D6|pc|DQ|pc|DA|pg||
 pc|D5|pc|D2|pc|H4|pc|D7|pg||
@@ -124,7 +124,7 @@ pc|SQ|pc|SA|pc|S5|pc|S6|pg||
 pc|C3|pg||
 mc|10|pg||
 qx|o20|
-pn|Van Luijk,Nico Klaver,Marco Ter Laare,Roald Ramer,Can South,West C,Can North,East D|md|2SAQJTHKD76CKQT642,S65H987652DAQ9C95,S98743HJTDJ542CJ3,SK2HAQ43DKT83CA87|sv|b|
+pn|Van Luijk,Nico Klaver,Marco Ter Laare,Roald Ramer,South,West,North,East|md|2SAQJTHKD76CKQT642,S65H987652DAQ9C95,S98743HJTDJ542CJ3,SK2HAQ43DKT83CA87|sv|b|
 mb|P|mb|P|mb|1N|mb|D|mb|2D|mb|2S|mb|3H|mb|4S|mb|D|mb|P|mb|P|mb|P|pg||
 pc|HA|pc|HK|pc|H9|pc|HT|pg||
 pc|D3|pc|D6|pc|DA|pc|D2|pg||

@@ -4,7 +4,7 @@ pw|De Bruyn,Bertens,Van der Neut,Bakkeren,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,|
 mp|,,,,,,,,,,,,,,,,,,,|
 pg||
 qx|o1|
-pn|De Bruyn,Huub Bertens,Van Der Neut,Ton Bakkeren,Can South,West C,Can North,East D|md|3SQ52HAK2D42CKT643,SJ9874H973DA8CAJ8,SAT3HQ85DJ973CQ97,SK6HJT64DKQT65C52|sv|0|
+pn|De Bruyn,Huub Bertens,Van Der Neut,Ton Bakkeren,South,West,North,East|md|3SQ52HAK2D42CKT643,SJ9874H973DA8CAJ8,SAT3HQ85DJ973CQ97,SK6HJT64DKQT65C52|sv|0|
 mb|P|mb|P|mb|1C|mb|1S|mb|1N|mb|2D|mb|P|mb|P|mb|P|pg||
 pc|C4|pc|C8|pc|C9|pc|C5|pg||
 pc|C7|pc|C2|pc|CK|pc|CA|pg||
@@ -18,7 +18,7 @@ pc|CT|pc|S8|pc|SA|pc|D5|pg||
 pc|DT|pc|D2|pc|DA|pc|D3|pg||
 mc|7|pg||
 qx|o2|
-pn|De Bruyn,Huub Bertens,Van Der Neut,Ton Bakkeren,Can South,West C,Can North,East D|md|4SJT64HT765DQ5CK76,SAKQ9HAJDA4CA9543,S52HKQ32D83CQJT82,S873H984DKJT9762C|sv|n|
+pn|De Bruyn,Huub Bertens,Van Der Neut,Ton Bakkeren,South,West,North,East|md|4SJT64HT765DQ5CK76,SAKQ9HAJDA4CA9543,S52HKQ32D83CQJT82,S873H984DKJT9762C|sv|n|
 mb|3D|mb|P|mb|4C|mb|P|mb|5C|mb|P|mb|5N|mb|P|mb|6D|mb|P|mb|P|mb|P|pg||
 pc|S4|pc|SA|pc|S2|pc|S7|pg||
 pc|C3|pc|C2|pc|D6|pc|C6|pg||
@@ -34,7 +34,7 @@ pc|S8|pc|ST|pc|SQ|pc|H3|pg||
 pc|HA|pc|HQ|pc|H8|pc|HT|pg||
 mc|12|pg||
 qx|o3|
-pn|De Bruyn,Huub Bertens,Van Der Neut,Ton Bakkeren,Can South,West C,Can North,East D|md|1SHQT765D9643CKT96,SAK6432HK4D75CAJ7,S875HA32DKQJ2CQ32,SQJT9HJ98DAT8C854|sv|e|
+pn|De Bruyn,Huub Bertens,Van Der Neut,Ton Bakkeren,South,West,North,East|md|1SHQT765D9643CKT96,SAK6432HK4D75CAJ7,S875HA32DKQJ2CQ32,SQJT9HJ98DAT8C854|sv|e|
 mb|2H|mb|2S|mb|3H|mb|3S|mb|P|mb|P|mb|P|pg||
 pc|DK|pc|D8|pc|D3|pc|D5|pg||
 pc|DQ|pc|DA|pc|D4|pc|D7|pg||
@@ -44,7 +44,7 @@ pc|H4|pc|H2|pc|H9|pc|HT|pg||
 pc|HQ|pc|S3|pc|H3|pc|HJ|pg||
 mc|8|pg||
 qx|o4|
-pn|De Bruyn,Huub Bertens,Van Der Neut,Ton Bakkeren,Can South,West C,Can North,East D|md|2SKQJ732H5D9CJT943,S85HJT96DKJ765C52,SAT6HAKQ72DT3CAK6,S94H843DAQ842CQ87|sv|b|
+pn|De Bruyn,Huub Bertens,Van Der Neut,Ton Bakkeren,South,West,North,East|md|2SKQJ732H5D9CJT943,S85HJT96DKJ765C52,SAT6HAKQ72DT3CAK6,S94H843DAQ842CQ87|sv|b|
 mb|P|mb|2N|mb|P|mb|4H|mb|P|mb|4S|mb|P|mb|4N|mb|P|mb|5C|mb|P|mb|5H|mb|P|mb|6S|mb|P|mb|P|mb|P|pg||
 pc|H8|pc|H5|pc|H6|pc|HA|pg||
 pc|SA|pc|S4|pc|S2|pc|S5|pg||
@@ -56,7 +56,7 @@ pc|H2|pc|D2|pc|S3|pc|HJ|pg||
 pc|CJ|pc|C5|pc|C6|pc|CQ|pg||
 mc|12|pg||
 qx|o5|
-pn|De Bruyn,Huub Bertens,Van Der Neut,Ton Bakkeren,Can South,West C,Can North,East D|md|3SQT82HT9874D95CA2,SHA632DKQ42CQ9654,SKJ54HKQDAJ87CJ83,SA9763HJ5DT63CKT7|sv|n|
+pn|De Bruyn,Huub Bertens,Van Der Neut,Ton Bakkeren,South,West,North,East|md|3SQT82HT9874D95CA2,SHA632DKQ42CQ9654,SKJ54HKQDAJ87CJ83,SA9763HJ5DT63CKT7|sv|n|
 mb|1D|mb|P|mb|1H|mb|P|mb|1S|mb|P|mb|2S|mb|P|mb|P|mb|P|pg||
 pc|S6|pc|S2|pc|C6|pc|SJ|pg||
 pc|HQ|pc|H5|pc|H4|pc|HA|pg||
@@ -69,7 +69,7 @@ pc|CK|pc|C2|pc|C9|pc|CJ|pg||
 pc|CT|pg||
 mc|7|pg||
 qx|o6|
-pn|De Bruyn,Huub Bertens,Van Der Neut,Ton Bakkeren,Can South,West C,Can North,East D|md|4SQJT2H5DKQ9C96432,S84HQJ83D632CKQJ8,SAK963HK7642D7CA5,S75HAT9DAJT854CT7|sv|e|
+pn|De Bruyn,Huub Bertens,Van Der Neut,Ton Bakkeren,South,West,North,East|md|4SQJT2H5DKQ9C96432,S84HQJ83D632CKQJ8,SAK963HK7642D7CA5,S75HAT9DAJT854CT7|sv|e|
 mb|P|mb|P|mb|P|mb|1S|mb|P|mb|2N|mb|P|mb|4S|mb|P|mb|P|mb|P|pg||
 pc|S5|pc|S2|pc|S8|pc|SK|pg||
 pc|D7|pc|DA|pc|D9|pc|D2|pg||
@@ -80,7 +80,7 @@ pc|H3|pc|H7|pc|H9|pc|ST|pg||
 pc|C4|pg||
 mc|10|pg||
 qx|o7|
-pn|De Bruyn,Huub Bertens,Van Der Neut,Ton Bakkeren,Can South,West C,Can North,East D|md|1SKQJ873H9DJ4CQJ72,S4HAKT754D732CK65,SA92HQ632DKQ6CT84,ST65HJ8DAT985CA93|sv|b|
+pn|De Bruyn,Huub Bertens,Van Der Neut,Ton Bakkeren,South,West,North,East|md|1SKQJ873H9DJ4CQJ72,S4HAKT754D732CK65,SA92HQ632DKQ6CT84,ST65HJ8DAT985CA93|sv|b|
 mb|1S|mb|2H|mb|3H|mb|D|mb|3S|mb|P|mb|P|mb|P|pg||
 pc|HK|pc|H2|pc|H8|pc|H9|pg||
 pc|C6|pc|C4|pc|CA|pc|C2|pg||
@@ -88,7 +88,7 @@ pc|C9|pc|C7|pc|CK|pc|C8|pg||
 pc|C5|pg||
 mc|9|pg||
 qx|o8|
-pn|De Bruyn,Huub Bertens,Van Der Neut,Ton Bakkeren,Can South,West C,Can North,East D|md|2SKT8764H4D4CQ9432,SAJ9HQT863D752CT5,SQ2HA52DKJ93CKJ86,S53HKJ97DAQT86CA7|sv|0|
+pn|De Bruyn,Huub Bertens,Van Der Neut,Ton Bakkeren,South,West,North,East|md|2SKT8764H4D4CQ9432,SAJ9HQT863D752CT5,SQ2HA52DKJ93CKJ86,S53HKJ97DAQT86CA7|sv|0|
 mb|P|mb|1D|mb|1H|mb|1S|mb|2N|mb|P|mb|4H|mb|P|mb|P|mb|P|pg||
 pc|D4|pc|D2|pc|DJ|pc|DQ|pg||
 pc|HJ|pc|H4|pc|H3|pc|HA|pg||
@@ -98,7 +98,7 @@ pc|H7|pc|S6|pc|HQ|pc|H5|pg||
 pc|D7|pg||
 mc|11|pg||
 qx|o9|
-pn|De Bruyn,Huub Bertens,Van Der Neut,Ton Bakkeren,Can South,West C,Can North,East D|md|3S97HAJ864D9654C72,SA2HK5DJT83CAK953,SK43HQ9732DKQCT84,SQJT865HTDA72CQJ6|sv|e|
+pn|De Bruyn,Huub Bertens,Van Der Neut,Ton Bakkeren,South,West,North,East|md|3S97HAJ864D9654C72,SA2HK5DJT83CAK953,SK43HQ9732DKQCT84,SQJT865HTDA72CQJ6|sv|e|
 mb|P|mb|1S|mb|P|mb|2C|mb|P|mb|2S|mb|P|mb|2N|mb|P|mb|3N|mb|P|mb|P|mb|P|pg||
 pc|H3|pc|HT|pc|HA|pc|H5|pg||
 pc|HJ|pc|HK|pc|H2|pc|D2|pg||
@@ -108,7 +108,7 @@ pc|C6|pc|S7|pc|CK|pc|CT|pg||
 pc|CA|pc|DK|pc|S6|pc|S9|pg||
 mc|9|pg||
 qx|o10|
-pn|De Bruyn,Huub Bertens,Van Der Neut,Ton Bakkeren,Can South,West C,Can North,East D|md|4SAQJT8HT432DQCJ87,S973HJ8DAJ32CAQ95,SK65HK9765DT75CT3,S42HAQDK9864CK642|sv|b|
+pn|De Bruyn,Huub Bertens,Van Der Neut,Ton Bakkeren,South,West,North,East|md|4SAQJT8HT432DQCJ87,S973HJ8DAJ32CAQ95,SK65HK9765DT75CT3,S42HAQDK9864CK642|sv|b|
 mb|1D|mb|1S|mb|2S|mb|D|mb|3C|mb|P|mb|5C|mb|P|mb|P|mb|P|pg||
 pc|SA|pc|S3|pc|S5|pc|S4|pg||
 pc|SQ|pc|S7|pc|S6|pc|S2|pg||

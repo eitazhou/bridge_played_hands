@@ -1,6 +1,6 @@
 vg|test,1 segment,I,1,32,A,0,B,0|
 rs|2HE=,,1NE+3,,2CN=,,4SN-2,,2SE+1,,6CN=,,3HW-1,,1NS=,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,|
-pn|Can South,West C,Can North,East D,Can South,West C,Can North,East D|pg||
+pn|South,West,North,East,South,West,North,East|pg||
 qx|o1|st||md|3SJ965HK954DA3C532,SAHQ632DKQ75CAJT7,S8742HAD9842CK864,SKQT3HJT87DJT6CQ9|sv|o|mb|p|mb|p|mb|p|mb|1C|mb|p|mb|1H|mb|p|mb|2D|mb|p|mb|2H|mb|p|mb|p|mb|p|pc|s5|pc|sA|pc|s2|pc|sT|pg||
 pc|h2|pc|hA|pc|h8|pc|h4|pg||
 pc|s4|pc|sK|pc|s6|pc|c7|pg||
